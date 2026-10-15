@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:49:12.687434Z",
+  "generated_at": "2026-10-15T04:04:51.794316Z",
   "date": "2026-10-15",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T03:48:26.312889Z"
+      "observed_at": "2026-10-15T04:04:03.964688Z"
     },
     {
-      "id": "project_d733585274c8",
-      "project_name": "daily.dev for agents",
-      "url": "https://www.producthunt.com/products/daily-dev",
-      "summary": "Where agents discover what's next",
+      "id": "project_67429ab8ee2d",
+      "project_name": "Spinachi AI",
+      "url": "https://www.producthunt.com/products/spinachi-ai",
+      "summary": "Personal AI health manager on Whatsapp",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Where agents discover what's next」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Where agents discover what's next\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T18:30:13Z",
-      "updated_at": "2026-10-15T03:48:22Z",
+      "recommend_reason_zh": "体验它主打的「Personal AI health manager on Whatsapp」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Personal AI health manager on Whatsapp\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-05T21:06:36Z",
+      "updated_at": "2026-10-15T04:02:59Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T03:49:01.252422Z"
+      "observed_at": "2026-10-15T04:04:41.434770Z"
     },
     {
       "id": "project_36917ef32b44",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T03:48:26.312889Z"
+      "observed_at": "2026-10-15T04:04:03.964688Z"
     },
     {
-      "id": "project_3dd0e8ed9c79",
-      "project_name": "Make0 Brain",
-      "url": "https://www.producthunt.com/products/make0-brain",
-      "summary": "A memory store that works across all of your AI agents.",
+      "id": "project_d733585274c8",
+      "project_name": "daily.dev for agents",
+      "url": "https://www.producthunt.com/products/daily-dev",
+      "summary": "Where agents discover what's next",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "Make0 Brain 是一个可跨所有 AI 智能体通用的记忆存储，让不同代理共享同一份记忆，值得打开体验。",
-      "recommend_reason_en": "Make0 Brain is a memory store that works across all of your AI agents, and it is worth opening to see how cross-agent memory might be handled.",
-      "published_at": "2026-10-10T11:10:23Z",
-      "updated_at": "2026-10-15T03:48:26Z",
+      "recommend_reason_zh": "体验它主打的「Where agents discover what's next」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Where agents discover what's next\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T18:30:13Z",
+      "updated_at": "2026-10-15T04:03:26Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T03:49:01.252422Z"
+      "observed_at": "2026-10-15T04:04:41.434770Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1435,
+      "duration_ms": 1297,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 227,
+      "duration_ms": 176,
       "error": null
     }
   ]

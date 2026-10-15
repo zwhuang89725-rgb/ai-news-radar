@@ -5,13 +5,13 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 03:48:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:04:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>HiRO-ACEv2：以极低成本实现3公里分辨率极端天气模拟 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
 <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/hiro-acev2</guid>
-<description>Hugging Face Blog</description>
+<description>搞气候/天气建模的能直接拿来跑，省一大笔算力；不相干的绕道。（Hugging Face Blog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
 </item>
@@ -19,7 +19,7 @@
 <title>HydraFusion 更新及全新 Max 选项 / HydraFusion updates and new Max option</title>
 <link>https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option</guid>
-<description>GitHub Changelog</description>
+<description>GitHub 官方功能更新，新版加 Max 档，多半是更高配额或价格，按需开启前先看清额度。（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 20:01:35 +0000</pubDate>
 </item>
@@ -27,7 +27,7 @@
 <title>Amp 携手 OpenAI 模型，让 AI agent 不止于写代码 / Amp puts AI agents to work beyond code with OpenAI models</title>
 <link>https://openai.com/index/amp-beyond-coding</link>
 <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
-<description>OpenAI News</description>
+<description>更像厂商案例软文，没新接口也没降价；除非你想抄 agent 干非编码活的思路，否则先跳过。（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
 </item>
@@ -35,7 +35,7 @@
 <title>SentinelOne 将恶意软件分析从数周缩短至数小时 / SentinelOne cuts malware analysis from weeks to hours</title>
 <link>https://openai.com/index/sentinelone</link>
 <guid isPermaLink="true">https://openai.com/index/sentinelone</guid>
-<description>OpenAI News</description>
+<description>客户案例软文，没有可复用的接口或方案，看完也抄不了。（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
 </item>
@@ -43,7 +43,7 @@
 <title>GitHub Actions workflow 锁文件进入公开预览 / GitHub Actions workflow lockfiles in public preview</title>
 <link>https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview</guid>
-<description>GitHub Changelog</description>
+<description>Actions 依赖能锁版本了，供应链投毒和随机挂 CI 都少一截，预览期就能开。（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 13:49:15 +0000</pubDate>
 </item>
@@ -59,7 +59,11 @@
 <title>7人团队靠 Claude 仅用 5 个月重造全新源码系统</title>
 <link>https://www.aibase.com/news/31650</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31650</guid>
-<description>AIbase</description>
+<description>Title: AIbase - Your Gateway to AGI
+Warning: Target URL returned error 404: Not Found
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.
+The article you are looking for does not exist or has been deleted. Please try browsing other news content.（AIbase）</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 03:48:26 +0000</pubDate>
 </item>
@@ -67,7 +71,7 @@
 <title>40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
 <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
 <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
-<description>纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。（The Verge：AI（RSS））</description>
+<description>破产清算牵出用户对话数据归属问题，提醒做 AI 应用的人提前在条款里写清数据处置。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
 </item>
@@ -75,7 +79,7 @@
 <title>Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放 / Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...</title>
 <link>https://x.com/GeminiApp/status/2110491358498865638</link>
 <guid isPermaLink="true">https://x.com/GeminiApp/status/2110491358498865638</guid>
-<description>Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。（X：Gemini (@GeminiApp)）</description>
+<description>Pro/Ultra 订阅者今天就能切来试；没提 API 和价格，生产选型先别动。（X：Gemini (@GeminiApp)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 22:02:05 +0000</pubDate>
 </item>
@@ -83,7 +87,7 @@
 <title>Block 如何借助 OpenAI 技术打造 AI 驱动的安全体系 / How Block is building AI-powered security with OpenAI technology</title>
 <link>https://openai.com/index/block-ai-powered-security</link>
 <guid isPermaLink="true">https://openai.com/index/block-ai-powered-security</guid>
-<description>OpenAI News</description>
+<description>厂商案例软文，没代码没接口，看完也抄不来，等有开源方案再说。（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
 </item>
@@ -91,7 +95,7 @@
 <title>Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值 / It does mean that Claude continues from a summary instead of your full context though. You can turn it off with "idleCompaction": false i...</title>
 <link>https://x.com/lydiahallie/status/2110484841926152622</link>
 <guid isPermaLink="true">https://x.com/lydiahallie/status/2110484841926152622</guid>
-<description>Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 "idleCompaction": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。（X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)）</description>
+<description>用 Claude Code 的建议关掉 idleCompaction，否则空闲后从摘要续跑，长任务会悄悄丢上下文细节。（X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 21:36:11 +0000</pubDate>
 </item>
@@ -99,7 +103,7 @@
 <title>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</title>
 <link>https://www.ithome.com/1/013/154.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/013/154.htm</guid>
-<description>欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。（IT之家·人工智能）</description>
+<description>做欧盟生意的要开始留合规痕迹了，纯自研自用的暂时不用动。（IT之家·人工智能）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 23:13:18 +0000</pubDate>
 </item>
@@ -107,7 +111,10 @@
 <title>AI冲击叠加债务压力，Getty Images启动全面财务重组</title>
 <link>https://www.aibase.com/news/31657</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31657</guid>
-<description>AIbase</description>
+<description>Title: AIbase - Your Gateway to AGI
+Warning: Target URL returned error 404: Not Found
+Warning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.
+The article you are looking for does not exist or has been deleted. Please try browsing other news content.（AIbase）</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 03:48:26 +0000</pubDate>
 </item>
@@ -115,7 +122,7 @@
 <title>Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测 / Grok Voice 3.0 is now the world’s leading conversational voice model</title>
 <link>https://x.com/elonmusk/status/2110483960312799675</link>
 <guid isPermaLink="true">https://x.com/elonmusk/status/2110483960312799675</guid>
-<description>Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。（X：Elon Musk (@elonmusk, xAI)）</description>
+<description>登顶只是马斯克自己发的推，没给 API 价格和可用性，语音选型先别急着换。（X：Elon Musk (@elonmusk, xAI)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 21:32:41 +0000</pubDate>
 </item>
@@ -123,7 +130,7 @@
 <title>Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名 / Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...</title>
 <link>https://x.com/arena/status/2110465487914295770</link>
 <guid isPermaLink="true">https://x.com/arena/status/2110465487914295770</guid>
-<description>Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。（X：Arena (@arena)）</description>
+<description>又一条榜单排名，模型没开放下载也查不到价格，等能调用再说。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 20:19:17 +0000</pubDate>
 </item>
@@ -131,7 +138,7 @@
 <title>Artificial Analysis 评测：Grok Voice 3.0 以 86.9 分登顶语音到语音模型榜 / SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...</title>
 <link>https://x.com/ArtificialAnlys/status/2110421964095713743</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110421964095713743</guid>
-<description>Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<description>语音 Agent 选型多一个榜首备选，但先查 API 价格和延迟再决定换不换。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 17:26:20 +0000</pubDate>
 </item>
@@ -139,7 +146,7 @@
 <title>Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO / From building your app to growing it: Lovable now helps you find customers</title>
 <link>https://lovable.dev/blog/introducing-growth-tools</link>
 <guid isPermaLink="true">https://lovable.dev/blog/introducing-growth-tools</guid>
-<description>Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。（Lovable Blog）</description>
+<description>Lovable 用户能在同一窗口投广告做 SEO，省事但绑死平台；非用户不用管。（Lovable Blog）</description>
 <category>行业动态</category>
 <pubDate>Wed, 14 Oct 2026 12:50:00 +0000</pubDate>
 </item>
@@ -147,7 +154,7 @@
 <title>Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours</title>
 <link>https://openai.com/index/third-moment-research</link>
 <guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
-<description>OpenAI News</description>
+<description>万级Agent长跑的编排和状态管理值得抄，但案例文多讲成绩少给代码，先扫架构图。（OpenAI News）</description>
 <category>官方更新</category>
 <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
 </item>
@@ -163,7 +170,9 @@
 <title>DeepSeek网页端、App及部分API服务异常，官方排查原因</title>
 <link>https://www.aibase.com/news/31651</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31651</guid>
-<description>AIbase</description>
+<description>Title: AIbase - Your Gateway to AGI
+Warning: Target URL returned error 404: Not Found
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.（AIbase）</description>
 <category>行业动态</category>
 <pubDate>Thu, 15 Oct 2026 03:48:26 +0000</pubDate>
 </item>

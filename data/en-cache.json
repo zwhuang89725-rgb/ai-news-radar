@@ -855,6 +855,10 @@
     "at": "2026-10-13T06:04:54.269142Z",
     "text": "This week in AI music brought a dense set of signals: generation is pushing deeper into creative workflows, while copyright, streaming fraud, and platform governance are tightening. Sony has asked platforms to take down over 260,000 AI voice-cloned tracks, and the first AI music streaming-fraud case has also reached a criminal judgment. On the product side, Mureka Remix supports a cappella and Demo reworks, Google Flow Music integrates with DAW and Android, and Suno has added album releases and detailed Studio editing. Plus five papers, ranging from playable sound morphing and real-time neural synthesizers to music judge model evaluation, show AI music moving from generation to production, distribution, and regulation."
   },
+  "en1|summary|202fd19d362157cf9c5079236e949920ed71c0da": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|summary|216d6772017c7c14dfbc086ad5b8421eecd3c80d": {
     "at": "2026-10-13T16:04:18.199987Z",
     "text": "🚨Breaking! Alibaba Qwen officially launches personal AI agent Qwen Go! A true rival to Muse! Limited-time invite-only beta now open!\n\nToday the company confirmed: \"Qwen Go!\" is not a standalone app, but a Personal Agent embedded within the Qwen app. The application portal for the experience is now open, with access rolling out in batches.\n\nKey points:\n🔹Positioning upgrade: from \"understands me\" to \"gets things done for me,\" directly tackling real-world long-tail tasks\n🔹Real capabilities: flight delay compensation claims (even with vague instructions, it can look up the booking and haggle with customer service—in one test, it negotiated from a voucher to 70 yuan in cash over 1 hour and 49 minutes), Taobao price protection refunds, product price comparison and ordering, event ticket booking, submitting resumes, scheduling car maintenance, booking courts, and more\n🔹Core moat: built on Alibaba's closed ecosystem loop (Taobao, Fliggy, Alipay, Amap, etc.), native tool calling + continuous cloud execution—hard for pure model players to replicate\n🔹Industry significance:…\n🚨Breaking! Alibaba Qwen officially launches personal AI agent Qwen Go! A true rival to Muse! Limited-time invite-only beta now open!\n\nToday the company confirmed: \"Qwen Go!\" is not a standalone app, but a Personal Agent embedded within the Qwen app. The application portal for the experience is now open, with access rolling out in batches.\n\nKey points:\n🔹Positioning upgrade: from \"understands me\" to \"gets things done for me,\" directly tackling real-world long-tail tasks\n🔹Real capabilities: flight delay compensation claims (even with vague instructions, it can look up the booking and haggle with customer service—in one test, it negotiated from a voucher to 70 yuan in cash over 1 hour and 49 minutes), Taobao price"
@@ -863,13 +867,25 @@
     "at": "2026-10-13T06:04:54.269142Z",
     "text": "Arena announces Meta's Muse Wonder series models are now live on Agent Arena, where users can try them out, with scores to be released soon."
   },
+  "en1|summary|237e14e152e4b03d3cc5903e08d6527f0341ee95": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|summary|242e012da645739e345f2c3b85d8365a8e0728f3": {
     "at": "2026-10-14T06:11:52.403516Z",
+    "text": ""
+  },
+  "en1|summary|25004b05aca4bdfd29a01cd206b434ae24d0ba29": {
+    "at": "2026-10-15T04:04:03.964688Z",
     "text": ""
   },
   "en1|summary|27fbc589e7446f12d74028f87dec040ec5b99b41": {
     "at": "2026-10-14T20:43:02.874052Z",
     "text": "LangChain published a blog post detailing how its open-source Agent framework Deep Agents uses middleware for context engineering to combat context rot in long-running tasks."
+  },
+  "en1|summary|2bf6edc93b437c0a6da4b9276cb66430ae17475d": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|summary|2c099c7bc05317f0a28d0b6784a00bcce08a42c6": {
     "at": "2026-10-13T12:43:00.489839Z",
@@ -882,6 +898,10 @@
   "en1|summary|2e1ed320673c9db6167ec49ebe453559d5551f63": {
     "at": "2026-10-13T16:04:18.199987Z",
     "text": "Google officially publishes Site Reliability Engineering, Second Edition\n\nThe first edition was published in 2016. It drew an enormous response, quickly became a bestseller, and how Google applies software engineering to operations became a hot topic of discussion. Ten years later, with the rapid development of AI and the deepening and growing complexity of cloud environments, the environment SRE faces has completely changed.\n\n# The decade-long evolution of six major practice areas\n\nSLOs and error budgets\n· 2016: basic availability metrics, manual budget policies\n· Now: user-centric multi-level SLOs, dynamic burn-rate alerts, automated policy enforcement\n\nMonitoring and observability\n· 2016: static dashboards, manual alert classification\n· Now: OpenTeleme…"
+  },
+  "en1|summary|309ebef1e984849daf6d8be7b19dee40b074a830": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|summary|31f0525080cd0a7a98eaa4ba1ee7167e3a84689a": {
     "at": "2026-10-14T23:56:09.662169Z",
@@ -1263,6 +1283,10 @@
     "at": "2026-10-14T20:43:02.874052Z",
     "text": "Google has publicly released Deep Review, an agent review system that provides feedback and verification for complex technical documents. Initially aimed at computer science papers, it has now expanded to legal, financial, and other fields."
   },
+  "en1|summary|e49095b253317f97cd6c9caf978fb9f1faae91ee": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|summary|e574bdeed671e4c93d05d618f081be20b6a41698": {
     "at": "2026-10-13T07:47:04.151222Z",
     "text": ""
@@ -1303,6 +1327,10 @@
     "at": "2026-10-13T16:04:18.199987Z",
     "text": "ElevenLabs announced that Baroness Campbell of Surbiton today delivered a speech in the UK House of Lords using an AI-reconstructed voice built by the company, a first for the UK Parliament. The Baroness has spinal muscular atrophy, which affects her speech, and the AI voice replicated the tone, rhythm and pitch of her original voice. ElevenLabs says its technology has helped more than 11,000 people who lost their voice to injury or illness restore it, and has pledged to help 1 million people worldwide who have lost their voices."
   },
+  "en1|summary|f41c0ed88df5aa3c69a6d48291e2058655c48ed4": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|summary|f5c1c2d6138f83fecd6da8097b5673548d083667": {
     "at": "2026-10-13T06:04:54.269142Z",
     "text": "QGIS passes QEP428, changing its AI policy to a strict NOT ALLOWED, submitted by nyalldawson and merged into the QGIS-Enhancement-Proposals repository on October 7, 2026."
@@ -1318,6 +1346,10 @@
   "en1|summary|fc62bcd44188d2cc89352665fb5f24ac9052fe9b": {
     "at": "2026-10-14T15:49:28.064006Z",
     "text": "Many people still assume OCR means running a large model on a GPU.\n\nBut the newly open-sourced Indra has an entire model of just 18MB. In official tests, running on nothing but a 32-core server CPU, it reads 49 pages per second—11x faster than PaddleOCR's text recognition model! 🚀\n\nIt also converts PDFs and images to Markdown, with headings, lists, and tables all properly structured—ideal for building RAG knowledge bases. Handwriting and complex tables still trip it up, though.\n\nClear printed documents it handles very reliably. I tried it on an M2 Max laptop: a 150-page PDF, fed in entirely as scans, was read in 9 seconds. And the Chinese tutorial page in the video—which I deliberately turned into a skewed, noisy scan—had all 1025 Chinese characters recognized correctly!"
+  },
+  "en1|summary|fd0753dee06578bf968b38c3cca54146d146b9d8": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|summary|fd5f0a23b44c056b5d75644f61fd6e22d518af91": {
     "at": "2026-10-13T16:04:18.199987Z",
@@ -1350,6 +1382,10 @@
   "en1|title|05ff5316cc21750ee40474da15663915649278ce": {
     "at": "2026-10-14T06:11:52.403516Z",
     "text": "Google's most powerful AI scores a major breakthrough as Gemini 4 Argon launches with 1 million output tokens, built to tackle complex problems."
+  },
+  "en1|title|069687f8761995e3796db4a60366e124d6abc6ed": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|06c1cb77538a9100b3668198d055fe3b9e7397ca": {
     "at": "2026-10-13T06:39:42.459703Z",
@@ -1419,6 +1455,10 @@
     "at": "2026-10-14T15:49:28.064006Z",
     "text": "Sun Xue Vol. 2: How young people stack every buff in the AI era"
   },
+  "en1|title|1b43244c96583a5a30eda32795144def4198e7d6": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|1b9c733cea3c20013dd97a0b76a94453e50d7205": {
     "at": "2026-10-13T16:04:18.199987Z",
     "text": "Today's information gap: GitHub's trending list today is all god-tier tools — see if any fits your vibe. 1. morluto/rea ⭐157,494 Reverse-engineer anything with AI agents: from app behavior all the way down to native binaries (official README)."
@@ -1455,6 +1495,10 @@
     "at": "2026-10-13T06:04:54.269142Z",
     "text": "Cursor uses an S3-based WAL to scale Git storage to over 300 pushes per second"
   },
+  "en1|title|1fd407218c7730511da8145e19cbf7f8b6d210e5": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|202141614c19f4cd245ae07209ae9127c529ceaa": {
     "at": "2026-10-13T05:38:02.120457Z",
     "text": "NVIDIA and Cisco team up to unveil USFP optical module spec: single-lane 400G, 4x bandwidth, expanding AI clusters’ arteries first."
@@ -1471,9 +1515,17 @@
     "at": "2026-10-13T16:04:18.199987Z",
     "text": "Unlock your phone and see AI first, not apps: StepFun’s first Agent phone is here, priced at 3999."
   },
+  "en1|title|24fb5422ca210e89e8f3a7375e4861ae99458e37": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|25b0ef0adf046ab9ff94f78d2380ea187878b03c": {
     "at": "2026-10-13T06:39:42.459703Z",
     "text": "AI minister warns UK cyber defenses 'likely' to be breached - BBC"
+  },
+  "en1|title|27bf237c42713bb15f985c981b8f1aaebd00f192": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|27cf0c0912100452b8740b5f260eaa1f524189b8": {
     "at": "2026-10-14T15:49:28.064006Z",
@@ -1509,6 +1561,10 @@
   },
   "en1|title|2b31e0578e1ce2fbaec93a5cd69ad0c89023fc64": {
     "at": "2026-10-13T20:15:31.680790Z",
+    "text": ""
+  },
+  "en1|title|2b6e0a1a360cf0b96c8b4867854fde883ab61fb6": {
+    "at": "2026-10-15T04:04:03.964688Z",
     "text": ""
   },
   "en1|title|2b88752912f32f52ac38174a06628f487c20179b": {
@@ -1574,6 +1630,10 @@
   "en1|title|35ec139a875c18958cee2758afdaf5176dff2ecd": {
     "at": "2026-10-13T06:04:54.269142Z",
     "text": "Andrej Karpathy says the gap in people’s understanding of AI capabilities is widening, and that awareness gap is turning into a funnel.\n- About 6 billion people (~75%) have had almost no exposure to large language models.\n- About 1–2 billion (~20%) are occasional users of the free version of ChatGPT. Seeing clunky chatbots, this group treats them as better Google search tools, writing assistants, etc. Maybe an intermediary will book your flight. I have non-technical friends who say—reasonably, I think—that they barely use it. Even many professionals outside math and code fall into this tier. For example..."
+  },
+  "en1|title|37def92ec30edcac18346218184c61441d3bc782": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|3902434b6b32a88242b05bf373224ec8598cbfce": {
     "at": "2026-10-14T20:43:02.874052Z",
@@ -1643,6 +1703,10 @@
     "at": "2026-10-13T06:39:42.459703Z",
     "text": "Agent engineering interviews: 5 key questions from development to deployment"
   },
+  "en1|title|497fa5e9eee952578d1361ba1d8a614a2cf338a9": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|4ab3f5de0e44d6b094c368d7b89a217b596a36bb": {
     "at": "2026-10-13T20:15:31.680790Z",
     "text": "Character.ai files for Chapter 11 bankruptcy protection"
@@ -1679,6 +1743,14 @@
     "at": "2026-10-14T20:43:02.874052Z",
     "text": "Wu Tong × Mr. Krabs: AI It Takes Two | WaytoAGI Campus Goes Crazy"
   },
+  "en1|title|5159e717a6acd9a2e73a164faa2a2f036c76f83a": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
+  "en1|title|51cf18f5bb68e59f551cc7483d6747a5abb6a617": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|524989dfaf3c6e1b26da01981416ee889299f32f": {
     "at": "2026-10-13T12:43:00.489839Z",
     "text": "Just Debuted, Already Rumored as an Nvidia Acquisition Target: Why Are These Gemini Veterans Still Betting on Coding Agents?"
@@ -1698,6 +1770,10 @@
   "en1|title|55dd6d4dbcb19dc4c3118dc1a70e63cacc43282f": {
     "at": "2026-10-14T15:49:28.064006Z",
     "text": "Gemini 4 Argon brief review: the model returns to the top tier."
+  },
+  "en1|title|56494225e9a93f20d028ddfea74735da0fc62d58": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|591cef0cb6f4aa2a5e799c14a6f912c6318ff9da": {
     "at": "2026-10-13T06:14:21.785367Z",
@@ -1735,6 +1811,10 @@
     "at": "2026-10-14T01:54:43.746905Z",
     "text": "Jensen Huang splashes $2B in Europe: woos four French companies, says Europe must get in the game."
   },
+  "en1|title|5f2187673f27ea7bdfc6586e64e502427dcd2514": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|621e0fe4ea1ff45aa7c678d86458033533c2d4e2": {
     "at": "2026-10-13T06:14:21.785367Z",
     "text": "The Android Compose version of the AI component library is here."
@@ -1766,6 +1846,10 @@
   "en1|title|67a83563077f35758f3d660d437692a2be368962": {
     "at": "2026-10-13T12:43:00.489839Z",
     "text": "Pay with a glance? Qwen's new AI glasses and earbuds make a high-profile debut, ushering in a new era of proactive AI"
+  },
+  "en1|title|6913bf4a05befeb11443672fd7b7820eb01c40e4": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|693c692465cb91358fb966bea0ed42972ad885f8": {
     "at": "2026-10-14T01:54:43.746905Z",
@@ -1827,6 +1911,10 @@
     "at": "2026-10-14T10:13:26.170370Z",
     "text": "AIsphere Technology Opens Hong Kong Office at Cyberport, Bringing Real-Time World Model PixVerse R2 to Build an \"AI Video Hub"
   },
+  "en1|title|7b16d92b114181ac07ccea21419b50707a03dd08": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|7bd06ad6f84cdcc32c1a613eb38d968a88b618af": {
     "at": "2026-10-14T10:13:26.170370Z",
     "text": "Doubao Work launches data migration feature, supports one-click import of ChatGPT conversations and memory"
@@ -1854,6 +1942,10 @@
   "en1|title|836c9ae7bbc8cc90f3a94d7cc3ff201405de3f20": {
     "at": "2026-10-13T20:15:31.680790Z",
     "text": "Show HN: Use your OpenAI subscription to make audiobooks"
+  },
+  "en1|title|83b9d284ce54001707411982f245c85513daa924": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|842d86ce29f1f53a9469e066f041cddcd533ad1d": {
     "at": "2026-10-14T06:11:52.403516Z",
@@ -1995,6 +2087,10 @@
     "at": "2026-10-14T01:54:43.746905Z",
     "text": "Takeaways from watching the Allen-Sun Ge interview video frame by frame: Sun Ge raised the question, \"Why do large models get smarter the more information you feed them?\" He said the LLM's answer was that it doesn't know either — it's a black box. But when I asked an AI, the answer wasn't like that (which itself shows how prompts and AI models shape the response). Here's the answer I got: why do large models get smarter the more you \"feed\" them?"
   },
+  "en1|title|a3ac92e4145e46a3374be804e092c1fd3720dda1": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|a5ac32fbfbb812051434bdd9d9108a9deb3009c7": {
     "at": "2026-10-13T06:14:21.785367Z",
     "text": "GPT-6 Astra helped me jailbreak my Kindle"
@@ -2002,6 +2098,10 @@
   "en1|title|a63ee502699ee86a46b4df76d55b86229c635c75": {
     "at": "2026-10-13T06:04:54.269142Z",
     "text": "AI didn't take programmers' jobs? US entry-level developer employment actually fell 20%, experts worry about a talent gap in a decade."
+  },
+  "en1|title|a6e9a3333050299ab2e841b218937fddd5e3a331": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|a79ce4f3b2775b6a8e43683e633b1e74ec813bbf": {
     "at": "2026-10-14T01:54:43.746905Z",
@@ -2075,6 +2175,10 @@
     "at": "2026-10-14T20:43:02.874052Z",
     "text": "AI Takes Over Business Operations, in Practice: From a Single Visit Schedule to a True Business Loop"
   },
+  "en1|title|b1981806522a40f891fe3d8bcc14f0a856bdd56d": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|b4403567042ec3be7640d34f3c75fb607cae7d7c": {
     "at": "2026-10-13T07:19:14.084951Z",
     "text": "DeepSeek invested in a robotics AI company founded by the former head of Tencent Hunyuan 👀 Today, according to Bloomberg, DeepSeek plans to lead a seed round of tens of millions of dollars in a robotics AI startup called WinverseAI, at a post-money valuation of about $400 million (roughly RMB 2.7 billion)."
@@ -2090,6 +2194,10 @@
   "en1|title|b6c689109cbe3dbec609dff24752f6387fc38dfa": {
     "at": "2026-10-14T01:54:43.746905Z",
     "text": "Smartphone AI moves from Q&A to task execution as OPPO teams up with Manus to push agent deployment"
+  },
+  "en1|title|b844987dd466c83a00e2e3828a01868ef9754e76": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|b93da79ab34fe2a8fb4d2f1e2dcbef58c14a3269": {
     "at": "2026-10-13T06:39:42.459703Z",
@@ -2175,6 +2283,10 @@
     "at": "2026-10-14T20:43:02.874052Z",
     "text": "After fatal tiger attack at British zoo, Trump posts AI video of himself taming a tiger - USA Today"
   },
+  "en1|title|c90399c9f5ec4f822b7a83f77a8686e09b3f1d26": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|cbc806d44c9d3385b4ef3fafca84662a76651896": {
     "at": "2026-10-13T06:04:54.269142Z",
     "text": ""
@@ -2198,6 +2310,10 @@
   "en1|title|d09d81aeefcc27b116b3ad800f205875bce79d92": {
     "at": "2026-10-13T20:15:31.680790Z",
     "text": "Codex's complete software development workflow, replicate any software 1:1 (REA+PentAGI+ReverseSkill)"
+  },
+  "en1|title|d0f3f8f6dfc220d69dd97488b57caa86ad8f244b": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|d2ee6fd0e696b7fea4d2202d4d8b59cce1865f44": {
     "at": "2026-10-13T21:51:45.032259Z",
@@ -2234,6 +2350,10 @@
   "en1|title|d9ed549ba44980c19e891c2290bc0d708f4b6660": {
     "at": "2026-10-13T06:14:21.785367Z",
     "text": "The Socratic method of questioning may be the rarest skill in the AI era"
+  },
+  "en1|title|db18c2dcfb6b997d71902af6cdfb843cfa133401": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|dbe081ad2d3414ca59c036050d003960d2f1a707": {
     "at": "2026-10-13T05:38:02.120457Z",
@@ -2294,6 +2414,14 @@
   "en1|title|e60647aa3c4735a679f2ab8929b675a4b345a0a6": {
     "at": "2026-10-14T06:11:52.403516Z",
     "text": "Anthropic warns AI could \"self-replicate\" in smart home devices and become \"difficult\" to shut down - Yahoo Finance"
+  },
+  "en1|title|e7132efc684e5ca539c952babfa71074822d310e": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
+  "en1|title|e78bda54ba264084a0c26b5e925d27f1bee83644": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|e7981aff256267d71014f2ce9ef2bf41b499c13b": {
     "at": "2026-10-13T20:15:31.680790Z",
@@ -2363,6 +2491,10 @@
     "at": "2026-10-13T12:43:00.489839Z",
     "text": "Jinan kicks off the 2026 AI Industry Conference tomorrow, themed around AI empowering a new phase of industrialization, with ten key keywords, an annual embodied intelligence report, more than 20 forums, and a batch of new products spanning compute, large models and embodied intelligence all launching at once."
   },
+  "en1|title|f100a115503043faf2de2bbe4f7a3d9f3b968839": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
+  },
   "en1|title|f27d3861ce0ac4659bee9d04687daa68e9f1d792": {
     "at": "2026-10-14T10:13:26.170370Z",
     "text": "Lenovo Kaitian AI PC breaks into oil and gas exploration: writes reports even offline, cutting desk work hours by 80%"
@@ -2386,6 +2518,10 @@
   "en1|title|f8ab716c8a9d92afc16e914b32d4fb21c240faf9": {
     "at": "2026-10-14T06:11:52.403516Z",
     "text": "Anthropic warns AI models may soon be able to self-replicate in small devices — ABC News — Breaking news, latest news and videos"
+  },
+  "en1|title|fc0c47b2ebbd40fda12f3c2efcc75383291156d5": {
+    "at": "2026-10-15T04:04:03.964688Z",
+    "text": ""
   },
   "en1|title|fc1637d2314cd89c8f06cc77ec5ca08093183282": {
     "at": "2026-10-13T05:38:02.120457Z",
