@@ -1,5 +1,7 @@
 """Run scripts/check_i18n_site.py, and prove it actually fails on the problems it guards against."""
 
+from fork_site import ORIGIN  # fork: 站点 origin 唯一真值源（site.json）
+
 import importlib.util
 import json
 import shutil
@@ -71,7 +73,7 @@ def test_flags_missing_self_reference_in_hreflang(sandbox):
     module, root = sandbox
     page = root / "en/index.html"
     text = page.read_text(encoding="utf-8").replace(
-        '<link rel="alternate" hreflang="en" href="https://news.learnprompt.pro/en" />\n', "")
+        f'<link rel="alternate" hreflang="en" href="{ORIGIN}/en" />\n', "")
     page.write_text(text, encoding="utf-8")
     assert any("hreflang" in error for error in errors_of(module))
 
@@ -80,7 +82,7 @@ def test_flags_canonical_mismatch(sandbox):
     module, root = sandbox
     page = root / "en/index.html"
     page.write_text(page.read_text(encoding="utf-8").replace(
-        'rel="canonical" href="https://news.learnprompt.pro/en"', 'rel="canonical" href="https://news.learnprompt.pro/en/"'), encoding="utf-8")
+        f'rel="canonical" href="{ORIGIN}/en"', f'rel="canonical" href="{ORIGIN}/en/"'), encoding="utf-8")
     assert any("canonical" in error for error in errors_of(module))
 
 
@@ -102,8 +104,9 @@ def test_flags_key_parity_and_stale_generated_js(sandbox):
     assert "out of sync" in messages
 
 
-def test_flags_relative_asset_paths_in_english_page(sandbox):
+def test_flags_root_absolute_asset_paths_in_english_page(sandbox):
+    """fork: 子路径部署下，"/assets/…" 会打到域名根 404，必须被拦下。"""
     module, root = sandbox
     page = root / "en/index.html"
-    page.write_text(page.read_text(encoding="utf-8").replace('href="/assets/styles.css', 'href="./assets/styles.css'), encoding="utf-8")
-    assert any("relative" in error for error in errors_of(module))
+    page.write_text(page.read_text(encoding="utf-8").replace('href="../assets/styles.css', 'href="/assets/styles.css'), encoding="utf-8")
+    assert any("root-absolute" in error for error in errors_of(module))

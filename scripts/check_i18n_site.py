@@ -23,7 +23,14 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE = "https://news.learnprompt.pro"
+try:  # fork: origin 从 site.json 读
+    from site_config import load as _load_site
+except ImportError:  # pragma: no cover
+    import sys as _sys
+    _sys.path.insert(0, str(ROOT / "scripts"))
+    from site_config import load as _load_site
+
+SITE = _load_site()
 PAGES = {
     "zh-CN": {"file": "index.html", "url": f"{SITE}/"},
     "en": {"file": "en/index.html", "url": f"{SITE}/en"},
@@ -88,11 +95,20 @@ def canonical(parser: HeadParser) -> str:
     return ""
 
 
+SITE_PARSED = urlparse(SITE)
+SITE_PREFIX = SITE_PARSED.path.rstrip("/")  # 站点在域名根时为空；GitHub Pages 子路径时为 /<repo>
+
+
 def url_to_file(url: str) -> Path | None:
     parsed = urlparse(url)
-    if f"{parsed.scheme}://{parsed.netloc}" != SITE:
+    if f"{parsed.scheme}://{parsed.netloc}" != f"{SITE_PARSED.scheme}://{SITE_PARSED.netloc}":
         return None
-    rel = parsed.path.strip("/")
+    path = parsed.path
+    if SITE_PREFIX:
+        if not path.startswith(SITE_PREFIX):
+            return None
+        path = path[len(SITE_PREFIX):]
+    rel = path.strip("/")
     for candidate in ((ROOT / rel / "index.html") if rel else (ROOT / "index.html"), ROOT / rel):
         if candidate.is_file():
             return candidate
@@ -203,19 +219,30 @@ def check_en_page(errors: list[str], parser: HeadParser | None) -> None:
         errors.append('en/index.html: <html> must carry data-root="/en/"')
     if "data-radar-view-target" in text or "classic" in text.lower():
         errors.append("en/index.html must not render or link the classic view")
-    if not any(link.get("rel") == "alternate" and link.get("type") == "application/rss+xml" and link.get("href") == "/en/feed.xml" for link in parser.links):
-        errors.append("en/index.html: missing RSS alternate /en/feed.xml")
+    # fork: 英文页可以指向 /en/feed.xml（vercel rewrite）或 data/feed-en.xml（GitHub Pages 上的真实文件）
+    rss_ok = any(
+        link.get("rel") == "alternate"
+        and link.get("type") == "application/rss+xml"
+        and link.get("href") in {"/en/feed.xml", "feed.xml", "../data/feed-en.xml", "data/feed-en.xml"}
+        for link in parser.links
+    )
+    if not rss_ok:
+        errors.append("en/index.html: missing RSS alternate for the English feed")
     for tag, ref in parser.refs:
         if ref.startswith(("http://", "https://", "#", "mailto:")):
-            if tag != "a" and ref.startswith("http") and "news.learnprompt.pro" in ref and "/assets/" in ref:
+            if tag != "a" and ref.startswith("http") and SITE in ref and "/assets/" in ref:
                 target = ROOT / urlparse(ref).path.lstrip("/")
                 if not target.is_file():
                     errors.append(f"en/index.html: {ref} does not exist")
             continue
-        if not ref.startswith("/"):
-            errors.append(f"en/index.html: relative {tag} reference {ref!r} (must be absolute)")
-            continue
-        target = ROOT / urlparse(ref).path.lstrip("/")
+        # fork: 站点在子路径时，"/assets/…" 会打到域名根 404，所以相对引用是允许的；
+        # 统一按页面所在目录解析，并要求目标文件真实存在。
+        clean = ref.split("?")[0].split("#")[0]
+        if clean.startswith("/"):
+            target = ROOT / urlparse(ref).path.lstrip("/")
+            errors.append(f"en/index.html: root-absolute {tag} reference {ref!r} 在子路径部署下会 404（请用相对路径）")
+        else:
+            target = (path.parent / clean).resolve()
         if tag in {"script", "link", "img"} and not target.is_file():
             errors.append(f"en/index.html: {ref} does not exist")
 

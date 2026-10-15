@@ -1,3 +1,5 @@
+from fork_site import ORIGIN  # fork: 站点 origin 唯一真值源（site.json）
+
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -107,6 +109,8 @@ def test_both_pages_load_existing_shared_assets_and_preserve_domain():
         assert source.count('id="serviceStatusPanel"') == 1
         assert f'{prefix}assets/service-status.js?v=20260909' in source
         assert f'{prefix}assets/service-status.css?v=20260909' in source
-        assert 'https://news.learnprompt.pro/' in source
+        assert f'{ORIGIN}/' in source
         assert '1625517181-jpg' not in source
-    assert (root / 'CNAME').read_text().strip() == 'news.learnprompt.pro'
+    cname = root / 'CNAME'
+    if cname.exists():  # fork 移除了上游 CNAME，避免被上游自定义域名劫持
+        assert cname.read_text().strip() == ORIGIN.split('://', 1)[-1].rstrip('/')

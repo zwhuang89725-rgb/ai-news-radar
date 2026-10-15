@@ -10,6 +10,8 @@ import { runScenario } from "./helpers/render-harness.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const read = (rel) => readFileSync(path.join(ROOT, rel), "utf8");
+// fork: 站点 origin 从 site.json 读
+const ORIGIN = JSON.parse(read("site.json")).origin.replace(/\/$/, "");
 const zhDict = JSON.parse(read("assets/i18n/zh.json"));
 const enDict = JSON.parse(read("assets/i18n/en.json"));
 const CJK = /[㐀-䶿一-鿿豈-﫿　-〿]/;
@@ -187,7 +189,7 @@ async function renderStatus(lang, withI18n) {
   });
   const panel = element();
   const context = {
-    document: { getElementById: () => panel, createElement: element, currentScript: { src: "https://news.learnprompt.pro/assets/service-status.js" },
+    document: { getElementById: () => panel, createElement: element, currentScript: { src: `${ORIGIN}/assets/service-status.js` },
       documentElement: { lang: lang === "en" ? "en" : "zh-CN" } },
     window: { location: { search: "" }, setTimeout, clearTimeout },
     localStorage: { getItem: () => "" }, URL, URLSearchParams, AbortController, Intl, Date,

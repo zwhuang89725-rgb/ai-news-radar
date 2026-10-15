@@ -69,13 +69,28 @@ state.dataBaseUrl = resolveDataBaseUrl();
 // 站点根（<html data-root>）为绝对路径（如 /en/）时，本地数据取站点根下的 /data/…；
 // zh 页没有 data-root，保持原来的相对路径。?data= / localStorage 覆盖永远优先。
 const DATA_ROOT_ABSOLUTE = String(document.documentElement?.dataset?.root || "").startsWith("/");
+// fork: 站点可能部署在子路径（如 GitHub Pages 的 /ai-news-radar/），不能假设站点根就是域名根。
+// 优先用本脚本自身位置推站点根（<siteRoot>/assets/app.js -> <siteRoot>/），
+// 取不到时退回页面 URL；都不可用（测试沙箱）时保持旧的域名根行为。
+function siteRootUrl() {
+  const candidates = [document.currentScript?.src, (typeof window !== "undefined" && window.location?.href) || ""];
+  for (const base of candidates) {
+    try {
+      return new URL("../", base);
+    } catch {
+      // 换下一个候选
+    }
+  }
+  return null;
+}
 
 function dataUrl(path) {
   const base = state.dataBaseUrl;
   if (!base) {
     const raw = String(path || "");
     if (!DATA_ROOT_ABSOLUTE || raw.startsWith("/") || /^[a-z][a-z0-9+.-]*:/i.test(raw)) return path;
-    return `/${raw}`;
+    const root = siteRootUrl();
+    return root ? new URL(raw, root).href : `/${raw}`;
   }
   const file = String(path || "").split("/").pop();
   return `${base}/${file}`;

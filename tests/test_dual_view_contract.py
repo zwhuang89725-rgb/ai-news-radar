@@ -1,5 +1,7 @@
 """Regression checks for the mobile/classic data and safety contract (plus the /en surface)."""
 
+from fork_site import ORIGIN  # fork: 站点 origin 唯一真值源（site.json）
+
 import html
 import json
 from pathlib import Path
@@ -135,9 +137,9 @@ def test_today_projects_load_independently_in_both_views():
 
 def test_zh_page_declares_hreflang_rss_and_loads_i18n_before_app():
     source = read("index.html")
-    assert 'hreflang="zh-CN" href="https://news.learnprompt.pro/"' in source
-    assert 'hreflang="en" href="https://news.learnprompt.pro/en"' in source
-    assert 'hreflang="x-default" href="https://news.learnprompt.pro/"' in source
+    assert f'hreflang="zh-CN" href="{ORIGIN}/"' in source
+    assert f'hreflang="en" href="{ORIGIN}/en"' in source
+    assert f'hreflang="x-default" href="{ORIGIN}/"' in source
     assert 'type="application/rss+xml"' in source
     assert source.index("assets/i18n/zh.js") < source.index("assets/i18n.js") < source.index("assets/app.js")
     assert source.index("assets/i18n.js") < source.index("assets/service-status.js")
@@ -147,11 +149,11 @@ def test_english_page_is_the_mobile_view_rooted_at_en():
     source = read("en/index.html")
     assert '<html lang="en"' in source
     assert 'data-root="/en/"' in source
-    assert 'src="/assets/view-mode.js' in source
+    assert 'src="../assets/view-mode.js' in source
     assert source.index("/assets/i18n/en.js") < source.index("/assets/i18n.js") < source.index("/assets/app.js")
-    # all local resources are absolute: the page is served from /en, so "./" would 404
+    # fork: 站点可能部署在子路径，页面资源一律用相对路径（"../"），绝对根路径反而会 404
     assert 'src="./' not in source and 'href="./' not in source
-    assert 'href="/site.webmanifest"' in source
+    assert 'href="../site.webmanifest"' in source
 
 
 def test_english_page_has_no_classic_entry_and_no_view_switch():
@@ -163,11 +165,11 @@ def test_english_page_has_no_classic_entry_and_no_view_switch():
 
 def test_english_page_declares_hreflang_canonical_and_rss():
     source = read("en/index.html")
-    assert '<link rel="canonical" href="https://news.learnprompt.pro/en" />' in source
-    assert 'hreflang="zh-CN" href="https://news.learnprompt.pro/"' in source
-    assert 'hreflang="en" href="https://news.learnprompt.pro/en"' in source
-    assert 'hreflang="x-default" href="https://news.learnprompt.pro/"' in source
-    assert 'type="application/rss+xml" title="AI News Radar" href="/en/feed.xml"' in source
+    assert f'<link rel="canonical" href="{ORIGIN}/en" />' in source
+    assert f'hreflang="zh-CN" href="{ORIGIN}/"' in source
+    assert f'hreflang="en" href="{ORIGIN}/en"' in source
+    assert f'hreflang="x-default" href="{ORIGIN}/"' in source
+    assert 'type="application/rss+xml" title="AI News Radar" href="../data/feed-en.xml"' in source
 
 
 def test_english_page_keeps_the_same_section_layout_as_zh():
@@ -201,8 +203,8 @@ def test_data_urls_resolve_from_site_root_on_the_english_page():
 
 
 def test_sitemap_robots_and_feed_rewrite_exist():
-    assert "https://news.learnprompt.pro/en" in read("sitemap.xml")
-    assert "Sitemap: https://news.learnprompt.pro/sitemap.xml" in read("robots.txt")
+    assert f"{ORIGIN}/en" in read("sitemap.xml")
+    assert f"Sitemap: {ORIGIN}/sitemap.xml" in read("robots.txt")
     config = json.loads(read("vercel.json"))
     assert {"source": "/en/feed.xml", "destination": "/data/feed-en.xml"} in config["rewrites"]
     assert config["headers"][0]["source"] == "/data/(.*)"
