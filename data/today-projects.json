@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:38:52.690265Z",
+  "generated_at": "2026-10-15T09:58:47.083612Z",
   "date": "2026-10-15",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T04:38:10.813250Z"
+      "observed_at": "2026-10-15T09:57:55.024227Z"
     },
     {
-      "id": "project_67429ab8ee2d",
-      "project_name": "Spinachi AI",
-      "url": "https://www.producthunt.com/products/spinachi-ai",
-      "summary": "Personal AI health manager on Whatsapp",
+      "id": "project_45a9d9f5ef01",
+      "project_name": "GLM-Legal",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "summary": "Z.ai’s legal AI model for contract review and compliance",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Personal AI health manager on Whatsapp」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Personal AI health manager on Whatsapp\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-05T21:06:36Z",
-      "updated_at": "2026-10-15T04:02:59Z",
+      "recommend_reason_zh": "体验它主打的「Z.ai’s legal AI model for contract review and compliance」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Z.ai’s legal AI model for contract review and compliance\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T16:24:12Z",
+      "updated_at": "2026-10-15T09:57:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T04:38:43.012296Z"
+      "observed_at": "2026-10-15T09:58:36.803348Z"
     },
     {
       "id": "project_36917ef32b44",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T04:38:10.813250Z"
+      "observed_at": "2026-10-15T09:57:55.024227Z"
     },
     {
-      "id": "project_4710ecc56eef",
-      "project_name": "Screenwell.ai",
-      "url": "https://www.producthunt.com/products/screenwell-ai",
-      "summary": "An AI interviewer that runs your first-round screening",
+      "id": "project_33a93673c36f",
+      "project_name": "Lleverage",
+      "url": "https://www.producthunt.com/products/lleverage",
+      "summary": "The autonomous back office for the physical economy",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "Screenwell.ai 让 AI 面试官主持首轮筛选，帮助招聘方更高效处理初面，值得打开体验。",
-      "recommend_reason_en": "Screenwell.ai is an AI interviewer that runs your first-round screening, making it worth opening to see how automated early candidate conversations could work.",
-      "published_at": "2026-10-10T15:32:34Z",
-      "updated_at": "2026-10-14T21:02:38Z",
+      "recommend_reason_zh": "体验它主打的「The autonomous back office for the physical economy」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The autonomous back office for the physical economy\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-13T15:53:16Z",
+      "updated_at": "2026-10-15T09:57:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T04:38:43.012296Z"
+      "observed_at": "2026-10-15T09:58:36.803348Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1197,
+      "duration_ms": 1349,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 144,
+      "duration_ms": 136,
       "error": null
     }
   ]
