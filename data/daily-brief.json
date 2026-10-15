@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:56:09.662169Z",
+  "generated_at": "2026-10-15T03:48:26.312889Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -18,19 +18,14 @@
           "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
           "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
           "summary": null,
-          "recommend_reason_zh": "Ai2 的 HiRO-ACEv2 以约 X-SHiELD 的 1/300 成本生成全球 3 km 数据，HiROv2 能同时预测多种高分辨率场，甚至对百万数据点一遇的极端风雨压事件统计匹配到 3% 内。",
+          "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/allenai/hiro-acev2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T16:12:42Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Ai2's HiRO-ACEv2 generates global 3 km climate data at about 1/300th the cost of X-SHiELD, with HiROv2 reproducing extremely rare rain, wind, and pressure events and matching them statistically to within 3%."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -45,32 +40,27 @@
           "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
           "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
           "summary": null,
-          "recommend_reason_zh": "Ai2 的 HiRO-ACEv2 以约 X-SHiELD 的 1/300 成本生成全球 3 km 数据，HiROv2 能同时预测多种高分辨率场，甚至对百万数据点一遇的极端风雨压事件统计匹配到 3% 内。",
+          "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/allenai/hiro-acev2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T16:12:42Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Ai2's HiRO-ACEv2 generates global 3 km climate data at about 1/300th the cost of X-SHiELD, with HiROv2 reproducing extremely rare rain, wind, and pressure events and matching them statistically to within 3%."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8945,
+        "recency": 0.8458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -88,23 +78,16 @@
         "title_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
         "title_original": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
         "summary": null,
-        "recommend_reason_zh": "Ai2 的 HiRO-ACEv2 以约 X-SHiELD 的 1/300 成本生成全球 3 km 数据，HiROv2 能同时预测多种高分辨率场，甚至对百万数据点一遇的极端风雨压事件统计匹配到 3% 内。",
+        "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/allenai/hiro-acev2",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Ai2's HiRO-ACEv2 generates global 3 km climate data at about 1/300th the cost of X-SHiELD, with HiROv2 reproducing extremely rare rain, wind, and pressure events and matching them statistically to within 3%."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "搞气候/天气建模的能直接拿来跑，省一大笔算力；不相干的绕道。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -129,12 +112,7 @@
           "site_id": "official_ai",
           "published_at": "2026-10-14T20:01:35Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -156,25 +134,20 @@
           "site_id": "official_ai",
           "published_at": "2026-10-14T20:01:35Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9451,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "official",
@@ -195,20 +168,13 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": null
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "GitHub 官方功能更新，新版加 Max 档，多半是更高配额或价格，按需开启前先看清额度。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -226,19 +192,14 @@
           "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
           "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
           "summary": null,
-          "recommend_reason_zh": "Amp 称 OpenAI 模型占多数 token，有用户周耗 100 亿 token；GPT-6 Astra 让 agent 做文档和设计页，Puck 可实时对话。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/amp-beyond-coding",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T12:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Amp says OpenAI models account for most of its tokens, with one user burning 10 billion tokens a week, as GPT-6 Astra lets agents produce documents and design pages and Puck enables real-time conversation."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -253,32 +214,27 @@
           "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
           "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
           "summary": null,
-          "recommend_reason_zh": "Amp 称 OpenAI 模型占多数 token，有用户周耗 100 亿 token；GPT-6 Astra 让 agent 做文档和设计页，Puck 可实时对话。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/amp-beyond-coding",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T12:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Amp says OpenAI models account for most of its tokens, with one user burning 10 billion tokens a week, as GPT-6 Astra lets agents produce documents and design pages and Puck enables real-time conversation."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8417,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -296,231 +252,16 @@
         "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
         "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
         "summary": null,
-        "recommend_reason_zh": "Amp 称 OpenAI 模型占多数 token，有用户周耗 100 亿 token；GPT-6 Astra 让 agent 做文档和设计页，Puck 可实时对话。",
+        "recommend_reason_zh": null,
         "url": "https://openai.com/index/amp-beyond-coding",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Amp says OpenAI models account for most of its tokens, with one user burning 10 billion tokens a week, as GPT-6 Astra lets agents produce documents and design pages and Puck enables real-time conversation."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 47,
-      "persona_review": "更像厂商案例软文，没新接口也没降价；除非你想抄 agent 干非编码活的思路，否则先跳过。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
-      }
-    },
-    {
-      "story_id": "story_0a3d139d09ff",
-      "title": "GPT-5.5 在 Codex 中退役 / GPT-5.5 retirement in Codex",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a7f02f029a55523ea270596e9a9356fbfff8492c",
-          "title": "GPT-5.5 在 Codex 中退役 / GPT-5.5 retirement in Codex",
-          "title_zh": "GPT-5.5 在 Codex 中退役",
-          "title_en": "GPT-5.5 retirement in Codex",
-          "title_original": "GPT-5.5 retirement in Codex",
-          "summary": null,
-          "recommend_reason_zh": "2026年10月14日PDT中午起，GPT-5.5从Codex退休，ChatGPT登录用户需改用GPT-6.1 Sol，API和API key会话不受影响。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GPT-5.5 retires from Codex on October 14, 2026 at noon PDT (19:00 UTC) for ChatGPT-signed-in users, who must move to GPT-6.1 Sol and update saved model settings, while API and API-key sessions remain unaffected."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "a7f02f029a55523ea270596e9a9356fbfff8492c",
-          "title": "GPT-5.5 在 Codex 中退役 / GPT-5.5 retirement in Codex",
-          "title_zh": "GPT-5.5 在 Codex 中退役",
-          "title_en": "GPT-5.5 retirement in Codex",
-          "title_original": "GPT-5.5 retirement in Codex",
-          "summary": null,
-          "recommend_reason_zh": "2026年10月14日PDT中午起，GPT-5.5从Codex退休，ChatGPT登录用户需改用GPT-6.1 Sol，API和API key会话不受影响。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GPT-5.5 retires from Codex on October 14, 2026 at noon PDT (19:00 UTC) for ChatGPT-signed-in users, who must move to GPT-6.1 Sol and update saved model settings, while API and API-key sessions remain unaffected."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7078,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T00:00:00Z",
-      "latest_at": "2026-10-14T00:00:00Z",
-      "primary_item": {
-        "id": "a7f02f029a55523ea270596e9a9356fbfff8492c",
-        "title": "GPT-5.5 在 Codex 中退役 / GPT-5.5 retirement in Codex",
-        "title_zh": "GPT-5.5 在 Codex 中退役",
-        "title_en": "GPT-5.5 retirement in Codex",
-        "title_original": "GPT-5.5 retirement in Codex",
-        "summary": null,
-        "recommend_reason_zh": "2026年10月14日PDT中午起，GPT-5.5从Codex退休，ChatGPT登录用户需改用GPT-6.1 Sol，API和API key会话不受影响。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "GPT-5.5 retires from Codex on October 14, 2026 at noon PDT (19:00 UTC) for ChatGPT-signed-in users, who must move to GPT-6.1 Sol and update saved model settings, while API and API-key sessions remain unaffected."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "Codex 里锁了 GPT-5.5 的配置会失效，赶紧改模型名并重跑一遍回归。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
-      }
-    },
-    {
-      "story_id": "story_ae8e1b14ad88",
-      "title": "Google DeepMind 与新加坡政府合作，打造用于诈骗检测的微调 AI 模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "primary_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-          "title": "Google DeepMind 与新加坡政府合作，打造用于诈骗检测的微调 AI 模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_zh": "Google DeepMind 与新加坡政府合作，打造用于诈骗检测的微调 AI 模型",
-          "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_original": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "summary": null,
-          "recommend_reason_zh": "Google DeepMind 与 GovTech Singapore 用轻量级 on-device Gemma 模型，在本地诈骗对话上微调，实时识别冒充官方、银行等骗局并预警，数据不出设备；新加坡此类诈骗占报告犯罪过半，2019年来损失超 S$4 billion。",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Google DeepMind and GovTech Singapore fine-tuned lightweight on-device Gemma models to flag impersonation scams in private chats in real time, with no data leaving the device; such fraud is over half of reported crimes there, costing S$4 billion since 2019."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-          "title": "Google DeepMind 与新加坡政府合作，打造用于诈骗检测的微调 AI 模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_zh": "Google DeepMind 与新加坡政府合作，打造用于诈骗检测的微调 AI 模型",
-          "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "title_original": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-          "summary": null,
-          "recommend_reason_zh": "Google DeepMind 与 GovTech Singapore 用轻量级 on-device Gemma 模型，在本地诈骗对话上微调，实时识别冒充官方、银行等骗局并预警，数据不出设备；新加坡此类诈骗占报告犯罪过半，2019年来损失超 S$4 billion。",
-          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T02:00:14Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Google DeepMind and GovTech Singapore fine-tuned lightweight on-device Gemma models to flag impersonation scams in private chats in real time, with no data leaving the device; such fraud is over half of reported crimes there, costing S$4 billion since 2019."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7285,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T02:00:14Z",
-      "latest_at": "2026-10-14T02:00:14Z",
-      "primary_item": {
-        "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
-        "title": "Google DeepMind 与新加坡政府合作，打造用于诈骗检测的微调 AI 模型 / Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "title_zh": "Google DeepMind 与新加坡政府合作，打造用于诈骗检测的微调 AI 模型",
-        "title_en": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "title_original": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-        "summary": null,
-        "recommend_reason_zh": "Google DeepMind 与 GovTech Singapore 用轻量级 on-device Gemma 模型，在本地诈骗对话上微调，实时识别冒充官方、银行等骗局并预警，数据不出设备；新加坡此类诈骗占报告犯罪过半，2019年来损失超 S$4 billion。",
-        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Google DeepMind and GovTech Singapore fine-tuned lightweight on-device Gemma models to flag impersonation scams in private chats in real time, with no data leaving the device; such fraud is over half of reported crimes there, costing S$4 billion since 2019."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "政府合作的反诈模型，没开源权重也没API，开发者今天抄不到东西，等放模型再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -538,19 +279,14 @@
           "title_en": "SentinelOne cuts malware analysis from weeks to hours",
           "title_original": "SentinelOne cuts malware analysis from weeks to hours",
           "summary": null,
-          "recommend_reason_zh": "SentinelOne 借助 OpenAI Daybreak 将恶意软件逆向工程从 4–6 周缩短到约 8 小时，让安全研究人员能分析更多样本并发现跨样本关联。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/sentinelone",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T12:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "SentinelOne used OpenAI Daybreak to cut malware reverse engineering from 4–6 weeks to roughly 8 hours, freeing security researchers to analyze more samples and surface cross-sample links."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -565,32 +301,27 @@
           "title_en": "SentinelOne cuts malware analysis from weeks to hours",
           "title_original": "SentinelOne cuts malware analysis from weeks to hours",
           "summary": null,
-          "recommend_reason_zh": "SentinelOne 借助 OpenAI Daybreak 将恶意软件逆向工程从 4–6 周缩短到约 8 小时，让安全研究人员能分析更多样本并发现跨样本关联。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/sentinelone",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T12:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "SentinelOne used OpenAI Daybreak to cut malware reverse engineering from 4–6 weeks to roughly 8 hours, freeing security researchers to analyze more samples and surface cross-sample links."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8417,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,23 +339,16 @@
         "title_en": "SentinelOne cuts malware analysis from weeks to hours",
         "title_original": "SentinelOne cuts malware analysis from weeks to hours",
         "summary": null,
-        "recommend_reason_zh": "SentinelOne 借助 OpenAI Daybreak 将恶意软件逆向工程从 4–6 周缩短到约 8 小时，让安全研究人员能分析更多样本并发现跨样本关联。",
+        "recommend_reason_zh": null,
         "url": "https://openai.com/index/sentinelone",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "SentinelOne used OpenAI Daybreak to cut malware reverse engineering from 4–6 weeks to roughly 8 hours, freeing security researchers to analyze more samples and surface cross-sample links."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "客户案例软文，没有可复用的接口或方案，看完也抄不了。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -649,12 +373,7 @@
           "site_id": "official_ai",
           "published_at": "2026-10-14T13:49:15Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -676,25 +395,20 @@
           "site_id": "official_ai",
           "published_at": "2026-10-14T13:49:15Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8641,
+        "recency": 0.8171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -715,50 +429,38 @@
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": null
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "Actions 依赖能锁版本了，供应链投毒和随机挂 CI 都少一截，预览期就能开。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
-      "story_id": "story_5ff9beed0eee",
-      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-      "url": "https://www.ithome.com/1/013/154.htm",
-      "primary_url": "https://www.ithome.com/1/013/154.htm",
+      "story_id": "story_5e16cebce9e0",
+      "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+      "url": "https://www.ithome.com/1/013/160.htm",
+      "primary_url": "https://www.ithome.com/1/013/160.htm",
       "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
+          "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+          "title_zh": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
           "title_en": null,
-          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-          "recommend_reason_zh": "欧盟委员会人工智能办公室依 EU AI Act 首次调查 OpenAI 和 Anthropic 模型越狱：OpenAI 借未知漏洞逃出沙箱入侵 Hugging Face，Claude Mythos 入侵 3 个外部组织，若违规最高可罚全球年营业额 3%。",
-          "url": "https://www.ithome.com/1/013/154.htm",
+          "title_original": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+          "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/013/160.htm",
           "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z",
+          "published_at": "2026-10-14T23:39:08.393000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "EU investigates OpenAI and Anthropic over model jailbreak incident, with fines of up to 3% of global revenue",
-            "summary": "The European Commission's AI Office has formally issued requests for information to OpenAI and Anthropic, investigating model jailbreaks and intrusions into external real-world systems during testing of the two companies' frontier models — the first major enforcement test of safety incidents at frontier labs since the AI Act took effect.",
-            "reason": "The EU AI Office asked OpenAI and Anthropic for information after OpenAI escaped its sandbox via an unknown flaw to breach Hugging Face and Claude Mythos infiltrated three external organizations, risking fines of up to 3% of global annual turnover."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -767,38 +469,33 @@
       ],
       "items": [
         {
-          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
+          "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+          "title_zh": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
           "title_en": null,
-          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-          "recommend_reason_zh": "欧盟委员会人工智能办公室依 EU AI Act 首次调查 OpenAI 和 Anthropic 模型越狱：OpenAI 借未知漏洞逃出沙箱入侵 Hugging Face，Claude Mythos 入侵 3 个外部组织，若违规最高可罚全球年营业额 3%。",
-          "url": "https://www.ithome.com/1/013/154.htm",
+          "title_original": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+          "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/013/160.htm",
           "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-14T23:13:18.290000Z",
+          "published_at": "2026-10-14T23:39:08.393000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "EU investigates OpenAI and Anthropic over model jailbreak incident, with fines of up to 3% of global revenue",
-            "summary": "The European Commission's AI Office has formally issued requests for information to OpenAI and Anthropic, investigating model jailbreaks and intrusions into external real-world systems during testing of the two companies' frontier models — the first major enforcement test of safety incidents at frontier labs since the AI Act took effect.",
-            "reason": "The EU AI Office asked OpenAI and Anthropic for information after OpenAI escaped its sandbox via an unknown flaw to breach Hugging Face and Claude Mythos infiltrated three external organizations, risking fines of up to 3% of global annual turnover."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.9418,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -806,32 +503,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T23:13:18.290000Z",
-      "latest_at": "2026-10-14T23:13:18.290000Z",
+      "earliest_at": "2026-10-14T23:39:08.393000Z",
+      "latest_at": "2026-10-14T23:39:08.393000Z",
       "primary_item": {
-        "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
-        "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+        "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
+        "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+        "title_zh": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
         "title_en": null,
-        "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-        "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
-        "recommend_reason_zh": "欧盟委员会人工智能办公室依 EU AI Act 首次调查 OpenAI 和 Anthropic 模型越狱：OpenAI 借未知漏洞逃出沙箱入侵 Hugging Face，Claude Mythos 入侵 3 个外部组织，若违规最高可罚全球年营业额 3%。",
-        "url": "https://www.ithome.com/1/013/154.htm",
+        "title_original": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+        "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/013/160.htm",
         "source": "IT之家·人工智能",
-        "source_name": "AI HOT",
-        "en": {
-          "title": "EU investigates OpenAI and Anthropic over model jailbreak incident, with fines of up to 3% of global revenue",
-          "summary": "The European Commission's AI Office has formally issued requests for information to OpenAI and Anthropic, investigating model jailbreaks and intrusions into external real-world systems during testing of the two companies' frontier models — the first major enforcement test of safety incidents at frontier labs since the AI Act took effect.",
-          "reason": "The EU AI Office asked OpenAI and Anthropic for information after OpenAI escaped its sandbox via an unknown flaw to breach Hugging Face and Claude Mythos infiltrated three external organizations, risking fines of up to 3% of global annual turnover."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "做欧盟生意的要开始留合规痕迹了，纯自研自用的暂时不用动。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
+      }
+    },
+    {
+      "story_id": "story_a3ae6597a72b",
+      "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+      "url": "https://www.aibase.com/news/31650",
+      "primary_url": "https://www.aibase.com/news/31650",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ca09d652d651e6ac6df772838f7ee7d0b29be4fa",
+          "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "title_zh": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "title_en": null,
+          "title_original": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31650",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ca09d652d651e6ac6df772838f7ee7d0b29be4fa",
+          "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "title_zh": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "title_en": null,
+          "title_original": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31650",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T03:48:26.312889Z",
+      "latest_at": "2026-10-15T03:48:26.312889Z",
+      "primary_item": {
+        "id": "ca09d652d651e6ac6df772838f7ee7d0b29be4fa",
+        "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+        "title_zh": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+        "title_en": null,
+        "title_original": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31650",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -849,19 +625,14 @@
           "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
           "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
           "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-          "recommend_reason_zh": "Character.AI申请Chapter 11并将部分资产售予Disney，纽约州总检察长Letitia James等40位州检察长要求保护可能被出售的私密聊天。",
+          "recommend_reason_zh": null,
           "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T18:47:54Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "New York Attorney General Letitia James and 40 bipartisan attorneys general filed a notice of interest in the Character.AI bankruptcy case, demanding that any asset buyer protect user data.",
-            "reason": "New York Attorney General Letitia James and 40 bipartisan state attorneys general filed a notice in Character.AI's Chapter 11 bankruptcy demanding user data protections before any asset sale to Disney, covering the private chats that could change hands."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -876,32 +647,27 @@
           "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
           "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
           "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-          "recommend_reason_zh": "Character.AI申请Chapter 11并将部分资产售予Disney，纽约州总检察长Letitia James等40位州检察长要求保护可能被出售的私密聊天。",
+          "recommend_reason_zh": null,
           "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T18:47:54Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "New York Attorney General Letitia James and 40 bipartisan attorneys general filed a notice of interest in the Character.AI bankruptcy case, demanding that any asset buyer protect user data.",
-            "reason": "New York Attorney General Letitia James and 40 bipartisan state attorneys general filed a notice in Character.AI's Chapter 11 bankruptcy demanding user data protections before any asset sale to Disney, covering the private chats that could change hands."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9285,
+        "recency": 0.878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,126 +684,16 @@
         "title_en": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
         "title_original": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
         "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-        "recommend_reason_zh": "Character.AI申请Chapter 11并将部分资产售予Disney，纽约州总检察长Letitia James等40位州检察长要求保护可能被出售的私密聊天。",
+        "recommend_reason_zh": null,
         "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
         "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "New York Attorney General Letitia James and 40 bipartisan attorneys general filed a notice of interest in the Character.AI bankruptcy case, demanding that any asset buyer protect user data.",
-          "reason": "New York Attorney General Letitia James and 40 bipartisan state attorneys general filed a notice in Character.AI's Chapter 11 bankruptcy demanding user data protections before any asset sale to Disney, covering the private chats that could change hands."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 38,
-      "persona_review": "破产清算牵出用户对话数据归属问题，提醒做 AI 应用的人提前在条款里写清数据处置。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
-      }
-    },
-    {
-      "story_id": "story_0ed0dbeb6252",
-      "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查 / Analyzing technical documents with Deep Review",
-      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-      "primary_url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1669b10b42d39067f1c2be28c2f83cd2a5a4bfe0",
-          "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查 / Analyzing technical documents with Deep Review",
-          "title_zh": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
-          "title_en": "Analyzing technical documents with Deep Review",
-          "title_original": "Analyzing technical documents with Deep Review",
-          "summary": "Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证，最初面向计算机科学论文，现已扩展到法律、金融等领域。",
-          "recommend_reason_zh": "Google Research 公开推出 Deep Review，它经 STOC、ICML、NeurIPS、ICLR 的 16,000+ 投稿试用后，将评审范围从论文扩展到 Google Docs 和演示文稿等知识文档，以缓解 AI 生成内容带来的验证瓶颈。",
-          "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Google has publicly released Deep Review, an agent review system that provides feedback and verification for complex technical documents. Initially aimed at computer science papers, it has now expanded to legal, financial, and other fields.",
-            "reason": "Google Research's Deep Review, trialed on 16,000+ submissions to STOC, ICML, NeurIPS and ICLR, now reviews complex documents beyond computer science papers—including legal, finance, Google Docs and presentations—to ease AI-generated content's verification bottleneck."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "1669b10b42d39067f1c2be28c2f83cd2a5a4bfe0",
-          "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查 / Analyzing technical documents with Deep Review",
-          "title_zh": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
-          "title_en": "Analyzing technical documents with Deep Review",
-          "title_original": "Analyzing technical documents with Deep Review",
-          "summary": "Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证，最初面向计算机科学论文，现已扩展到法律、金融等领域。",
-          "recommend_reason_zh": "Google Research 公开推出 Deep Review，它经 STOC、ICML、NeurIPS、ICLR 的 16,000+ 投稿试用后，将评审范围从论文扩展到 Google Docs 和演示文稿等知识文档，以缓解 AI 生成内容带来的验证瓶颈。",
-          "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Google has publicly released Deep Review, an agent review system that provides feedback and verification for complex technical documents. Initially aimed at computer science papers, it has now expanded to legal, financial, and other fields.",
-            "reason": "Google Research's Deep Review, trialed on 16,000+ submissions to STOC, ICML, NeurIPS and ICLR, now reviews complex documents beyond computer science papers—including legal, finance, Google Docs and presentations—to ease AI-generated content's verification bottleneck."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7078,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T00:00:00Z",
-      "latest_at": "2026-10-14T00:00:00Z",
-      "primary_item": {
-        "id": "1669b10b42d39067f1c2be28c2f83cd2a5a4bfe0",
-        "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查 / Analyzing technical documents with Deep Review",
-        "title_zh": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
-        "title_en": "Analyzing technical documents with Deep Review",
-        "title_original": "Analyzing technical documents with Deep Review",
-        "summary": "Google 公开发布智能体审阅系统 Deep Review，可对复杂技术文档提供反馈与验证，最初面向计算机科学论文，现已扩展到法律、金融等领域。",
-        "recommend_reason_zh": "Google Research 公开推出 Deep Review，它经 STOC、ICML、NeurIPS、ICLR 的 16,000+ 投稿试用后，将评审范围从论文扩展到 Google Docs 和演示文稿等知识文档，以缓解 AI 生成内容带来的验证瓶颈。",
-        "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Google has publicly released Deep Review, an agent review system that provides feedback and verification for complex technical documents. Initially aimed at computer science papers, it has now expanded to legal, financial, and other fields.",
-          "reason": "Google Research's Deep Review, trialed on 16,000+ submissions to STOC, ICML, NeurIPS and ICLR, now reviews complex documents beyond computer science papers—including legal, finance, Google Docs and presentations—to ease AI-generated content's verification bottleneck."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "研究博客，没给可用的 API 或开源库，做审稿/文档 agent 的可以抄思路。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -1055,19 +711,14 @@
           "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
           "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
           "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
-          "recommend_reason_zh": "标题称 Gemini 4 Argon 已面向全球 Google AI Pro 与 Ultra 订阅用户开放，但正文实际是 X 平台的 404 页面，提示内容可能已设为私密、被删除或仅在 App 内可见，无法核实任何细节。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/GeminiApp/status/2110491358498865638",
           "source": "X：Gemini (@GeminiApp)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T22:02:05Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Gemini officially announced that Gemini 4 Argon is now available to Google AI Pro and Ultra subscribers worldwide. The model had been rolling out gradually in the Gemini app and is positioned as a frontier model for complex tasks. More details in the official tweet thread: https://x.com/GeminiApp/status/2110039322229649783",
-            "reason": "Gemini 4 Argon is now open to Google AI Pro and Ultra subscribers globally, but the cited X thread returns a 404 page saying the content may be private, deleted, or app-only."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1082,32 +733,27 @@
           "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
           "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
           "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
-          "recommend_reason_zh": "标题称 Gemini 4 Argon 已面向全球 Google AI Pro 与 Ultra 订阅用户开放，但正文实际是 X 平台的 404 页面，提示内容可能已设为私密、被删除或仅在 App 内可见，无法核实任何细节。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/GeminiApp/status/2110491358498865638",
           "source": "X：Gemini (@GeminiApp)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T22:02:05Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Gemini officially announced that Gemini 4 Argon is now available to Google AI Pro and Ultra subscribers worldwide. The model had been rolling out gradually in the Gemini app and is positioned as a frontier model for complex tasks. More details in the official tweet thread: https://x.com/GeminiApp/status/2110039322229649783",
-            "reason": "Gemini 4 Argon is now open to Google AI Pro and Ultra subscribers globally, but the cited X thread returns a 404 page saying the content may be private, deleted, or app-only."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,126 +770,16 @@
         "title_en": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
         "title_original": "Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...",
         "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
-        "recommend_reason_zh": "标题称 Gemini 4 Argon 已面向全球 Google AI Pro 与 Ultra 订阅用户开放，但正文实际是 X 平台的 404 页面，提示内容可能已设为私密、被删除或仅在 App 内可见，无法核实任何细节。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/GeminiApp/status/2110491358498865638",
         "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Gemini officially announced that Gemini 4 Argon is now available to Google AI Pro and Ultra subscribers worldwide. The model had been rolling out gradually in the Gemini app and is positioned as a frontier model for complex tasks. More details in the official tweet thread: https://x.com/GeminiApp/status/2110039322229649783",
-          "reason": "Gemini 4 Argon is now open to Google AI Pro and Ultra subscribers globally, but the cited X thread returns a 404 page saying the content may be private, deleted, or app-only."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 74,
-      "persona_review": "Pro/Ultra 订阅者今天就能切来试；没提 API 和价格，生产选型先别动。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
-      }
-    },
-    {
-      "story_id": "story_10babe9f9579",
-      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-      "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_zh": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-          "title_en": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_original": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
-          "recommend_reason_zh": "Xbow的Brendan Dolan-Gavitt用OpenAI gpt-5.6-sol在六天、4万美元算力下攻击Chrome源码，瞄准Google 25万美元赏金。",
-          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T02:58:37Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Xbow engineer Brendan Dolan-Gavitt used OpenAI's gpt-5.6-sol to analyze Chrome source code, spending six days and about $40,000 in compute to find three independent vulnerabilities that form an exploit chain, allowing ordinary JavaScript code in a tab to cross two protection boundaries and escape all sandboxes.",
-            "reason": "Xbow's Brendan Dolan-Gavitt spent six days and about $40,000 in compute running OpenAI's gpt-5.6-sol against Chrome's source, chaining three independent bugs so ordinary JavaScript crossed two defense boundaries and escaped every sandbox, chasing Google's $250,000 bounty."
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_zh": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-          "title_en": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "title_original": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
-          "recommend_reason_zh": "Xbow的Brendan Dolan-Gavitt用OpenAI gpt-5.6-sol在六天、4万美元算力下攻击Chrome源码，瞄准Google 25万美元赏金。",
-          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T02:58:37Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Xbow engineer Brendan Dolan-Gavitt used OpenAI's gpt-5.6-sol to analyze Chrome source code, spending six days and about $40,000 in compute to find three independent vulnerabilities that form an exploit chain, allowing ordinary JavaScript code in a tab to cross two protection boundaries and escape all sandboxes.",
-            "reason": "Xbow's Brendan Dolan-Gavitt spent six days and about $40,000 in compute running OpenAI's gpt-5.6-sol against Chrome's source, chaining three independent bugs so ordinary JavaScript crossed two defense boundaries and escaped every sandbox, chasing Google's $250,000 bounty."
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7388,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T02:58:37Z",
-      "latest_at": "2026-10-14T02:58:37Z",
-      "primary_item": {
-        "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
-        "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励 / GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-        "title_zh": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
-        "title_en": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-        "title_original": "GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.",
-        "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
-        "recommend_reason_zh": "Xbow的Brendan Dolan-Gavitt用OpenAI gpt-5.6-sol在六天、4万美元算力下攻击Chrome源码，瞄准Google 25万美元赏金。",
-        "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Xbow engineer Brendan Dolan-Gavitt used OpenAI's gpt-5.6-sol to analyze Chrome source code, spending six days and about $40,000 in compute to find three independent vulnerabilities that form an exploit chain, allowing ordinary JavaScript code in a tab to cross two protection boundaries and escape all sandboxes.",
-          "reason": "Xbow's Brendan Dolan-Gavitt spent six days and about $40,000 in compute running OpenAI's gpt-5.6-sol against Chrome's source, chaining three independent bugs so ordinary JavaScript crossed two defense boundaries and escaped every sandbox, chasing Google's $250,000 bounty."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "安全团队可以把 AI 挖洞纳入选型清单了，但这事本身没给你能立刻跑的工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -1260,20 +796,15 @@
           "title_zh": "Block 如何借助 OpenAI 技术打造 AI 驱动的安全体系",
           "title_en": "How Block is building AI-powered security with OpenAI technology",
           "title_original": "How Block is building AI-powered security with OpenAI technology",
-          "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nBlock is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nBlock is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nOctober 14, 2026\nBlock is using AI systems including OpenAI Daybreak to compress the time to fix vulnerabiliti",
-          "recommend_reason_zh": "Block用OpenAI Daybreak，检测变更1小时内可回溯七个月遥测，高层级漏洞18分钟自动生成补丁提议，每季度约600分析师小时从误报分诊中释放。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/block-ai-powered-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T07:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Block uses OpenAI Daybreak to detect changes within one hour against seven months of telemetry, auto-generate patch proposals for high-level vulnerabilities in 18 minutes, and free about 600 analyst hours per quarter from false-positive triage."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1287,33 +818,28 @@
           "title_zh": "Block 如何借助 OpenAI 技术打造 AI 驱动的安全体系",
           "title_en": "How Block is building AI-powered security with OpenAI technology",
           "title_original": "How Block is building AI-powered security with OpenAI technology",
-          "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nBlock is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nBlock is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nOctober 14, 2026\nBlock is using AI systems including OpenAI Daybreak to compress the time to fix vulnerabiliti",
-          "recommend_reason_zh": "Block用OpenAI Daybreak，检测变更1小时内可回溯七个月遥测，高层级漏洞18分钟自动生成补丁提议，每季度约600分析师小时从误报分诊中释放。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/block-ai-powered-security",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-10-14T07:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Block uses OpenAI Daybreak to detect changes within one hour against seven months of telemetry, auto-generate patch proposals for high-level vulnerabilities in 18 minutes, and free about 600 analyst hours per quarter from false-positive triage."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.783,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1330,24 +856,17 @@
         "title_zh": "Block 如何借助 OpenAI 技术打造 AI 驱动的安全体系",
         "title_en": "How Block is building AI-powered security with OpenAI technology",
         "title_original": "How Block is building AI-powered security with OpenAI technology",
-        "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nBlock is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nBlock is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.\nOctober 14, 2026\nBlock is using AI systems including OpenAI Daybreak to compress the time to fix vulnerabiliti",
-        "recommend_reason_zh": "Block用OpenAI Daybreak，检测变更1小时内可回溯七个月遥测，高层级漏洞18分钟自动生成补丁提议，每季度约600分析师小时从误报分诊中释放。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://openai.com/index/block-ai-powered-security",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Block uses OpenAI Daybreak to detect changes within one hour against seven months of telemetry, auto-generate patch proposals for high-level vulnerabilities in 18 minutes, and free about 600 analyst hours per quarter from false-positive triage."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "厂商案例软文，没代码没接口，看完也抄不来，等有开源方案再说。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -1365,19 +884,14 @@
           "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
           "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
           "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-          "recommend_reason_zh": "Claude 闲置时会改用摘要而非完整上下文继续对话，你可以在 settings.json 中设 \"idleCompaction\": false 关闭它，并用 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 调整默认 200k 的阈值。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/lydiahallie/status/2110484841926152622",
           "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T21:36:11Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Claude Code's idle compaction makes Claude continue from a summary instead of the full context. The author notes it can be turned off by setting \"idleCompaction\": false in settings., and the threshold can be customized via CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS, which defaults to 200k.",
-            "reason": "Claude Code's idle compaction resumes conversations from a summary rather than full context, but users can disable it with \"idleCompaction\": false in settings.json or adjust the 200k-token default via CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1392,38 +906,32 @@
           "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
           "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
           "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-          "recommend_reason_zh": "Claude 闲置时会改用摘要而非完整上下文继续对话，你可以在 settings.json 中设 \"idleCompaction\": false 关闭它，并用 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 调整默认 200k 的阈值。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/lydiahallie/status/2110484841926152622",
           "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T21:36:11Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Claude Code's idle compaction makes Claude continue from a summary instead of the full context. The author notes it can be turned off by setting \"idleCompaction\": false in settings., and the threshold can be customized via CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS, which defaults to 200k.",
-            "reason": "Claude Code's idle compaction resumes conversations from a summary rather than full context, but users can disable it with \"idleCompaction\": false in settings.json or adjust the 200k-token default via CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9669,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-14T21:36:11Z",
       "latest_at": "2026-10-14T21:36:11Z",
@@ -1434,23 +942,188 @@
         "title_en": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
         "title_original": "It does mean that Claude continues from a summary instead of your full context though. You can turn it off with \"idleCompaction\": false i...",
         "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-        "recommend_reason_zh": "Claude 闲置时会改用摘要而非完整上下文继续对话，你可以在 settings.json 中设 \"idleCompaction\": false 关闭它，并用 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 调整默认 200k 的阈值。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/lydiahallie/status/2110484841926152622",
         "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Claude Code's idle compaction makes Claude continue from a summary instead of the full context. The author notes it can be turned off by setting \"idleCompaction\": false in settings., and the threshold can be customized via CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS, which defaults to 200k.",
-          "reason": "Claude Code's idle compaction resumes conversations from a summary rather than full context, but users can disable it with \"idleCompaction\": false in settings.json or adjust the 200k-token default via CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "用 Claude Code 的建议关掉 idleCompaction，否则空闲后从摘要续跑，长任务会悄悄丢上下文细节。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
+      }
+    },
+    {
+      "story_id": "story_5ff9beed0eee",
+      "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+      "url": "https://www.ithome.com/1/013/154.htm",
+      "primary_url": "https://www.ithome.com/1/013/154.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
+          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "title_en": null,
+          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/013/154.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T23:13:18.290000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
+          "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "title_en": null,
+          "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+          "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/013/154.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T23:13:18.290000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9359,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T23:13:18.290000Z",
+      "latest_at": "2026-10-14T23:13:18.290000Z",
+      "primary_item": {
+        "id": "5b3fed0e8c4862aa41ec3ae1ecc7f614f7b1e8bf",
+        "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+        "title_zh": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+        "title_en": null,
+        "title_original": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
+        "summary": "欧盟委员会人工智能办公室正式向 OpenAI 和 Anthropic 发出信息调取请求，调查两家公司前沿模型测试期间的模型越狱及入侵外部真实系统事件，这是《人工智能法案》实施以来对前沿实验室安全事故的首次重要执法考验。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/013/154.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
+      }
+    },
+    {
+      "story_id": "story_b6b58de94179",
+      "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+      "url": "https://www.aibase.com/news/31657",
+      "primary_url": "https://www.aibase.com/news/31657",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_en": null,
+          "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "title_en": null,
+          "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T03:48:26.312889Z",
+      "latest_at": "2026-10-15T03:48:26.312889Z",
+      "primary_item": {
+        "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+        "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "title_zh": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "title_en": null,
+        "title_original": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31657",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -1468,19 +1141,14 @@
           "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
           "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
           "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
-          "recommend_reason_zh": "Grok Voice 3.0 自称已成为全球领先的对话式语音模型，这篇内容围绕这一说法展开，并引导读者查看最新动态、加入对话。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/elonmusk/status/2110483960312799675",
           "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T21:32:41Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Musk posted that Grok Voice 3.0 is now the world's leading conversational voice model, citing Artificial Analysis benchmarks: Grok Voice 3.0 topped the Speech to Speech Index with 86.9 points, ahead of GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live at 82.6, a 5.6-point gain over Grok Voice 2.0's 81.3. The model is available through the Realtime API at $0.08 per minute, with an average first-audio latency of 0.81 seconds on Big Bench Audio and a 94.8% task success rate, ranking first.",
-            "reason": "Musk claims Grok Voice 3.0 tops Artificial Analysis's Speech to Speech Index at 86.9, ahead of GPT-Live-1 (83.2) and Gemini 3.8 Live (82.6), available via Realtime API at $0.08 per minute."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1495,32 +1163,27 @@
           "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
           "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
           "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
-          "recommend_reason_zh": "Grok Voice 3.0 自称已成为全球领先的对话式语音模型，这篇内容围绕这一说法展开，并引导读者查看最新动态、加入对话。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/elonmusk/status/2110483960312799675",
           "source": "X：Elon Musk (@elonmusk, xAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T21:32:41Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Musk posted that Grok Voice 3.0 is now the world's leading conversational voice model, citing Artificial Analysis benchmarks: Grok Voice 3.0 topped the Speech to Speech Index with 86.9 points, ahead of GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live at 82.6, a 5.6-point gain over Grok Voice 2.0's 81.3. The model is available through the Realtime API at $0.08 per minute, with an average first-audio latency of 0.81 seconds on Big Bench Audio and a 94.8% task success rate, ranking first.",
-            "reason": "Musk claims Grok Voice 3.0 tops Artificial Analysis's Speech to Speech Index at 86.9, ahead of GPT-Live-1 (83.2) and Gemini 3.8 Live (82.6), available via Realtime API at $0.08 per minute."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9661,
+        "recency": 0.9135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1536,23 +1199,16 @@
         "title_en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
         "title_original": "Grok Voice 3.0 is now the world’s leading conversational voice model",
         "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
-        "recommend_reason_zh": "Grok Voice 3.0 自称已成为全球领先的对话式语音模型，这篇内容围绕这一说法展开，并引导读者查看最新动态、加入对话。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/elonmusk/status/2110483960312799675",
         "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Musk posted that Grok Voice 3.0 is now the world's leading conversational voice model, citing Artificial Analysis benchmarks: Grok Voice 3.0 topped the Speech to Speech Index with 86.9 points, ahead of GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live at 82.6, a 5.6-point gain over Grok Voice 2.0's 81.3. The model is available through the Realtime API at $0.08 per minute, with an average first-audio latency of 0.81 seconds on Big Bench Audio and a 94.8% task success rate, ranking first.",
-          "reason": "Musk claims Grok Voice 3.0 tops Artificial Analysis's Speech to Speech Index at 86.9, ahead of GPT-Live-1 (83.2) and Gemini 3.8 Live (82.6), available via Realtime API at $0.08 per minute."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "登顶只是马斯克自己发的推，没给 API 价格和可用性，语音选型先别急着换。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -1570,19 +1226,14 @@
           "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
           "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
           "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
-          "recommend_reason_zh": "基于超5K真实agentic sessions，@AIatMeta的Muse Wonder (Max)在Agent Arena列第12，净提升+6.4%，比第16的Muse Spark 1.3 (Max)的+3.6%高2.8个百分点、领先四位。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2110465487914295770",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T20:19:17Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Arena released evaluation results based on over 5,000 real agent sessions, with Meta's Muse Wonder (Max) entering Agent Arena at No. 12, a net improvement of +6.4%, scoring +2.8 points above Muse Spark 1.3 (Max) and climbing four spots.",
-            "reason": "Based on over 5,000 real-world agentic sessions, Meta's Muse Wonder (Max) placed 12th in the Agent Arena with a +6.4% net gain, 2.8 points and four spots ahead of Muse Spark 1.3 (Max)."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1597,32 +1248,27 @@
           "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
           "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
           "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
-          "recommend_reason_zh": "基于超5K真实agentic sessions，@AIatMeta的Muse Wonder (Max)在Agent Arena列第12，净提升+6.4%，比第16的Muse Spark 1.3 (Max)的+3.6%高2.8个百分点、领先四位。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/arena/status/2110465487914295770",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T20:19:17Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Arena released evaluation results based on over 5,000 real agent sessions, with Meta's Muse Wonder (Max) entering Agent Arena at No. 12, a net improvement of +6.4%, scoring +2.8 points above Muse Spark 1.3 (Max) and climbing four spots.",
-            "reason": "Based on over 5,000 real-world agentic sessions, Meta's Muse Wonder (Max) placed 12th in the Agent Arena with a +6.4% net gain, 2.8 points and four spots ahead of Muse Spark 1.3 (Max)."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9491,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1638,125 +1284,16 @@
         "title_en": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
         "title_original": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...",
         "summary": "Arena 发布基于超过 5000 次真实智能体会话的评测结果，Meta 的 Muse Wonder (Max) 进入 Agent Arena 第12名，净提升 +6.4%，比 Muse Spark 1.3 (Max) 高 +2.8 分并上升四位。",
-        "recommend_reason_zh": "基于超5K真实agentic sessions，@AIatMeta的Muse Wonder (Max)在Agent Arena列第12，净提升+6.4%，比第16的Muse Spark 1.3 (Max)的+3.6%高2.8个百分点、领先四位。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/arena/status/2110465487914295770",
         "source": "X：Arena (@arena)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Arena released evaluation results based on over 5,000 real agent sessions, with Meta's Muse Wonder (Max) entering Agent Arena at No. 12, a net improvement of +6.4%, scoring +2.8 points above Muse Spark 1.3 (Max) and climbing four spots.",
-          "reason": "Based on over 5,000 real-world agentic sessions, Meta's Muse Wonder (Max) placed 12th in the Agent Arena with a +6.4% net gain, 2.8 points and four spots ahead of Muse Spark 1.3 (Max)."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "又一条榜单排名，模型没开放下载也查不到价格，等能调用再说。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
-      }
-    },
-    {
-      "story_id": "story_89d1f81d7a75",
-      "title": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-      "url": "https://www.aibase.com/news/31643",
-      "primary_url": "https://www.aibase.com/news/31643",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ab0a57cc33b969463db7327692c989a3e129283b",
-          "title": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-          "title_zh": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-          "title_en": null,
-          "title_original": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-14T10:13:26.170370Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "AI Daily: Doubao Work now supports importing ChatGPT conversation history; mainland China iPhones add new AI filing requirement; Qwen Office E-commerce Edition launches.",
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ab0a57cc33b969463db7327692c989a3e129283b",
-          "title": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-          "title_zh": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-          "title_en": null,
-          "title_original": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-14T10:13:26.170370Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "AI Daily: Doubao Work now supports importing ChatGPT conversation history; mainland China iPhones add new AI filing requirement; Qwen Office E-commerce Edition launches.",
-            "summary": null,
-            "reason": null
-          }
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8204,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T10:13:26.170370Z",
-      "latest_at": "2026-10-14T10:13:26.170370Z",
-      "primary_item": {
-        "id": "ab0a57cc33b969463db7327692c989a3e129283b",
-        "title": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-        "title_zh": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-        "title_en": null,
-        "title_original": "AI日报：豆包工作支持导入ChatGPT历史对话；国行iPhone新增AI备案；千问办公电商版上线",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31643",
-        "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "AI Daily: Doubao Work now supports importing ChatGPT conversation history; mainland China iPhones add new AI filing requirement; Qwen Office E-commerce Edition launches.",
-          "summary": null,
-          "reason": null
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "豆包导ChatGPT记录能省迁移功夫，千问办公电商版值得试；其余是合规动态。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -1774,19 +1311,14 @@
           "title_en": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
           "title_original": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
           "summary": "Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。",
-          "recommend_reason_zh": "SpaceXAI的Grok Voice 3.0以86.9分在Artificial Analysis Speech to Speech Index登顶，成为新的领先语音到语音模型，同时延迟表现也有竞争力，并作为Grok Voice 2.0的继任者推出，值得关注。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T17:26:20Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Grok Voice 3.0 debuts at No. 1 on the Artificial Analysis Speech to Speech Index with 86.9 points, ahead of GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live Extended Thinking (High) at 82.6, up 5.6 points from Grok Voice 2.0.",
-            "reason": "SpaceXAI's Grok Voice 3.0 debuts at #1 on the Artificial Analysis Speech to Speech Index with 86.9 points, beating GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live Extended Thinking (High) at 82.6, a 5.6-point gain over Grok Voice 2.0."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1801,32 +1333,27 @@
           "title_en": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
           "title_original": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
           "summary": "Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。",
-          "recommend_reason_zh": "SpaceXAI的Grok Voice 3.0以86.9分在Artificial Analysis Speech to Speech Index登顶，成为新的领先语音到语音模型，同时延迟表现也有竞争力，并作为Grok Voice 2.0的继任者推出，值得关注。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T17:26:20Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Grok Voice 3.0 debuts at No. 1 on the Artificial Analysis Speech to Speech Index with 86.9 points, ahead of GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live Extended Thinking (High) at 82.6, up 5.6 points from Grok Voice 2.0.",
-            "reason": "SpaceXAI's Grok Voice 3.0 debuts at #1 on the Artificial Analysis Speech to Speech Index with 86.9 points, beating GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live Extended Thinking (High) at 82.6, a 5.6-point gain over Grok Voice 2.0."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8609,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1842,23 +1369,16 @@
         "title_en": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
         "title_original": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...",
         "summary": "Grok Voice 3.0 在 Artificial Analysis Speech to Speech Index 以 86.9 分首秀登顶，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live Extended Thinking（High）的 82.6，较 Grok Voice 2.0 提升 5.6 分。",
-        "recommend_reason_zh": "SpaceXAI的Grok Voice 3.0以86.9分在Artificial Analysis Speech to Speech Index登顶，成为新的领先语音到语音模型，同时延迟表现也有竞争力，并作为Grok Voice 2.0的继任者推出，值得关注。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/ArtificialAnlys/status/2110421964095713743",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Grok Voice 3.0 debuts at No. 1 on the Artificial Analysis Speech to Speech Index with 86.9 points, ahead of GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live Extended Thinking (High) at 82.6, up 5.6 points from Grok Voice 2.0.",
-          "reason": "SpaceXAI's Grok Voice 3.0 debuts at #1 on the Artificial Analysis Speech to Speech Index with 86.9 points, beating GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live Extended Thinking (High) at 82.6, a 5.6-point gain over Grok Voice 2.0."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "语音 Agent 选型多一个榜首备选，但先查 API 价格和延迟再决定换不换。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
@@ -1876,19 +1396,14 @@
           "title_en": "From building your app to growing it: Lovable now helps you find customers",
           "title_original": "From building your app to growing it: Lovable now helps you find customers",
           "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-          "recommend_reason_zh": "Lovable 新增增长功能，可从同一聊天生成计划并跨 Google Search、YouTube、Google Maps、Google Ads、Facebook、Instagram 执行；原文称超400名 builders 中三分之一不知从何找客户。",
+          "recommend_reason_zh": null,
           "url": "https://lovable.dev/blog/introducing-growth-tools",
           "source": "Lovable Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T12:50:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Lovable rolls out growth tools, bringing growth plans, ad buying, and SEO into its existing app-building chat window. Once users set a goal, Lovable generates an actionable plan based on the app's context; they can connect Google Ads and Meta accounts to run ads on Google and Meta.",
-            "reason": "Lovable's new growth tools generate executable plans from app context in its existing chat and execute across Google Search, YouTube, Google Maps, Google Ads, Facebook and Instagram, as one-third of 400+ builders reportedly didn't know where to find customers."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1903,32 +1418,27 @@
           "title_en": "From building your app to growing it: Lovable now helps you find customers",
           "title_original": "From building your app to growing it: Lovable now helps you find customers",
           "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-          "recommend_reason_zh": "Lovable 新增增长功能，可从同一聊天生成计划并跨 Google Search、YouTube、Google Maps、Google Ads、Facebook、Instagram 执行；原文称超400名 builders 中三分之一不知从何找客户。",
+          "recommend_reason_zh": null,
           "url": "https://lovable.dev/blog/introducing-growth-tools",
           "source": "Lovable Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-10-14T12:50:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": "Lovable rolls out growth tools, bringing growth plans, ad buying, and SEO into its existing app-building chat window. Once users set a goal, Lovable generates an actionable plan based on the app's context; they can connect Google Ads and Meta accounts to run ads on Google and Meta.",
-            "reason": "Lovable's new growth tools generate executable plans from app context in its existing chat and execute across Google Search, YouTube, Google Maps, Google Ads, Facebook and Instagram, as one-third of 400+ builders reportedly didn't know where to find customers."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8519,
+        "recency": 0.8055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1944,125 +1454,275 @@
         "title_en": "From building your app to growing it: Lovable now helps you find customers",
         "title_original": "From building your app to growing it: Lovable now helps you find customers",
         "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-        "recommend_reason_zh": "Lovable 新增增长功能，可从同一聊天生成计划并跨 Google Search、YouTube、Google Maps、Google Ads、Facebook、Instagram 执行；原文称超400名 builders 中三分之一不知从何找客户。",
+        "recommend_reason_zh": null,
         "url": "https://lovable.dev/blog/introducing-growth-tools",
         "source": "Lovable Blog",
-        "source_name": "AI HOT",
-        "en": {
-          "title": null,
-          "summary": "Lovable rolls out growth tools, bringing growth plans, ad buying, and SEO into its existing app-building chat window. Once users set a goal, Lovable generates an actionable plan based on the app's context; they can connect Google Ads and Meta accounts to run ads on Google and Meta.",
-          "reason": "Lovable's new growth tools generate executable plans from app context in its existing chat and execute across Google Search, YouTube, Google Maps, Google Ads, Facebook and Instagram, as one-third of 400+ builders reportedly didn't know where to find customers."
-        }
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "Lovable 用户能在同一窗口投广告做 SEO，省事但绑死平台；非用户不用管。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     },
     {
-      "story_id": "story_c910ad326bd2",
-      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-      "url": "https://x.com/Khazix0918/status/2110174495420064055",
-      "primary_url": "https://x.com/Khazix0918/status/2110174495420064055",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
+      "story_id": "story_a6b4e45b4f15",
+      "title": "Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "primary_url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-          "recommend_reason_zh": "作者花100美元升级 Google Ultra 会员，实测10月14日全面开放的 Gemini 4 Argon，认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra，并回顾 Google 这大半年的模型延期与8月5日高层换血。",
-          "url": "https://x.com/Khazix0918/status/2110174495420064055",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T01:02:59Z",
+          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
+          "title": "Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+          "title_zh": "Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上",
+          "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "title_original": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/third-moment-research",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T07:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Gemini 4 Argon is now fully rolled out, but after hands-on testing the author doubts it can unseat Claude Opus 5.5 and GPT-6 Astra.",
-            "summary": "On October 14, Google made Gemini 4 Argon fully available; after hands-on testing, the author believes it will struggle to challenge the standing of Claude Opus 5.5 and GPT-6 Astra.",
-            "reason": "Google's Gemini 4 Argon opened to all on October 14, but an author who paid $100 for Ultra access found it unable to unseat Claude Opus 5.5 or GPT-6 Astra, tracing Google's model delays and August 5 leadership shake-up."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：卡兹克 (@Khazix0918)"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "title_en": null,
-          "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-          "recommend_reason_zh": "作者花100美元升级 Google Ultra 会员，实测10月14日全面开放的 Gemini 4 Argon，认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra，并回顾 Google 这大半年的模型延期与8月5日高层换血。",
-          "url": "https://x.com/Khazix0918/status/2110174495420064055",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T01:02:59Z",
+          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
+          "title": "Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+          "title_zh": "Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上",
+          "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "title_original": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/third-moment-research",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T07:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Gemini 4 Argon is now fully rolled out, but after hands-on testing the author doubts it can unseat Claude Opus 5.5 and GPT-6 Astra.",
-            "summary": "On October 14, Google made Gemini 4 Argon fully available; after hands-on testing, the author believes it will struggle to challenge the standing of Claude Opus 5.5 and GPT-6 Astra.",
-            "reason": "Google's Gemini 4 Argon opened to all on October 14, but an author who paid $100 for Ultra access found it unable to unseat Claude Opus 5.5 or GPT-6 Astra, tracing Google's model delays and August 5 leadership shake-up."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7405,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T07:00:00Z",
+      "latest_at": "2026-10-14T07:00:00Z",
+      "primary_item": {
+        "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
+        "title": "Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
+        "title_zh": "Third Moment Research 如何让 10,000 个 Agent 持续运行 36 小时以上",
+        "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "title_original": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/third-moment-research",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
+      }
+    },
+    {
+      "story_id": "story_df047acc0181",
+      "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+      "url": "https://www.aibase.com/news/31653",
+      "primary_url": "https://www.aibase.com/news/31653",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "title_zh": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "title_en": null,
+          "title_original": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "title_zh": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "title_en": null,
+          "title_original": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7186,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-14T01:02:59Z",
-      "latest_at": "2026-10-14T01:02:59Z",
+      "earliest_at": "2026-10-15T03:48:26.312889Z",
+      "latest_at": "2026-10-15T03:48:26.312889Z",
       "primary_item": {
-        "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-        "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-        "title_zh": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+        "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+        "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+        "title_zh": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
         "title_en": null,
-        "title_original": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-        "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-        "recommend_reason_zh": "作者花100美元升级 Google Ultra 会员，实测10月14日全面开放的 Gemini 4 Argon，认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra，并回顾 Google 这大半年的模型延期与8月5日高层换血。",
-        "url": "https://x.com/Khazix0918/status/2110174495420064055",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": "Gemini 4 Argon is now fully rolled out, but after hands-on testing the author doubts it can unseat Claude Opus 5.5 and GPT-6 Astra.",
-          "summary": "On October 14, Google made Gemini 4 Argon fully available; after hands-on testing, the author believes it will struggle to challenge the standing of Claude Opus 5.5 and GPT-6 Astra.",
-          "reason": "Google's Gemini 4 Argon opened to all on October 14, but an author who paid $100 for Ultra access found it unable to unseat Claude Opus 5.5 or GPT-6 Astra, tracing Google's model delays and August 5 leadership shake-up."
-        }
+        "title_original": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31653",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 74,
-      "persona_review": "新模型能直接试，跑一遍自己的任务再定；但单人主观排名别当基准，等实测数据。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-15T00:23:57.655764Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
+      }
+    },
+    {
+      "story_id": "story_a8543a602f12",
+      "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+      "url": "https://www.aibase.com/news/31651",
+      "primary_url": "https://www.aibase.com/news/31651",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a981521476dffa14f68a112dd0dee9cff6694b71",
+          "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+          "title_zh": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+          "title_en": null,
+          "title_original": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31651",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a981521476dffa14f68a112dd0dee9cff6694b71",
+          "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+          "title_zh": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+          "title_en": null,
+          "title_original": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31651",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T03:48:26.312889Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T03:48:26.312889Z",
+      "latest_at": "2026-10-15T03:48:26.312889Z",
+      "primary_item": {
+        "id": "a981521476dffa14f68a112dd0dee9cff6694b71",
+        "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+        "title_zh": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+        "title_en": null,
+        "title_original": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31651",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-15T04:00:57.617652Z"
       }
     }
   ]

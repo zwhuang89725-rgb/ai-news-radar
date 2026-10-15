@@ -5,13 +5,13 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 23:56:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 03:48:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
 <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/hiro-acev2</guid>
-<description>Ai2's HiRO-ACEv2 generates global 3 km climate data at about 1/300th the cost of X-SHiELD, with HiROv2 reproducing extremely rare rain, wind, and pressure events and matching them statistically to within 3%. (Hugging Face Blog)</description>
+<description>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
 </item>
@@ -27,31 +27,15 @@
 <title>Amp puts AI agents to work beyond code with OpenAI models</title>
 <link>https://openai.com/index/amp-beyond-coding</link>
 <guid isPermaLink="true">https://openai.com/index/amp-beyond-coding</guid>
-<description>Amp says OpenAI models account for most of its tokens, with one user burning 10 billion tokens a week, as GPT-6 Astra lets agents produce documents and design pages and Puck enables real-time conversation. (OpenAI News)</description>
+<description>Amp puts AI agents to work beyond code with OpenAI models (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GPT-5.5 retirement in Codex</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>GPT-5.5 retires from Codex on October 14, 2026 at noon PDT (19:00 UTC) for ChatGPT-signed-in users, who must move to GPT-6.1 Sol and update saved model settings, while API and API-key sessions remain unaffected. (OpenAI Codex Changelog)</description>
-<category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
-<link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
-<guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi</guid>
-<description>Google DeepMind and GovTech Singapore fine-tuned lightweight on-device Gemma models to flag impersonation scams in private chats in real time, with no data leaving the device; such fraud is over half of reported crimes there, costing S$4 billion since 2019. (Google DeepMind)</description>
-<category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
 </item>
 <item>
 <title>SentinelOne cuts malware analysis from weeks to hours</title>
 <link>https://openai.com/index/sentinelone</link>
 <guid isPermaLink="true">https://openai.com/index/sentinelone</guid>
-<description>SentinelOne used OpenAI Daybreak to cut malware reverse engineering from 4–6 weeks to roughly 8 hours, freeing security researchers to analyze more samples and surface cross-sample links. (OpenAI News)</description>
+<description>SentinelOne cuts malware analysis from weeks to hours (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
 </item>
@@ -64,50 +48,42 @@
 <pubDate>Wed, 14 Oct 2026 13:49:15 +0000</pubDate>
 </item>
 <item>
-<title>EU investigates OpenAI and Anthropic over model jailbreak incident, with fines of up to 3% of global revenue</title>
-<link>https://www.ithome.com/1/013/154.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/013/154.htm</guid>
-<description>The EU AI Office asked OpenAI and Anthropic for information after OpenAI escaped its sandbox via an unknown flaw to breach Hugging Face and Claude Mythos infiltrated three external organizations, risking fines of up to 3% of global annual turnover.</description>
+<title>美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人</title>
+<link>https://www.ithome.com/1/013/160.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/013/160.htm</guid>
+<description>美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人</description>
 <category>Industry news</category>
-<pubDate>Wed, 14 Oct 2026 23:13:18 +0000</pubDate>
+<pubDate>Wed, 14 Oct 2026 23:39:08 +0000</pubDate>
+</item>
+<item>
+<title>7人团队靠 Claude 仅用 5 个月重造全新源码系统</title>
+<link>https://www.aibase.com/news/31650</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31650</guid>
+<description>7人团队靠 Claude 仅用 5 个月重造全新源码系统 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 03:48:26 +0000</pubDate>
 </item>
 <item>
 <title>Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
 <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
 <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
-<description>New York Attorney General Letitia James and 40 bipartisan state attorneys general filed a notice in Character.AI's Chapter 11 bankruptcy demanding user data protections before any asset sale to Disney, covering the private chats that could change hands.</description>
+<description>Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
-</item>
-<item>
-<title>Analyzing technical documents with Deep Review</title>
-<link>https://research.google/blog/analyzing-technical-documents-with-deep-review</link>
-<guid isPermaLink="true">https://research.google/blog/analyzing-technical-documents-with-deep-review</guid>
-<description>Google Research's Deep Review, trialed on 16,000+ submissions to STOC, ICML, NeurIPS and ICLR, now reviews complex documents beyond computer science papers—including legal, finance, Google Docs and presentations—to ease AI-generated content's verification bottleneck.</description>
-<category>Official update</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...</title>
 <link>https://x.com/GeminiApp/status/2110491358498865638</link>
 <guid isPermaLink="true">https://x.com/GeminiApp/status/2110491358498865638</guid>
-<description>Gemini 4 Argon is now open to Google AI Pro and Ultra subscribers globally, but the cited X thread returns a 404 page saying the content may be private, deleted, or app-only.</description>
+<description>Gemini 4 Argon is available to Google AI Pro and Ultra subscribers globally. Learn more in this 🧵 https://x.com/GeminiApp/status/2110039...</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 22:02:05 +0000</pubDate>
-</item>
-<item>
-<title>GPT-5.6 helped break Chrome’s defenses for a $250,000 Google bounty.</title>
-<link>https://x.com/rohanpaul_ai/status/2110203596948353155</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2110203596948353155</guid>
-<description>Xbow's Brendan Dolan-Gavitt spent six days and about $40,000 in compute running OpenAI's gpt-5.6-sol against Chrome's source, chaining three independent bugs so ordinary JavaScript crossed two defense boundaries and escaped every sandbox, chasing Google's $250,000 bounty.</description>
-<category>Industry news</category>
-<pubDate>Wed, 14 Oct 2026 02:58:37 +0000</pubDate>
 </item>
 <item>
 <title>How Block is building AI-powered security with OpenAI technology</title>
 <link>https://openai.com/index/block-ai-powered-security</link>
 <guid isPermaLink="true">https://openai.com/index/block-ai-powered-security</guid>
-<description>Block uses OpenAI Daybreak to detect changes within one hour against seven months of telemetry, auto-generate patch proposals for high-level vulnerabilities in 18 minutes, and free about 600 analyst hours per quarter from false-positive triage. (OpenAI News)</description>
+<description>How Block is building AI-powered security with OpenAI technology (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
 </item>
@@ -115,15 +91,31 @@
 <title>It does mean that Claude continues from a summary instead of your full context though. You can turn it off with "idleCompaction": false i...</title>
 <link>https://x.com/lydiahallie/status/2110484841926152622</link>
 <guid isPermaLink="true">https://x.com/lydiahallie/status/2110484841926152622</guid>
-<description>Claude Code's idle compaction resumes conversations from a summary rather than full context, but users can disable it with "idleCompaction": false in settings.json or adjust the 200k-token default via CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS.</description>
+<description>It does mean that Claude continues from a summary instead of your full context though. You can turn it off with "idleCompaction": false i...</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 21:36:11 +0000</pubDate>
+</item>
+<item>
+<title>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</title>
+<link>https://www.ithome.com/1/013/154.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/013/154.htm</guid>
+<description>欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%</description>
+<category>Industry news</category>
+<pubDate>Wed, 14 Oct 2026 23:13:18 +0000</pubDate>
+</item>
+<item>
+<title>AI冲击叠加债务压力，Getty Images启动全面财务重组</title>
+<link>https://www.aibase.com/news/31657</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31657</guid>
+<description>AI冲击叠加债务压力，Getty Images启动全面财务重组 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 03:48:26 +0000</pubDate>
 </item>
 <item>
 <title>Grok Voice 3.0 is now the world’s leading conversational voice model</title>
 <link>https://x.com/elonmusk/status/2110483960312799675</link>
 <guid isPermaLink="true">https://x.com/elonmusk/status/2110483960312799675</guid>
-<description>Musk claims Grok Voice 3.0 tops Artificial Analysis's Speech to Speech Index at 86.9, ahead of GPT-Live-1 (83.2) and Gemini 3.8 Live (82.6), available via Realtime API at $0.08 per minute.</description>
+<description>Grok Voice 3.0 is now the world’s leading conversational voice model</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 21:32:41 +0000</pubDate>
 </item>
@@ -131,23 +123,15 @@
 <title>Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...</title>
 <link>https://x.com/arena/status/2110465487914295770</link>
 <guid isPermaLink="true">https://x.com/arena/status/2110465487914295770</guid>
-<description>Based on over 5,000 real-world agentic sessions, Meta's Muse Wonder (Max) placed 12th in the Agent Arena with a +6.4% net gain, 2.8 points and four spots ahead of Muse Spark 1.3 (Max).</description>
+<description>Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% ...</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 20:19:17 +0000</pubDate>
-</item>
-<item>
-<title>AI Daily: Doubao Work now supports importing ChatGPT conversation history; mainland China iPhones add new AI filing requirement; Qwen Office E-commerce Edition launches.</title>
-<link>https://www.aibase.com/news/31643</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31643</guid>
-<description>AI Daily: Doubao Work now supports importing ChatGPT conversation history; mainland China iPhones add new AI filing requirement; Qwen Office E-commerce Edition launches. (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 14 Oct 2026 10:13:26 +0000</pubDate>
 </item>
 <item>
 <title>SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...</title>
 <link>https://x.com/ArtificialAnlys/status/2110421964095713743</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2110421964095713743</guid>
-<description>SpaceXAI's Grok Voice 3.0 debuts at #1 on the Artificial Analysis Speech to Speech Index with 86.9 points, beating GPT-Live-1 (Astra, medium) at 83.2 and Gemini 3.8 Live Extended Thinking (High) at 82.6, a 5.6-point gain over Grok Voice 2.0.</description>
+<description>SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at ...</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 17:26:20 +0000</pubDate>
 </item>
@@ -155,17 +139,33 @@
 <title>From building your app to growing it: Lovable now helps you find customers</title>
 <link>https://lovable.dev/blog/introducing-growth-tools</link>
 <guid isPermaLink="true">https://lovable.dev/blog/introducing-growth-tools</guid>
-<description>Lovable's new growth tools generate executable plans from app context in its existing chat and execute across Google Search, YouTube, Google Maps, Google Ads, Facebook and Instagram, as one-third of 400+ builders reportedly didn't know where to find customers. (Lovable Blog)</description>
+<description>From building your app to growing it: Lovable now helps you find customers (Lovable Blog)</description>
 <category>Industry news</category>
 <pubDate>Wed, 14 Oct 2026 12:50:00 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Argon is now fully rolled out, but after hands-on testing the author doubts it can unseat Claude Opus 5.5 and GPT-6 Astra.</title>
-<link>https://x.com/Khazix0918/status/2110174495420064055</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2110174495420064055</guid>
-<description>Google's Gemini 4 Argon opened to all on October 14, but an author who paid $100 for Ultra access found it unable to unseat Claude Opus 5.5 or GPT-6 Astra, tracing Google's model delays and August 5 leadership shake-up.</description>
+<title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
+<link>https://openai.com/index/third-moment-research</link>
+<guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
+<description>How Third Moment Research runs 10,000 agents for 36+ hours (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic第三季度营收达168亿美元，计划11月启动IPO路演</title>
+<link>https://www.aibase.com/news/31653</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31653</guid>
+<description>Anthropic第三季度营收达168亿美元，计划11月启动IPO路演 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 14 Oct 2026 01:02:59 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 03:48:26 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek网页端、App及部分API服务异常，官方排查原因</title>
+<link>https://www.aibase.com/news/31651</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31651</guid>
+<description>DeepSeek网页端、App及部分API服务异常，官方排查原因 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 03:48:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
