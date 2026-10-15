@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-15T09:58:47.083612Z",
+  "generated_at": "2026-10-15T11:33:49.173814Z",
   "date": "2026-10-15",
   "total_items": 4,
   "items": [
     {
-      "id": "project_c4764ac37ccd",
-      "project_name": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "id": "project_3de13b42e404",
+      "project_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "mksglu/context-mode 为 AI 编程代理优化上下文窗口，沙箱化工具输出、持久化会话记忆，并通过 MCP 与 hooks 跨平台路由，值得体验。",
-      "recommend_reason_en": "mksglu/context-mode optimizes context windows for AI coding agents by sandboxing tool output, persisting session memory, and enforcing routing across 17 platforms via MCP and hooks, reportedly cutting output by 98%, making it worth opening.",
+      "recommend_reason_zh": "看看这个开源项目的「Official, Anthropic-managed directory of high quality Claude Code Plugins」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Official, Anthropic-managed directory of high quality Claude Code Plugins\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T09:57:55.024227Z"
+      "observed_at": "2026-10-15T11:33:07.718595Z"
     },
     {
-      "id": "project_45a9d9f5ef01",
-      "project_name": "GLM-Legal",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "summary": "Z.ai’s legal AI model for contract review and compliance",
+      "id": "project_241febded1ad",
+      "project_name": "Dreamscale Labs",
+      "url": "https://www.producthunt.com/products/dreamscale-labs",
+      "summary": "Run the best robot AI models over the cloud",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Z.ai’s legal AI model for contract review and compliance」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Z.ai’s legal AI model for contract review and compliance\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T16:24:12Z",
-      "updated_at": "2026-10-15T09:57:32Z",
+      "recommend_reason_zh": "体验它主打的「Run the best robot AI models over the cloud」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run the best robot AI models over the cloud\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-13T06:27:22Z",
+      "updated_at": "2026-10-15T11:28:23Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T09:58:36.803348Z"
+      "observed_at": "2026-10-15T11:33:39.929074Z"
     },
     {
       "id": "project_36917ef32b44",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T09:57:55.024227Z"
+      "observed_at": "2026-10-15T11:33:07.718595Z"
     },
     {
-      "id": "project_33a93673c36f",
-      "project_name": "Lleverage",
-      "url": "https://www.producthunt.com/products/lleverage",
-      "summary": "The autonomous back office for the physical economy",
+      "id": "project_0cef2f3b2c70",
+      "project_name": "Backdrop",
+      "url": "https://www.producthunt.com/products/backdrop",
+      "summary": "Build AI coworkers for any workflow, any industry",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The autonomous back office for the physical economy」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The autonomous back office for the physical economy\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-13T15:53:16Z",
-      "updated_at": "2026-10-15T09:57:31Z",
+      "recommend_reason_zh": "体验它主打的「Build AI coworkers for any workflow, any industry」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Build AI coworkers for any workflow, any industry\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-13T05:14:44Z",
+      "updated_at": "2026-10-15T11:28:23Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T09:58:36.803348Z"
+      "observed_at": "2026-10-15T11:33:39.929074Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1349,
+      "duration_ms": 119,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 136,
+      "duration_ms": 85,
       "error": null
     }
   ]
