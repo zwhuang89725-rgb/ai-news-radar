@@ -5,8 +5,24 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 20:20:22 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 23:41:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+<description>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+</item>
+<item>
+<title>Bringing GPT-Rosalind to academic research labs</title>
+<link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
+<description>Bringing GPT-Rosalind to academic research labs (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
 <link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
@@ -16,20 +32,36 @@
 <pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
 </item>
 <item>
-<title>Teaching students to think and learn through questions</title>
-<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-<guid isPermaLink="true">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
-<description>Teaching students to think and learn through questions (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
 <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery</link>
 <guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery</guid>
 <description>Accelerating the search for antimicrobial peptides with Google Antigravity (Google DeepMind)</description>
 <category>Official update</category>
 <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.163.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>Codex CLI 0.163.0 (OpenAI Codex Changelog)</description>
+<category>Official update</category>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Download GitHub Code Quality license usage as a CSV</title>
+<link>https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv</guid>
+<description>Download GitHub Code Quality license usage as a CSV (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Thu, 15 Oct 2026 20:11:26 +0000</pubDate>
+</item>
+<item>
+<title>Teaching students to think and learn through questions</title>
+<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+<guid isPermaLink="true">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
+<description>Teaching students to think and learn through questions (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Apertus 1.5 Release Notes</title>
@@ -46,14 +78,6 @@
 <description>For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬</description>
 <category>Official update</category>
 <pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
-</item>
-<item>
-<title>AI Scan for pull requests generally available</title>
-<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
-<description>AI Scan for pull requests generally available (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
 </item>
 <item>
 <title>Opus 5.5 fast mode in the Claude Platform is no longer in research preview, and we’ve removed the waitlist!</title>
@@ -88,20 +112,20 @@
 <pubDate>Thu, 15 Oct 2026 20:02:51 +0000</pubDate>
 </item>
 <item>
-<title>Welcome FLUX.3 Image Klein in Diffusers</title>
-<link>https://huggingface.co/blog/flux-3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/flux-3</guid>
-<description>Welcome FLUX.3 Image Klein in Diffusers (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
 <link>https://x.com/arena/status/2110797782953132049</link>
 <guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
 <description>Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</description>
 <category>Industry news</category>
 <pubDate>Thu, 15 Oct 2026 18:19:42 +0000</pubDate>
+</item>
+<item>
+<title>AI Scan for pull requests generally available</title>
+<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
+<description>AI Scan for pull requests generally available (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO</title>
@@ -112,14 +136,6 @@
 <pubDate>Thu, 15 Oct 2026 09:50:43 +0000</pubDate>
 </item>
 <item>
-<title>FLUX 3 Image Klein</title>
-<link>https://bfl.ai/blog/flux-3-image-klein</link>
-<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
-<description>FLUX 3 Image Klein</description>
-<category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</title>
 <link>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</guid>
@@ -128,12 +144,12 @@
 <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Agentic autofix for code scanning alerts general availability</title>
-<link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
-<description>Agentic autofix for code scanning alerts general availability (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
+<title>FLUX 3 Image Klein</title>
+<link>https://bfl.ai/blog/flux-3-image-klein</link>
+<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
+<description>FLUX 3 Image Klein</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Step 5 Preview is now open weights.</title>
@@ -150,22 +166,6 @@
 <description>阶跃星辰开放 Step 5 Preview 权重并发布技术博客</description>
 <category>Industry news</category>
 <pubDate>Thu, 15 Oct 2026 03:02:38 +0000</pubDate>
-</item>
-<item>
-<title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-<link>https://huggingface.co/blog/meta-muse-spark-open</link>
-<guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
-<description>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
-<link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</guid>
-<description>Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</description>
-<category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
