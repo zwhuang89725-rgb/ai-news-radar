@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:42:21.180733Z",
+  "generated_at": "2026-10-16T01:24:29.581172Z",
   "date": "2026-10-16",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T23:41:31.837632Z"
+      "observed_at": "2026-10-16T01:23:41.337431Z"
     },
     {
-      "id": "project_45a9d9f5ef01",
-      "project_name": "GLM-Legal",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "summary": "Z.ai’s legal AI model for contract review and compliance",
+      "id": "project_95fd9ffba194",
+      "project_name": "CodeCrab",
+      "url": "https://www.producthunt.com/products/codecrab",
+      "summary": "AI code reviews with deep analysis & multi-tool integrations",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Z.ai’s legal AI model for contract review and compliance」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Z.ai’s legal AI model for contract review and compliance\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T16:24:12Z",
-      "updated_at": "2026-10-15T23:38:36Z",
+      "recommend_reason_zh": "拿一段自己的代码试试它的 AI 审查，看看能否发现遗漏的问题。",
+      "recommend_reason_en": "Run its AI review on a piece of your own code and see whether it catches anything you missed.",
+      "published_at": "2026-10-13T02:12:58Z",
+      "updated_at": "2026-10-16T01:03:27Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T23:42:09.935220Z"
+      "observed_at": "2026-10-16T01:24:13.007778Z"
     },
     {
       "id": "project_36917ef32b44",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-15T23:41:31.837632Z"
+      "observed_at": "2026-10-16T01:23:41.337431Z"
     },
     {
-      "id": "project_2bed332fb8c7",
-      "project_name": "Chatway MCP",
-      "url": "https://www.producthunt.com/products/chatway",
-      "summary": "Let ChatGPT & Claude answer customer support tickets via MCP",
+      "id": "project_f90efea34b97",
+      "project_name": "Actually Asked",
+      "url": "https://www.producthunt.com/products/actually-asked",
+      "summary": "A self-improving branded AI FAQ page",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Let ChatGPT & Claude answer customer support tickets via MCP」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Let ChatGPT & Claude answer customer support tickets via MCP\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-14T11:30:36Z",
-      "updated_at": "2026-10-15T23:10:38Z",
+      "recommend_reason_zh": "体验它主打的「A self-improving branded AI FAQ page」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A self-improving branded AI FAQ page\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-14T15:36:37Z",
+      "updated_at": "2026-10-16T00:41:20Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-15T23:42:09.935220Z"
+      "observed_at": "2026-10-16T01:24:13.007778Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 339,
+      "duration_ms": 1543,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 140,
+      "duration_ms": 149,
       "error": null
     }
   ]
