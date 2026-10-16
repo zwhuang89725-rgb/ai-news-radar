@@ -5,16 +5,8 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 11:27:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 15:23:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
-<item>
-<title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-<link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
-<description>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-</item>
 <item>
 <title>Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams</title>
 <link>https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates</link>
@@ -22,6 +14,14 @@
 <description>Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Fri, 16 Oct 2026 02:16:35 +0000</pubDate>
+</item>
+<item>
+<title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+<link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+<description>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
 </item>
 <item>
 <title>Bringing GPT-Rosalind to academic research labs</title>
@@ -32,20 +32,28 @@
 <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Open source license compliance generally available</title>
+<link>https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available</guid>
+<description>Open source license compliance generally available (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 16 Oct 2026 14:00:32 +0000</pubDate>
+</item>
+<item>
+<title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
+<link>https://huggingface.co/blog/reflection-beam</link>
+<guid isPermaLink="true">https://huggingface.co/blog/reflection-beam</guid>
+<description>Welcome Beam: a 501B open model you can own, customize, and scale (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
 <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery</link>
 <guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery</guid>
 <description>Accelerating the search for antimicrobial peptides with Google Antigravity (Google DeepMind)</description>
 <category>Official update</category>
 <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-</item>
-<item>
-<title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
-<description>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
 </item>
 <item>
 <title>商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见</title>
@@ -56,28 +64,20 @@
 <pubDate>Fri, 16 Oct 2026 08:23:54 +0000</pubDate>
 </item>
 <item>
-<title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
-<link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</guid>
-<description>Upcoming deprecation of selected GitHub Copilot models in mid-November (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
+<title>NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</link>
+<guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</guid>
+<description>NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs</description>
+<category>Industry news</category>
+<pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Teaching students to think and learn through questions</title>
-<link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-<guid isPermaLink="true">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
-<description>Teaching students to think and learn through questions (OpenAI News)</description>
+<title>Xcode 27 runner image generally available</title>
+<link>https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available</guid>
+<description>Xcode 27 runner image generally available (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬</title>
-<link>https://x.com/Kling_ai/status/2110747537187709424</link>
-<guid isPermaLink="true">https://x.com/Kling_ai/status/2110747537187709424</guid>
-<description>For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
+<pubDate>Fri, 16 Oct 2026 04:36:30 +0000</pubDate>
 </item>
 <item>
 <title>AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争</title>
@@ -86,6 +86,14 @@
 <description>AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 16 Oct 2026 11:27:49 +0000</pubDate>
+</item>
+<item>
+<title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+<description>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
 </item>
 <item>
 <title>Opus 5.5 fast mode in the Claude Platform is no longer in research preview, and we’ve removed the waitlist!</title>
@@ -128,12 +136,12 @@
 <pubDate>Fri, 16 Oct 2026 02:03:07 +0000</pubDate>
 </item>
 <item>
-<title>Download GitHub Code Quality license usage as a CSV</title>
-<link>https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv</guid>
-<description>Download GitHub Code Quality license usage as a CSV (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 15 Oct 2026 20:11:26 +0000</pubDate>
+<title>Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
+<link>https://x.com/arena/status/2110797782953132049</link>
+<guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
+<description>Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</description>
+<category>Industry news</category>
+<pubDate>Thu, 15 Oct 2026 18:19:42 +0000</pubDate>
 </item>
 <item>
 <title>可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考</title>
@@ -144,28 +152,20 @@
 <pubDate>Fri, 16 Oct 2026 00:18:00 +0000</pubDate>
 </item>
 <item>
-<title>Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
-<link>https://x.com/arena/status/2110797782953132049</link>
-<guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
-<description>Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</description>
+<title>Reflection's Beam is freely available on Ollama for a limited time</title>
+<link>https://ollama.com/blog/reflection-beam</link>
+<guid isPermaLink="true">https://ollama.com/blog/reflection-beam</guid>
+<description>Reflection's Beam is freely available on Ollama for a limited time</description>
 <category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 18:19:42 +0000</pubDate>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>FLUX 3 Image Klein</title>
-<link>https://bfl.ai/blog/flux-3-image-klein</link>
-<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
-<description>FLUX 3 Image Klein</description>
+<title>This Week in Charts: Agents Denied</title>
+<link>https://www.a16z.news/p/this-week-in-charts-agents-denied</link>
+<guid isPermaLink="true">https://www.a16z.news/p/this-week-in-charts-agents-denied</guid>
+<description>This Week in Charts: Agents Denied</description>
 <category>Industry news</category>
-<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑</title>
-<link>https://www.ithome.com/1/013/914.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/013/914.htm</guid>
-<description>丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑</description>
-<category>Industry news</category>
-<pubDate>Fri, 16 Oct 2026 06:14:36 +0000</pubDate>
+<pubDate>Fri, 16 Oct 2026 14:00:39 +0000</pubDate>
 </item>
 </channel>
 </rss>

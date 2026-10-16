@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:28:50.759131Z",
+  "generated_at": "2026-10-16T15:24:17.661222Z",
   "date": "2026-10-16",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-16T11:27:49.802244Z"
+      "observed_at": "2026-10-16T15:23:16.657038Z"
     },
     {
-      "id": "project_7b6134d373b4",
-      "project_name": "Harness by Autonomous",
-      "url": "https://www.producthunt.com/products/harness-by-autonomous",
-      "summary": "Every coding agent, every machine, one command center.",
+      "id": "project_6782388a1f22",
+      "project_name": "Neophyte",
+      "url": "https://www.producthunt.com/products/neophyte",
+      "summary": "Watch an AI agent sign up and onboard to any product",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Every coding agent, every machine, one command center」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Every coding agent, every machine, one command center\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-15T13:27:08Z",
-      "updated_at": "2026-10-16T11:27:42Z",
+      "recommend_reason_zh": "体验它主打的「Watch an AI agent sign up and onboard to any product」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Watch an AI agent sign up and onboard to any product\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-13T01:43:19Z",
+      "updated_at": "2026-10-16T15:09:56Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-16T11:28:38.641420Z"
+      "observed_at": "2026-10-16T15:24:01.890490Z"
     },
     {
       "id": "project_36917ef32b44",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-16T11:27:49.802244Z"
+      "observed_at": "2026-10-16T15:23:16.657038Z"
     },
     {
       "id": "project_4b4f0d081c28",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「AI voice acting you can direct, not just generate」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"AI voice acting you can direct, not just generate\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-14T00:37:36Z",
-      "updated_at": "2026-10-16T11:24:36Z",
+      "updated_at": "2026-10-16T15:13:38Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-16T11:28:38.641420Z"
+      "observed_at": "2026-10-16T15:24:01.890490Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1451,
+      "duration_ms": 1629,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 118,
+      "duration_ms": 187,
       "error": null
     }
   ]
