@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:24:29.958212Z",
+  "generated_at": "2026-10-17T12:11:50.005016Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8122,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7557,
+        "recency": 0.7258,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8528,
+        "recency": 0.8191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,7 +260,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -312,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.897,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,131 +346,334 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
-      "story_id": "story_f7f8fc413477",
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "source": "NVIDIA：Newsroom（RSS）",
+      "story_id": "story_71834d6ca6af",
+      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+      "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "primary_url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_zh": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+          "title_en": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_original": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
           "recommend_reason_zh": null,
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
+          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z",
+          "published_at": "2026-10-17T10:29:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA：Newsroom（RSS）"
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)"
       ],
       "items": [
         {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-          "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_zh": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+          "title_en": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "title_original": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+          "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
           "recommend_reason_zh": null,
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
+          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z",
+          "published_at": "2026-10-17T10:29:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7257,
-      "importance": 0.7257,
-      "importance_score": 0.7257,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7341,
+        "recency": 0.9756,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-16T12:00:00Z",
-      "latest_at": "2026-10-16T12:00:00Z",
+      "earliest_at": "2026-10-17T10:29:00Z",
+      "latest_at": "2026-10-17T10:29:00Z",
       "primary_item": {
-        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI / NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "title_zh": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-        "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "title_original": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+        "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+        "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费 / New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+        "title_zh": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+        "title_en": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+        "title_original": "New DeepSeek just dropped. WorkBuddy Intl is updated to the latest too, and it's free through Oct 31. Take it for a spin.",
+        "summary": "WorkBuddy Intl 已更新至最新的 DeepSeek-V4.1-Flash-1017 模型，10 月 31 日前免费开放。引用的 DeepSeek 官方内容称该模型相比上一版性能更强、任务完成更快、输出更短，已上线网站、App 和 API，并针对 DeepSeek Harness、Tencent CodeBuddy、WorkBuddy 等做了优化。",
         "recommend_reason_zh": null,
-        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "source": "NVIDIA：Newsroom（RSS）",
+        "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
-      "story_id": "story_bf5de5ee743a",
-      "title": "自主驾驭——每个编码代理、每台机器、一个指挥中心。 / Harness by Autonomous — Every coding agent, every machine, one command center.",
-      "url": "https://www.producthunt.com/products/harness-by-autonomous",
-      "primary_url": "https://www.producthunt.com/products/harness-by-autonomous",
+      "story_id": "story_d5721315ada2",
+      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_zh": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_en": null,
+          "title_original": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:19:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_zh": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "title_en": null,
+          "title_original": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:19:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9732,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-17T10:19:04Z",
+      "latest_at": "2026-10-17T10:19:04Z",
+      "primary_item": {
+        "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+        "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "title_zh": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "title_en": null,
+        "title_original": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "summary": "数字生命卡兹克分享华硕ProArt创16（RTX Spark N1X芯片、128G统一内存、37999元）的一周深度使用体验，该机全球开售时128G版本在京东几分钟内被抢空。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:27:31.160851Z"
+      }
+    },
+    {
+      "story_id": "story_a88e692df8b0",
+      "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "primary_url": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
+          "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "title_zh": null,
+          "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails /      ai-memory",
+          "title_zh": null,
+          "title_en": "akitaonrails /      ai-memory",
+          "title_original": "akitaonrails /      ai-memory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T11:46:45.687000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
+          "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "title_zh": null,
+          "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails /      ai-memory",
+          "title_zh": null,
+          "title_en": "akitaonrails /      ai-memory",
+          "title_original": "akitaonrails /      ai-memory",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T11:46:45.687000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T11:46:45.687000Z",
+      "latest_at": "2026-10-17T12:11:50.005016Z",
+      "primary_item": {
+        "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
+        "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "title_zh": null,
+        "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:27:31.160851Z"
+      }
+    },
+    {
+      "story_id": "story_91fdd687e161",
+      "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+      "url": "https://www.producthunt.com/products/notion",
+      "primary_url": "https://www.producthunt.com/products/notion",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "89d5005f8e387fb4edb45fef3919421552794bcc",
-          "title": "自主驾驭——每个编码代理、每台机器、一个指挥中心。 / Harness by Autonomous — Every coding agent, every machine, one command center.",
-          "title_zh": "自主驾驭——每个编码代理、每台机器、一个指挥中心。",
-          "title_en": "Harness by Autonomous — Every coding agent, every machine, one command center.",
-          "title_original": "Harness by Autonomous — Every coding agent, every machine, one command center.",
-          "summary": "Every coding agent, every machine, one command center.",
+          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+          "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_zh": null,
+          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "summary": "Switch AI agents without re-explaining your work",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/harness-by-autonomous",
+          "url": "https://www.producthunt.com/products/notion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-15T13:27:08Z",
-          "updated_at": "2026-10-17T09:15:07Z",
+          "published_at": "2026-10-14T07:00:19Z",
+          "updated_at": "2026-10-17T12:05:28Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "b5930f2c5dcc45cb137d0f87ea1c21b794c73779",
-          "title": "Harness by Autonomous",
+          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
+          "title": "Notion: Context for your agents",
           "title_zh": null,
-          "title_en": "Harness by Autonomous",
-          "title_original": "Harness by Autonomous",
+          "title_en": "Notion: Context for your agents",
+          "title_original": "Notion: Context for your agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/harness-by-autonomous",
+          "url": "https://www.producthunt.com/products/notion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-16T11:13:09.207000Z",
+          "published_at": "2026-10-17T12:02:34.644000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -482,66 +685,66 @@
       ],
       "items": [
         {
-          "id": "89d5005f8e387fb4edb45fef3919421552794bcc",
-          "title": "自主驾驭——每个编码代理、每台机器、一个指挥中心。 / Harness by Autonomous — Every coding agent, every machine, one command center.",
-          "title_zh": "自主驾驭——每个编码代理、每台机器、一个指挥中心。",
-          "title_en": "Harness by Autonomous — Every coding agent, every machine, one command center.",
-          "title_original": "Harness by Autonomous — Every coding agent, every machine, one command center.",
-          "summary": "Every coding agent, every machine, one command center.",
+          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+          "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_zh": null,
+          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "summary": "Switch AI agents without re-explaining your work",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/harness-by-autonomous",
+          "url": "https://www.producthunt.com/products/notion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-15T13:27:08Z",
-          "updated_at": "2026-10-17T09:15:07Z",
+          "published_at": "2026-10-14T07:00:19Z",
+          "updated_at": "2026-10-17T12:05:28Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "b5930f2c5dcc45cb137d0f87ea1c21b794c73779",
-          "title": "Harness by Autonomous",
+          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
+          "title": "Notion: Context for your agents",
           "title_zh": null,
-          "title_en": "Harness by Autonomous",
-          "title_original": "Harness by Autonomous",
+          "title_en": "Notion: Context for your agents",
+          "title_original": "Notion: Context for your agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/harness-by-autonomous",
+          "url": "https://www.producthunt.com/products/notion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-16T11:13:09.207000Z",
+          "published_at": "2026-10-17T12:02:34.644000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9977,
+        "recency": 0.9985,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-16T11:13:09.207000Z",
-      "latest_at": "2026-10-17T09:15:07Z",
+      "earliest_at": "2026-10-17T12:02:34.644000Z",
+      "latest_at": "2026-10-17T12:05:28Z",
       "primary_item": {
-        "id": "89d5005f8e387fb4edb45fef3919421552794bcc",
-        "title": "自主驾驭——每个编码代理、每台机器、一个指挥中心。 / Harness by Autonomous — Every coding agent, every machine, one command center.",
-        "title_zh": "自主驾驭——每个编码代理、每台机器、一个指挥中心。",
-        "title_en": "Harness by Autonomous — Every coding agent, every machine, one command center.",
-        "title_original": "Harness by Autonomous — Every coding agent, every machine, one command center.",
-        "summary": "Every coding agent, every machine, one command center.",
+        "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+        "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "title_zh": null,
+        "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "summary": "Switch AI agents without re-explaining your work",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/harness-by-autonomous",
+        "url": "https://www.producthunt.com/products/notion",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -549,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -633,15 +836,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.59,
-      "importance": 0.59,
-      "importance_score": 0.59,
+      "score": 0.5839,
+      "importance": 0.5839,
+      "importance_score": 0.5839,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8587,
+        "recency": 0.8248,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -666,7 +869,427 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
+      }
+    },
+    {
+      "story_id": "story_0d467d356306",
+      "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+      "url": "https://llmspeed.dev",
+      "primary_url": "https://llmspeed.dev",
+      "source": "llmspeed.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": null,
+          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "llmspeed.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T11:57:04.792000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T04:36:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
+          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": null,
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50127979",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T04:36:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "llmspeed.dev"
+      ],
+      "items": [
+        {
+          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": null,
+          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "llmspeed.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T11:57:04.792000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
+          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://llmspeed.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T04:36:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
+          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": null,
+          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50127979",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T04:36:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9965,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T04:36:53Z",
+      "latest_at": "2026-10-17T11:57:04.792000Z",
+      "primary_item": {
+        "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
+        "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "title_en": null,
+        "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://llmspeed.dev",
+        "source": "llmspeed.dev",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:27:31.160851Z"
+      }
+    },
+    {
+      "story_id": "story_9bb7cbf8fa55",
+      "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T10:06:14.023000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T10:06:14.023000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
+          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9702,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T08:37:46Z",
+      "latest_at": "2026-10-17T10:06:14.023000Z",
+      "primary_item": {
+        "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+        "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "title_zh": null,
+        "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "source": "openrouter.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:27:31.160851Z"
+      }
+    },
+    {
+      "story_id": "story_cb4b86ce548c",
+      "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+      "url": "https://www.producthunt.com/products/crew-tower",
+      "primary_url": "https://www.producthunt.com/products/crew-tower",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
+          "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_zh": null,
+          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "summary": "Talk to Claude Code right from your MacBook notch",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T21:15:16Z",
+          "updated_at": "2026-10-17T11:56:25Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
+          "title": "CrewTower Mod for Claude Code",
+          "title_zh": null,
+          "title_en": "CrewTower Mod for Claude Code",
+          "title_original": "CrewTower Mod for Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:02:34.644000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
+          "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_zh": null,
+          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "summary": "Talk to Claude Code right from your MacBook notch",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T21:15:16Z",
+          "updated_at": "2026-10-17T11:56:25Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
+          "title": "CrewTower Mod for Claude Code",
+          "title_zh": null,
+          "title_en": "CrewTower Mod for Claude Code",
+          "title_original": "CrewTower Mod for Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:02:34.644000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5935,
+      "importance": 0.5935,
+      "importance_score": 0.5935,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9963,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T11:56:25Z",
+      "latest_at": "2026-10-17T12:02:34.644000Z",
+      "primary_item": {
+        "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
+        "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+        "title_zh": null,
+        "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+        "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+        "summary": "Talk to Claude Code right from your MacBook notch",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/crew-tower",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -784,15 +1407,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5522,
-      "importance": 0.5522,
-      "importance_score": 0.5522,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8969,
+        "recency": 0.8615,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -817,7 +1440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -935,15 +1558,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5479,
-      "importance": 0.5479,
-      "importance_score": 0.5479,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.873,
+        "recency": 0.8386,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -968,243 +1591,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
-      "story_id": "story_bc13b2653d5b",
-      "title": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "primary_url": "https://github.com/MadsLorentzen/ai-job-search",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
+      "story_id": "story_fff8882dd7b5",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "huggingface.co",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5d44cd443b5ea2564b857fa5ba49658cbc3289a8",
-          "title": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+          "title": "DeepSeek-v4.1-Flash-1017",
           "title_zh": null,
-          "title_en": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "title_original": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T09:34:06.239000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "0425ae107543ff02a96a7a8a99245381d44db2a2",
-          "title": "MadsLorentzen / AI 求职搜索 / MadsLorentzen /      ai-job-search",
-          "title_zh": "MadsLorentzen / AI 求职搜索",
-          "title_en": "MadsLorentzen /      ai-job-search",
-          "title_original": "MadsLorentzen /      ai-job-search",
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "github",
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-16T11:07:16.393000Z",
+          "published_at": "2026-10-17T08:21:25Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub Trending",
-        "github"
+        "hackernews",
+        "huggingface.co"
       ],
       "items": [
         {
-          "id": "5d44cd443b5ea2564b857fa5ba49658cbc3289a8",
-          "title": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+          "title": "DeepSeek-v4.1-Flash-1017",
           "title_zh": null,
-          "title_en": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "title_original": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-          "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T09:34:06.239000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "0425ae107543ff02a96a7a8a99245381d44db2a2",
-          "title": "MadsLorentzen / AI 求职搜索 / MadsLorentzen /      ai-job-search",
-          "title_zh": "MadsLorentzen / AI 求职搜索",
-          "title_en": "MadsLorentzen /      ai-job-search",
-          "title_original": "MadsLorentzen /      ai-job-search",
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
+          "title_en": "DeepSeek-v4.1-Flash-1017",
+          "title_original": "DeepSeek-v4.1-Flash-1017",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "source": "github",
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-16T11:07:16.393000Z",
+          "published_at": "2026-10-17T08:21:25Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7284,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T11:07:16.393000Z",
-      "latest_at": "2026-10-16T11:27:49.802244Z",
-      "primary_item": {
-        "id": "5d44cd443b5ea2564b857fa5ba49658cbc3289a8",
-        "title": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "title_zh": null,
-        "title_en": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "title_original": "MadsLorentzen/ai-job-search — The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/MadsLorentzen/ai-job-search",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
-      }
-    },
-    {
-      "story_id": "story_9bb7cbf8fa55",
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_zh": null,
-          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:37:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_zh": null,
-          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50129121",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:37:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_zh": null,
-          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:37:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_zh": null,
-          "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50129121",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:37:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9888,
+        "recency": 0.9627,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T08:37:46Z",
-      "latest_at": "2026-10-17T08:37:46Z",
+      "earliest_at": "2026-10-17T08:21:25Z",
+      "latest_at": "2026-10-17T09:34:06.239000Z",
       "primary_item": {
-        "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
-        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+        "title": "DeepSeek-v4.1-Flash-1017",
         "title_zh": null,
-        "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
-        "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "title_en": "DeepSeek-v4.1-Flash-1017",
+        "title_original": "DeepSeek-v4.1-Flash-1017",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "source": "huggingface.co",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -1322,15 +1827,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8401,
+        "recency": 0.807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1355,7 +1860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -1473,15 +1978,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8305,
+        "recency": 0.7977,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1506,7 +2011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -1624,15 +2129,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8053,
+        "recency": 0.7735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1657,7 +2162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -1775,15 +2280,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7991,
+        "recency": 0.7676,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1808,7 +2313,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     },
     {
@@ -1893,15 +2398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.8483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1926,512 +2431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
-      }
-    },
-    {
-      "story_id": "story_079067fe9f57",
-      "title": "人工智能是资本主义的最终归宿",
-      "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-      "primary_url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-      "source": "www.equator.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
-          "title": "人工智能是资本主义的最终归宿",
-          "title_zh": "人工智能是资本主义的最终归宿",
-          "title_en": null,
-          "title_original": "人工智能是资本主义的最终归宿",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "www.equator.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T22:24:50.023000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3fa3d1af0d60efb9e4e223118e29bc35a1b6fb22",
-          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
-          "title_zh": "人工智能是资本主义的最终归宿",
-          "title_en": "Artificial intelligence is capitalism's final destination",
-          "title_original": "Artificial intelligence is capitalism's final destination",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T12:08:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.equator.org"
-      ],
-      "items": [
-        {
-          "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
-          "title": "人工智能是资本主义的最终归宿",
-          "title_zh": "人工智能是资本主义的最终归宿",
-          "title_en": null,
-          "title_original": "人工智能是资本主义的最终归宿",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "www.equator.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T22:24:50.023000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3fa3d1af0d60efb9e4e223118e29bc35a1b6fb22",
-          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
-          "title_zh": "人工智能是资本主义的最终归宿",
-          "title_en": "Artificial intelligence is capitalism's final destination",
-          "title_original": "Artificial intelligence is capitalism's final destination",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T12:08:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8532,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T12:08:40Z",
-      "latest_at": "2026-10-16T22:24:50.023000Z",
-      "primary_item": {
-        "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
-        "title": "人工智能是资本主义的最终归宿",
-        "title_zh": "人工智能是资本主义的最终归宿",
-        "title_en": null,
-        "title_original": "人工智能是资本主义的最终归宿",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-        "source": "www.equator.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
-      }
-    },
-    {
-      "story_id": "story_ec7cf0816343",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "title_zh": null,
-          "title_en": "DeepSeek-v4.1-Flash-1017",
-          "title_original": "DeepSeek-v4.1-Flash-1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:21:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "title_zh": null,
-          "title_en": "DeepSeek-v4.1-Flash-1017",
-          "title_original": "DeepSeek-v4.1-Flash-1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "title_zh": null,
-          "title_en": "DeepSeek-v4.1-Flash-1017",
-          "title_original": "DeepSeek-v4.1-Flash-1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:21:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "title_zh": null,
-          "title_en": "DeepSeek-v4.1-Flash-1017",
-          "title_original": "DeepSeek-v4.1-Flash-1017",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9849,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T08:21:25Z",
-      "latest_at": "2026-10-17T08:21:25Z",
-      "primary_item": {
-        "id": "94d83fd90810b35f8e91c67077742e2e3ced72ec",
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "title_zh": null,
-        "title_en": "DeepSeek-v4.1-Flash-1017",
-        "title_original": "DeepSeek-v4.1-Flash-1017",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
-      }
-    },
-    {
-      "story_id": "story_d4941adc6fad",
-      "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "primary_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "source": "www.theregister.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_en": null,
-          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "www.theregister.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T18:24:37.239000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T15:55:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theregister.com"
-      ],
-      "items": [
-        {
-          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_en": null,
-          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "www.theregister.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T18:24:37.239000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T15:55:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8053,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T15:55:40Z",
-      "latest_at": "2026-10-16T18:24:37.239000Z",
-      "primary_item": {
-        "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
-        "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-        "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-        "title_en": null,
-        "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-        "source": "www.theregister.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
-      }
-    },
-    {
-      "story_id": "story_e7a9c919ea0b",
-      "title": "克劳德揭示了ECDSA曲线的起源",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "primary_url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
-          "title": "克劳德揭示了ECDSA曲线的起源",
-          "title_zh": "克劳德揭示了ECDSA曲线的起源",
-          "title_en": null,
-          "title_original": "克劳德揭示了ECDSA曲线的起源",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T19:28:45.361000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bb67f824176130fd7edd144d1faedacf0682db00",
-          "title": "Claude揭示了ECDSA曲线的起源 / Claude reveals ECDSA curve origins",
-          "title_zh": "Claude揭示了ECDSA曲线的起源",
-          "title_en": "Claude reveals ECDSA curve origins",
-          "title_original": "Claude reveals ECDSA curve origins",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T18:55:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3657bbb00e95f9e3dce97980a80bf0fc1e5f949e",
-          "title": "Claude 揭示 ECDSA 曲线起源 / Claude reveals ECDSA curve origins",
-          "title_zh": "Claude 揭示 ECDSA 曲线起源",
-          "title_en": "Claude reveals ECDSA curve origins",
-          "title_original": "Claude reveals ECDSA curve origins",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50122800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T18:55:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
-          "title": "克劳德揭示了ECDSA曲线的起源",
-          "title_zh": "克劳德揭示了ECDSA曲线的起源",
-          "title_en": null,
-          "title_original": "克劳德揭示了ECDSA曲线的起源",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T19:28:45.361000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bb67f824176130fd7edd144d1faedacf0682db00",
-          "title": "Claude揭示了ECDSA曲线的起源 / Claude reveals ECDSA curve origins",
-          "title_zh": "Claude揭示了ECDSA曲线的起源",
-          "title_en": "Claude reveals ECDSA curve origins",
-          "title_original": "Claude reveals ECDSA curve origins",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T18:55:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3657bbb00e95f9e3dce97980a80bf0fc1e5f949e",
-          "title": "Claude 揭示 ECDSA 曲线起源 / Claude reveals ECDSA curve origins",
-          "title_zh": "Claude 揭示 ECDSA 曲线起源",
-          "title_en": "Claude reveals ECDSA curve origins",
-          "title_original": "Claude reveals ECDSA curve origins",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50122800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T18:55:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8178,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T18:55:59Z",
-      "latest_at": "2026-10-16T19:28:45.361000Z",
-      "primary_item": {
-        "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
-        "title": "克劳德揭示了ECDSA曲线的起源",
-        "title_zh": "克劳德揭示了ECDSA曲线的起源",
-        "title_en": null,
-        "title_original": "克劳德揭示了ECDSA曲线的起源",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T09:39:44.215370Z"
+        "scored_at": "2026-10-17T12:27:31.160851Z"
       }
     }
   ]
