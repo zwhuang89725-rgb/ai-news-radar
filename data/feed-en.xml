@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 23:35:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 01:20:18 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>How Itaú is building generative AI for its entire customer base</title>
@@ -48,22 +48,6 @@
 <pubDate>Fri, 16 Oct 2026 22:22:42 +0000</pubDate>
 </item>
 <item>
-<title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-<link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-<guid isPermaLink="true">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-<description>Stack Overflow for Agents triples signups with ChatGPT plugin (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
-<link>https://huggingface.co/blog/reflection-beam</link>
-<guid isPermaLink="true">https://huggingface.co/blog/reflection-beam</guid>
-<description>Welcome Beam: a 501B open model you can own, customize, and scale (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见</title>
 <link>https://www.ithome.com/1/013/983.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/013/983.htm</guid>
@@ -80,20 +64,20 @@
 <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude is building Claude Code.</title>
-<link>https://x.com/adocomplete/status/2111171735806767558</link>
-<guid isPermaLink="true">https://x.com/adocomplete/status/2111171735806767558</guid>
-<description>Claude is building Claude Code.</description>
-<category>Industry news</category>
-<pubDate>Fri, 16 Oct 2026 19:05:40 +0000</pubDate>
-</item>
-<item>
 <title>Xcode 27 runner image generally available</title>
 <link>https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available</guid>
 <description>Xcode 27 runner image generally available (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Fri, 16 Oct 2026 04:36:30 +0000</pubDate>
+</item>
+<item>
+<title>Claude is building Claude Code.</title>
+<link>https://x.com/adocomplete/status/2111171735806767558</link>
+<guid isPermaLink="true">https://x.com/adocomplete/status/2111171735806767558</guid>
+<description>Claude is building Claude Code.</description>
+<category>Industry news</category>
+<pubDate>Fri, 16 Oct 2026 19:05:40 +0000</pubDate>
 </item>
 <item>
 <title>AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争</title>
@@ -104,28 +88,12 @@
 <pubDate>Fri, 16 Oct 2026 11:27:49 +0000</pubDate>
 </item>
 <item>
-<title>Grounding AI agents in biological reality: Building blocks for autonomous wet labs</title>
-<link>https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs</link>
-<guid isPermaLink="true">https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs</guid>
-<description>Grounding AI agents in biological reality: Building blocks for autonomous wet labs</description>
-<category>Official update</category>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现</title>
 <link>https://x.com/Khazix0918/status/2110914404393091205</link>
 <guid isPermaLink="true">https://x.com/Khazix0918/status/2110914404393091205</guid>
 <description>Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现</description>
 <category>Industry news</category>
 <pubDate>Fri, 16 Oct 2026 02:03:07 +0000</pubDate>
-</item>
-<item>
-<title>可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687203&amp;idx=1&amp;sn=a58bc4411e8226b629f1b5c61509a198</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687203&amp;idx=1&amp;sn=a58bc4411e8226b629f1b5c61509a198</guid>
-<description>可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考</description>
-<category>Industry news</category>
-<pubDate>Fri, 16 Oct 2026 00:18:00 +0000</pubDate>
 </item>
 <item>
 <title>丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑</title>
@@ -152,20 +120,52 @@
 <pubDate>Fri, 16 Oct 2026 09:53:00 +0000</pubDate>
 </item>
 <item>
-<title>消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元</title>
-<link>https://www.ithome.com/1/013/723.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/013/723.htm</guid>
-<description>消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元</description>
-<category>Industry news</category>
-<pubDate>Fri, 16 Oct 2026 00:54:07 +0000</pubDate>
-</item>
-<item>
 <title>Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波</title>
 <link>https://www.aibase.com/news/31696</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31696</guid>
 <description>Cursor 紧急调查内部测试涉密数据流向 SpaceX 的风波 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 16 Oct 2026 09:53:00 +0000</pubDate>
+</item>
+<item>
+<title>​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线</title>
+<link>https://www.aibase.com/news/31694</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31694</guid>
+<description>​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 16 Oct 2026 09:53:00 +0000</pubDate>
+</item>
+<item>
+<title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</title>
+<link>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</guid>
+<description>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 16 Oct 2026 22:51:22 +0000</pubDate>
+</item>
+<item>
+<title>Harness by Autonomous — Every coding agent, every machine, one command center.</title>
+<link>https://www.producthunt.com/products/harness-by-autonomous</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/harness-by-autonomous</guid>
+<description>Every coding agent, every machine, one command center. (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 17 Oct 2026 01:17:13 +0000</pubDate>
+</item>
+<item>
+<title>“中国版OpenRouter”的基元律动开发者突破30万，推出双11充值永久有效福利</title>
+<link>https://www.aibase.com/news/31695</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31695</guid>
+<description>“中国版OpenRouter”的基元律动开发者突破30万，推出双11充值永久有效福利 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 16 Oct 2026 09:53:00 +0000</pubDate>
+</item>
+<item>
+<title>你完全可以凭记忆发明出变形金刚</title>
+<link>https://alexwang.ai/posts/associative-memory</link>
+<guid isPermaLink="true">https://alexwang.ai/posts/associative-memory</guid>
+<description>你完全可以凭记忆发明出变形金刚 (alexwang.ai)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sat, 17 Oct 2026 00:00:23 +0000</pubDate>
 </item>
 </channel>
 </rss>
