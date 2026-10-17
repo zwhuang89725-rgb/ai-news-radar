@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T14:13:37.502520Z",
+  "generated_at": "2026-10-17T17:16:05.374139Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_27f49e3620ac",
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7576,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -139,21 +139,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7954,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T22:22:42Z",
       "latest_at": "2026-10-16T22:22:42Z",
@@ -173,7 +172,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -225,21 +224,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8367,
+        "recency": 0.8007,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-17T01:52:43Z",
       "latest_at": "2026-10-17T01:52:43Z",
@@ -259,7 +257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -311,15 +309,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9474,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -344,7 +342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -396,15 +394,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9451,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,7 +427,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -453,7 +451,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-17T14:09:15Z",
+          "updated_at": "2026-10-17T17:15:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -492,7 +490,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-17T14:09:15Z",
+          "updated_at": "2026-10-17T17:15:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -514,15 +512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9989,
+        "recency": 0.9999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -530,7 +528,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-17T12:02:34.644000Z",
-      "latest_at": "2026-10-17T14:09:15Z",
+      "latest_at": "2026-10-17T17:15:41Z",
       "primary_item": {
         "id": "7428c9b1b1de103a95a71778c245846efaacde49",
         "title": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
@@ -547,7 +545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -632,15 +630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.589,
-      "importance": 0.589,
-      "importance_score": 0.589,
+      "score": 0.5815,
+      "importance": 0.5815,
+      "importance_score": 0.5815,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9711,
+        "recency": 0.9294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -665,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -749,15 +747,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5796,
-      "importance": 0.5796,
-      "importance_score": 0.5796,
+      "score": 0.5735,
+      "importance": 0.5735,
+      "importance_score": 0.5735,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8009,
+        "recency": 0.7665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -782,7 +780,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
+      }
+    },
+    {
+      "story_id": "story_93fa4d5c3bdc",
+      "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+      "url": "https://www.producthunt.com/products/crew-tower",
+      "primary_url": "https://www.producthunt.com/products/crew-tower",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
+          "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
+          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "summary": "Talk to Claude Code right from your MacBook notch",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T21:15:16Z",
+          "updated_at": "2026-10-17T17:13:28Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
+          "title": "CrewTower Mod for Claude Code",
+          "title_zh": null,
+          "title_en": "CrewTower Mod for Claude Code",
+          "title_original": "CrewTower Mod for Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:02:34.644000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
+          "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
+          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "summary": "Talk to Claude Code right from your MacBook notch",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T21:15:16Z",
+          "updated_at": "2026-10-17T17:13:28Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
+          "title": "CrewTower Mod for Claude Code",
+          "title_zh": null,
+          "title_en": "CrewTower Mod for Claude Code",
+          "title_original": "CrewTower Mod for Claude Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/crew-tower",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:02:34.644000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9994,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T12:02:34.644000Z",
+      "latest_at": "2026-10-17T17:13:28Z",
+      "primary_item": {
+        "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
+        "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+        "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
+        "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+        "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+        "summary": "Talk to Claude Code right from your MacBook notch",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/crew-tower",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -900,15 +1016,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9677,
+        "recency": 0.9261,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -933,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -1051,15 +1167,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
+      "score": 0.5531,
+      "importance": 0.5531,
+      "importance_score": 0.5531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9422,
+        "recency": 0.9017,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1084,125 +1200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
-      }
-    },
-    {
-      "story_id": "story_cb4b86ce548c",
-      "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-      "url": "https://www.producthunt.com/products/crew-tower",
-      "primary_url": "https://www.producthunt.com/products/crew-tower",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-          "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
-          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "summary": "Talk to Claude Code right from your MacBook notch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T21:15:16Z",
-          "updated_at": "2026-10-17T11:56:25Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
-          "title": "Claude代码的 CrewTower Mod / CrewTower Mod for Claude Code",
-          "title_zh": "Claude代码的 CrewTower Mod",
-          "title_en": "CrewTower Mod for Claude Code",
-          "title_original": "CrewTower Mod for Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:02:34.644000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-          "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
-          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "summary": "Talk to Claude Code right from your MacBook notch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T21:15:16Z",
-          "updated_at": "2026-10-17T11:56:25Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
-          "title": "Claude代码的 CrewTower Mod / CrewTower Mod for Claude Code",
-          "title_zh": "Claude代码的 CrewTower Mod",
-          "title_en": "CrewTower Mod for Claude Code",
-          "title_original": "CrewTower Mod for Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:02:34.644000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5884,
-      "importance": 0.5884,
-      "importance_score": 0.5884,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9675,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T11:56:25Z",
-      "latest_at": "2026-10-17T12:02:34.644000Z",
-      "primary_item": {
-        "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-        "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-        "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
-        "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-        "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-        "summary": "Talk to Claude Code right from your MacBook notch",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/crew-tower",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -1320,15 +1318,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8366,
+        "recency": 0.8006,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1353,7 +1351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -1471,15 +1469,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8144,
+        "recency": 0.7794,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1504,7 +1502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -1589,15 +1587,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9349,
+        "recency": 0.8948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1622,7 +1620,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -1740,15 +1738,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7837,
+        "recency": 0.75,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1773,7 +1771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -1891,15 +1889,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5302,
-      "importance": 0.5302,
-      "importance_score": 0.5302,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7746,
+        "recency": 0.7413,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1924,309 +1922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
-      }
-    },
-    {
-      "story_id": "story_610847abe99b",
-      "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map",
-      "primary_url": "https://www.mercor.com/research/labor-index/benchmark-map",
-      "source": "www.mercor.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
-          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "title_en": null,
-          "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
-          "source": "www.mercor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T18:24:37.246000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
-          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T17:08:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
-          "title": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上",
-          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50121179",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T17:08:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.mercor.com"
-      ],
-      "items": [
-        {
-          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
-          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "title_en": null,
-          "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
-          "source": "www.mercor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T18:24:37.246000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
-          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T17:08:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
-          "title": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_zh": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上",
-          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50121179",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T17:08:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7511,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T17:08:38Z",
-      "latest_at": "2026-10-16T18:24:37.246000Z",
-      "primary_item": {
-        "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
-        "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-        "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-        "title_en": null,
-        "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.mercor.com/research/labor-index/benchmark-map",
-        "source": "www.mercor.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
-      }
-    },
-    {
-      "story_id": "story_fbaed3df42cd",
-      "title": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-      "url": "https://starskirmish.com/bench/v0-2",
-      "primary_url": "https://starskirmish.com/bench/v0-2",
-      "source": "starskirmish.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ce314ac8e018ef905d9442519394d89050ca8b65",
-          "title": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "title_zh": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "title_en": null,
-          "title_original": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://starskirmish.com/bench/v0-2",
-          "source": "starskirmish.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T17:52:54.537000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1b38dcf5793e58a1d17793056e4405a95315d96b",
-          "title": "Show HN: Gemini 4 Argon 玩《星际争霸》 / Show HN: Gemini 4 Argon plays StarCraft",
-          "title_zh": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "title_en": "Show HN: Gemini 4 Argon plays StarCraft",
-          "title_original": "Show HN: Gemini 4 Argon plays StarCraft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://starskirmish.com/bench/v0-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T14:18:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "31a30feecefccf7cbe3df7e5c02e2a2d69366965",
-          "title": "Show HN：Gemini 4 Argon 玩星际争霸 / Show HN: Gemini 4 Argon plays StarCraft",
-          "title_zh": "Show HN：Gemini 4 Argon 玩星际争霸",
-          "title_en": "Show HN: Gemini 4 Argon plays StarCraft",
-          "title_original": "Show HN: Gemini 4 Argon plays StarCraft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50118688",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T14:18:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "starskirmish.com"
-      ],
-      "items": [
-        {
-          "id": "ce314ac8e018ef905d9442519394d89050ca8b65",
-          "title": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "title_zh": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "title_en": null,
-          "title_original": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://starskirmish.com/bench/v0-2",
-          "source": "starskirmish.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T17:52:54.537000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1b38dcf5793e58a1d17793056e4405a95315d96b",
-          "title": "Show HN: Gemini 4 Argon 玩《星际争霸》 / Show HN: Gemini 4 Argon plays StarCraft",
-          "title_zh": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-          "title_en": "Show HN: Gemini 4 Argon plays StarCraft",
-          "title_original": "Show HN: Gemini 4 Argon plays StarCraft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://starskirmish.com/bench/v0-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T14:18:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "31a30feecefccf7cbe3df7e5c02e2a2d69366965",
-          "title": "Show HN：Gemini 4 Argon 玩星际争霸 / Show HN: Gemini 4 Argon plays StarCraft",
-          "title_zh": "Show HN：Gemini 4 Argon 玩星际争霸",
-          "title_en": "Show HN: Gemini 4 Argon plays StarCraft",
-          "title_original": "Show HN: Gemini 4 Argon plays StarCraft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50118688",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T14:18:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7454,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T14:18:44Z",
-      "latest_at": "2026-10-16T17:52:54.537000Z",
-      "primary_item": {
-        "id": "ce314ac8e018ef905d9442519394d89050ca8b65",
-        "title": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-        "title_zh": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-        "title_en": null,
-        "title_original": "Show HN: Gemini 4 Argon 玩《星际争霸》",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://starskirmish.com/bench/v0-2",
-        "source": "starskirmish.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
@@ -2311,15 +2007,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8238,
+        "recency": 0.7884,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2344,125 +2040,158 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     },
     {
-      "story_id": "story_d4941adc6fad",
-      "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "primary_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "source": "www.theregister.com",
+      "story_id": "story_e7a9c919ea0b",
+      "title": "克劳德揭示了ECDSA曲线的起源",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "primary_url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "www.anthropic.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
+          "title": "克劳德揭示了ECDSA曲线的起源",
+          "title_zh": "克劳德揭示了ECDSA曲线的起源",
           "title_en": null,
-          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_original": "克劳德揭示了ECDSA曲线的起源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "www.theregister.com",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "www.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-16T18:24:37.239000Z",
+          "published_at": "2026-10-16T19:28:45.361000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "id": "bb67f824176130fd7edd144d1faedacf0682db00",
+          "title": "Claude揭示了ECDSA曲线的起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude揭示了ECDSA曲线的起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T15:55:40Z",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:55:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3657bbb00e95f9e3dce97980a80bf0fc1e5f949e",
+          "title": "Claude 揭示 ECDSA 曲线起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude 揭示 ECDSA 曲线起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50122800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:55:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.theregister.com"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.anthropic.com"
       ],
       "items": [
         {
-          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
+          "title": "克劳德揭示了ECDSA曲线的起源",
+          "title_zh": "克劳德揭示了ECDSA曲线的起源",
           "title_en": null,
-          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_original": "克劳德揭示了ECDSA曲线的起源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "www.theregister.com",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "www.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-16T18:24:37.239000Z",
+          "published_at": "2026-10-16T19:28:45.361000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
-          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "id": "bb67f824176130fd7edd144d1faedacf0682db00",
+          "title": "Claude揭示了ECDSA曲线的起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude揭示了ECDSA曲线的起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T15:55:40Z",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:55:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3657bbb00e95f9e3dce97980a80bf0fc1e5f949e",
+          "title": "Claude 揭示 ECDSA 曲线起源 / Claude reveals ECDSA curve origins",
+          "title_zh": "Claude 揭示 ECDSA 曲线起源",
+          "title_en": "Claude reveals ECDSA curve origins",
+          "title_original": "Claude reveals ECDSA curve origins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50122800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:55:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7511,
-        "story_heat": 0.25
+        "recency": 0.73,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-16T15:55:40Z",
-      "latest_at": "2026-10-16T18:24:37.239000Z",
+      "earliest_at": "2026-10-16T18:55:59Z",
+      "latest_at": "2026-10-16T19:28:45.361000Z",
       "primary_item": {
-        "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
-        "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
-        "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "id": "81bdee6eae9c2e48631bd4d544bb46e8b054bfec",
+        "title": "克劳德揭示了ECDSA曲线的起源",
+        "title_zh": "克劳德揭示了ECDSA曲线的起源",
         "title_en": null,
-        "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "title_original": "克劳德揭示了ECDSA曲线的起源",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-        "source": "www.theregister.com",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "source": "www.anthropic.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T14:14:32.365942Z"
+        "scored_at": "2026-10-17T17:28:13.991827Z"
       }
     }
   ]
