@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 12:11:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 14:13:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>How Itaú is building generative AI for its entire customer base</title>
@@ -14,14 +14,6 @@
 <description>How Itaú is building generative AI for its entire customer base (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Open source license compliance generally available</title>
-<link>https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available</guid>
-<description>Open source license compliance generally available (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 16 Oct 2026 14:00:32 +0000</pubDate>
 </item>
 <item>
 <title>Exciting news: Muse Spark Open (Max) by @AIatMeta is the #1 US open model in the Code Arena: WebDev! With 1511 pts, it’s #13 among open m...</title>
@@ -56,20 +48,20 @@
 <pubDate>Sat, 17 Oct 2026 10:19:04 +0000</pubDate>
 </item>
 <item>
+<title>Notion: Context for your agents — Switch AI agents without re-explaining your work</title>
+<link>https://www.producthunt.com/products/notion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/notion</guid>
+<description>Switch AI agents without re-explaining your work (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 17 Oct 2026 14:09:15 +0000</pubDate>
+</item>
+<item>
 <title>akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</title>
 <link>https://github.com/akitaonrails/ai-memory</link>
 <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
 <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Sat, 17 Oct 2026 12:11:50 +0000</pubDate>
-</item>
-<item>
-<title>Notion: Context for your agents — Switch AI agents without re-explaining your work</title>
-<link>https://www.producthunt.com/products/notion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/notion</guid>
-<description>Switch AI agents without re-explaining your work (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sat, 17 Oct 2026 12:05:28 +0000</pubDate>
 </item>
 <item>
 <title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</title>
@@ -166,6 +158,14 @@
 <description>FLUX 3 图片 克莱因 (bfl.ai)</description>
 <category>Worth watching</category>
 <pubDate>Sat, 17 Oct 2026 00:48:15 +0000</pubDate>
+</item>
+<item>
+<title>Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围</title>
+<link>https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471</link>
+<guid isPermaLink="true">https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471</guid>
+<description>Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 (www.theregister.com)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 16 Oct 2026 18:24:37 +0000</pubDate>
 </item>
 </channel>
 </rss>

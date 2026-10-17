@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:12:47.762317Z",
+  "generated_at": "2026-10-17T14:14:23.192250Z",
   "date": "2026-10-17",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-17T12:11:50.005016Z"
+      "observed_at": "2026-10-17T14:13:37.502520Z"
     },
     {
       "id": "project_f48481c3f7d1",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Build, test, and deploy MCP servers in one place」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Build, test, and deploy MCP servers in one place\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-08T15:53:30Z",
-      "updated_at": "2026-10-17T12:09:42Z",
+      "updated_at": "2026-10-17T14:11:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-17T12:12:36.897901Z"
+      "observed_at": "2026-10-17T14:14:11.821253Z"
     },
     {
       "id": "project_9b75bda91938",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-17T12:11:50.005016Z"
+      "observed_at": "2026-10-17T14:13:37.502520Z"
     },
     {
       "id": "project_adfe612fc7c1",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「Switch AI agents without re-explaining your work」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Switch AI agents without re-explaining your work\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-14T07:00:19Z",
-      "updated_at": "2026-10-17T12:05:28Z",
+      "updated_at": "2026-10-17T14:09:15Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-17T12:12:36.897901Z"
+      "observed_at": "2026-10-17T14:14:11.821253Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1491,
+      "duration_ms": 1203,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 107,
+      "duration_ms": 113,
       "error": null
     }
   ]

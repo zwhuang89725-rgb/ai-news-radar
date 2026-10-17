@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:11:50.005016Z",
+  "generated_at": "2026-10-17T14:13:37.502520Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7801,
+        "recency": 0.7576,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
-      }
-    },
-    {
-      "story_id": "story_002852c1d7cc",
-      "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
-      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
-          "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
-          "title_zh": "开源许可证合规性已普遍可用",
-          "title_en": "Open source license compliance generally available",
-          "title_original": "Open source license compliance generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T14:00:32Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
-          "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
-          "title_zh": "开源许可证合规性已普遍可用",
-          "title_en": "Open source license compliance generally available",
-          "title_original": "Open source license compliance generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T14:00:32Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7258,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T14:00:32Z",
-      "latest_at": "2026-10-16T14:00:32Z",
-      "primary_item": {
-        "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
-        "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
-        "title_zh": "开源许可证合规性已普遍可用",
-        "title_en": "Open source license compliance generally available",
-        "title_original": "Open source license compliance generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -226,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8191,
+        "recency": 0.7954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,7 +173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -312,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8616,
+        "recency": 0.8367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,7 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -398,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -431,7 +344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -483,15 +396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9732,
+        "recency": 0.9451,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -516,12 +429,130 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
+      }
+    },
+    {
+      "story_id": "story_91fdd687e161",
+      "title": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+      "url": "https://www.producthunt.com/products/notion",
+      "primary_url": "https://www.producthunt.com/products/notion",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+          "title": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_zh": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作",
+          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "summary": "Switch AI agents without re-explaining your work",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T07:00:19Z",
+          "updated_at": "2026-10-17T14:09:15Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
+          "title": "概念：您的代理的上下文 / Notion: Context for your agents",
+          "title_zh": "概念：您的代理的上下文",
+          "title_en": "Notion: Context for your agents",
+          "title_original": "Notion: Context for your agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:02:34.644000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+          "title": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_zh": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作",
+          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "summary": "Switch AI agents without re-explaining your work",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T07:00:19Z",
+          "updated_at": "2026-10-17T14:09:15Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
+          "title": "概念：您的代理的上下文 / Notion: Context for your agents",
+          "title_zh": "概念：您的代理的上下文",
+          "title_en": "Notion: Context for your agents",
+          "title_original": "Notion: Context for your agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:02:34.644000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9989,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T12:02:34.644000Z",
+      "latest_at": "2026-10-17T14:09:15Z",
+      "primary_item": {
+        "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+        "title": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "title_zh": "概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作",
+        "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "summary": "Switch AI agents without re-explaining your work",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/notion",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
       "story_id": "story_a88e692df8b0",
-      "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "title": "akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "url": "https://github.com/akitaonrails/ai-memory",
       "primary_url": "https://github.com/akitaonrails/ai-memory",
       "source": "GitHub Trending",
@@ -529,8 +560,8 @@
       "sources": [
         {
           "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
-          "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "title_zh": null,
+          "title": "akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "title_zh": "akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换",
           "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
@@ -568,8 +599,8 @@
       "items": [
         {
           "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
-          "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "title_zh": null,
+          "title": "akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+          "title_zh": "akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换",
           "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
@@ -601,15 +632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.589,
+      "importance": 0.589,
+      "importance_score": 0.589,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9711,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -620,8 +651,8 @@
       "latest_at": "2026-10-17T12:11:50.005016Z",
       "primary_item": {
         "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
-        "title": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "title_zh": null,
+        "title": "akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "title_zh": "akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换",
         "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
@@ -634,125 +665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
-      }
-    },
-    {
-      "story_id": "story_91fdd687e161",
-      "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-      "url": "https://www.producthunt.com/products/notion",
-      "primary_url": "https://www.producthunt.com/products/notion",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-          "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_zh": null,
-          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "summary": "Switch AI agents without re-explaining your work",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-17T12:05:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
-          "title": "Notion: Context for your agents",
-          "title_zh": null,
-          "title_en": "Notion: Context for your agents",
-          "title_original": "Notion: Context for your agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:02:34.644000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-          "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_zh": null,
-          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "summary": "Switch AI agents without re-explaining your work",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-17T12:05:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
-          "title": "Notion: Context for your agents",
-          "title_zh": null,
-          "title_en": "Notion: Context for your agents",
-          "title_original": "Notion: Context for your agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:02:34.644000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9985,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T12:02:34.644000Z",
-      "latest_at": "2026-10-17T12:05:28Z",
-      "primary_item": {
-        "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-        "title": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "title_zh": null,
-        "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "summary": "Switch AI agents without re-explaining your work",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/notion",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -836,15 +749,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5839,
-      "importance": 0.5839,
-      "importance_score": 0.5839,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8248,
+        "recency": 0.8009,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -869,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -914,8 +827,8 @@
         },
         {
           "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": null,
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
           "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
@@ -970,8 +883,8 @@
         },
         {
           "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": null,
+          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
           "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
           "summary": null,
@@ -987,15 +900,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 0.9677,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1020,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -1138,15 +1051,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
+      "score": 0.5604,
+      "importance": 0.5604,
+      "importance_score": 0.5604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9702,
+        "recency": 0.9422,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1171,12 +1084,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
       "story_id": "story_cb4b86ce548c",
-      "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+      "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
       "url": "https://www.producthunt.com/products/crew-tower",
       "primary_url": "https://www.producthunt.com/products/crew-tower",
       "source": "Product Hunt",
@@ -1184,8 +1097,8 @@
       "sources": [
         {
           "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-          "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_zh": null,
+          "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
           "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "summary": "Talk to Claude Code right from your MacBook notch",
@@ -1200,8 +1113,8 @@
         },
         {
           "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
-          "title": "CrewTower Mod for Claude Code",
-          "title_zh": null,
+          "title": "Claude代码的 CrewTower Mod / CrewTower Mod for Claude Code",
+          "title_zh": "Claude代码的 CrewTower Mod",
           "title_en": "CrewTower Mod for Claude Code",
           "title_original": "CrewTower Mod for Claude Code",
           "summary": null,
@@ -1223,8 +1136,8 @@
       "items": [
         {
           "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-          "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_zh": null,
+          "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+          "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
           "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "summary": "Talk to Claude Code right from your MacBook notch",
@@ -1239,8 +1152,8 @@
         },
         {
           "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
-          "title": "CrewTower Mod for Claude Code",
-          "title_zh": null,
+          "title": "Claude代码的 CrewTower Mod / CrewTower Mod for Claude Code",
+          "title_zh": "Claude代码的 CrewTower Mod",
           "title_en": "CrewTower Mod for Claude Code",
           "title_original": "CrewTower Mod for Claude Code",
           "summary": null,
@@ -1256,15 +1169,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5935,
-      "importance": 0.5935,
-      "importance_score": 0.5935,
+      "score": 0.5884,
+      "importance": 0.5884,
+      "importance_score": 0.5884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1275,8 +1188,8 @@
       "latest_at": "2026-10-17T12:02:34.644000Z",
       "primary_item": {
         "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-        "title": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-        "title_zh": null,
+        "title": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
+        "title_zh": "Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话",
         "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
         "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
         "summary": "Talk to Claude Code right from your MacBook notch",
@@ -1289,7 +1202,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -1407,15 +1320,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5459,
-      "importance": 0.5459,
-      "importance_score": 0.5459,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8615,
+        "recency": 0.8366,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1440,7 +1353,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -1558,15 +1471,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8386,
+        "recency": 0.8144,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1591,7 +1504,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -1676,15 +1589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9627,
+        "recency": 0.9349,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1709,7 +1622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -1827,15 +1740,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.807,
+        "recency": 0.7837,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1860,7 +1773,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -1978,15 +1891,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7746,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2011,7 +1924,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -2129,15 +2042,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7735,
+        "recency": 0.7511,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2162,7 +2075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -2280,15 +2193,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7676,
+        "recency": 0.7454,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2313,7 +2226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     },
     {
@@ -2398,15 +2311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8483,
+        "recency": 0.8238,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2431,7 +2344,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-17T12:27:31.160851Z"
+        "scored_at": "2026-10-17T14:14:32.365942Z"
+      }
+    },
+    {
+      "story_id": "story_d4941adc6fad",
+      "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "primary_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "source": "www.theregister.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": null,
+          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theregister.com"
+      ],
+      "items": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": null,
+          "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "title_en": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "title_original": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7511,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T15:55:40Z",
+      "latest_at": "2026-10-16T18:24:37.239000Z",
+      "primary_item": {
+        "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+        "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "title_zh": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "title_en": null,
+        "title_original": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+        "source": "www.theregister.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-17T14:14:32.365942Z"
       }
     }
   ]
