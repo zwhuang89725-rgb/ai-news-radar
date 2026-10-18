@@ -5,23 +5,23 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 01:05:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 07:14:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审</title>
-<link>https://x.com/shao__meng/status/2111274173192638932</link>
-<guid isPermaLink="true">https://x.com/shao__meng/status/2111274173192638932</guid>
-<description>Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审</description>
+<title>卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由</title>
+<link>https://x.com/Khazix0918/status/2111639562720329976</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2111639562720329976</guid>
+<description>卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由</description>
 <category>Industry news</category>
-<pubDate>Sat, 17 Oct 2026 01:52:43 +0000</pubDate>
+<pubDate>Sun, 18 Oct 2026 02:04:38 +0000</pubDate>
 </item>
 <item>
-<title>Notion: Context for your agents — Switch AI agents without re-explaining your work</title>
-<link>https://www.producthunt.com/products/notion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/notion</guid>
-<description>Switch AI agents without re-explaining your work (Product Hunt)</description>
+<title>CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch</title>
+<link>https://www.producthunt.com/products/crew-tower</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/crew-tower</guid>
+<description>Talk to Claude Code right from your MacBook notch (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 18 Oct 2026 00:27:26 +0000</pubDate>
+<pubDate>Sun, 18 Oct 2026 07:13:41 +0000</pubDate>
 </item>
 <item>
 <title>stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</title>
@@ -32,12 +32,20 @@
 <pubDate>Sat, 17 Oct 2026 19:23:16 +0000</pubDate>
 </item>
 <item>
-<title>CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch</title>
-<link>https://www.producthunt.com/products/crew-tower</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/crew-tower</guid>
-<description>Talk to Claude Code right from your MacBook notch (Product Hunt)</description>
+<title>Notion: Context for your agents — Switch AI agents without re-explaining your work</title>
+<link>https://www.producthunt.com/products/notion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/notion</guid>
+<description>Switch AI agents without re-explaining your work (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 18 Oct 2026 00:03:32 +0000</pubDate>
+<pubDate>Sun, 18 Oct 2026 07:13:39 +0000</pubDate>
+</item>
+<item>
+<title>Codex Desktop 会持续生成 Crashpad 的待处理转储文件</title>
+<link>https://github.com/openai/codex/issues/25921</link>
+<guid isPermaLink="true">https://github.com/openai/codex/issues/25921</guid>
+<description>Codex Desktop 会持续生成 Crashpad 的待处理转储文件 (github.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 18 Oct 2026 04:10:14 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI披露了另外四起违规事件</title>
@@ -56,12 +64,12 @@
 <pubDate>Sat, 17 Oct 2026 18:34:06 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度</title>
-<link>https://llmspeed.dev</link>
-<guid isPermaLink="true">https://llmspeed.dev</guid>
-<description>Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 (llmspeed.dev)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 17 Oct 2026 11:57:04 +0000</pubDate>
+<title>Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</title>
+<link>https://sphinx-six-theta.vercel.app</link>
+<guid isPermaLink="true">https://sphinx-six-theta.vercel.app</guid>
+<description>Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</description>
+<category>Worth watching</category>
+<pubDate>Sun, 18 Oct 2026 04:33:49 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek：DeepSeek v4.1 Flash 1017</title>
@@ -78,14 +86,6 @@
 <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Sat, 17 Oct 2026 12:11:50 +0000</pubDate>
-</item>
-<item>
-<title>Codex Desktop continuously generates Crashpad pending dumps</title>
-<link>https://github.com/openai/codex/issues/25921</link>
-<guid isPermaLink="true">https://github.com/openai/codex/issues/25921</guid>
-<description>Codex Desktop continuously generates Crashpad pending dumps</description>
-<category>Worth watching</category>
-<pubDate>Sat, 17 Oct 2026 17:45:08 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek-v4.1-Flash-1017</title>
