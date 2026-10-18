@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 18 Oct 2026 07:14:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 09:39:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由</title>
@@ -16,12 +16,36 @@
 <pubDate>Sun, 18 Oct 2026 02:04:38 +0000</pubDate>
 </item>
 <item>
+<title>Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.</title>
+<link>https://www.producthunt.com/products/tomo-for-chatgpt</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/tomo-for-chatgpt</guid>
+<description>Ask anything. Then play it, Duolingo-style.（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sun, 18 Oct 2026 09:39:18 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元</title>
+<link>https://api-docs.deepseek.com/guides/search</link>
+<guid isPermaLink="true">https://api-docs.deepseek.com/guides/search</guid>
+<description>api-docs.deepseek.com</description>
+<category>多源热议</category>
+<pubDate>Sun, 18 Oct 2026 08:37:12 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子</title>
+<link>https://sphinx-six-theta.vercel.app</link>
+<guid isPermaLink="true">https://sphinx-six-theta.vercel.app</guid>
+<description>sphinx-six-theta.vercel.app</description>
+<category>多源热议</category>
+<pubDate>Sun, 18 Oct 2026 08:37:12 +0000</pubDate>
+</item>
+<item>
 <title>Claude Code 的 CrewTower Mod — 直接从 MacBook 缺口处与 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch</title>
 <link>https://www.producthunt.com/products/crew-tower</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/crew-tower</guid>
 <description>Talk to Claude Code right from your MacBook notch（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sun, 18 Oct 2026 07:13:41 +0000</pubDate>
+<pubDate>Sun, 18 Oct 2026 09:37:21 +0000</pubDate>
 </item>
 <item>
 <title>stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</title>
@@ -30,14 +54,6 @@
 <description>Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.（GitHub Trending）</description>
 <category>值得关注</category>
 <pubDate>Sat, 17 Oct 2026 19:23:16 +0000</pubDate>
-</item>
-<item>
-<title>概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work</title>
-<link>https://www.producthunt.com/products/notion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/notion</guid>
-<description>Switch AI agents without re-explaining your work（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Sun, 18 Oct 2026 07:13:39 +0000</pubDate>
 </item>
 <item>
 <title>Codex Desktop 会持续生成 Crashpad 的待处理转储文件</title>
@@ -64,20 +80,12 @@
 <pubDate>Sat, 17 Oct 2026 18:34:06 +0000</pubDate>
 </item>
 <item>
-<title>Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</title>
-<link>https://sphinx-six-theta.vercel.app</link>
-<guid isPermaLink="true">https://sphinx-six-theta.vercel.app</guid>
-<description>Hacker News (黑客新闻)</description>
+<title>概念：您的代理的上下文 - 切换人工智能代理而无需重新解释您的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work</title>
+<link>https://www.producthunt.com/products/notion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/notion</guid>
+<description>Switch AI agents without re-explaining your work（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sun, 18 Oct 2026 04:33:49 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek：DeepSeek v4.1 Flash 1017</title>
-<link>https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</link>
-<guid isPermaLink="true">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</guid>
-<description>openrouter.ai</description>
-<category>多源热议</category>
-<pubDate>Sat, 17 Oct 2026 10:06:14 +0000</pubDate>
+<pubDate>Sun, 18 Oct 2026 09:37:35 +0000</pubDate>
 </item>
 <item>
 <title>akitaonrails/ai-memory — 用于代理编码 CLI 的长期内存解决方案，并促进不同代理供应商之间的切换 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</title>
@@ -86,14 +94,6 @@
 <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors（GitHub Trending）</description>
 <category>值得关注</category>
 <pubDate>Sat, 17 Oct 2026 12:11:50 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek-v4.1-Flash-1017</title>
-<link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
-<guid isPermaLink="true">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</guid>
-<description>huggingface.co</description>
-<category>值得关注</category>
-<pubDate>Sat, 17 Oct 2026 09:34:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
