@@ -5,8 +5,24 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 13:30:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:29:52 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Some Git over HTTPS may temporarily require authentication</title>
+<link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</guid>
+<description>Some Git over HTTPS may temporarily require authentication (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+</item>
+<item>
+<title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
+<description>A hacker broke into John Deere and SharkNinja with an army of AI agents</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 14:23:17 +0000</pubDate>
+</item>
 <item>
 <title>CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
@@ -16,12 +32,76 @@
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
 </item>
 <item>
+<title>Disney found a way to buy Character.AI without buying its lawsuits</title>
+<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
+<description>Disney found a way to buy Character.AI without buying its lawsuits</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
+</item>
+<item>
+<title>The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
+<link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</link>
+<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</guid>
+<description>The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
+</item>
+<item>
+<title>Mercury 3 is live on OpenRouter!</title>
+<link>https://x.com/OpenRouter/status/2112225779782398131</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
+<description>Mercury 3 is live on OpenRouter!</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
 <link>https://www.aibase.com/news/31728</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31728</guid>
 <description>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
+<link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
+<description>DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
+</item>
+<item>
+<title>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</title>
+<link>https://x.com/arena/status/2112215825944117361</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
+<description>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
+</item>
+<item>
+<title>inclusionAI/Ming-3.0-tts</title>
+<link>https://github.com/inclusionAI/Ming-3.0-tts</link>
+<guid isPermaLink="true">https://github.com/inclusionAI/Ming-3.0-tts</guid>
+<description>inclusionAI/Ming-3.0-tts</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 07:03:25 +0000</pubDate>
+</item>
+<item>
+<title>Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API</title>
+<link>https://blog.n8n.io/n8n-nvidia-dgx-spark</link>
+<guid isPermaLink="true">https://blog.n8n.io/n8n-nvidia-dgx-spark</guid>
+<description>Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API (n8n Blog)</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 13:22:17 +0000</pubDate>
+</item>
+<item>
+<title>How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith</title>
+<link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
+<guid isPermaLink="true">https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</guid>
+<description>How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
@@ -38,6 +118,14 @@
 <description>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
+</item>
+<item>
+<title>Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</title>
+<link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</link>
+<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</guid>
+<description>Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 13:00:10 +0000</pubDate>
 </item>
 <item>
 <title>字节火山引擎砸钱"养"AI 剧：月度 TOP10 单部最高奖 20 万</title>
@@ -78,94 +166,6 @@
 <description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Mon, 19 Oct 2026 13:02:23 +0000</pubDate>
-</item>
-<item>
-<title>游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫</title>
-<link>https://www.aibase.com/news/31726</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31726</guid>
-<description>游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: WhatsApp MCP 在 Cloudflare 上免费运行</title>
-<link>https://github.com/finereli/whatsapp-mcp</link>
-<guid isPermaLink="true">https://github.com/finereli/whatsapp-mcp</guid>
-<description>Show HN: WhatsApp MCP 在 Cloudflare 上免费运行 (github.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 19 Oct 2026 08:42:19 +0000</pubDate>
-</item>
-<item>
-<title>如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？</title>
-<link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</link>
-<guid isPermaLink="true">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</guid>
-<description>如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？ (jrdsgl.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 19 Oct 2026 06:20:08 +0000</pubDate>
-</item>
-<item>
-<title>英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生</title>
-<link>https://www.aibase.com/news/31722</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31722</guid>
-<description>英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>Timestral：Mistral 发布时间序列基础模型</title>
-<link>https://mistral.ai/news/timestral</link>
-<guid isPermaLink="true">https://mistral.ai/news/timestral</guid>
-<description>Timestral：Mistral 发布时间序列基础模型 (mistral.ai)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 19 Oct 2026 12:39:13 +0000</pubDate>
-</item>
-<item>
-<title>Harness Engineering 101: The LLM is the brain, the harness is the body</title>
-<link>https://github.com/IsuruMaduranga/harness-engineering-101</link>
-<guid isPermaLink="true">https://github.com/IsuruMaduranga/harness-engineering-101</guid>
-<description>Harness Engineering 101: The LLM is the brain, the harness is the body</description>
-<category>Worth watching</category>
-<pubDate>Mon, 19 Oct 2026 12:07:41 +0000</pubDate>
-</item>
-<item>
-<title>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理</title>
-<link>https://arxiv.org/abs/2610.18861</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
-<description>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 (arxiv.org)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
-</item>
-<item>
-<title>网站正纷纷关闭人工智能客服</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-<description>网站正纷纷关闭人工智能客服 (www.theverge.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1 Flash 1017 (Max)</title>
-<link>https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</link>
-<guid isPermaLink="true">https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</guid>
-<description>DeepSeek V4.1 Flash 1017 (Max) (artificialanalysis.ai)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 19 Oct 2026 07:08:12 +0000</pubDate>
-</item>
-<item>
-<title>阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌</title>
-<link>https://www.aibase.com/news/31729</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31729</guid>
-<description>阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效</title>
-<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
-<guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</guid>
-<description>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 (www.tomshardware.com)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
 </item>
 </channel>
 </rss>
