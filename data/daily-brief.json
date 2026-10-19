@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-10-19T17:29:52.784365Z",
+  "generated_at": "2026-10-19T21:31:47.349405Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_724b564bb7c8",
+      "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+          "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+          "title_zh": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话",
+          "title_en": "How to continue a GitHub Copilot app session in VS Code",
+          "title_original": "How to continue a GitHub Copilot app session in VS Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T18:47:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+          "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+          "title_zh": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话",
+          "title_en": "How to continue a GitHub Copilot app session in VS Code",
+          "title_original": "How to continue a GitHub Copilot app session in VS Code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T18:47:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9612,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T18:47:22Z",
+      "latest_at": "2026-10-19T18:47:22Z",
+      "primary_item": {
+        "id": "3edd1d35b1b432a84819b9cc7b3b35958a3b680c",
+        "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
+        "title_zh": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话",
+        "title_en": "How to continue a GitHub Copilot app session in VS Code",
+        "title_original": "How to continue a GitHub Copilot app session in VS Code",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T21:32:42.940172Z"
+      }
+    },
     {
       "story_id": "story_f7501de552be",
       "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9055,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +174,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
+      }
+    },
+    {
+      "story_id": "story_e09ec7be817e",
+      "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "primary_url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_zh": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+          "title_en": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_original": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_zh": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+          "title_en": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "title_original": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7328,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T00:00:00Z",
+      "latest_at": "2026-10-19T00:00:00Z",
+      "primary_item": {
+        "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+        "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "title_zh": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易",
+        "title_en": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "title_original": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/hf-torchneuron",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T21:32:42.940172Z"
+      }
+    },
+    {
+      "story_id": "story_cdecf8c47980",
+      "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "title_zh": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+          "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "title_original": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T20:21:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "title_zh": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+          "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "title_original": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T20:21:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T20:21:53Z",
+      "latest_at": "2026-10-19T20:21:53Z",
+      "primary_item": {
+        "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+        "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "title_zh": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+        "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "title_original": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -172,15 +432,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.8967,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -207,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -259,15 +519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9037,
+        "recency": 0.8526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -294,67 +554,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
-      "story_id": "story_4344acbfe0e3",
-      "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-      "source": "Ars Technica：AI（RSS）",
+      "story_id": "story_f05a4bc1e42d",
+      "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+      "url": "https://x.com/arena/status/2112247114944360666",
+      "primary_url": "https://x.com/arena/status/2112247114944360666",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
-          "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-          "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+          "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+          "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+          "title_en": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_original": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://x.com/arena/status/2112247114944360666",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T14:45:43Z",
+          "published_at": "2026-10-19T18:18:50Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ars Technica：AI（RSS）"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
-          "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-          "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
-          "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+          "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+          "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+          "title_en": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "title_original": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。",
           "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-          "source": "Ars Technica：AI（RSS）",
+          "url": "https://x.com/arena/status/2112247114944360666",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T14:45:43Z",
+          "published_at": "2026-10-19T18:18:50Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -362,25 +622,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T14:45:43Z",
-      "latest_at": "2026-10-19T14:45:43Z",
+      "earliest_at": "2026-10-19T18:18:50Z",
+      "latest_at": "2026-10-19T18:18:50Z",
       "primary_item": {
-        "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
-        "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
-        "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-        "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
-        "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
-        "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+        "id": "6a0a17cbf7f2007efc0b2d395698af88c46a8901",
+        "title": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+        "title_zh": "DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一",
+        "title_en": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+        "title_original": "Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...",
+        "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。",
         "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-        "source": "Ars Technica：AI（RSS）",
+        "url": "https://x.com/arena/status/2112247114944360666",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -432,21 +692,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T15:30:37Z",
       "latest_at": "2026-10-19T15:30:37Z",
@@ -466,93 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
-      }
-    },
-    {
-      "story_id": "story_84e1775d2c48",
-      "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
-      "url": "https://x.com/OpenRouter/status/2112225779782398131",
-      "primary_url": "https://x.com/OpenRouter/status/2112225779782398131",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1aa5c7e7d551045b9ab9b985db803a4a3994b69f",
-          "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
-          "title_zh": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
-          "title_en": "Mercury 3 is live on OpenRouter!",
-          "title_original": "Mercury 3 is live on OpenRouter!",
-          "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2112225779782398131",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:54:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "1aa5c7e7d551045b9ab9b985db803a4a3994b69f",
-          "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
-          "title_zh": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
-          "title_en": "Mercury 3 is live on OpenRouter!",
-          "title_original": "Mercury 3 is live on OpenRouter!",
-          "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2112225779782398131",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:54:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T16:54:03Z",
-      "latest_at": "2026-10-19T16:54:03Z",
-      "primary_item": {
-        "id": "1aa5c7e7d551045b9ab9b985db803a4a3994b69f",
-        "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
-        "title_zh": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
-        "title_en": "Mercury 3 is live on OpenRouter!",
-        "title_original": "Mercury 3 is live on OpenRouter!",
-        "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2112225779782398131",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -604,21 +777,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9079,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T10:48:32.020518Z",
       "latest_at": "2026-10-19T10:48:32.020518Z",
@@ -638,7 +810,177 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
+      }
+    },
+    {
+      "story_id": "story_84e1775d2c48",
+      "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
+      "url": "https://x.com/OpenRouter/status/2112225779782398131",
+      "primary_url": "https://x.com/OpenRouter/status/2112225779782398131",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1aa5c7e7d551045b9ab9b985db803a4a3994b69f",
+          "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
+          "title_zh": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
+          "title_en": "Mercury 3 is live on OpenRouter!",
+          "title_original": "Mercury 3 is live on OpenRouter!",
+          "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2112225779782398131",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:54:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "1aa5c7e7d551045b9ab9b985db803a4a3994b69f",
+          "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
+          "title_zh": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
+          "title_en": "Mercury 3 is live on OpenRouter!",
+          "title_original": "Mercury 3 is live on OpenRouter!",
+          "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2112225779782398131",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:54:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9353,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T16:54:03Z",
+      "latest_at": "2026-10-19T16:54:03Z",
+      "primary_item": {
+        "id": "1aa5c7e7d551045b9ab9b985db803a4a3994b69f",
+        "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!",
+        "title_zh": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
+        "title_en": "Mercury 3 is live on OpenRouter!",
+        "title_original": "Mercury 3 is live on OpenRouter!",
+        "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2112225779782398131",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T21:32:42.940172Z"
+      }
+    },
+    {
+      "story_id": "story_d95f2ac548b5",
+      "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+      "url": "https://x.com/fal/status/2112251022047412492",
+      "primary_url": "https://x.com/fal/status/2112251022047412492",
+      "source": "X：fal (@fal)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3b1919bdb185948ad3323a6bed7c8f4ee802ba16",
+          "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_zh": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+          "title_en": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_original": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fal/status/2112251022047412492",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:34:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：fal (@fal)"
+      ],
+      "items": [
+        {
+          "id": "3b1919bdb185948ad3323a6bed7c8f4ee802ba16",
+          "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_zh": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+          "title_en": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "title_original": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+          "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/fal/status/2112251022047412492",
+          "source": "X：fal (@fal)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T18:34:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9582,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T18:34:22Z",
+      "latest_at": "2026-10-19T18:34:22Z",
+      "primary_item": {
+        "id": "3b1919bdb185948ad3323a6bed7c8f4ee802ba16",
+        "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+        "title_zh": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+        "title_en": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+        "title_original": "Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.",
+        "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/fal/status/2112251022047412492",
+        "source": "X：fal (@fal)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -690,15 +1032,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,92 +1065,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
-      "story_id": "story_e0b64f4fd038",
-      "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-      "url": "https://x.com/arena/status/2112215825944117361",
-      "primary_url": "https://x.com/arena/status/2112215825944117361",
-      "source": "X：Arena (@arena)",
+      "story_id": "story_4344acbfe0e3",
+      "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+          "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
+          "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
+          "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
+          "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2112215825944117361",
-          "source": "X：Arena (@arena)",
+          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T16:14:30Z",
+          "published_at": "2026-10-19T14:45:43Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "Ars Technica：AI（RSS）"
       ],
       "items": [
         {
-          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+          "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
+          "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
+          "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
+          "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2112215825944117361",
-          "source": "X：Arena (@arena)",
+          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-19T16:14:30Z",
+          "published_at": "2026-10-19T14:45:43Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.982,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-19T16:14:30Z",
-      "latest_at": "2026-10-19T16:14:30Z",
+      "earliest_at": "2026-10-19T14:45:43Z",
+      "latest_at": "2026-10-19T14:45:43Z",
       "primary_item": {
-        "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-        "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-        "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-        "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-        "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
-        "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+        "id": "8ac36900fb5c55e23d0382fa49821eef5c6fac4e",
+        "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits",
+        "title_zh": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
+        "title_en": "Disney found a way to buy Character.AI without buying its lawsuits",
+        "title_original": "Disney found a way to buy Character.AI without buying its lawsuits",
+        "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2112215825944117361",
-        "source": "X：Arena (@arena)",
+        "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -860,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.86,
+        "recency": 0.8114,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,7 +1236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -945,15 +1288,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,177 +1321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
-      }
-    },
-    {
-      "story_id": "story_8649e06b51ec",
-      "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-      "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-      "primary_url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
-          "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-          "title_zh": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-          "title_en": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-          "title_original": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-          "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
-          "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-          "title_zh": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-          "title_en": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-          "title_original": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-          "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9646,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T15:00:00Z",
-      "latest_at": "2026-10-19T15:00:00Z",
-      "primary_item": {
-        "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
-        "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-        "title_zh": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-        "title_en": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-        "title_original": "How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith",
-        "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
-        "recommend_reason_zh": null,
-        "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
-      }
-    },
-    {
-      "story_id": "story_979604c06d35",
-      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-      "primary_url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-      "source": "PyTorch：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
-          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
-          "recommend_reason_zh": null,
-          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T12:45:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "PyTorch：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
-          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
-          "recommend_reason_zh": null,
-          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T12:45:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7227,
-      "importance": 0.7227,
-      "importance_score": 0.7227,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9338,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T12:45:23Z",
-      "latest_at": "2026-10-19T12:45:23Z",
-      "primary_item": {
-        "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
-        "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-        "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
-        "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-        "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-        "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。",
-        "recommend_reason_zh": null,
-        "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
-        "source": "PyTorch：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -1200,21 +1373,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9079,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T10:48:32.020518Z",
       "latest_at": "2026-10-19T10:48:32.020518Z",
@@ -1234,7 +1406,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
+      }
+    },
+    {
+      "story_id": "story_e0b64f4fd038",
+      "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+      "url": "https://x.com/arena/status/2112215825944117361",
+      "primary_url": "https://x.com/arena/status/2112215825944117361",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
+          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
+          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2112215825944117361",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:14:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
+          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
+          "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+          "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2112215825944117361",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T16:14:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9265,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T16:14:30Z",
+      "latest_at": "2026-10-19T16:14:30Z",
+      "primary_item": {
+        "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
+        "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+        "title_zh": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
+        "title_en": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+        "title_original": "Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...",
+        "summary": "Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2112215825944117361",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -1286,15 +1543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9371,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,7 +1576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -1371,21 +1628,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9079,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T10:48:32.020518Z",
       "latest_at": "2026-10-19T10:48:32.020518Z",
@@ -1405,7 +1661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     },
     {
@@ -1457,21 +1713,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9079,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-19T10:48:32.020518Z",
       "latest_at": "2026-10-19T10:48:32.020518Z",
@@ -1491,297 +1746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
-      }
-    },
-    {
-      "story_id": "story_7e560b6785ec",
-      "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-      "url": "https://www.aibase.com/news/31723",
-      "primary_url": "https://www.aibase.com/news/31723",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_en": null,
-          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:48:32.020518Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_en": null,
-          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31723",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:48:32.020518Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T10:48:32.020518Z",
-      "latest_at": "2026-10-19T10:48:32.020518Z",
-      "primary_item": {
-        "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-        "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-        "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-        "title_en": null,
-        "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31723",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
-      }
-    },
-    {
-      "story_id": "story_5806e8a8ca0a",
-      "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-      "url": "https://www.aibase.com/news/31730",
-      "primary_url": "https://www.aibase.com/news/31730",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
-          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "title_en": null,
-          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31730",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:48:32.020518Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
-          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "title_en": null,
-          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31730",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:48:32.020518Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T10:48:32.020518Z",
-      "latest_at": "2026-10-19T10:48:32.020518Z",
-      "primary_item": {
-        "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
-        "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-        "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-        "title_en": null,
-        "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31730",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
-      }
-    },
-    {
-      "story_id": "story_c1ed5d1d1d6c",
-      "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "primary_url": "https://github.com/headroomlabs-ai/headroom",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "093d969b5df0dd7219c435be913cc5f6cb11279b",
-          "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "title_zh": null,
-          "title_en": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "title_original": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/headroomlabs-ai/headroom",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e1cb804b53124f9c1ad19fb33485ece6483ec26c",
-          "title": "headroomlabs-ai /      headroom",
-          "title_zh": null,
-          "title_en": "headroomlabs-ai /      headroom",
-          "title_original": "headroomlabs-ai /      headroom",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/headroomlabs-ai/headroom",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T13:02:23.924000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "093d969b5df0dd7219c435be913cc5f6cb11279b",
-          "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "title_zh": null,
-          "title_en": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "title_original": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/headroomlabs-ai/headroom",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e1cb804b53124f9c1ad19fb33485ece6483ec26c",
-          "title": "headroomlabs-ai /      headroom",
-          "title_zh": null,
-          "title_en": "headroomlabs-ai /      headroom",
-          "title_original": "headroomlabs-ai /      headroom",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/headroomlabs-ai/headroom",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T13:02:23.924000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5776,
-      "importance": 0.5776,
-      "importance_score": 0.5776,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9079,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-19T10:48:32.020518Z",
-      "latest_at": "2026-10-19T13:02:23.924000Z",
-      "primary_item": {
-        "id": "093d969b5df0dd7219c435be913cc5f6cb11279b",
-        "title": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "title_zh": null,
-        "title_en": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "title_original": "headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/headroomlabs-ai/headroom",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T17:31:37.255287Z"
+        "scored_at": "2026-10-19T21:32:42.940172Z"
       }
     }
   ]

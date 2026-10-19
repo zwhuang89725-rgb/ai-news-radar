@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 17:29:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 21:31:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>How to continue a GitHub Copilot app session in VS Code</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</guid>
+<description>How to continue a GitHub Copilot app session in VS Code (GitHub AI &amp; ML)</description>
+<category>Official update</category>
+<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
+</item>
 <item>
 <title>Some Git over HTTPS may temporarily require authentication</title>
 <link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
@@ -14,6 +22,22 @@
 <description>Some Git over HTTPS may temporarily require authentication (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+</item>
+<item>
+<title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
+<link>https://huggingface.co/blog/hf-torchneuron</link>
+<guid isPermaLink="true">https://huggingface.co/blog/hf-torchneuron</guid>
+<description>TorchNeuron: running HF models on AWS Trainium is easier than ever (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
+<link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</guid>
+<description>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
 </item>
 <item>
 <title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
@@ -32,12 +56,12 @@
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
 </item>
 <item>
-<title>Disney found a way to buy Character.AI without buying its lawsuits</title>
-<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
-<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
-<description>Disney found a way to buy Character.AI without buying its lawsuits</description>
+<title>Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...</title>
+<link>https://x.com/arena/status/2112247114944360666</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112247114944360666</guid>
+<description>Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
 </item>
 <item>
 <title>The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
@@ -48,6 +72,14 @@
 <pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
+<link>https://www.aibase.com/news/31728</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31728</guid>
+<description>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
+</item>
+<item>
 <title>Mercury 3 is live on OpenRouter!</title>
 <link>https://x.com/OpenRouter/status/2112225779782398131</link>
 <guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
@@ -56,12 +88,12 @@
 <pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
-<link>https://www.aibase.com/news/31728</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31728</guid>
-<description>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作 (AIbase)</description>
+<title>Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.</title>
+<link>https://x.com/fal/status/2112251022047412492</link>
+<guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
+<description>Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
@@ -72,12 +104,12 @@
 <pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
 </item>
 <item>
-<title>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</title>
-<link>https://x.com/arena/status/2112215825944117361</link>
-<guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
-<description>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</description>
+<title>Disney found a way to buy Character.AI without buying its lawsuits</title>
+<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
+<description>Disney found a way to buy Character.AI without buying its lawsuits</description>
 <category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
 </item>
 <item>
 <title>inclusionAI/Ming-3.0-tts</title>
@@ -96,28 +128,20 @@
 <pubDate>Mon, 19 Oct 2026 13:22:17 +0000</pubDate>
 </item>
 <item>
-<title>How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith</title>
-<link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</guid>
-<description>How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
-<link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</link>
-<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</guid>
-<description>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
-</item>
-<item>
 <title>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场</title>
 <link>https://www.aibase.com/news/31731</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31731</guid>
 <description>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
+</item>
+<item>
+<title>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</title>
+<link>https://x.com/arena/status/2112215825944117361</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
+<description>Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
 </item>
 <item>
 <title>Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</title>
@@ -142,30 +166,6 @@
 <description>山姆出手整治"AI 下架好物"谣言：数千条假帖引流牟利 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨</title>
-<link>https://www.aibase.com/news/31723</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31723</guid>
-<description>无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室</title>
-<link>https://www.aibase.com/news/31730</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31730</guid>
-<description>检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</title>
-<link>https://github.com/headroomlabs-ai/headroom</link>
-<guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
-<description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 19 Oct 2026 13:02:23 +0000</pubDate>
 </item>
 </channel>
 </rss>
