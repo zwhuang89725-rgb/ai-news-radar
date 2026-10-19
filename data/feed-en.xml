@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 19 Oct 2026 10:48:32 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 13:30:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
+<link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</guid>
+<description>CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
 <link>https://www.aibase.com/news/31728</link>
@@ -16,12 +24,12 @@
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</title>
-<link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours</link>
-<guid isPermaLink="true">https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours</guid>
-<description>Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</description>
+<title>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
+<link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</link>
+<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</guid>
+<description>Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</description>
 <category>Industry news</category>
-<pubDate>Sun, 18 Oct 2026 13:22:26 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
 </item>
 <item>
 <title>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场</title>
@@ -32,28 +40,12 @@
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
 </item>
 <item>
-<title>Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...</title>
-<link>https://x.com/arena/status/2111894091168682086</link>
-<guid isPermaLink="true">https://x.com/arena/status/2111894091168682086</guid>
-<description>Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...</description>
-<category>Industry news</category>
-<pubDate>Sun, 18 Oct 2026 18:56:03 +0000</pubDate>
-</item>
-<item>
 <title>字节火山引擎砸钱"养"AI 剧：月度 TOP10 单部最高奖 20 万</title>
 <link>https://www.aibase.com/news/31724</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31724</guid>
 <description>字节火山引擎砸钱"养"AI 剧：月度 TOP10 单部最高奖 20 万 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
-</item>
-<item>
-<title>Two German courts now hold Google liable for what its AI overviews say</title>
-<link>https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say</link>
-<guid isPermaLink="true">https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say</guid>
-<description>Two German courts now hold Google liable for what its AI overviews say</description>
-<category>Industry news</category>
-<pubDate>Sun, 18 Oct 2026 10:52:39 +0000</pubDate>
 </item>
 <item>
 <title>山姆出手整治"AI 下架好物"谣言：数千条假帖引流牟利</title>
@@ -78,6 +70,14 @@
 <description>检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
+</item>
+<item>
+<title>headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</title>
+<link>https://github.com/headroomlabs-ai/headroom</link>
+<guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
+<description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (GitHub Trending)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 19 Oct 2026 13:02:23 +0000</pubDate>
 </item>
 <item>
 <title>游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫</title>
@@ -112,12 +112,20 @@
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
 </item>
 <item>
-<title>mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</title>
-<link>https://github.com/mlabonne/llm-course</link>
-<guid isPermaLink="true">https://github.com/mlabonne/llm-course</guid>
-<description>Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (GitHub Trending)</description>
+<title>Timestral：Mistral 发布时间序列基础模型</title>
+<link>https://mistral.ai/news/timestral</link>
+<guid isPermaLink="true">https://mistral.ai/news/timestral</guid>
+<description>Timestral：Mistral 发布时间序列基础模型 (mistral.ai)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 18 Oct 2026 12:37:06 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 12:39:13 +0000</pubDate>
+</item>
+<item>
+<title>Harness Engineering 101: The LLM is the brain, the harness is the body</title>
+<link>https://github.com/IsuruMaduranga/harness-engineering-101</link>
+<guid isPermaLink="true">https://github.com/IsuruMaduranga/harness-engineering-101</guid>
+<description>Harness Engineering 101: The LLM is the brain, the harness is the body</description>
+<category>Worth watching</category>
+<pubDate>Mon, 19 Oct 2026 12:07:41 +0000</pubDate>
 </item>
 <item>
 <title>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理</title>
@@ -126,14 +134,6 @@
 <description>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理 (arxiv.org)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 的就业形势正在发生怎样的变化</title>
-<link>https://www.anthropic.com/research/employment-at-anthropic</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/employment-at-anthropic</guid>
-<description>Anthropic 的就业形势正在发生怎样的变化 (www.anthropic.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
 </item>
 <item>
 <title>网站正纷纷关闭人工智能客服</title>
@@ -152,20 +152,20 @@
 <pubDate>Mon, 19 Oct 2026 07:08:12 +0000</pubDate>
 </item>
 <item>
-<title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
-<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
-<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
-<description>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</description>
-<category>Worth watching</category>
-<pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
-</item>
-<item>
 <title>阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌</title>
 <link>https://www.aibase.com/news/31729</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31729</guid>
 <description>阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 10:48:32 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
+<guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</guid>
+<description>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 (www.tomshardware.com)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
 </item>
 </channel>
 </rss>
