@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-19T06:14:51.400925Z",
+  "generated_at": "2026-10-19T10:48:32.020518Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_2e0021cc3257",
-      "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-      "url": "https://www.aibase.com/news/31721",
-      "primary_url": "https://www.aibase.com/news/31721",
+      "story_id": "story_3e82f9917712",
+      "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+      "url": "https://www.aibase.com/news/31728",
+      "primary_url": "https://www.aibase.com/news/31728",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
           "title_en": null,
-          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31721",
+          "url": "https://www.aibase.com/news/31728",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,18 +34,18 @@
       ],
       "items": [
         {
-          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
           "title_en": null,
-          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31721",
+          "url": "https://www.aibase.com/news/31728",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -68,17 +68,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-        "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-        "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+        "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+        "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
         "title_en": null,
-        "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+        "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31721",
+        "url": "https://www.aibase.com/news/31728",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -86,7 +86,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7837,
+        "recency": 0.7338,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -171,30 +171,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_61950f77d8ab",
-      "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
-      "url": "https://www.aibase.com/news/31709",
-      "primary_url": "https://www.aibase.com/news/31709",
+      "story_id": "story_42cc36918f65",
+      "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+      "url": "https://www.aibase.com/news/31731",
+      "primary_url": "https://www.aibase.com/news/31731",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "30190949768c96dea08fc1617658d74238fb5dd0",
-          "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
-          "title_zh": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+          "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "title_en": null,
-          "title_original": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31709",
+          "url": "https://www.aibase.com/news/31731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -205,18 +205,18 @@
       ],
       "items": [
         {
-          "id": "30190949768c96dea08fc1617658d74238fb5dd0",
-          "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
-          "title_zh": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+          "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "title_en": null,
-          "title_original": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+          "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31709",
+          "url": "https://www.aibase.com/news/31731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -239,17 +239,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "30190949768c96dea08fc1617658d74238fb5dd0",
-        "title": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
-        "title_zh": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+        "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+        "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+        "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
         "title_en": null,
-        "title_original": "AI 浪潮下的社区无奈谢幕:知名反编译追踪网站decomp.dev宣布关闭",
+        "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31709",
+        "url": "https://www.aibase.com/news/31731",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -257,7 +257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
@@ -309,15 +309,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.7951,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -342,7 +342,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
+      }
+    },
+    {
+      "story_id": "story_77ff31b79141",
+      "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+      "url": "https://www.aibase.com/news/31724",
+      "primary_url": "https://www.aibase.com/news/31724",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_en": null,
+          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T10:48:32.020518Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_en": null,
+          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T10:48:32.020518Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
+      "primary_item": {
+        "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+        "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "title_en": null,
+        "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31724",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
@@ -394,15 +480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.756,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -427,30 +513,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_be973b3cdd3b",
-      "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-      "url": "https://www.aibase.com/news/31710",
-      "primary_url": "https://www.aibase.com/news/31710",
+      "story_id": "story_f866fb9579b1",
+      "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+      "url": "https://www.aibase.com/news/31725",
+      "primary_url": "https://www.aibase.com/news/31725",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
-          "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
           "title_en": null,
-          "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31710",
+          "url": "https://www.aibase.com/news/31725",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -461,18 +547,18 @@
       ],
       "items": [
         {
-          "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
-          "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
           "title_en": null,
-          "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31710",
+          "url": "https://www.aibase.com/news/31725",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -495,17 +581,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
-        "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-        "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+        "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+        "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
         "title_en": null,
-        "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
+        "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31710",
+        "url": "https://www.aibase.com/news/31725",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -513,30 +599,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_07d6bd367abd",
-      "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-      "url": "https://www.aibase.com/news/31716",
-      "primary_url": "https://www.aibase.com/news/31716",
+      "story_id": "story_7e560b6785ec",
+      "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+      "url": "https://www.aibase.com/news/31723",
+      "primary_url": "https://www.aibase.com/news/31723",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
+          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "title_en": null,
-          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31716",
+          "url": "https://www.aibase.com/news/31723",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -547,18 +633,18 @@
       ],
       "items": [
         {
-          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
+          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "title_en": null,
-          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31716",
+          "url": "https://www.aibase.com/news/31723",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -581,17 +667,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-        "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-        "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+        "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
+        "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+        "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
         "title_en": null,
-        "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
+        "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31716",
+        "url": "https://www.aibase.com/news/31723",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -599,30 +685,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_16ab1c3d9bf2",
-      "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-      "url": "https://www.aibase.com/news/31711",
-      "primary_url": "https://www.aibase.com/news/31711",
+      "story_id": "story_5806e8a8ca0a",
+      "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+      "url": "https://www.aibase.com/news/31730",
+      "primary_url": "https://www.aibase.com/news/31730",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
-          "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-          "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "title_en": null,
-          "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31711",
+          "url": "https://www.aibase.com/news/31730",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -633,18 +719,18 @@
       ],
       "items": [
         {
-          "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
-          "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-          "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "title_en": null,
-          "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31711",
+          "url": "https://www.aibase.com/news/31730",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -667,17 +753,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
-        "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-        "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+        "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+        "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+        "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
         "title_en": null,
-        "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+        "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31711",
+        "url": "https://www.aibase.com/news/31730",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -685,30 +771,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_b8cfe2ba3126",
-      "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-      "url": "https://www.aibase.com/news/31720",
-      "primary_url": "https://www.aibase.com/news/31720",
+      "story_id": "story_15dde2629f34",
+      "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+      "url": "https://www.aibase.com/news/31726",
+      "primary_url": "https://www.aibase.com/news/31726",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+          "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
+          "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
           "title_en": null,
-          "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+          "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31720",
+          "url": "https://www.aibase.com/news/31726",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -719,18 +805,18 @@
       ],
       "items": [
         {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+          "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
+          "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
           "title_en": null,
-          "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+          "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31720",
+          "url": "https://www.aibase.com/news/31726",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -753,17 +839,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-        "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-        "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+        "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
+        "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+        "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
         "title_en": null,
-        "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+        "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31720",
+        "url": "https://www.aibase.com/news/31726",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -771,148 +857,332 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_c8053cb1d345",
-      "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "primary_url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_44f749f3afa5",
+      "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "primary_url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
+          "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": null,
+          "title_original": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-19T06:04:13Z",
-          "recency_basis": "updated_at"
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T08:42:19.266000Z",
+          "updated_at": null,
+          "recency_basis": null
         },
         {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "Tomo for ChatGPT",
-          "title_zh": null,
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
+          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:36:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
+          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145715",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
+          "published_at": "2026-10-18T21:36:10Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-19T06:04:13Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "Tomo for ChatGPT",
-          "title_zh": null,
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
+          "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": null,
+          "title_original": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T08:42:19.266000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:36:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
+          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145715",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
+          "published_at": "2026-10-18T21:36:10Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9974,
-        "story_heat": 0.25
+        "recency": 0.9701,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T09:20:05.051000Z",
-      "latest_at": "2026-10-19T06:04:13Z",
+      "earliest_at": "2026-10-18T21:36:10Z",
+      "latest_at": "2026-10-19T08:42:19.266000Z",
       "primary_item": {
-        "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-        "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
-        "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "summary": "Ask anything. Then play it, Duolingo-style.",
+        "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+        "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+        "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+        "title_en": null,
+        "title_original": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://github.com/finereli/whatsapp-mcp",
+        "source": "github.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_30ee62b208be",
-      "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
-      "url": "https://www.aibase.com/news/31712",
-      "primary_url": "https://www.aibase.com/news/31712",
+      "story_id": "story_383c2dd2c97b",
+      "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+      "primary_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+      "source": "jrdsgl.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "85c724dac33a678b9e673cc02c802fca0c78ed58",
+          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "title_en": null,
+          "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+          "source": "jrdsgl.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T06:20:08.917000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "56441385b75073783467b0beb8bcc70893b2aa3b",
+          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:09:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d0351edc8706158a0beb083d6c177363d3b335c7",
+          "title": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_zh": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？",
+          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145507",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T21:09:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jrdsgl.com"
+      ],
+      "items": [
+        {
+          "id": "85c724dac33a678b9e673cc02c802fca0c78ed58",
+          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "title_en": null,
+          "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+          "source": "jrdsgl.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T06:20:08.917000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "56441385b75073783467b0beb8bcc70893b2aa3b",
+          "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:09:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d0351edc8706158a0beb083d6c177363d3b335c7",
+          "title": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？ / If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_zh": "如果您不运行自己的 LLM 代理，您怎么知道发生了什么？",
+          "title_en": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "title_original": "If you don't run your own LLM proxy, how do you know whats going on?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145507",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T21:09:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9374,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T21:09:12Z",
+      "latest_at": "2026-10-19T06:20:08.917000Z",
+      "primary_item": {
+        "id": "85c724dac33a678b9e673cc02c802fca0c78ed58",
+        "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+        "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+        "title_en": null,
+        "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+        "source": "jrdsgl.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T10:49:24.351347Z"
+      }
+    },
+    {
+      "story_id": "story_140e1fca7bd6",
+      "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+      "url": "https://www.aibase.com/news/31722",
+      "primary_url": "https://www.aibase.com/news/31722",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e4608118c3d509b969616c8627ad8847bbc4f8e4",
-          "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
-          "title_zh": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "id": "3b7f1ef4d0d6ee0393ffad96de5490965aa1fcf4",
+          "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+          "title_zh": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
           "title_en": null,
-          "title_original": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "title_original": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31712",
+          "url": "https://www.aibase.com/news/31722",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -923,18 +1193,18 @@
       ],
       "items": [
         {
-          "id": "e4608118c3d509b969616c8627ad8847bbc4f8e4",
-          "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
-          "title_zh": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "id": "3b7f1ef4d0d6ee0393ffad96de5490965aa1fcf4",
+          "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+          "title_zh": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
           "title_en": null,
-          "title_original": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+          "title_original": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31712",
+          "url": "https://www.aibase.com/news/31722",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -957,17 +1227,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "e4608118c3d509b969616c8627ad8847bbc4f8e4",
-        "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
-        "title_zh": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+        "id": "3b7f1ef4d0d6ee0393ffad96de5490965aa1fcf4",
+        "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+        "title_zh": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
         "title_en": null,
-        "title_original": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
+        "title_original": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31712",
+        "url": "https://www.aibase.com/news/31722",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -975,93 +1245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
-      }
-    },
-    {
-      "story_id": "story_43ac5dd043a1",
-      "title": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-      "url": "https://www.aibase.com/news/31718",
-      "primary_url": "https://www.aibase.com/news/31718",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b939ddbb45b4772e9d4e5334d2c4fff5672d3c4b",
-          "title": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-          "title_zh": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-          "title_en": null,
-          "title_original": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b939ddbb45b4772e9d4e5334d2c4fff5672d3c4b",
-          "title": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-          "title_zh": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-          "title_en": null,
-          "title_original": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
-      "primary_item": {
-        "id": "b939ddbb45b4772e9d4e5334d2c4fff5672d3c4b",
-        "title": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-        "title_zh": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-        "title_en": null,
-        "title_original": "游戏反编译社区 decomp.dev 关站：AI 提速反成\"协作杀手\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31718",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
@@ -1146,15 +1330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7752,
+        "recency": 0.7258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1179,7 +1363,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
@@ -1297,15 +1481,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5522,
-      "importance": 0.5522,
-      "importance_score": 0.5522,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8968,
+        "recency": 0.8396,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1330,7 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
@@ -1448,15 +1632,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8786,
+        "recency": 0.8226,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1481,7 +1665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
@@ -1599,15 +1783,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5489,
-      "importance": 0.5489,
-      "importance_score": 0.5489,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8786,
+        "recency": 0.8226,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1632,19 +1816,19 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_f92b9febe869",
+      "story_id": "story_f06226c1b35e",
       "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
       "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
       "primary_url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "artificialanalysis.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bb2fb8d31285d0f32563392618ebf849081e205a",
+          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
           "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
           "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
           "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
@@ -1652,10 +1836,10 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:41:46Z",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T07:08:12.735000Z",
           "updated_at": null,
           "recency_basis": null
         },
@@ -1678,12 +1862,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "artificialanalysis.ai",
         "hackernews"
       ],
       "items": [
         {
-          "id": "bb2fb8d31285d0f32563392618ebf849081e205a",
+          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
           "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
           "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
           "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
@@ -1691,10 +1875,10 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:41:46Z",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T07:08:12.735000Z",
           "updated_at": null,
           "recency_basis": null
         },
@@ -1717,15 +1901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9778,
+        "recency": 0.9484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1733,9 +1917,9 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-19T04:41:46Z",
-      "latest_at": "2026-10-19T04:41:46Z",
+      "latest_at": "2026-10-19T07:08:12.735000Z",
       "primary_item": {
-        "id": "bb2fb8d31285d0f32563392618ebf849081e205a",
+        "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
         "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
         "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
         "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
@@ -1743,6 +1927,124 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+        "source": "artificialanalysis.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T10:49:24.351347Z"
+      }
+    },
+    {
+      "story_id": "story_7f01586b7dfa",
+      "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents",
+      "primary_url": "https://crystl.dev/guides/tmux-for-ai-agents",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://crystl.dev/guides/tmux-for-ai-agents",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T05:55:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "23ed3acce1a02dda09bf996310e6b2dd3f44a719",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50148855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T05:55:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://crystl.dev/guides/tmux-for-ai-agents",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T05:55:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "23ed3acce1a02dda09bf996310e6b2dd3f44a719",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50148855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T05:55:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9319,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T05:55:31Z",
+      "latest_at": "2026-10-19T05:55:31Z",
+      "primary_item": {
+        "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
+        "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+        "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://crystl.dev/guides/tmux-for-ai-agents",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1750,30 +2052,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     },
     {
-      "story_id": "story_625af896d740",
-      "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-      "url": "https://www.aibase.com/news/31713",
-      "primary_url": "https://www.aibase.com/news/31713",
+      "story_id": "story_e40c814da79b",
+      "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+      "url": "https://www.aibase.com/news/31729",
+      "primary_url": "https://www.aibase.com/news/31729",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
-          "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-          "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "title_en": null,
-          "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31713",
+          "url": "https://www.aibase.com/news/31729",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1784,18 +2086,18 @@
       ],
       "items": [
         {
-          "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
-          "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-          "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "title_en": null,
-          "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31713",
+          "url": "https://www.aibase.com/news/31729",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:14:51.400925Z",
+          "published_at": "2026-10-19T10:48:32.020518Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1818,17 +2120,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:14:51.400925Z",
-      "latest_at": "2026-10-19T06:14:51.400925Z",
+      "earliest_at": "2026-10-19T10:48:32.020518Z",
+      "latest_at": "2026-10-19T10:48:32.020518Z",
       "primary_item": {
-        "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
-        "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-        "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+        "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+        "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+        "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
         "title_en": null,
-        "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+        "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31713",
+        "url": "https://www.aibase.com/news/31729",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1836,276 +2138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
-      }
-    },
-    {
-      "story_id": "story_69fc7bae46d7",
-      "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "source": "www.tomshardware.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
-          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "title_en": null,
-          "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.195000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
-          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T14:30:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.tomshardware.com"
-      ],
-      "items": [
-        {
-          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
-          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "title_en": null,
-          "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.195000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
-          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-          "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T14:30:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8786,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T14:30:27Z",
-      "latest_at": "2026-10-18T21:17:07.195000Z",
-      "primary_item": {
-        "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
-        "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-        "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-        "title_en": null,
-        "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "source": "www.tomshardware.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
-      }
-    },
-    {
-      "story_id": "story_fafd6304ca6c",
-      "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-      "url": "https://api-docs.deepseek.com/guides/search",
-      "primary_url": "https://api-docs.deepseek.com/guides/search",
-      "source": "api-docs.deepseek.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
-          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "title_zh": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "title_en": null,
-          "title_original": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/guides/search",
-          "source": "api-docs.deepseek.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T08:37:12.821000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
-          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_zh": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/guides/search",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T06:50:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
-          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_zh": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
-          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50138531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T06:50:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "api-docs.deepseek.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
-          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "title_zh": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "title_en": null,
-          "title_original": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/guides/search",
-          "source": "api-docs.deepseek.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T08:37:12.821000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
-          "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_zh": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/guides/search",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T06:50:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
-          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_zh": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元",
-          "title_en": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "title_original": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50138531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T06:50:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7318,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T06:50:36Z",
-      "latest_at": "2026-10-18T08:37:12.821000Z",
-      "primary_item": {
-        "id": "1c30d8e93b7f1c029756a45b444ff067edb4eb1c",
-        "title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-        "title_zh": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-        "title_en": null,
-        "title_original": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://api-docs.deepseek.com/guides/search",
-        "source": "api-docs.deepseek.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T06:15:56.695458Z"
+        "scored_at": "2026-10-19T10:49:24.351347Z"
       }
     }
   ]

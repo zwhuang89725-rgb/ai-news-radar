@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:15:52.228973Z",
+  "generated_at": "2026-10-19T10:49:07.624071Z",
   "date": "2026-10-19",
   "total_items": 4,
   "items": [
@@ -15,49 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-19T06:14:51.400925Z"
+      "observed_at": "2026-10-19T10:48:32.020518Z"
     },
     {
-      "id": "project_d72ebbb33464",
-      "project_name": "Popcraft",
-      "url": "https://www.producthunt.com/products/popcraft",
-      "summary": "Generate video, images & audio from any AI agent",
+      "id": "project_1b15909b2f7f",
+      "project_name": "Own 1",
+      "url": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+      "summary": "Own your data. Own your AI. A mind of your own.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Generate video, images & audio from any AI agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Generate video, images & audio from any AI agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-29T08:31:33Z",
-      "updated_at": "2026-10-19T06:02:37Z",
+      "recommend_reason_zh": "体验它主打的「Own your data. Own your AI. A mind of your own」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Own your data. Own your AI. A mind of your own\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-18T08:46:56Z",
+      "updated_at": "2026-10-19T10:48:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-19T06:15:41.308951Z"
+      "observed_at": "2026-10-19T10:48:57.340980Z"
     },
     {
-      "id": "project_3de13b42e404",
-      "project_name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "id": "project_9b780e5528de",
+      "project_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「Official, Anthropic-managed directory of high quality Claude Code Plugins」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"Official, Anthropic-managed directory of high quality Claude Code Plugins\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "看看这个开源项目的「Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-19T06:14:51.400925Z"
+      "observed_at": "2026-10-19T10:48:32.020518Z"
     },
     {
-      "id": "project_1a7c5fa90eee",
-      "project_name": "Openbroca",
-      "url": "https://www.producthunt.com/products/openbroca",
-      "summary": "Lightweight AI dictation for Mac that sounds like you",
+      "id": "project_83310439724a",
+      "project_name": "Starkomand",
+      "url": "https://www.producthunt.com/products/starkomand",
+      "summary": "Run your AI coding agents on an infinite canvas.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Lightweight AI dictation for Mac that sounds like you」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Lightweight AI dictation for Mac that sounds like you\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T17:32:18Z",
-      "updated_at": "2026-10-19T06:02:36Z",
+      "recommend_reason_zh": "体验它主打的「Run your AI coding agents on an infinite canvas」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run your AI coding agents on an infinite canvas\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-17T07:14:53Z",
+      "updated_at": "2026-10-19T10:48:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-19T06:15:41.308951Z"
+      "observed_at": "2026-10-19T10:48:57.340980Z"
     }
   ],
   "sources": [
@@ -65,16 +65,16 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 227,
+      "item_count": 12,
+      "duration_ms": 159,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 169,
+      "item_count": 49,
+      "duration_ms": 81,
       "error": null
     }
   ]
