@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:35:29.565809Z",
+  "generated_at": "2026-10-20T23:53:53.917085Z",
   "date": "2026-10-21",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-20T20:34:43.696299Z"
+      "observed_at": "2026-10-20T23:52:40.872798Z"
     },
     {
-      "id": "project_085cfee10566",
-      "project_name": "ToDo.is",
-      "url": "https://www.producthunt.com/products/todo-is",
-      "summary": "Write a to-do and your AI agent gets it done",
+      "id": "project_dc1e3b6f5ffe",
+      "project_name": "Jotform App Builder for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/jotform",
+      "summary": "Build and edit no-code apps inside ChatGPT & Claude",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Write a to-do and your AI agent gets it done」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Write a to-do and your AI agent gets it done\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-16T00:10:20Z",
-      "updated_at": "2026-10-20T20:28:32Z",
+      "recommend_reason_zh": "体验它主打的「Build and edit no-code apps inside ChatGPT & Claude」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Build and edit no-code apps inside ChatGPT & Claude\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T12:34:44Z",
+      "updated_at": "2026-10-20T23:02:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-20T20:35:18.291592Z"
+      "observed_at": "2026-10-20T23:53:42.237487Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-20T20:34:43.696299Z"
+      "observed_at": "2026-10-20T23:52:40.872798Z"
     },
     {
-      "id": "project_48c8b715073a",
-      "project_name": "Exa 3.0",
-      "url": "https://www.producthunt.com/products/exa-ai",
-      "summary": "Smarter search that gives AI agent richer data at lower cost",
+      "id": "project_541a5263ecfe",
+      "project_name": "yggy",
+      "url": "https://www.producthunt.com/products/yggy",
+      "summary": "The AI knowledge graph that builds itself",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Smarter search that gives AI agent richer data at lower cost」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Smarter search that gives AI agent richer data at lower cost\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T20:05:52Z",
-      "updated_at": "2026-10-20T20:25:45Z",
+      "recommend_reason_zh": "体验它主打的「The AI knowledge graph that builds itself」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The AI knowledge graph that builds itself\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T14:56:55Z",
+      "updated_at": "2026-10-20T21:38:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-20T20:35:18.291592Z"
+      "observed_at": "2026-10-20T23:53:42.237487Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1421,
+      "duration_ms": 1603,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 131,
+      "duration_ms": 134,
       "error": null
     }
   ]
