@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T15:42:12.028419Z",
-  "date": "2026-10-20",
+  "generated_at": "2026-10-20T20:35:29.565809Z",
+  "date": "2026-10-21",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-20T15:39:59.056585Z"
+      "observed_at": "2026-10-20T20:34:43.696299Z"
     },
     {
-      "id": "project_88538f0ab096",
-      "project_name": "ESP-Mosaico",
-      "url": "https://www.producthunt.com/products/esp-mosaico",
-      "summary": "A modular development board built for agents",
+      "id": "project_085cfee10566",
+      "project_name": "ToDo.is",
+      "url": "https://www.producthunt.com/products/todo-is",
+      "summary": "Write a to-do and your AI agent gets it done",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A modular development board built for agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A modular development board built for agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-15T02:00:38Z",
-      "updated_at": "2026-10-20T15:06:10Z",
+      "recommend_reason_zh": "体验它主打的「Write a to-do and your AI agent gets it done」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Write a to-do and your AI agent gets it done\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-16T00:10:20Z",
+      "updated_at": "2026-10-20T20:28:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-20T15:41:58.857221Z"
+      "observed_at": "2026-10-20T20:35:18.291592Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-20T15:39:59.056585Z"
+      "observed_at": "2026-10-20T20:34:43.696299Z"
     },
     {
-      "id": "project_085cfee10566",
-      "project_name": "ToDo.is",
-      "url": "https://www.producthunt.com/products/todo-is",
-      "summary": "Write a to-do and your AI agent gets it done",
+      "id": "project_48c8b715073a",
+      "project_name": "Exa 3.0",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "summary": "Smarter search that gives AI agent richer data at lower cost",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Write a to-do and your AI agent gets it done」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Write a to-do and your AI agent gets it done\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-16T00:10:20Z",
-      "updated_at": "2026-10-20T15:38:33Z",
+      "recommend_reason_zh": "体验它主打的「Smarter search that gives AI agent richer data at lower cost」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Smarter search that gives AI agent richer data at lower cost\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-19T20:05:52Z",
+      "updated_at": "2026-10-20T20:25:45Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-20T15:41:58.857221Z"
+      "observed_at": "2026-10-20T20:35:18.291592Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 2140,
+      "item_count": 13,
+      "duration_ms": 1421,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 492,
+      "duration_ms": 131,
       "error": null
     }
   ]
