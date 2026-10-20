@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 01:51:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 06:03:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Copilot model policy API for enterprise, orgs, and teams</title>
@@ -40,20 +40,20 @@
 <pubDate>Mon, 19 Oct 2026 21:27:10 +0000</pubDate>
 </item>
 <item>
+<title>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
+<link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+<guid isPermaLink="true">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
+<description>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 04:21:32 +0000</pubDate>
+</item>
+<item>
 <title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
 <link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</link>
 <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</guid>
 <description>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</description>
 <category>Industry news</category>
 <pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
-</item>
-<item>
-<title>The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
-<link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</link>
-<guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</guid>
-<description>The US orders every civilian agency to rip out DeepSeek, even tools built on it</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
 </item>
 <item>
 <title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
@@ -64,20 +64,20 @@
 <pubDate>Mon, 19 Oct 2026 14:23:17 +0000</pubDate>
 </item>
 <item>
+<title>AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑</title>
+<link>https://www.aibase.com/news/31743</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31743</guid>
+<description>AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
+</item>
+<item>
 <title>Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</guid>
 <description>Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号</description>
 <category>Industry news</category>
 <pubDate>Tue, 20 Oct 2026 00:26:00 +0000</pubDate>
-</item>
-<item>
-<title>AI助手初创公司Town完成1.08亿美元B轮融资，估值突破10亿美元</title>
-<link>https://www.aibase.com/news/31739</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31739</guid>
-<description>AI助手初创公司Town完成1.08亿美元B轮融资，估值突破10亿美元 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 01:51:27 +0000</pubDate>
 </item>
 <item>
 <title>Diffusion at Scale: Introducing Mercury 3</title>
@@ -96,6 +96,14 @@
 <pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
 </item>
 <item>
+<title>The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
+<link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</link>
+<guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</guid>
+<description>The US orders every civilian agency to rip out DeepSeek, even tools built on it</description>
+<category>Industry news</category>
+<pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
+</item>
+<item>
 <title>Some Git over HTTPS may temporarily require authentication</title>
 <link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</guid>
@@ -104,12 +112,12 @@
 <pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
 </item>
 <item>
-<title>Claude 给 Mac 当了一回"保安"：写个测温小工具，顺手揪出吃满 12 核的挖矿木马</title>
-<link>https://www.aibase.com/news/31737</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31737</guid>
-<description>Claude 给 Mac 当了一回"保安"：写个测温小工具，顺手揪出吃满 12 核的挖矿木马 (AIbase)</description>
+<title>Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍</title>
+<link>https://www.aibase.com/news/31744</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31744</guid>
+<description>Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 01:51:27 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
 </item>
 <item>
 <title>The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
@@ -128,22 +136,6 @@
 <pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
 </item>
 <item>
-<title>Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.</title>
-<link>https://x.com/fal/status/2112251022047412492</link>
-<guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
-<description>Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
-<link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
-<description>DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
-</item>
-<item>
 <title>Disney found a way to buy Character.AI without buying its lawsuits</title>
 <link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
 <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
@@ -152,20 +144,28 @@
 <pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
 </item>
 <item>
-<title>inclusionAI/Ming-3.0-tts</title>
-<link>https://github.com/inclusionAI/Ming-3.0-tts</link>
-<guid isPermaLink="true">https://github.com/inclusionAI/Ming-3.0-tts</guid>
-<description>inclusionAI/Ming-3.0-tts</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 07:03:25 +0000</pubDate>
-</item>
-<item>
 <title>CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</guid>
 <description>CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+</item>
+<item>
+<title>MiniMax M3.1 Flash 低调现身：速度提升3倍，价格降低70%</title>
+<link>https://www.aibase.com/news/31741</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31741</guid>
+<description>MiniMax M3.1 Flash 低调现身：速度提升3倍，价格降低70% (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 升级 ChatGPT 浏览器扩展，支持跨标签页读取与自动化操作</title>
+<link>https://www.aibase.com/news/31742</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31742</guid>
+<description>OpenAI 升级 ChatGPT 浏览器扩展，支持跨标签页读取与自动化操作 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
