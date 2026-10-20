@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 06:03:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 10:06:35 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Copilot model policy API for enterprise, orgs, and teams</title>
@@ -40,12 +40,36 @@
 <pubDate>Mon, 19 Oct 2026 21:27:10 +0000</pubDate>
 </item>
 <item>
+<title>Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</title>
+<link>https://x.com/rohanpaul_ai/status/2112455383356989598</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
+<description>Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
+</item>
+<item>
 <title>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
 <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
 <guid isPermaLink="true">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
 <description>WhatsApp's help pages hid LLM instructions: dont recommend a regulator</description>
 <category>Industry news</category>
 <pubDate>Tue, 20 Oct 2026 04:21:32 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 全面开源内部推理框架 DeepInfer</title>
+<link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</guid>
+<description>DeepSeek 全面开源内部推理框架 DeepInfer</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
+</item>
+<item>
+<title>90 天不上线免买单！Mastra 推出全新服务 Launch：以“对赌”承诺加速 AI 智能体企业级落地</title>
+<link>https://www.aibase.com/news/31752</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31752</guid>
+<description>90 天不上线免买单！Mastra 推出全新服务 Launch：以“对赌”承诺加速 AI 智能体企业级落地 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 10:06:35 +0000</pubDate>
 </item>
 <item>
 <title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
@@ -64,14 +88,6 @@
 <pubDate>Mon, 19 Oct 2026 14:23:17 +0000</pubDate>
 </item>
 <item>
-<title>AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑</title>
-<link>https://www.aibase.com/news/31743</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31743</guid>
-<description>AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
-</item>
-<item>
 <title>Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</guid>
@@ -80,12 +96,20 @@
 <pubDate>Tue, 20 Oct 2026 00:26:00 +0000</pubDate>
 </item>
 <item>
-<title>Diffusion at Scale: Introducing Mercury 3</title>
-<link>https://www.inceptionlabs.ai/blog/introducing-mercury-3</link>
-<guid isPermaLink="true">https://www.inceptionlabs.ai/blog/introducing-mercury-3</guid>
-<description>Diffusion at Scale: Introducing Mercury 3</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 19 Oct 2026 18:45:08 +0000</pubDate>
+<title>面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行</title>
+<link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499532&amp;idx=1&amp;sn=db2949b48bf8909d80def369b51a81ea</guid>
+<description>面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 06:22:26 +0000</pubDate>
+</item>
+<item>
+<title>AI 红利怎么分？Anthropic 捐 5% 股份，马斯克给每个孩子送 SpaceX 股票</title>
+<link>https://www.aibase.com/news/31748</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31748</guid>
+<description>AI 红利怎么分？Anthropic 捐 5% 股份，马斯克给每个孩子送 SpaceX 股票 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 10:06:35 +0000</pubDate>
 </item>
 <item>
 <title>Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...</title>
@@ -112,28 +136,12 @@
 <pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍</title>
-<link>https://www.aibase.com/news/31744</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31744</guid>
-<description>Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍 (AIbase)</description>
+<title>¡Llegamos a Madrid! Waymo is coming to Spain</title>
+<link>https://waymo.com/blog/2026/10/waymo-in-madrid-region</link>
+<guid isPermaLink="true">https://waymo.com/blog/2026/10/waymo-in-madrid-region</guid>
+<description>¡Llegamos a Madrid! Waymo is coming to Spain</description>
 <category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
-</item>
-<item>
-<title>The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
-<link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</link>
-<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</guid>
-<description>The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
-</item>
-<item>
-<title>Mercury 3 is live on OpenRouter!</title>
-<link>https://x.com/OpenRouter/status/2112225779782398131</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
-<description>Mercury 3 is live on OpenRouter!</description>
-<category>Industry news</category>
-<pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Disney found a way to buy Character.AI without buying its lawsuits</title>
@@ -144,28 +152,20 @@
 <pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
 </item>
 <item>
+<title>AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列</title>
+<link>https://www.aibase.com/news/31757</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31757</guid>
+<description>AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 20 Oct 2026 10:06:35 +0000</pubDate>
+</item>
+<item>
 <title>CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</guid>
 <description>CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax M3.1 Flash 低调现身：速度提升3倍，价格降低70%</title>
-<link>https://www.aibase.com/news/31741</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31741</guid>
-<description>MiniMax M3.1 Flash 低调现身：速度提升3倍，价格降低70% (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 升级 ChatGPT 浏览器扩展，支持跨标签页读取与自动化操作</title>
-<link>https://www.aibase.com/news/31742</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31742</guid>
-<description>OpenAI 升级 ChatGPT 浏览器扩展，支持跨标签页读取与自动化操作 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 06:03:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
