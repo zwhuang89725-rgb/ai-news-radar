@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:38:59.625402Z",
+  "generated_at": "2026-10-21T06:03:57.659266Z",
   "date": "2026-10-21",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T01:37:50.414555Z"
+      "observed_at": "2026-10-21T06:03:00.219627Z"
     },
     {
-      "id": "project_72de4254072d",
-      "project_name": "call4me",
-      "url": "https://www.producthunt.com/products/call4me",
-      "summary": "Give your AI agent a phone that calls and answers",
+      "id": "project_f6d66354def7",
+      "project_name": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "summary": "Every friends' chat gets an AI friend with superpowers",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Give your AI agent a phone that calls and answers」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Give your AI agent a phone that calls and answers\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T18:24:29Z",
-      "updated_at": "2026-10-20T23:02:25Z",
+      "recommend_reason_zh": "体验它主打的「Every friends' chat gets an AI friend with superpowers」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Every friends' chat gets an AI friend with superpowers\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-17T18:04:38Z",
+      "updated_at": "2026-10-21T06:02:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T01:38:50.019298Z"
+      "observed_at": "2026-10-21T06:03:47.476825Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T01:37:50.414555Z"
+      "observed_at": "2026-10-21T06:03:00.219627Z"
     },
     {
       "id": "project_679105231e08",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「AI agents on their break, performing a live talk show」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"AI agents on their break, performing a live talk show\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-19T18:03:58Z",
-      "updated_at": "2026-10-21T01:02:14Z",
+      "updated_at": "2026-10-21T03:57:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T01:38:50.019298Z"
+      "observed_at": "2026-10-21T06:03:47.476825Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 341,
+      "duration_ms": 1605,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 132,
+      "duration_ms": 88,
       "error": null
     }
   ]

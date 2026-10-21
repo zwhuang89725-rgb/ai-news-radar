@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 01:37:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 06:03:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Southeast Asia’s digital economy to hit $368 billion</title>
+<link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026</link>
+<guid isPermaLink="true">https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026</guid>
+<description>Southeast Asia’s digital economy to hit $368 billion (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
+</item>
 <item>
 <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
 <link>https://huggingface.co/blog/allenai/fairstress</link>
@@ -40,6 +48,14 @@
 <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Main takeaways from SpaceX’s earnings call today</title>
+<link>https://x.com/rohanpaul_ai/status/2112768460866695334</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112768460866695334</guid>
+<description>Main takeaways from SpaceX’s earnings call today</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 04:50:29 +0000</pubDate>
+</item>
+<item>
 <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
 <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
@@ -64,6 +80,22 @@
 <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
+<title>WSJ saw Anthropic’s draft IPO papers: $16.3B revenue in 6 months, $80.7B loss on paper, and about $450B promised for compute</title>
+<link>https://x.com/rohanpaul_ai/status/2112763999586771238</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112763999586771238</guid>
+<description>WSJ saw Anthropic’s draft IPO papers: $16.3B revenue in 6 months, $80.7B loss on paper, and about $450B promised for compute</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 04:32:45 +0000</pubDate>
+</item>
+<item>
+<title>AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报</title>
+<link>https://www.aibase.com/news/31771</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31771</guid>
+<description>AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 06:03:00 +0000</pubDate>
+</item>
+<item>
 <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
 <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
@@ -78,14 +110,6 @@
 <description>SpaceX’s AI business is beating expectations</description>
 <category>Industry news</category>
 <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 专治"古董代码"：COBOL 迁移准确率飙到 97.9%，银行老系统有救了</title>
-<link>https://www.aibase.com/news/31765</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31765</guid>
-<description>OpenAI 专治"古董代码"：COBOL 迁移准确率飙到 97.9%，银行老系统有救了 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 01:37:50 +0000</pubDate>
 </item>
 <item>
 <title>Dependabot alerts REST API now includes dependency versions</title>
@@ -104,36 +128,28 @@
 <pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
 </item>
 <item>
+<title>Hugging Face 掌门人呛声 Netflix：把 AI 拍成"末日片"，受害方都不认</title>
+<link>https://www.aibase.com/news/31772</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31772</guid>
+<description>Hugging Face 掌门人呛声 Netflix：把 AI 拍成"末日片"，受害方都不认 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 06:03:00 +0000</pubDate>
+</item>
+<item>
+<title>Announcing Humming: Fast, Flexible Kernels for Quantized Inference</title>
+<link>https://vllm.ai/blog/2026-10-21-humming</link>
+<guid isPermaLink="true">https://vllm.ai/blog/2026-10-21-humming</guid>
+<description>Announcing Humming: Fast, Flexible Kernels for Quantized Inference</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
 <link>https://x.com/thsottiaux/status/2112712984644784534</link>
 <guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
 <description>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</description>
 <category>Industry news</category>
 <pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
-</item>
-<item>
-<title>Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</title>
-<link>https://x.com/rohanpaul_ai/status/2112455383356989598</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
-<description>Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic’s cloud partnerships are getting messy</title>
-<link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy</guid>
-<description>Anthropic’s cloud partnerships are getting messy</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
-</item>
-<item>
-<title>Introducing TorchTPU</title>
-<link>https://pytorch.org/blog/introducing-torchtpu</link>
-<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchtpu</guid>
-<description>Introducing TorchTPU</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek 全面开源内部推理框架 DeepInfer</title>
@@ -144,28 +160,12 @@
 <pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
 </item>
 <item>
-<title>Salesforce 豪掷 56.6 亿美元吞下 Braze：补上"实时互动"这块 AI 拼图</title>
-<link>https://www.aibase.com/news/31763</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31763</guid>
-<description>Salesforce 豪掷 56.6 亿美元吞下 Braze：补上"实时互动"这块 AI 拼图 (AIbase)</description>
+<title>Introducing TorchTPU</title>
+<link>https://pytorch.org/blog/introducing-torchtpu</link>
+<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchtpu</guid>
+<description>Introducing TorchTPU</description>
 <category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 01:37:50 +0000</pubDate>
-</item>
-<item>
-<title>FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</title>
-<link>https://x.com/fal/status/2112600472922333263</link>
-<guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
-<description>FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
-</item>
-<item>
-<title>GitHub package firewall in public preview</title>
-<link>https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview</guid>
-<description>GitHub package firewall in public preview (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 20 Oct 2026 16:11:53 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
