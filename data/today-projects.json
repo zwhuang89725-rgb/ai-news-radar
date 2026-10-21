@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:03:57.659266Z",
+  "generated_at": "2026-10-21T10:13:13.262198Z",
   "date": "2026-10-21",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T06:03:00.219627Z"
+      "observed_at": "2026-10-21T10:12:27.018244Z"
     },
     {
-      "id": "project_f6d66354def7",
-      "project_name": "bonds",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "summary": "Every friends' chat gets an AI friend with superpowers",
+      "id": "project_564ef2a3ae06",
+      "project_name": "Scout by Fini",
+      "url": "https://www.producthunt.com/products/fini-2",
+      "summary": "The AI coworker for support teams, on Slack",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Every friends' chat gets an AI friend with superpowers」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Every friends' chat gets an AI friend with superpowers\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-17T18:04:38Z",
-      "updated_at": "2026-10-21T06:02:39Z",
+      "recommend_reason_zh": "体验它主打的「The AI coworker for support teams, on Slack」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The AI coworker for support teams, on Slack\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-19T10:51:19Z",
+      "updated_at": "2026-10-21T10:12:36Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T06:03:47.476825Z"
+      "observed_at": "2026-10-21T10:13:01.220653Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T06:03:00.219627Z"
+      "observed_at": "2026-10-21T10:12:27.018244Z"
     },
     {
-      "id": "project_679105231e08",
-      "project_name": "The New Beings",
-      "url": "https://www.producthunt.com/products/the-new-beings",
-      "summary": "AI agents on their break, performing a live talk show",
+      "id": "project_7d8bb1f16934",
+      "project_name": "ilha",
+      "url": "https://www.producthunt.com/products/ilha",
+      "summary": "Your Claude Code and Codex limits, live in the notch",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI agents on their break, performing a live talk show」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI agents on their break, performing a live talk show\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T18:03:58Z",
-      "updated_at": "2026-10-21T03:57:25Z",
+      "recommend_reason_zh": "体验它主打的「Your Claude Code and Codex limits, live in the notch」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your Claude Code and Codex limits, live in the notch\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-18T01:10:27Z",
+      "updated_at": "2026-10-21T10:12:34Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T06:03:47.476825Z"
+      "observed_at": "2026-10-21T10:13:01.220653Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 1605,
+      "item_count": 14,
+      "duration_ms": 1941,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 88,
+      "duration_ms": 100,
       "error": null
     }
   ]
