@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 23:52:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 01:37:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -56,6 +56,14 @@
 <pubDate>Tue, 20 Oct 2026 18:03:55 +0000</pubDate>
 </item>
 <item>
+<title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
+<link>https://openai.com/index/terminal-x</link>
+<guid isPermaLink="true">https://openai.com/index/terminal-x</guid>
+<description>Terminal X matches senior investor judgment 88.6% with GPT-6.1 (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
 <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
@@ -72,12 +80,12 @@
 <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI acquires Orchestra Bio</title>
-<link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-<guid isPermaLink="true">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
-<description>OpenAI acquires Orchestra Bio (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<title>OpenAI 专治"古董代码"：COBOL 迁移准确率飙到 97.9%，银行老系统有救了</title>
+<link>https://www.aibase.com/news/31765</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31765</guid>
+<description>OpenAI 专治"古董代码"：COBOL 迁移准确率飙到 97.9%，银行老系统有救了 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 01:37:50 +0000</pubDate>
 </item>
 <item>
 <title>Dependabot alerts REST API now includes dependency versions</title>
@@ -94,6 +102,14 @@
 <description>Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons</description>
 <category>Industry news</category>
 <pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
+<link>https://x.com/thsottiaux/status/2112712984644784534</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
+<description>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
 </item>
 <item>
 <title>Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</title>
@@ -128,6 +144,14 @@
 <pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
 </item>
 <item>
+<title>Salesforce 豪掷 56.6 亿美元吞下 Braze：补上"实时互动"这块 AI 拼图</title>
+<link>https://www.aibase.com/news/31763</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31763</guid>
+<description>Salesforce 豪掷 56.6 亿美元吞下 Braze：补上"实时互动"这块 AI 拼图 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 21 Oct 2026 01:37:50 +0000</pubDate>
+</item>
+<item>
 <title>FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</title>
 <link>https://x.com/fal/status/2112600472922333263</link>
 <guid isPermaLink="true">https://x.com/fal/status/2112600472922333263</guid>
@@ -142,30 +166,6 @@
 <description>GitHub package firewall in public preview (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Tue, 20 Oct 2026 16:11:53 +0000</pubDate>
-</item>
-<item>
-<title>90 天不上线免买单！Mastra 推出全新服务 Launch：以“对赌”承诺加速 AI 智能体企业级落地</title>
-<link>https://www.aibase.com/news/31752</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31752</guid>
-<description>90 天不上线免买单！Mastra 推出全新服务 Launch：以“对赌”承诺加速 AI 智能体企业级落地 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 10:06:35 +0000</pubDate>
-</item>
-<item>
-<title>You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!</title>
-<link>https://x.com/AravSrinivas/status/2112583333825950207</link>
-<guid isPermaLink="true">https://x.com/AravSrinivas/status/2112583333825950207</guid>
-<description>You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 16:34:51 +0000</pubDate>
-</item>
-<item>
-<title>Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</guid>
-<description>Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号</description>
-<category>Industry news</category>
-<pubDate>Tue, 20 Oct 2026 00:26:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
