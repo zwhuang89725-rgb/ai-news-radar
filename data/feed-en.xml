@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 22 Oct 2026 01:33:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 06:08:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>OpenAI models are coming to Google Cloud</title>
@@ -64,12 +64,36 @@
 <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
 </item>
 <item>
-<title>Southeast Asia’s digital economy to hit $368 billion</title>
-<link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026</link>
-<guid isPermaLink="true">https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026</guid>
-<description>Southeast Asia’s digital economy to hit $368 billion (Google AI Blog)</description>
+<title>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</title>
+<link>https://x.com/rohanpaul_ai/status/2113136583985766442</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113136583985766442</guid>
+<description>National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 05:13:16 +0000</pubDate>
+</item>
+<item>
+<title>Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI</title>
+<link>https://x.com/Kling_ai/status/2113142473145078041</link>
+<guid isPermaLink="true">https://x.com/Kling_ai/status/2113142473145078041</guid>
+<description>Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI</description>
 <category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 05:36:40 +0000</pubDate>
+</item>
+<item>
+<title>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</title>
+<link>https://x.com/Khazix0918/status/2113096414469464281</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2113096414469464281</guid>
+<description>AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 02:33:39 +0000</pubDate>
+</item>
+<item>
+<title>消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO</title>
+<link>https://www.ithome.com/1/016/243.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/016/243.htm</guid>
+<description>消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 02:17:14 +0000</pubDate>
 </item>
 <item>
 <title>Broad access through consistent standards</title>
@@ -86,6 +110,14 @@
 <description>If you are wondering whether your website is affected, we have packaged a Codex skill to help check.</description>
 <category>Industry news</category>
 <pubDate>Wed, 21 Oct 2026 16:35:11 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 冲刺"史上最大 IPO"：最快周五亮招股书，估值剑指 2 万亿</title>
+<link>https://www.aibase.com/news/31795</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31795</guid>
+<description>Anthropic 冲刺"史上最大 IPO"：最快周五亮招股书，估值剑指 2 万亿 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 22 Oct 2026 06:08:16 +0000</pubDate>
 </item>
 <item>
 <title>Solving a 31-year-old grand challenge in mathematics – the KLS conjecture</title>
@@ -112,14 +144,6 @@
 <pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体</title>
-<link>https://www.aibase.com/news/31784</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31784</guid>
-<description>Anthropic 推出 Claude Duet：可后台常驻、主动干活的 AI 智能体 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 22 Oct 2026 01:33:05 +0000</pubDate>
-</item>
-<item>
 <title>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
 <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet</guid>
@@ -128,12 +152,12 @@
 <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
 </item>
 <item>
-<title>Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...</title>
-<link>https://x.com/rohanpaul_ai/status/2112962364996038971</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112962364996038971</guid>
-<description>Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...</description>
+<title>WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.</title>
+<link>https://x.com/rohanpaul_ai/status/2113107154219741231</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113107154219741231</guid>
+<description>WSJ: Musk wants to combine a $2T rocket company with a $1.5T carmaker around AI.</description>
 <category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 17:40:59 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 03:16:19 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
@@ -142,30 +166,6 @@
 <description>OpenAI says an AI agent lied about disabling its safety monitoring system</description>
 <category>Industry news</category>
 <pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
-</item>
-<item>
-<title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
-<link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
-<description>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
-</item>
-<item>
-<title>LiteLLM Compromised, Steals Credentials</title>
-<link>https://www.wiz.io/blog/litellm-compromised-steals-credentials</link>
-<guid isPermaLink="true">https://www.wiz.io/blog/litellm-compromised-steals-credentials</guid>
-<description>LiteLLM Compromised, Steals Credentials</description>
-<category>Industry news</category>
-<pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
-</item>
-<item>
-<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
-<link>https://openai.com/index/att-legal</link>
-<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
-<description>How AT&amp;T is rethinking in-house legal work with OpenAI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
