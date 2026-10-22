@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:38:25.754081Z",
+  "generated_at": "2026-10-22T00:02:44.336592Z",
   "date": "2026-10-22",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T20:37:40.923586Z"
+      "observed_at": "2026-10-22T00:00:12.177442Z"
     },
     {
-      "id": "project_7d8bb1f16934",
-      "project_name": "ilha",
-      "url": "https://www.producthunt.com/products/ilha",
-      "summary": "Your Claude Code and Codex limits, live in the notch",
+      "id": "project_564ef2a3ae06",
+      "project_name": "Scout by Fini",
+      "url": "https://www.producthunt.com/products/fini-2",
+      "summary": "The AI coworker for support teams, on Slack",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your Claude Code and Codex limits, live in the notch」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your Claude Code and Codex limits, live in the notch\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-18T01:10:27Z",
-      "updated_at": "2026-10-21T20:37:44Z",
+      "recommend_reason_zh": "体验它主打的「The AI coworker for support teams, on Slack」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The AI coworker for support teams, on Slack\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-19T10:51:19Z",
+      "updated_at": "2026-10-21T23:02:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T20:38:13.939143Z"
+      "observed_at": "2026-10-22T00:02:33.662822Z"
     },
     {
       "id": "project_65e32dabe8c3",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T20:37:40.923586Z"
+      "observed_at": "2026-10-22T00:00:12.177442Z"
     },
     {
-      "id": "project_d9bc770086c8",
-      "project_name": "UseIt Studio",
-      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
-      "summary": "Your AI design agent for real, editable project files.",
+      "id": "project_dd5a0ab8b5bd",
+      "project_name": "Intelli for ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/intelli",
+      "summary": "Run WhatsApp, Instagram & web chat from ChatGPT or Claude",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your AI design agent for real, editable project files」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your AI design agent for real, editable project files\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-14T13:11:39Z",
-      "updated_at": "2026-10-21T20:32:48Z",
+      "recommend_reason_zh": "体验它主打的「Run WhatsApp, Instagram & web chat from ChatGPT or Claude」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run WhatsApp, Instagram & web chat from ChatGPT or Claude\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-20T07:04:54Z",
+      "updated_at": "2026-10-21T23:02:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T20:38:13.939143Z"
+      "observed_at": "2026-10-22T00:02:33.662822Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 12,
-      "duration_ms": 1316,
+      "item_count": 11,
+      "duration_ms": 1624,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 131,
+      "duration_ms": 158,
       "error": null
     }
   ]

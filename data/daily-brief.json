@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:37:40.923586Z",
+  "generated_at": "2026-10-22T00:00:12.177442Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8869,
-      "importance": 0.8869,
-      "importance_score": 0.8869,
+      "score": 0.8794,
+      "importance": 0.8794,
+      "importance_score": 0.8794,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8829,
+        "recency": 0.8409,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9689,
+        "recency": 0.9228,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -359,15 +359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8698,
-      "importance": 0.8698,
-      "importance_score": 0.8698,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8214,
+        "recency": 0.7823,
         "story_heat": 0.5
       },
       "category": "official",
@@ -395,7 +395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -439,7 +439,7 @@
           "recency_basis": null
         },
         {
-          "id": "d1093f086cad190f6bcf088366ab2fa223ffc129",
+          "id": "a60168b132b5adb1a88df45de3cbd25ee60e2d5a",
           "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
           "title_zh": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
           "title_en": "PHP2Shell: AI uncovers critical RCE in PHP",
@@ -447,9 +447,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-21T13:43:19Z",
           "updated_at": null,
           "recency_basis": null
@@ -457,7 +457,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Wiz：Research（安全研究）",
         "www.wiz.io"
       ],
@@ -495,7 +495,7 @@
           "recency_basis": null
         },
         {
-          "id": "d1093f086cad190f6bcf088366ab2fa223ffc129",
+          "id": "a60168b132b5adb1a88df45de3cbd25ee60e2d5a",
           "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
           "title_zh": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
           "title_en": "PHP2Shell: AI uncovers critical RCE in PHP",
@@ -503,9 +503,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-21T13:43:19Z",
           "updated_at": null,
           "recency_basis": null
@@ -513,15 +513,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.8595,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -548,7 +548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -600,15 +600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9452,
+        "recency": 0.9002,
         "story_heat": 0.0
       },
       "category": "official",
@@ -635,7 +635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -687,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9571,
+        "recency": 0.9116,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -774,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7865,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -809,7 +809,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
+      }
+    },
+    {
+      "story_id": "story_0fece06d289b",
+      "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+          "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+          "title_zh": "通过一致的标准实现广泛的访问",
+          "title_en": "Broad access through consistent standards",
+          "title_original": "Broad access through consistent standards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T21:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+          "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+          "title_zh": "通过一致的标准实现广泛的访问",
+          "title_en": "Broad access through consistent standards",
+          "title_original": "Broad access through consistent standards",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T21:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T21:00:00Z",
+      "latest_at": "2026-10-21T21:00:00Z",
+      "primary_item": {
+        "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+        "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+        "title_zh": "通过一致的标准实现广泛的访问",
+        "title_en": "Broad access through consistent standards",
+        "title_original": "Broad access through consistent standards",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/broad-access-through-consistent-standards",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -861,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,7 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -947,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -981,7 +1068,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1033,15 +1120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9364,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1068,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1120,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8621,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,94 +1241,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
-      "story_id": "story_0fb91e12e23c",
-      "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "primary_url": "https://openai.com/index/att-legal",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6cfbf76682b9",
+      "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "primary_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
-          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
-          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
-          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
-          "summary": null,
+          "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
+          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "title_zh": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
+          "title_en": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "title_original": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "summary": "NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/att-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T17:00:00Z",
+          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T17:59:12Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
-          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
-          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
-          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
-          "summary": null,
+          "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
+          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "title_zh": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
+          "title_en": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "title_original": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+          "summary": "NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/att-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T17:00:00Z",
+          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T17:59:12Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
-      "importance_label": "官方更新",
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.949,
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T17:00:00Z",
-      "latest_at": "2026-10-21T17:00:00Z",
+      "earliest_at": "2026-10-21T17:59:12Z",
+      "latest_at": "2026-10-21T17:59:12Z",
       "primary_item": {
-        "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
-        "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-        "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
-        "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
-        "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
-        "summary": null,
+        "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
+        "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "title_zh": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
+        "title_en": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "title_original": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "summary": "NSA 发出警告称 PHP 中发现两个严重漏洞，PHP Foundation 已发布补丁；漏洞自 2004 年的 PHP 5 起就存在，影响约 70% 网站。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/att-legal",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1293,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9584,
+        "recency": 0.9128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1379,15 +1465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1413,7 +1499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1465,15 +1551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8938,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1500,7 +1586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1552,15 +1638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1586,30 +1672,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
-      "story_id": "story_369288508eca",
-      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "story_id": "story_0fb91e12e23c",
+      "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "primary_url": "https://openai.com/index/att-legal",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "url": "https://openai.com/index/att-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z",
+          "published_at": "2026-10-21T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1620,33 +1706,33 @@
       ],
       "items": [
         {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "url": "https://openai.com/index/att-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z",
+          "published_at": "2026-10-21T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8957,
+        "ai_relevance": 0.91,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1655,17 +1741,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T13:00:00Z",
-      "latest_at": "2026-10-21T13:00:00Z",
+      "earliest_at": "2026-10-21T17:00:00Z",
+      "latest_at": "2026-10-21T17:00:00Z",
       "primary_item": {
-        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-        "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+        "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+        "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+        "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+        "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "url": "https://openai.com/index/att-legal",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1673,92 +1759,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
-      }
-    },
-    {
-      "story_id": "story_52656109cb74",
-      "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
-      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-      "primary_url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6138f7386148f2207a2015bf08b57d8f3a474867",
-          "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
-          "title_zh": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
-          "title_en": "Empowering frontline maternal care with AI-assisted ultrasound",
-          "title_original": "Empowering frontline maternal care with AI-assisted ultrasound",
-          "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6138f7386148f2207a2015bf08b57d8f3a474867",
-          "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
-          "title_zh": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
-          "title_en": "Empowering frontline maternal care with AI-assisted ultrasound",
-          "title_original": "Empowering frontline maternal care with AI-assisted ultrasound",
-          "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7424,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T00:00:00Z",
-      "latest_at": "2026-10-21T00:00:00Z",
-      "primary_item": {
-        "id": "6138f7386148f2207a2015bf08b57d8f3a474867",
-        "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
-        "title_zh": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
-        "title_en": "Empowering frontline maternal care with AI-assisted ultrasound",
-        "title_original": "Empowering frontline maternal care with AI-assisted ultrasound",
-        "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
-        "recommend_reason_zh": null,
-        "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1810,15 +1811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8603,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1843,7 +1844,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     },
     {
@@ -1895,15 +1896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1929,7 +1930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T20:38:40.807480Z"
+        "scored_at": "2026-10-22T00:02:52.306712Z"
       }
     }
   ]
