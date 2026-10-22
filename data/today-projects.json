@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:08:56.738246Z",
+  "generated_at": "2026-10-22T10:14:54.043181Z",
   "date": "2026-10-22",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T06:08:16.758993Z"
+      "observed_at": "2026-10-22T10:14:11.249629Z"
     },
     {
-      "id": "project_632fdf0d51fd",
-      "project_name": "Searchtok",
-      "url": "https://www.producthunt.com/products/searchtok",
-      "summary": "Make TikTok and Instagram searchable for your AI agent",
+      "id": "project_6e3e73917c38",
+      "project_name": "Playad",
+      "url": "https://www.producthunt.com/products/playad",
+      "summary": "Hire your AI Marketing Team",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Make TikTok and Instagram searchable for your AI agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Make TikTok and Instagram searchable for your AI agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T18:05:33Z",
-      "updated_at": "2026-10-22T06:06:56Z",
+      "recommend_reason_zh": "体验它主打的「Hire your AI Marketing Team」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Hire your AI Marketing Team\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T10:56:22Z",
+      "updated_at": "2026-10-22T10:14:04Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T06:08:44.617529Z"
+      "observed_at": "2026-10-22T10:14:40.349829Z"
     },
     {
       "id": "project_65e32dabe8c3",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-22T06:08:16.758993Z"
+      "observed_at": "2026-10-22T10:14:11.249629Z"
     },
     {
-      "id": "project_21df5ac539ee",
-      "project_name": "AskDoozy",
-      "url": "https://www.producthunt.com/products/askdoozy",
-      "summary": "An AI coworker in Slack that does your real work",
+      "id": "project_bf24d3dbf951",
+      "project_name": "Concierge by Juniors AI",
+      "url": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+      "summary": "Omni-channel AI-first customer support (6 months free)",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「An AI coworker in Slack that does your real work」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"An AI coworker in Slack that does your real work\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-20T13:14:45Z",
-      "updated_at": "2026-10-22T05:33:33Z",
+      "recommend_reason_zh": "体验它主打的「Omni-channel AI-first customer support (6 months free)」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Omni-channel AI-first customer support (6 months free)\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-11T10:21:34Z",
+      "updated_at": "2026-10-22T10:14:03Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-22T06:08:44.617529Z"
+      "observed_at": "2026-10-22T10:14:40.349829Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 11,
-      "duration_ms": 260,
+      "item_count": 12,
+      "duration_ms": 231,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 155,
+      "duration_ms": 128,
       "error": null
     }
   ]
