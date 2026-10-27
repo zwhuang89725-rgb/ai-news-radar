@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 27 Oct 2026 20:18:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 23:19:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Can we trust LLMs to judge whether a research idea is novel?</title>
@@ -16,20 +16,28 @@
 <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot supports server-to-server authentication</title>
+<link>https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
+</item>
+<item>
+<title>Retell uses OpenAI models to help power 100M monthly calls</title>
+<link>https://openai.com/index/retell-ai</link>
+<guid isPermaLink="true">https://openai.com/index/retell-ai</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Google DeepMind 发布实时交互世界模型 Genie 4 / Genie 4: A new generation of world simulation</title>
 <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</link>
 <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
-<link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-<guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Build specialized multimodal models with LFM3</title>
@@ -48,12 +56,12 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available</title>
-<link>https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</guid>
-<description>GitHub Changelog</description>
+<title>OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT / OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
+<link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+<guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
+<description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 26 Oct 2026 22:31:30 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
@@ -62,14 +70,6 @@
 <description>Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。（Latent Space（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-</item>
-<item>
-<title>Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-<link>https://openai.com/index/greptile-code-review-codex-astra</link>
-<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -120,12 +120,28 @@
 <pubDate>Tue, 27 Oct 2026 00:34:38 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 通过 OneGov 协议以六折向美国各级政府提供 Claude / We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</title>
+<link>https://x.com/AnthropicAI/status/2115207004293853358</link>
+<guid isPermaLink="true">https://x.com/AnthropicAI/status/2115207004293853358</guid>
+<description>Anthropic 宣布扩大与 USGSA 的合作，根据新的 OneGov 协议，以 40% 折扣向联邦、州、地方、部落及领地各级政府提供 Claude，详情见官方公告。（X：Anthropic (@AnthropicAI)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 27 Oct 2026 22:20:23 +0000</pubDate>
+</item>
+<item>
 <title>LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent</title>
 <link>https://www.langchain.com/blog/design-agent</link>
 <guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
 <description>LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。（LangChain：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</title>
+<link>https://x.com/GeminiApp/status/2115171788812669225</link>
+<guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
+<description>Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。（X：Gemini (@GeminiApp)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
 </item>
 <item>
 <title>How Check Point accelerates vulnerability research with Daybreak</title>
@@ -150,22 +166,6 @@
 <description>Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。（Replit：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 15:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态 / Databricks &amp; the Future of the Firm</title>
-<link>https://www.a16z.news/p/databricks-and-the-future-of-the</link>
-<guid isPermaLink="true">https://www.a16z.news/p/databricks-and-the-future-of-the</guid>
-<description>a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。（a16z：News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 14:02:28 +0000</pubDate>
-</item>
-<item>
-<title>纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键</title>
-<link>https://www.aibase.com/news/31906</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31906</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 11:18:30 +0000</pubDate>
 </item>
 </channel>
 </rss>

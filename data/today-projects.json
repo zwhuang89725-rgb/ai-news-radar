@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:19:02.701882Z",
+  "generated_at": "2026-10-27T23:20:13.059588Z",
   "date": "2026-10-28",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-27T20:18:22.894277Z"
+      "observed_at": "2026-10-27T23:19:26.951953Z"
     },
     {
-      "id": "project_11b11a8db1c9",
-      "project_name": "Spacesheep",
-      "url": "https://www.producthunt.com/products/spacesheep",
-      "summary": "Documents of the future, made by AI, read by your team",
+      "id": "project_f6f0b21aa3e6",
+      "project_name": "GPT-6.1 Terra",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "Fast, capable computer use at half the price",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Documents of the future, made by AI, read by your team」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Documents of the future, made by AI, read by your team\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-23T04:03:25Z",
-      "updated_at": "2026-10-27T20:17:42Z",
+      "recommend_reason_zh": "体验它主打的「Fast, capable computer use at half the price」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Fast, capable computer use at half the price\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T23:33:48Z",
+      "updated_at": "2026-10-27T23:02:52Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T20:18:52.962875Z"
+      "observed_at": "2026-10-27T23:20:02.528849Z"
     },
     {
       "id": "project_4341922ec9bb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-27T20:18:22.894277Z"
+      "observed_at": "2026-10-27T23:19:26.951953Z"
     },
     {
-      "id": "project_5387bca0d63f",
-      "project_name": "Off Grid AI",
-      "url": "https://www.producthunt.com/products/off-grid-ai",
-      "summary": "Private AI on your phone and computer.",
+      "id": "project_b04daec36fea",
+      "project_name": "PulseDev",
+      "url": "https://www.producthunt.com/products/pulsedev",
+      "summary": "Click any UI bug on localhost and your AI agent fixes it",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Private AI on your phone and computer」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Private AI on your phone and computer\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T12:12:10Z",
-      "updated_at": "2026-10-27T20:04:54Z",
+      "recommend_reason_zh": "体验它主打的「Click any UI bug on localhost and your AI agent fixes it」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Click any UI bug on localhost and your AI agent fixes it\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T22:47:46Z",
+      "updated_at": "2026-10-27T23:02:52Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T20:18:52.962875Z"
+      "observed_at": "2026-10-27T23:20:02.528849Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 10,
-      "duration_ms": 1418,
+      "item_count": 11,
+      "duration_ms": 1580,
       "error": null
     },
     {

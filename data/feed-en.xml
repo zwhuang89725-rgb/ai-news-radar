@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 20:18:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 23:19:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Can we trust LLMs to judge whether a research idea is novel?</title>
@@ -16,20 +16,28 @@
 <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot supports server-to-server authentication</title>
+<link>https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</guid>
+<description>GitHub Copilot supports server-to-server authentication (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
+</item>
+<item>
+<title>Retell uses OpenAI models to help power 100M monthly calls</title>
+<link>https://openai.com/index/retell-ai</link>
+<guid isPermaLink="true">https://openai.com/index/retell-ai</guid>
+<description>Retell uses OpenAI models to help power 100M monthly calls (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Genie 4: A new generation of world simulation</title>
 <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</link>
 <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</guid>
 <description>Genie 4: A new generation of world simulation (Google DeepMind)</description>
 <category>Official update</category>
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
-<link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-<guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
-<description>OpenAI expands partnership with Oracle to bring its apps to ChatGPT (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Build specialized multimodal models with LFM3</title>
@@ -48,12 +56,12 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot assisted permissions generally available</title>
-<link>https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</guid>
-<description>GitHub Copilot assisted permissions generally available (GitHub Changelog)</description>
+<title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
+<link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+<guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
+<description>OpenAI expands partnership with Oracle to bring its apps to ChatGPT (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 26 Oct 2026 22:31:30 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
@@ -62,14 +70,6 @@
 <description>[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</description>
 <category>Industry news</category>
 <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-</item>
-<item>
-<title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-<link>https://openai.com/index/greptile-code-review-codex-astra</link>
-<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<description>Greptile takes bug detection beyond code review with GPT-6 Astra (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -120,12 +120,28 @@
 <pubDate>Tue, 27 Oct 2026 00:34:38 +0000</pubDate>
 </item>
 <item>
+<title>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</title>
+<link>https://x.com/AnthropicAI/status/2115207004293853358</link>
+<guid isPermaLink="true">https://x.com/AnthropicAI/status/2115207004293853358</guid>
+<description>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</description>
+<category>Industry news</category>
+<pubDate>Tue, 27 Oct 2026 22:20:23 +0000</pubDate>
+</item>
+<item>
 <title>How We Built Our Design Agent</title>
 <link>https://www.langchain.com/blog/design-agent</link>
 <guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
 <description>How We Built Our Design Agent</description>
 <category>Industry news</category>
 <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
+</item>
+<item>
+<title>With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</title>
+<link>https://x.com/GeminiApp/status/2115171788812669225</link>
+<guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
+<description>With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</description>
+<category>Industry news</category>
+<pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
 </item>
 <item>
 <title>How Check Point accelerates vulnerability research with Daybreak</title>
@@ -150,22 +166,6 @@
 <description>Anyone can now bring their ideas into the company codebase</description>
 <category>Industry news</category>
 <pubDate>Tue, 27 Oct 2026 15:30:00 +0000</pubDate>
-</item>
-<item>
-<title>Databricks &amp; the Future of the Firm</title>
-<link>https://www.a16z.news/p/databricks-and-the-future-of-the</link>
-<guid isPermaLink="true">https://www.a16z.news/p/databricks-and-the-future-of-the</guid>
-<description>Databricks &amp; the Future of the Firm</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 14:02:28 +0000</pubDate>
-</item>
-<item>
-<title>纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键</title>
-<link>https://www.aibase.com/news/31906</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31906</guid>
-<description>纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 11:18:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
