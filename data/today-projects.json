@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:19:48.739164Z",
+  "generated_at": "2026-10-27T20:19:02.701882Z",
   "date": "2026-10-28",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-27T17:18:54.117084Z"
+      "observed_at": "2026-10-27T20:18:22.894277Z"
     },
     {
-      "id": "project_51563789f138",
-      "project_name": "SavorApp_AI",
-      "url": "https://www.producthunt.com/products/savor-3",
-      "summary": "Capture what matters and move your intentions forward",
+      "id": "project_11b11a8db1c9",
+      "project_name": "Spacesheep",
+      "url": "https://www.producthunt.com/products/spacesheep",
+      "summary": "Documents of the future, made by AI, read by your team",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Capture what matters and move your intentions forward」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Capture what matters and move your intentions forward\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-12T16:45:52Z",
-      "updated_at": "2026-10-27T17:12:49Z",
+      "recommend_reason_zh": "体验它主打的「Documents of the future, made by AI, read by your team」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Documents of the future, made by AI, read by your team\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-23T04:03:25Z",
+      "updated_at": "2026-10-27T20:17:42Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T17:19:39.576931Z"
+      "observed_at": "2026-10-27T20:18:52.962875Z"
     },
     {
       "id": "project_4341922ec9bb",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-27T17:18:54.117084Z"
+      "observed_at": "2026-10-27T20:18:22.894277Z"
     },
     {
       "id": "project_5387bca0d63f",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「Private AI on your phone and computer」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Private AI on your phone and computer\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-26T12:12:10Z",
-      "updated_at": "2026-10-27T17:05:51Z",
+      "updated_at": "2026-10-27T20:04:54Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T17:19:39.576931Z"
+      "observed_at": "2026-10-27T20:18:52.962875Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1321,
+      "duration_ms": 1418,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 162,
+      "duration_ms": 144,
       "error": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:18:54.117084Z",
+  "generated_at": "2026-10-27T20:18:22.894277Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8652,
-      "importance": 0.8652,
-      "importance_score": 0.8652,
+      "score": 0.8577,
+      "importance": 0.8577,
+      "importance_score": 0.8577,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9842,
+        "recency": 0.9426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9816,
+        "recency": 0.9401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8616,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.8523,
+      "importance": 0.8523,
+      "importance_score": 0.8523,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9995,
+        "recency": 0.9573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,67 +348,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
-      "story_id": "story_f8d229a3f617",
-      "title": "GPT-6.1 Terra in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-      "source": "GitHub Changelog",
+      "story_id": "story_2814e3bd0b1b",
+      "title": "Codex CLI 0.165.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
-          "title": "GPT-6.1 Terra in GitHub Copilot",
+          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+          "title": "Codex CLI 0.165.0",
           "title_zh": null,
-          "title_en": "GPT-6.1 Terra in GitHub Copilot",
-          "title_original": "GPT-6.1 Terra in GitHub Copilot",
+          "title_en": "Codex CLI 0.165.0",
+          "title_original": "Codex CLI 0.165.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T19:15:53Z",
+          "published_at": "2026-10-27T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
-          "title": "GPT-6.1 Terra in GitHub Copilot",
+          "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+          "title": "Codex CLI 0.165.0",
           "title_zh": null,
-          "title_en": "GPT-6.1 Terra in GitHub Copilot",
-          "title_original": "GPT-6.1 Terra in GitHub Copilot",
+          "title_en": "Codex CLI 0.165.0",
+          "title_original": "Codex CLI 0.165.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T19:15:53Z",
+          "published_at": "2026-10-27T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7273,
+        "ai_relevance": 0.98,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -417,284 +417,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T19:15:53Z",
-      "latest_at": "2026-10-26T19:15:53Z",
+      "earliest_at": "2026-10-27T00:00:00Z",
+      "latest_at": "2026-10-27T00:00:00Z",
       "primary_item": {
-        "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
-        "title": "GPT-6.1 Terra in GitHub Copilot",
+        "id": "4ec1befa683b25b7dd111127554f73f36b4475eb",
+        "title": "Codex CLI 0.165.0",
         "title_zh": null,
-        "title_en": "GPT-6.1 Terra in GitHub Copilot",
-        "title_original": "GPT-6.1 Terra in GitHub Copilot",
+        "title_en": "Codex CLI 0.165.0",
+        "title_original": "Codex CLI 0.165.0",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-        "source": "GitHub Changelog",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
-      }
-    },
-    {
-      "story_id": "story_5cfb9bcbdf04",
-      "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "url": "https://latent.space/p/ainews-anthropic-s1",
-      "primary_url": "https://latent.space/p/ainews-anthropic-s1",
-      "source": "Latent Space（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
-          "recommend_reason_zh": null,
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Latent Space（RSS）"
-      ],
-      "items": [
-        {
-          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-          "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-          "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
-          "recommend_reason_zh": null,
-          "url": "https://latent.space/p/ainews-anthropic-s1",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T07:24:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8668,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T07:24:59Z",
-      "latest_at": "2026-10-27T07:24:59Z",
-      "primary_item": {
-        "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
-        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-        "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
-        "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-        "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-        "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
-        "recommend_reason_zh": null,
-        "url": "https://latent.space/p/ainews-anthropic-s1",
-        "source": "Latent Space（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
-      }
-    },
-    {
-      "story_id": "story_1208d46c9897",
-      "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9934,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T16:51:22Z",
-      "latest_at": "2026-10-27T16:51:22Z",
-      "primary_item": {
-        "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-        "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-        "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
-      }
-    },
-    {
-      "story_id": "story_6a3f26655d84",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7566,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
-      "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -746,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7624,
+        "recency": 0.7301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -781,67 +522,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
-      "story_id": "story_53c724770993",
-      "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "primary_url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_5cfb9bcbdf04",
+      "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "url": "https://latent.space/p/ainews-anthropic-s1",
+      "primary_url": "https://latent.space/p/ainews-anthropic-s1",
+      "source": "Latent Space（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
+          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+          "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+          "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+          "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+          "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://latent.space/p/ainews-anthropic-s1",
+          "source": "Latent Space（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
+          "published_at": "2026-10-27T07:24:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "Latent Space（RSS）"
       ],
       "items": [
         {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
+          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+          "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+          "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+          "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+          "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://latent.space/p/ainews-anthropic-s1",
+          "source": "Latent Space（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
+          "published_at": "2026-10-27T07:24:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9345,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,25 +590,284 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-27T12:37:24Z",
-      "latest_at": "2026-10-27T12:37:24Z",
+      "earliest_at": "2026-10-27T07:24:59Z",
+      "latest_at": "2026-10-27T07:24:59Z",
       "primary_item": {
-        "id": "91548c701a172875c89736972d3fa8e928903801",
-        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-        "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
+        "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+        "title_zh": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+        "title_en": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+        "title_original": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+        "summary": "Latent Space 汇总解读 Anthropic 公开提交的 S-1 文件，公司计划以代码 AN 上市纳斯达克，营收从 2023 年的 41M 美元增至 H1 2026 的 16.3B 美元，Q2 营收 11.6B 美元同比增长 1,368%，营业利润 974M 美元，H1 2026 毛利率达 85%。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://latent.space/p/ainews-anthropic-s1",
+        "source": "Latent Space（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
+      }
+    },
+    {
+      "story_id": "story_6a3f26655d84",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7246,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
+      "primary_item": {
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:44:20.297902Z"
+      }
+    },
+    {
+      "story_id": "story_1208d46c9897",
+      "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
+          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
+          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
+          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
+          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:51:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
+          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
+          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
+          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
+          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T16:51:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9514,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T16:51:22Z",
+      "latest_at": "2026-10-27T16:51:22Z",
+      "primary_item": {
+        "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
+        "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
+        "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
+        "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
+        "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
+        "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:44:20.297902Z"
+      }
+    },
+    {
+      "story_id": "story_71802914a418",
+      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
+      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+      "primary_url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+      "source": "Azeem Azhar：Exponential View（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
+          "title_zh": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+          "title_en": "🔮 Anthropic’s S-1 in charts",
+          "title_original": "🔮 Anthropic’s S-1 in charts",
+          "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
+          "recommend_reason_zh": null,
+          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+          "source": "Azeem Azhar：Exponential View（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T17:31:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Azeem Azhar：Exponential View（RSS）"
+      ],
+      "items": [
+        {
+          "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+          "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
+          "title_zh": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+          "title_en": "🔮 Anthropic’s S-1 in charts",
+          "title_original": "🔮 Anthropic’s S-1 in charts",
+          "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
+          "recommend_reason_zh": null,
+          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+          "source": "Azeem Azhar：Exponential View（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T17:31:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9607,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T17:31:56Z",
+      "latest_at": "2026-10-27T17:31:56Z",
+      "primary_item": {
+        "id": "314f1dbd620181ccb92f419287d9736a6aedb838",
+        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts",
+        "title_zh": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+        "title_en": "🔮 Anthropic’s S-1 in charts",
+        "title_original": "🔮 Anthropic’s S-1 in charts",
+        "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
+        "recommend_reason_zh": null,
+        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+        "source": "Azeem Azhar：Exponential View（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -919,15 +919,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7797,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -953,7 +953,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
+      }
+    },
+    {
+      "story_id": "story_53c724770993",
+      "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+      "primary_url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91548c701a172875c89736972d3fa8e928903801",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T12:37:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "91548c701a172875c89736972d3fa8e928903801",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T12:37:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.895,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T12:37:24Z",
+      "latest_at": "2026-10-27T12:37:24Z",
+      "primary_item": {
+        "id": "91548c701a172875c89736972d3fa8e928903801",
+        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+        "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -1005,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7745,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1039,7 +1125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -1091,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7853,
+        "recency": 0.7521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1125,67 +1211,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
-      "story_id": "story_76389132aa45",
-      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_9a537d6a9ade",
+      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+      "url": "https://www.langchain.com/blog/design-agent",
+      "primary_url": "https://www.langchain.com/blog/design-agent",
+      "source": "LangChain：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-          "title_zh": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-          "title_en": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-          "title_original": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-          "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "title_en": "How We Built Our Design Agent",
+          "title_original": "How We Built Our Design Agent",
+          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T18:40:26Z",
+          "published_at": "2026-10-27T16:45:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "LangChain：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-          "title_zh": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-          "title_en": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-          "title_original": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-          "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+          "title_en": "How We Built Our Design Agent",
+          "title_original": "How We Built Our Design Agent",
+          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://www.langchain.com/blog/design-agent",
+          "source": "LangChain：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T18:40:26Z",
+          "published_at": "2026-10-27T16:45:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7211,
+        "recency": 0.9499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,25 +1279,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T18:40:26Z",
-      "latest_at": "2026-10-26T18:40:26Z",
+      "earliest_at": "2026-10-27T16:45:00Z",
+      "latest_at": "2026-10-27T16:45:00Z",
       "primary_item": {
-        "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-        "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-        "title_zh": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-        "title_en": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-        "title_original": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
-        "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
+        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
+        "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+        "title_en": "How We Built Our Design Agent",
+        "title_original": "How We Built Our Design Agent",
+        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://www.langchain.com/blog/design-agent",
+        "source": "LangChain：Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
+      }
+    },
+    {
+      "story_id": "story_c8afd4d11875",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "primary_url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_zh": null,
+          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_zh": null,
+          "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+          "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/check-point-daybreak",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7458,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:00:00Z",
+      "latest_at": "2026-10-27T00:00:00Z",
+      "primary_item": {
+        "id": "4d3c4497ec7c980916510963af58cd2b48f42650",
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "title_zh": null,
+        "title_en": "How Check Point accelerates vulnerability research with Daybreak",
+        "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/check-point-daybreak",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -1263,21 +1436,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T11:18:30.490656Z",
       "latest_at": "2026-10-27T11:18:30.490656Z",
@@ -1297,7 +1469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -1349,21 +1521,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T15:30:00Z",
       "latest_at": "2026-10-27T15:30:00Z",
@@ -1383,7 +1554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -1435,15 +1606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.9135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1468,92 +1639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
-      }
-    },
-    {
-      "story_id": "story_68d9f7344407",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-      "url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "title_en": "Day 22/ Terra is back!",
-          "title_original": "Day 22/ Terra is back!",
-          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "title_en": "Day 22/ Terra is back!",
-          "title_original": "Day 22/ Terra is back!",
-          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7288,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T19:24:11Z",
-      "latest_at": "2026-10-26T19:24:11Z",
-      "primary_item": {
-        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
-        "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-        "title_en": "Day 22/ Terra is back!",
-        "title_original": "Day 22/ Terra is back!",
-        "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2114800277677092936",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     },
     {
@@ -1605,21 +1691,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T11:18:30.490656Z",
       "latest_at": "2026-10-27T11:18:30.490656Z",
@@ -1639,92 +1724,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
-      }
-    },
-    {
-      "story_id": "story_c20e5234881a",
-      "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定 / Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://allenai.org/blog/novelty-bench",
-      "primary_url": "https://allenai.org/blog/novelty-bench",
-      "source": "Ai2 / Allen Institute for AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0624914a352d2484b7657ecf1ec1046e3e8a1a7f",
-          "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定 / Can we trust LLMs to judge whether a research idea is novel?",
-          "title_zh": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定",
-          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-          "summary": "Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。",
-          "recommend_reason_zh": null,
-          "url": "https://allenai.org/blog/novelty-bench",
-          "source": "Ai2 / Allen Institute for AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ai2 / Allen Institute for AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0624914a352d2484b7657ecf1ec1046e3e8a1a7f",
-          "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定 / Can we trust LLMs to judge whether a research idea is novel?",
-          "title_zh": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定",
-          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-          "summary": "Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。",
-          "recommend_reason_zh": null,
-          "url": "https://allenai.org/blog/novelty-bench",
-          "source": "Ai2 / Allen Institute for AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7209,
-      "importance": 0.7209,
-      "importance_score": 0.7209,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8741,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T08:00:00Z",
-      "latest_at": "2026-10-27T08:00:00Z",
-      "primary_item": {
-        "id": "0624914a352d2484b7657ecf1ec1046e3e8a1a7f",
-        "title": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定 / Can we trust LLMs to judge whether a research idea is novel?",
-        "title_zh": "Ai2 发布 Old Ideas, Novel Problems 研究与 benchmark，揭示 LLM 新颖性裁判不稳定",
-        "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-        "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-        "summary": "Ai2 发布研究 Old Ideas, Novel Problems、配套 benchmark、数据、代码和自动化流水线，测试 LLM 作为研究想法新颖性裁判的可靠性。",
-        "recommend_reason_zh": null,
-        "url": "https://allenai.org/blog/novelty-bench",
-        "source": "Ai2 / Allen Institute for AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T17:39:18.237124Z"
+        "scored_at": "2026-10-27T20:44:20.297902Z"
       }
     }
   ]
