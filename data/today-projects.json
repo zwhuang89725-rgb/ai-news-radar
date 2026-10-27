@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:47:51.498072Z",
+  "generated_at": "2026-10-27T03:01:47.956103Z",
   "date": "2026-10-27",
   "total_items": 4,
   "items": [
@@ -15,35 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-27T02:46:49.155993Z"
-    },
-    {
-      "id": "project_7427b9903b97",
-      "project_name": "SurgePix",
-      "url": "https://www.producthunt.com/products/surgepix",
-      "summary": "AI visuals. Edit every layer. Agent-callable.",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI visuals. Edit every layer. Agent-callable」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI visuals. Edit every layer. Agent-callable\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-16T07:19:17Z",
-      "updated_at": "2026-10-27T02:47:20Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T02:47:39.927063Z"
-    },
-    {
-      "id": "project_1606cfe2c2a9",
-      "project_name": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「TradingAgents: Multi-Agents LLM Financial Trading Framework」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"TradingAgents: Multi-Agents LLM Financial Trading Framework\") and judge whether it fits a task you have on hand.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-10-27T02:46:49.155993Z"
+      "observed_at": "2026-10-27T03:00:25.434101Z"
     },
     {
       "id": "project_d05db9582805",
@@ -57,7 +29,35 @@
       "published_at": "2026-10-21T08:10:28Z",
       "updated_at": "2026-10-27T02:46:42Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T02:47:39.927063Z"
+      "observed_at": "2026-10-27T03:01:32.929768Z"
+    },
+    {
+      "id": "project_1606cfe2c2a9",
+      "project_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "看看这个开源项目的「TradingAgents: Multi-Agents LLM Financial Trading Framework」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"TradingAgents: Multi-Agents LLM Financial Trading Framework\") and judge whether it fits a task you have on hand.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-10-27T03:00:25.434101Z"
+    },
+    {
+      "id": "project_6887d4c43343",
+      "project_name": "MiniMax M3.1 Flash",
+      "url": "https://www.producthunt.com/products/minimax-4",
+      "summary": "MiniMax’s Flash model, 3x faster and 70% cheaper for agents",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「MiniMax’s Flash model, 3x faster and 70% cheaper for agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"MiniMax’s Flash model, 3x faster and 70% cheaper for agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-19T12:54:36Z",
+      "updated_at": "2026-10-27T02:57:54Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-10-27T03:01:32.929768Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1240,
+      "duration_ms": 1473,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 221,
+      "duration_ms": 138,
       "error": null
     }
   ]
