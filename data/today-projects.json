@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:19:19.070137Z",
+  "generated_at": "2026-10-27T14:18:52.108636Z",
   "date": "2026-10-27",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-27T11:18:30.490656Z"
+      "observed_at": "2026-10-27T14:17:47.230304Z"
     },
     {
-      "id": "project_51563789f138",
-      "project_name": "SavorApp_AI",
-      "url": "https://www.producthunt.com/products/savor-3",
-      "summary": "Capture what matters and move your intentions forward",
+      "id": "project_5387bca0d63f",
+      "project_name": "Off Grid AI",
+      "url": "https://www.producthunt.com/products/off-grid-ai",
+      "summary": "Private AI on your phone and computer.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Capture what matters and move your intentions forward」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Capture what matters and move your intentions forward\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-12T16:45:52Z",
-      "updated_at": "2026-10-27T11:18:21Z",
+      "recommend_reason_zh": "体验它主打的「Private AI on your phone and computer」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Private AI on your phone and computer\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T12:12:10Z",
+      "updated_at": "2026-10-27T13:40:06Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T11:19:05.833800Z"
+      "observed_at": "2026-10-27T14:18:40.178303Z"
     },
     {
       "id": "project_4341922ec9bb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-27T11:18:30.490656Z"
+      "observed_at": "2026-10-27T14:17:47.230304Z"
     },
     {
-      "id": "project_d67420a500fe",
-      "project_name": "Notra",
-      "url": "https://www.producthunt.com/products/notra-3",
-      "summary": "Notra is a GEO tool that helps you rank in AI Search.",
+      "id": "project_b04daec36fea",
+      "project_name": "PulseDev",
+      "url": "https://www.producthunt.com/products/pulsedev",
+      "summary": "Click any UI bug on localhost. Your AI agent fixes it.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Notra is a GEO tool that helps you rank in AI Search」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Notra is a GEO tool that helps you rank in AI Search\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-23T20:02:20Z",
-      "updated_at": "2026-10-27T11:18:20Z",
+      "recommend_reason_zh": "体验它主打的「Click any UI bug on localhost. Your AI agent fixes it」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Click any UI bug on localhost. Your AI agent fixes it\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T22:47:46Z",
+      "updated_at": "2026-10-27T14:15:59Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-27T11:19:05.833800Z"
+      "observed_at": "2026-10-27T14:18:40.178303Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1195,
+      "duration_ms": 1181,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 218,
+      "duration_ms": 179,
       "error": null
     }
   ]
