@@ -5,15 +5,39 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 14:17:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 17:18:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>Working with academic communities to build scientific understanding</title>
-<link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
-<guid isPermaLink="true">https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
-<description>Working with academic communities to build scientific understanding (OpenAI News)</description>
+<title>Can we trust LLMs to judge whether a research idea is novel?</title>
+<link>https://huggingface.co/blog/allenai/novelty-bench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
+<description>Can we trust LLMs to judge whether a research idea is novel? (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Mon, 26 Oct 2026 22:44:27 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
+</item>
+<item>
+<title>Genie 4: A new generation of world simulation</title>
+<link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</link>
+<guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</guid>
+<description>Genie 4: A new generation of world simulation (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
+<link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+<guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
+<description>OpenAI expands partnership with Oracle to bring its apps to ChatGPT (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Build specialized multimodal models with LFM3</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
+<description>Build specialized multimodal models with LFM3 (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6.1 Terra in GitHub Copilot</title>
@@ -32,12 +56,12 @@
 <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
 </item>
 <item>
-<title>Our newest AI Quest: Mapping the human brain</title>
-<link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks</guid>
-<description>Our newest AI Quest: Mapping the human brain (Google AI Blog)</description>
-<category>Official update</category>
-<pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
+<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
+<description>Anthropic’s elaborate plan to keep Wall Street at bay</description>
+<category>Industry news</category>
+<pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
 </item>
 <item>
 <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
@@ -104,12 +128,12 @@
 <pubDate>Tue, 27 Oct 2026 11:18:30 +0000</pubDate>
 </item>
 <item>
-<title>Five weird details from Anthropic’s IPO filing</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</guid>
-<description>Five weird details from Anthropic’s IPO filing</description>
+<title>Anyone can now bring their ideas into the company codebase</title>
+<link>https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</link>
+<guid isPermaLink="true">https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase</guid>
+<description>Anyone can now bring their ideas into the company codebase</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 15:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Databricks &amp; the Future of the Firm</title>
@@ -136,36 +160,12 @@
 <pubDate>Tue, 27 Oct 2026 11:18:30 +0000</pubDate>
 </item>
 <item>
-<title>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</title>
-<link>https://x.com/gdb/status/2114814747254432243</link>
-<guid isPermaLink="true">https://x.com/gdb/status/2114814747254432243</guid>
-<description>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</description>
+<title>Can we trust LLMs to judge whether a research idea is novel?</title>
+<link>https://allenai.org/blog/novelty-bench</link>
+<guid isPermaLink="true">https://allenai.org/blog/novelty-bench</guid>
+<description>Can we trust LLMs to judge whether a research idea is novel?</description>
 <category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 20:21:41 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.1 Terra from @OpenAI is live on OpenRouter!</title>
-<link>https://x.com/OpenRouter/status/2114791584755839168</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2114791584755839168</guid>
-<description>GPT-6.1 Terra from @OpenAI is live on OpenRouter!</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 18:49:39 +0000</pubDate>
-</item>
-<item>
-<title>苹果 iOS 27.2 给 AI 图片打上隐身水印</title>
-<link>https://www.aibase.com/news/31904</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31904</guid>
-<description>苹果 iOS 27.2 给 AI 图片打上隐身水印 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 11:18:30 +0000</pubDate>
-</item>
-<item>
-<title>马斯克明年扫货 2 万套英伟达机架，成 Vera Rubin 最大买家</title>
-<link>https://www.aibase.com/news/31905</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31905</guid>
-<description>马斯克明年扫货 2 万套英伟达机架，成 Vera Rubin 最大买家 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 11:18:30 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
