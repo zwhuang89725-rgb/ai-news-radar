@@ -1,116 +1,183 @@
 {
-  "generated_at": "2026-10-22T23:59:27.870850Z",
+  "generated_at": "2026-10-27T02:46:49.155993Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_cabd6fe41d82",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face Blog",
+      "story_id": "story_7cb634884910",
+      "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "primary_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_zh": null,
-          "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": "Working with academic communities to build scientific understanding",
+          "title_original": "Working with academic communities to build scientific understanding",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:24:34Z",
+          "published_at": "2026-10-26T14:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": null,
+          "title_original": "与学术界合作，增进对科学的理解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7087f19cec57e698fa4e38d892b1e98c50ad3410",
+          "title": "与学术界合作，增进对科学的理解 / Three new discoveries in mathematics, computer science, and physics",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": "Three new discoveries in mathematics, computer science, and physics",
+          "title_original": "Three new discoveries in mathematics, computer science, and physics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T21:35:28Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Hugging Face Blog"
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_zh": null,
-          "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": "Working with academic communities to build scientific understanding",
+          "title_original": "Working with academic communities to build scientific understanding",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:24:34Z",
+          "published_at": "2026-10-26T14:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
+          "title": "与学术界合作，增进对科学的理解",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": null,
+          "title_original": "与学术界合作，增进对科学的理解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T22:44:27.036000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7087f19cec57e698fa4e38d892b1e98c50ad3410",
+          "title": "与学术界合作，增进对科学的理解 / Three new discoveries in mathematics, computer science, and physics",
+          "title_zh": "与学术界合作，增进对科学的理解",
+          "title_en": "Three new discoveries in mathematics, computer science, and physics",
+          "title_original": "Three new discoveries in mathematics, computer science, and physics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T21:35:28Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8727,
+      "importance": 0.8727,
+      "importance_score": 0.8727,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9774,
-        "story_heat": 0.0
+        "ai_relevance": 0.91,
+        "recency": 0.8375,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T22:24:34Z",
-      "latest_at": "2026-10-22T22:24:34Z",
+      "earliest_at": "2026-10-26T14:30:00Z",
+      "latest_at": "2026-10-26T22:44:27.036000Z",
       "primary_item": {
-        "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-        "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "title_zh": null,
-        "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
+        "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
+        "title_zh": "与学术界合作，增进对科学的理解",
+        "title_en": "Working with academic communities to build scientific understanding",
+        "title_original": "Working with academic communities to build scientific understanding",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-        "source": "Hugging Face Blog",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
+        "scored_at": "2026-10-27T02:48:08.687782Z"
       }
     },
     {
-      "story_id": "story_99e301a8a71e",
-      "title": "Custom skills, agents, and MCP servers in usage metrics API",
-      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "story_id": "story_f8d229a3f617",
+      "title": "GPT-6.1 Terra in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "Custom skills, agents, and MCP servers in usage metrics API",
+          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+          "title": "GPT-6.1 Terra in GitHub Copilot",
           "title_zh": null,
-          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_en": "GPT-6.1 Terra in GitHub Copilot",
+          "title_original": "GPT-6.1 Terra in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z",
+          "published_at": "2026-10-26T19:15:53Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -121,33 +188,33 @@
       ],
       "items": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "Custom skills, agents, and MCP servers in usage metrics API",
+          "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+          "title": "GPT-6.1 Terra in GitHub Copilot",
           "title_zh": null,
-          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+          "title_en": "GPT-6.1 Terra in GitHub Copilot",
+          "title_original": "GPT-6.1 Terra in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z",
+          "published_at": "2026-10-26T19:15:53Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9762,
+        "ai_relevance": 0.95,
+        "recency": 0.8972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -156,17 +223,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T22:19:17Z",
-      "latest_at": "2026-10-22T22:19:17Z",
+      "earliest_at": "2026-10-26T19:15:53Z",
+      "latest_at": "2026-10-26T19:15:53Z",
       "primary_item": {
-        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-        "title": "Custom skills, agents, and MCP servers in usage metrics API",
+        "id": "ec98a1aa498e34d0d481169601e61e73ccd23256",
+        "title": "GPT-6.1 Terra in GitHub Copilot",
         "title_zh": null,
-        "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-        "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
+        "title_en": "GPT-6.1 Terra in GitHub Copilot",
+        "title_original": "GPT-6.1 Terra in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -174,154 +241,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
+        "scored_at": "2026-10-27T02:48:08.687782Z"
       }
     },
     {
-      "story_id": "story_59aa6c306989",
-      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "primary_url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI News",
+      "story_id": "story_688975d54601",
+      "title": "我们最新的人工智能任务：绘制人类大脑图谱 / Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "primary_url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "title_en": "Build more responsive apps with the Decisions API",
-          "title_original": "Build more responsive apps with the Decisions API",
+          "id": "29737a30e209713386728c098614b4802f6a7b90",
+          "title": "我们最新的人工智能任务：绘制人类大脑图谱 / Our newest AI Quest: Mapping the human brain",
+          "title_zh": "我们最新的人工智能任务：绘制人类大脑图谱",
+          "title_en": "Our newest AI Quest: Mapping the human brain",
+          "title_original": "Our newest AI Quest: Mapping the human brain",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/decisions-api",
-          "source": "OpenAI News",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z",
+          "published_at": "2026-10-26T16:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-          "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "title_en": "Build more responsive apps with the Decisions API",
-          "title_original": "Build more responsive apps with the Decisions API",
+          "id": "29737a30e209713386728c098614b4802f6a7b90",
+          "title": "我们最新的人工智能任务：绘制人类大脑图谱 / Our newest AI Quest: Mapping the human brain",
+          "title_zh": "我们最新的人工智能任务：绘制人类大脑图谱",
+          "title_en": "Our newest AI Quest: Mapping the human brain",
+          "title_original": "Our newest AI Quest: Mapping the human brain",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/decisions-api",
-          "source": "OpenAI News",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T19:00:00Z",
+          "published_at": "2026-10-26T16:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9305,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T19:00:00Z",
-      "latest_at": "2026-10-22T19:00:00Z",
-      "primary_item": {
-        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
-        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
-        "title_zh": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-        "title_en": "Build more responsive apps with the Decisions API",
-        "title_original": "Build more responsive apps with the Decisions API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/decisions-api",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_06ef3f974f31",
-      "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "primary_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-          "title_zh": "超越树木覆盖：绘制世界森林类型图",
-          "title_en": "Beyond tree cover: mapping the world’s forest types",
-          "title_original": "Beyond tree cover: mapping the world’s forest types",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-          "title_zh": "超越树木覆盖：绘制世界森林类型图",
-          "title_en": "Beyond tree cover: mapping the world’s forest types",
-          "title_original": "Beyond tree cover: mapping the world’s forest types",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.872,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,222 +310,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T14:30:24Z",
-      "latest_at": "2026-10-22T14:30:24Z",
+      "earliest_at": "2026-10-26T16:00:00Z",
+      "latest_at": "2026-10-26T16:00:00Z",
       "primary_item": {
-        "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-        "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-        "title_zh": "超越树木覆盖：绘制世界森林类型图",
-        "title_en": "Beyond tree cover: mapping the world’s forest types",
-        "title_original": "Beyond tree cover: mapping the world’s forest types",
+        "id": "29737a30e209713386728c098614b4802f6a7b90",
+        "title": "我们最新的人工智能任务：绘制人类大脑图谱 / Our newest AI Quest: Mapping the human brain",
+        "title_zh": "我们最新的人工智能任务：绘制人类大脑图谱",
+        "title_en": "Our newest AI Quest: Mapping the human brain",
+        "title_original": "Our newest AI Quest: Mapping the human brain",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-        "source": "Google DeepMind",
+        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
+        "scored_at": "2026-10-27T02:48:08.687782Z"
       }
     },
     {
-      "story_id": "story_ea79a79632a0",
-      "title": "Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "title_zh": null,
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "title_zh": null,
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9542,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
-      "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Global default for Copilot features generally available",
-        "title_zh": null,
-        "title_en": "Global default for Copilot features generally available",
-        "title_original": "Global default for Copilot features generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_b096e4b4df6f",
-      "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-          "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_zh": "OlmoEarth v1.3：整个地球最先进的嵌入",
-          "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:11:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-          "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_zh": "OlmoEarth v1.3：整个地球最先进的嵌入",
-          "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:11:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8935,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T16:11:31Z",
-      "latest_at": "2026-10-22T16:11:31Z",
-      "primary_item": {
-        "id": "7a0a11be8277fe6cc1525ac93f63930b4220fa4a",
-        "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-        "title_zh": "OlmoEarth v1.3：整个地球最先进的嵌入",
-        "title_en": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-        "title_original": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_c737801d4d18",
-      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
+      "story_id": "story_6a3f26655d84",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z",
+          "published_at": "2026-10-26T22:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -556,33 +362,33 @@
       ],
       "items": [
         {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "title_zh": "FDE 在 OpenAI 中意味着什么",
-          "title_en": "What FDE means at OpenAI",
-          "title_original": "What FDE means at OpenAI",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z",
+          "published_at": "2026-10-26T22:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7712,
+        "ai_relevance": 0.95,
+        "recency": 0.9333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,17 +397,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T06:00:00Z",
-      "latest_at": "2026-10-22T06:00:00Z",
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
       "primary_item": {
-        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-        "title_zh": "FDE 在 OpenAI 中意味着什么",
-        "title_en": "What FDE means at OpenAI",
-        "title_original": "What FDE means at OpenAI",
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/forward-deployed-engineering-means",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -609,461 +415,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
+        "scored_at": "2026-10-27T02:48:08.687782Z"
       }
     },
     {
-      "story_id": "story_ebbbd6234558",
-      "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑 / Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑 / Sure, let’s smoosh SpaceX and Tesla together, who cares",
-          "title_zh": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "title_en": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-          "title_original": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-          "summary": "The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T19:45:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑 / Sure, let’s smoosh SpaceX and Tesla together, who cares",
-          "title_zh": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "title_en": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-          "title_original": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-          "summary": "The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T19:45:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9406,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T19:45:00Z",
-      "latest_at": "2026-10-22T19:45:00Z",
-      "primary_item": {
-        "id": "75cede2acbd26b05ecc313a172e679ca3a2ed9a0",
-        "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑 / Sure, let’s smoosh SpaceX and Tesla together, who cares",
-        "title_zh": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-        "title_en": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-        "title_original": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-        "summary": "The Verge 作者 Elizabeth Lopatto 分析 SpaceX 和 Tesla 各自成立特别委员会讨论合并一事。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_590b7771106e",
-      "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science / Building Medical Superintelligence",
-      "url": "https://microsoft.ai/news/building-medical-superintelligence",
-      "primary_url": "https://microsoft.ai/news/building-medical-superintelligence",
-      "source": "Microsoft AI：官方博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
-          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science / Building Medical Superintelligence",
-          "title_zh": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-          "title_en": "Building Medical Superintelligence",
-          "title_original": "Building Medical Superintelligence",
-          "summary": "Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。",
-          "recommend_reason_zh": null,
-          "url": "https://microsoft.ai/news/building-medical-superintelligence",
-          "source": "Microsoft AI：官方博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T18:01:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft AI：官方博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
-          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science / Building Medical Superintelligence",
-          "title_zh": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-          "title_en": "Building Medical Superintelligence",
-          "title_original": "Building Medical Superintelligence",
-          "summary": "Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。",
-          "recommend_reason_zh": null,
-          "url": "https://microsoft.ai/news/building-medical-superintelligence",
-          "source": "Microsoft AI：官方博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T18:01:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9173,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T18:01:00Z",
-      "latest_at": "2026-10-22T18:01:00Z",
-      "primary_item": {
-        "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
-        "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science / Building Medical Superintelligence",
-        "title_zh": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-        "title_en": "Building Medical Superintelligence",
-        "title_original": "Building Medical Superintelligence",
-        "summary": "Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。",
-        "recommend_reason_zh": null,
-        "url": "https://microsoft.ai/news/building-medical-superintelligence",
-        "source": "Microsoft AI：官方博客（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_da447daf9891",
-      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "source": "Newcomer 新闻长文（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
-          "recommend_reason_zh": null,
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Newcomer 新闻长文（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-          "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
-          "recommend_reason_zh": null,
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8897,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T15:53:55Z",
-      "latest_at": "2026-10-22T15:53:55Z",
-      "primary_item": {
-        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2% / The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-        "title_zh": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-        "title_en": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-        "title_original": "The Story of Anthropic’s Cap Table: VCs Showed Up Late to the Party, Toting All the Cash They Could Wrangle",
-        "summary": "Newcomer 长文复盘 Anthropic 从 OpenAI 出走团队到即将 IPO 的股权演变。据投资人文件和多位知情人士，多年来风投因公司治理结构和安全优先路线而观望，目前没有任何风投机构持股超过 2%，Anthropic 曾向投资人明确将单一投资人持股控制在该水平以避免话语权集中。",
-        "recommend_reason_zh": null,
-        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-        "source": "Newcomer 新闻长文（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_d9251117d437",
-      "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局 / AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "primary_url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局 / AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-          "title_zh": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "title_en": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-          "title_original": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-          "summary": "404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的\"Black October\"恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局 / AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-          "title_zh": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "title_en": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-          "title_original": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-          "summary": "404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的\"Black October\"恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8706,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T14:23:36Z",
-      "latest_at": "2026-10-22T14:23:36Z",
-      "primary_item": {
-        "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-        "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局 / AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-        "title_zh": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-        "title_en": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-        "title_original": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
-        "summary": "404 Media 的 Jason Koebler 梳理近一个月安全专家对 AI 挖洞能力引发的\"Black October\"恐慌。Wiz、Calif 和 OpenAI 的研究者用 AI 发现了 PHP 的 PHP2Shell 漏洞，Cloudflare CEO 称公开公告前 10 小时已见数千次利用尝试，公告后 2 小时内增至数十万，目前达数百万级。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_2bb3b3856ddd",
-      "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "title_zh": "Copilot 影响仪表板中的行业比较",
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "title_zh": "Copilot 影响仪表板中的行业比较",
-          "title_en": "Industry comparisons in the Copilot impact dashboard",
-          "title_original": "Industry comparisons in the Copilot impact dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8971,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T16:28:24Z",
-      "latest_at": "2026-10-22T16:28:24Z",
-      "primary_item": {
-        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-        "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-        "title_zh": "Copilot 影响仪表板中的行业比较",
-        "title_en": "Industry comparisons in the Copilot impact dashboard",
-        "title_original": "Industry comparisons in the Copilot impact dashboard",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_583019dc6666",
-      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "story_id": "story_70a09f9ddd44",
+      "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
       "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
           "title_en": null,
-          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+          "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
           "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z",
+          "published_at": "2026-10-27T00:05:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1074,33 +449,33 @@
       ],
       "items": [
         {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+          "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
           "title_en": null,
-          "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+          "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+          "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
           "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z",
+          "published_at": "2026-10-27T00:05:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7082,
+        "recency": 0.9618,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,17 +483,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T00:06:00Z",
-      "latest_at": "2026-10-22T00:06:00Z",
+      "earliest_at": "2026-10-27T00:05:00Z",
+      "latest_at": "2026-10-27T00:05:00Z",
       "primary_item": {
-        "id": "57b779c46686bc1954136c094928ec6605314308",
-        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "title_zh": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "id": "9e347c8ec021ead08fb5656d4ea953133d3a892d",
+        "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+        "title_zh": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
         "title_en": null,
-        "title_original": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "summary": "作者复盘 PHP 两个 CVSS 满分起步的远程代码执行漏洞（CVE-2026-109618、CVE-2026-109619，合称 PHP2Shell）从提前泄密、演示视频流出、多国政府网站预防性下线，到21日晚10点补丁上线的全过程，并指出这两个漏洞是 GPT-5.6 Sol 辅助发现的，OpenAI 还发布了检测 skill。",
+        "title_original": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
+        "summary": "作者梳理了 Anthropic 提交的 IPO 招股书中的11个细节。",
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       },
@@ -1126,67 +501,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
+        "scored_at": "2026-10-27T02:48:08.687782Z"
       }
     },
     {
-      "story_id": "story_bae5ad58fa35",
-      "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-      "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "primary_url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-      "source": "Redwood Research：Blog（RSS）",
+      "story_id": "story_4efabe1530c2",
+      "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+      "url": "https://www.ithome.com/1/018/203.htm",
+      "primary_url": "https://www.ithome.com/1/018/203.htm",
+      "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_zh": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-          "title_en": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_original": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "summary": "METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。",
+          "id": "c38720d0bdaf05a780672a370538e81daa930717",
+          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "title_en": null,
+          "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
           "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-          "source": "Redwood Research：Blog（RSS）",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T15:32:17Z",
+          "published_at": "2026-10-26T23:37:17.237000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Redwood Research：Blog（RSS）"
+        "IT之家·人工智能"
       ],
       "items": [
         {
-          "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-          "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_zh": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-          "title_en": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "title_original": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-          "summary": "METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。",
+          "id": "c38720d0bdaf05a780672a370538e81daa930717",
+          "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "title_en": null,
+          "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+          "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
           "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-          "source": "Redwood Research：Blog（RSS）",
+          "url": "https://www.ithome.com/1/018/203.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T15:32:17Z",
+          "published_at": "2026-10-26T23:37:17.237000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8851,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,479 +569,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T15:32:17Z",
-      "latest_at": "2026-10-22T15:32:17Z",
+      "earliest_at": "2026-10-26T23:37:17.237000Z",
+      "latest_at": "2026-10-26T23:37:17.237000Z",
       "primary_item": {
-        "id": "d8e665af76dda50a70bcb25c8c2a431c04682786",
-        "title": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞 / Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-        "title_zh": "METR 与 Redwood Research 红队测试 OpenAI 内部智能体监控系统，发现多个漏洞",
-        "title_en": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-        "title_original": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
-        "summary": "METR 与 Redwood Research 各派一名员工，于 7 月 21 日至 8 月 11 日对 OpenAI 内部失准监测系统开展三周高权限试点压力测试，产出 61 页内部报告。",
+        "id": "c38720d0bdaf05a780672a370538e81daa930717",
+        "title": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+        "title_zh": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+        "title_en": null,
+        "title_original": "OpenAI 宣布 AI 模型取得三项科学突破，涉及局部光滑猜想、指数时间假设与杨–米尔斯理论",
+        "summary": "OpenAI 于 10 月 27 日宣布其 AI 模型在数学、计算机科学和物理学领域取得三项研究突破。数学上给出了所有维度下局部光滑猜想的证明，从而解决挂谷猜想与斯坦因限制猜想；计算机科学上给出推翻指数时间假设（ETH）的证明，暗示相关计算任务可能有更快算法；物理学上提出量子色动力学及标准模型一种统一完备化的严格存在性证明，涉及杨–米尔斯千禧年难题的一部分。",
         "recommend_reason_zh": null,
-        "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
-        "source": "Redwood Research：Blog（RSS）",
+        "url": "https://www.ithome.com/1/018/203.htm",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
+        "scored_at": "2026-10-27T02:48:08.687782Z"
       }
     },
     {
-      "story_id": "story_30ae19eb5cdf",
-      "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "primary_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-          "title_en": "Ensemble forecasting with IBM Granite time-series models",
-          "title_original": "Ensemble forecasting with IBM Granite time-series models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-          "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-          "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-          "title_en": "Ensemble forecasting with IBM Granite time-series models",
-          "title_original": "Ensemble forecasting with IBM Granite time-series models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T07:51:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7922,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T07:51:31Z",
-      "latest_at": "2026-10-22T07:51:31Z",
-      "primary_item": {
-        "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
-        "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
-        "title_zh": "使用 IBM Granite 时间序列模型进行集合预测",
-        "title_en": "Ensemble forecasting with IBM Granite time-series models",
-        "title_original": "Ensemble forecasting with IBM Granite time-series models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_91caf5f3ce00",
-      "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应 / Hackers got a four-day head start on epic PHP2Shell vulnerability",
-      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-      "primary_url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
-          "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应 / Hackers got a four-day head start on epic PHP2Shell vulnerability",
-          "title_zh": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-          "title_en": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-          "title_original": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-          "summary": "PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:25:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
-          "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应 / Hackers got a four-day head start on epic PHP2Shell vulnerability",
-          "title_zh": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-          "title_en": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-          "title_original": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-          "summary": "PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:25:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T15:25:02Z",
-      "latest_at": "2026-10-22T15:25:02Z",
-      "primary_item": {
-        "id": "a06fd082651a1cb2ce1e05f497bf2a14ed38dac2",
-        "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应 / Hackers got a four-day head start on epic PHP2Shell vulnerability",
-        "title_zh": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
-        "title_en": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-        "title_original": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-        "summary": "PHP2Shell 漏洞在被披露前四天已遭黑客利用，Calif 与 Wiz 的研究人员发现这些漏洞。OpenAI 称其前沿 AI 在攻击者之前发现了漏洞，并与 PHP、Calif、Wiz 合作验证并开发补丁。NSA 建议无法立即更新的机构将系统离线，英国 NCSC 表示漏洞可能让黑客无需登录凭据即可控制网站服务器，白宫称联邦机构正在评估对政府系统和关键基础设施的潜在影响。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_6c097e2f9e18",
-      "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图 / Hold on to your hat. #KlingAI #Kling4",
-      "url": "https://x.com/Kling_ai/status/2113156632134005040",
-      "primary_url": "https://x.com/Kling_ai/status/2113156632134005040",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "925717173b1b416f3ac0e2115987c50ac56b47ba",
-          "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图 / Hold on to your hat. #KlingAI #Kling4",
-          "title_zh": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
-          "title_en": "Hold on to your hat. #KlingAI #Kling4",
-          "title_original": "Hold on to your hat. #KlingAI #Kling4",
-          "summary": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kling_ai/status/2113156632134005040",
-          "source": "X：可灵 Kling AI (@Kling_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T06:32:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：可灵 Kling AI (@Kling_ai)"
-      ],
-      "items": [
-        {
-          "id": "925717173b1b416f3ac0e2115987c50ac56b47ba",
-          "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图 / Hold on to your hat. #KlingAI #Kling4",
-          "title_zh": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
-          "title_en": "Hold on to your hat. #KlingAI #Kling4",
-          "title_original": "Hold on to your hat. #KlingAI #Kling4",
-          "summary": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kling_ai/status/2113156632134005040",
-          "source": "X：可灵 Kling AI (@Kling_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T06:32:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7773,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T06:32:56Z",
-      "latest_at": "2026-10-22T06:32:56Z",
-      "primary_item": {
-        "id": "925717173b1b416f3ac0e2115987c50ac56b47ba",
-        "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图 / Hold on to your hat. #KlingAI #Kling4",
-        "title_zh": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
-        "title_en": "Hold on to your hat. #KlingAI #Kling4",
-        "title_original": "Hold on to your hat. #KlingAI #Kling4",
-        "summary": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Kling_ai/status/2113156632134005040",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_d6c8641710cd",
-      "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-      "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_zh": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-          "title_en": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_original": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T05:13:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-          "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_zh": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-          "title_en": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "title_original": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-          "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T05:13:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7626,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T05:13:16Z",
-      "latest_at": "2026-10-22T05:13:16Z",
-      "primary_item": {
-        "id": "d75edc90492b28c57151d9eebb6112a0387fc8f2",
-        "title": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告 / National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-        "title_zh": "NSA 就 AI 发现的 PHP2Shell 关键漏洞发布修复警告",
-        "title_en": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-        "title_original": "National Security Agency (NSA) and world leaders warn of security flaws found in PHP programming language",
-        "summary": "NSA 警告两个由 Calif 研究人员用 GPT-5.6 Sol 发现的 PHP 关键漏洞（PHP2Shell），敦促组织打补丁或将未修补服务器下线。两个漏洞位于 PHP 核心，在 Apache mod_php 上演示的利用可在应用代码运行前触发。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_141a9a8b3646",
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-      "url": "https://x.com/claudeai/status/2113360845409583307",
-      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-          "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.945,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:04:24Z",
-      "latest_at": "2026-10-22T20:04:24Z",
-      "primary_item": {
-        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-        "title": "Claude 网页、桌面和移动端将默认启用 auto mode / Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "title_zh": "Claude 网页、桌面和移动端将默认启用 auto mode",
-        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "title_original": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
-        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/claudeai/status/2113360845409583307",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
-      }
-    },
-    {
-      "story_id": "story_bb01db78f5d1",
-      "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-      "url": "https://x.com/Khazix0918/status/2113096414469464281",
-      "primary_url": "https://x.com/Khazix0918/status/2113096414469464281",
+      "story_id": "story_ece4441b7d51",
+      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+      "url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
       "source": "X：卡兹克 (@Khazix0918)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "title_zh": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
           "title_en": null,
-          "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
+          "title_original": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
           "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z",
+          "published_at": "2026-10-27T00:34:38Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1677,33 +621,33 @@
       ],
       "items": [
         {
-          "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-          "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "title_zh": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
           "title_en": null,
-          "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-          "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
+          "title_original": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2113096414469464281",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
           "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T02:33:39Z",
+          "published_at": "2026-10-27T00:34:38Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7338,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1711,17 +655,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T02:33:39Z",
-      "latest_at": "2026-10-22T02:33:39Z",
+      "earliest_at": "2026-10-27T00:34:38Z",
+      "latest_at": "2026-10-27T00:34:38Z",
       "primary_item": {
-        "id": "77dca85da5ab0317f5f6d65646d497d9120aa07e",
-        "title": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "title_zh": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
+        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+        "title_zh": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
         "title_en": null,
-        "title_original": "AI 挖出潜伏十几年的 PHP 底层漏洞，PHP2Shell 事件全景复盘",
-        "summary": "作者复盘 PHP2Shell 事件：两个 CVSS 满分定为 9.2 分的 PHP 远程代码执行漏洞（CVE-2026-109618 和 CVE-2026-109619）在补丁发布前泄露，攻击演示视频外流，多国政府网站预防性下线，OpenAI 认领漏洞由 GPT-5.6 Sol 辅助发现。",
+        "title_original": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+        "summary": "作者总结 Anthropic IPO 招股书的 11 个细节，计划募资约 1000 亿美元、估值或达 1.5万亿～2万亿。收入五个季度涨 30 倍，今年二季度经营利润首次转正 9.74 亿美元，但上半年净亏 807 亿美元，主要来自可转换票据公允价值变动；调整后净利润为正 26.71 亿美元。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2113096414469464281",
+        "url": "https://x.com/Khazix0918/status/2114878401190506902",
         "source": "X：卡兹克 (@Khazix0918)",
         "source_name": "AI HOT"
       },
@@ -1729,7 +673,1122 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T00:12:20.791217Z"
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_76389132aa45",
+      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+          "title_zh": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+          "title_en": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+          "title_original": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+          "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:40:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+          "title_zh": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+          "title_en": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+          "title_original": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+          "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:40:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8895,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T18:40:26Z",
+      "latest_at": "2026-10-26T18:40:26Z",
+      "primary_item": {
+        "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+        "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能 / Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+        "title_zh": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+        "title_en": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+        "title_original": "Meta filed the announcement with the SEC that it plans to raise $95B in new equity to fund AI data centers and its superintelligence push.",
+        "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_cdfcd9ca2b60",
+      "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
+          "title_en": "Five weird details from Anthropic’s IPO filing",
+          "title_original": "Five weird details from Anthropic’s IPO filing",
+          "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
+          "title_en": "Five weird details from Anthropic’s IPO filing",
+          "title_original": "Five weird details from Anthropic’s IPO filing",
+          "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T17:10:23Z",
+      "latest_at": "2026-10-26T17:10:23Z",
+      "primary_item": {
+        "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+        "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+        "title_zh": "Anthropic S-1 文件中的五个不寻常细节",
+        "title_en": "Five weird details from Anthropic’s IPO filing",
+        "title_original": "Five weird details from Anthropic’s IPO filing",
+        "summary": "The Verge 梳理 Anthropic 向 SEC 提交的 300 多页 S-1 上市文件，列出五个细节。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_e388b73835cf",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "primary_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T13:45:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_zh": null,
+          "title_en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T13:45:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8285,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T13:45:00Z",
+      "latest_at": "2026-10-26T13:45:00Z",
+      "primary_item": {
+        "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "title_zh": null,
+        "title_en": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_0b6b95c1ee23",
+      "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+      "url": "https://www.aibase.com/news/31878",
+      "primary_url": "https://www.aibase.com/news/31878",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "title_zh": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "title_en": null,
+          "title_original": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31878",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:46:49.155993Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "title_zh": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "title_en": null,
+          "title_original": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31878",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:46:49.155993Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T02:46:49.155993Z",
+      "latest_at": "2026-10-27T02:46:49.155993Z",
+      "primary_item": {
+        "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
+        "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+        "title_zh": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+        "title_en": null,
+        "title_original": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31878",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_68d9f7344407",
+      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "title_en": "Day 22/ Terra is back!",
+          "title_original": "Day 22/ Terra is back!",
+          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+          "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "title_en": "Day 22/ Terra is back!",
+          "title_original": "Day 22/ Terra is back!",
+          "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T19:24:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8989,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T19:24:11Z",
+      "latest_at": "2026-10-26T19:24:11Z",
+      "primary_item": {
+        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力 / Day 22/ Terra is back!",
+        "title_zh": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+        "title_en": "Day 22/ Terra is back!",
+        "title_original": "Day 22/ Terra is back!",
+        "summary": "作者宣布 GPT-6.1 Terra 回归，称这是其首个在写作、个性和细致理解请求上显著更好的模型。该模型擅长电脑操作，可理解屏幕内容并跨应用执行操作，在 API 和订阅中提供的用量是 6.1 Sol 的 2 倍，价格更低。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2114800277677092936",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_f2c9ffc07e2d",
+      "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2114574035468386746",
+      "primary_url": "https://x.com/Kling_ai/status/2114574035468386746",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "360d453c51af0b38d7fbbb5102312331975585fb",
+          "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+          "title_zh": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+          "title_en": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+          "title_original": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+          "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kling_ai/status/2114574035468386746",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T04:25:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：可灵 Kling AI (@Kling_ai)"
+      ],
+      "items": [
+        {
+          "id": "360d453c51af0b38d7fbbb5102312331975585fb",
+          "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+          "title_zh": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+          "title_en": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+          "title_original": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+          "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Kling_ai/status/2114574035468386746",
+          "source": "X：可灵 Kling AI (@Kling_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T04:25:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.724,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T04:25:11Z",
+      "latest_at": "2026-10-26T04:25:11Z",
+      "primary_item": {
+        "id": "360d453c51af0b38d7fbbb5102312331975585fb",
+        "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+        "title_zh": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+        "title_en": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+        "title_original": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+        "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Kling_ai/status/2114574035468386746",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_b5388a20531f",
+      "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件 / ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+      "url": "https://x.com/testingcatalog/status/2114696424021451174",
+      "primary_url": "https://x.com/testingcatalog/status/2114696424021451174",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件 / ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+          "title_zh": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+          "title_en": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+          "title_original": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+          "summary": "据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/testingcatalog/status/2114696424021451174",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T12:31:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "items": [
+        {
+          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件 / ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+          "title_zh": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+          "title_en": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+          "title_original": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+          "summary": "据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/testingcatalog/status/2114696424021451174",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T12:31:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.814,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T12:31:31Z",
+      "latest_at": "2026-10-26T12:31:31Z",
+      "primary_item": {
+        "id": "6966a925f9504e78c17a17e111bbabed438852f6",
+        "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件 / ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+        "title_zh": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
+        "title_en": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+        "title_original": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
+        "summary": "据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/testingcatalog/status/2114696424021451174",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_b7cd9e29b365",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9115,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
+      "primary_item": {
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_6c14d705abe8",
+      "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+      "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "primary_url": "https://x.com/ClementDelangue/status/2114713576296300604",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_zh": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_original": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      ],
+      "items": [
+        {
+          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_zh": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+          "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "title_original": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+          "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T13:39:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8274,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T13:39:40Z",
+      "latest_at": "2026-10-26T13:39:40Z",
+      "primary_item": {
+        "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
+        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件 / If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+        "title_zh": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
+        "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+        "title_original": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
+        "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_701e54b2e2ab",
+      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+      "url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_zh": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "title_en": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_original": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_zh": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "title_en": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "title_original": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+          "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8915,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T18:49:39Z",
+      "latest_at": "2026-10-26T18:49:39Z",
+      "primary_item": {
+        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output / GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+        "title_zh": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+        "title_en": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+        "title_original": "GPT-6.1 Terra from @OpenAI is live on OpenRouter!",
+        "summary": "OpenRouter 宣布 OpenAI 的 GPT-6.1 Terra 上线。该模型在 Agents' Last Exam 上与 GPT-6 Astra 得分相当，每 token 价格约为其十分之一，平均完成任务速度比 Astra 和 GPT-6.1 Sol 快 3 倍以上。定价 $1/M input、$5/M output，上下文 1.05M，链接 https://openrouter.ai/openai/gpt-6.1-terra 。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2114791584755839168",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_2d6f5db20d13",
+      "title": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+      "url": "https://www.aibase.com/news/31885",
+      "primary_url": "https://www.aibase.com/news/31885",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "78544edc8cda872944dc7e5a93fd8a5e9c3ee345",
+          "title": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+          "title_zh": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+          "title_en": null,
+          "title_original": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:46:49.155993Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "78544edc8cda872944dc7e5a93fd8a5e9c3ee345",
+          "title": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+          "title_zh": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+          "title_en": null,
+          "title_original": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T02:46:49.155993Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T02:46:49.155993Z",
+      "latest_at": "2026-10-27T02:46:49.155993Z",
+      "primary_item": {
+        "id": "78544edc8cda872944dc7e5a93fd8a5e9c3ee345",
+        "title": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+        "title_zh": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+        "title_en": null,
+        "title_original": "Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31885",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_ced008172443",
+      "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+      "url": "https://x.com/UnslothAI/status/2114730104228286936",
+      "primary_url": "https://x.com/UnslothAI/status/2114730104228286936",
+      "source": "X：Unsloth (@UnslothAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+          "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+          "title_zh": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+          "title_en": "MiniMax-M3.1-Flash can now run locally!",
+          "title_original": "MiniMax-M3.1-Flash can now run locally!",
+          "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2114730104228286936",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T14:45:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "items": [
+        {
+          "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+          "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+          "title_zh": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+          "title_en": "MiniMax-M3.1-Flash can now run locally!",
+          "title_original": "MiniMax-M3.1-Flash can now run locally!",
+          "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2114730104228286936",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T14:45:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8406,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T14:45:21Z",
+      "latest_at": "2026-10-26T14:45:21Z",
+      "primary_item": {
+        "id": "8f2a5cec00a06c514a546dafef7a2ff2d448352e",
+        "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 / MiniMax-M3.1-Flash can now run locally!",
+        "title_zh": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+        "title_en": "MiniMax-M3.1-Flash can now run locally!",
+        "title_original": "MiniMax-M3.1-Flash can now run locally!",
+        "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/UnslothAI/status/2114730104228286936",
+        "source": "X：Unsloth (@UnslothAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
+      }
+    },
+    {
+      "story_id": "story_4660eaf23fef",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "primary_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2581cdd6919419121f3d538268f66dd68177284a",
+          "title": "ChatGPT’s expanding world of work",
+          "title_zh": null,
+          "title_en": "ChatGPT’s expanding world of work",
+          "title_original": "ChatGPT’s expanding world of work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T10:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2581cdd6919419121f3d538268f66dd68177284a",
+          "title": "ChatGPT’s expanding world of work",
+          "title_zh": null,
+          "title_en": "ChatGPT’s expanding world of work",
+          "title_original": "ChatGPT’s expanding world of work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T10:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7848,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T10:00:00Z",
+      "latest_at": "2026-10-26T10:00:00Z",
+      "primary_item": {
+        "id": "2581cdd6919419121f3d538268f66dd68177284a",
+        "title": "ChatGPT’s expanding world of work",
+        "title_zh": null,
+        "title_en": "ChatGPT’s expanding world of work",
+        "title_original": "ChatGPT’s expanding world of work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T02:48:08.687782Z"
       }
     }
   ]
