@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 03:03:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:18:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Working with academic communities to build scientific understanding</title>
@@ -38,6 +38,14 @@
 <description>Greptile takes bug detection beyond code review with GPT-6 Astra (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot assisted permissions generally available</title>
+<link>https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available</guid>
+<description>GitHub Copilot assisted permissions generally available (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 26 Oct 2026 22:31:30 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权</title>
@@ -80,20 +88,20 @@
 <pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
 </item>
 <item>
+<title>630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航</title>
+<link>https://www.aibase.com/news/31890</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31890</guid>
+<description>630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 27 Oct 2026 05:18:25 +0000</pubDate>
+</item>
+<item>
 <title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
 <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
 <guid isPermaLink="true">https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
 <description>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Mon, 26 Oct 2026 13:45:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”</title>
-<link>https://www.aibase.com/news/31878</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31878</guid>
-<description>Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸” (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 02:46:49 +0000</pubDate>
 </item>
 <item>
 <title>Day 22/ Terra is back!</title>
@@ -104,28 +112,12 @@
 <pubDate>Mon, 26 Oct 2026 19:24:11 +0000</pubDate>
 </item>
 <item>
-<title>Check out the creator guides in the comments to get more out of #Kling4. #KlingAI</title>
-<link>https://x.com/Kling_ai/status/2114574035468386746</link>
-<guid isPermaLink="true">https://x.com/Kling_ai/status/2114574035468386746</guid>
-<description>Check out the creator guides in the comments to get more out of #Kling4. #KlingAI</description>
-<category>Official update</category>
-<pubDate>Mon, 26 Oct 2026 04:25:11 +0000</pubDate>
-</item>
-<item>
 <title>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</title>
 <link>https://x.com/testingcatalog/status/2114696424021451174</link>
 <guid isPermaLink="true">https://x.com/testingcatalog/status/2114696424021451174</guid>
 <description>ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!</description>
 <category>Industry news</category>
 <pubDate>Mon, 26 Oct 2026 12:31:31 +0000</pubDate>
-</item>
-<item>
-<title>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</title>
-<link>https://x.com/gdb/status/2114814747254432243</link>
-<guid isPermaLink="true">https://x.com/gdb/status/2114814747254432243</guid>
-<description>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</description>
-<category>Industry news</category>
-<pubDate>Mon, 26 Oct 2026 20:21:41 +0000</pubDate>
 </item>
 <item>
 <title>If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!</title>
@@ -136,6 +128,14 @@
 <pubDate>Mon, 26 Oct 2026 13:39:40 +0000</pubDate>
 </item>
 <item>
+<title>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</title>
+<link>https://x.com/gdb/status/2114814747254432243</link>
+<guid isPermaLink="true">https://x.com/gdb/status/2114814747254432243</guid>
+<description>computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted</description>
+<category>Industry news</category>
+<pubDate>Mon, 26 Oct 2026 20:21:41 +0000</pubDate>
+</item>
+<item>
 <title>GPT-6.1 Terra from @OpenAI is live on OpenRouter!</title>
 <link>https://x.com/OpenRouter/status/2114791584755839168</link>
 <guid isPermaLink="true">https://x.com/OpenRouter/status/2114791584755839168</guid>
@@ -144,12 +144,12 @@
 <pubDate>Mon, 26 Oct 2026 18:49:39 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨</title>
-<link>https://www.aibase.com/news/31885</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31885</guid>
-<description>Anthropic 递交 IPO 招股书，亚洲芯片股集体飙涨 (AIbase)</description>
+<title>当智力第一次被标价:《Token经济》论坛激辩“Token 是否经济”</title>
+<link>https://www.aibase.com/news/31889</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31889</guid>
+<description>当智力第一次被标价:《Token经济》论坛激辩“Token 是否经济” (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 02:46:49 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 05:18:25 +0000</pubDate>
 </item>
 <item>
 <title>MiniMax-M3.1-Flash can now run locally!</title>
