@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:18:20.082797Z",
+  "generated_at": "2026-10-28T05:19:13.339682Z",
   "date": "2026-10-28",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T02:17:26.748221Z"
+      "observed_at": "2026-10-28T05:18:29.353491Z"
     },
     {
-      "id": "project_0e63f2b2f20c",
-      "project_name": "Nuvio 5.0",
-      "url": "https://www.producthunt.com/products/nuvio",
-      "summary": "Hand your financial admin to your AI agent",
+      "id": "project_51563789f138",
+      "project_name": "SavorApp_AI",
+      "url": "https://www.producthunt.com/products/savor-3",
+      "summary": "Capture what matters and move your intentions forward",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Hand your financial admin to your AI agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Hand your financial admin to your AI agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T20:06:22Z",
-      "updated_at": "2026-10-28T00:10:49Z",
+      "recommend_reason_zh": "体验它主打的「Capture what matters and move your intentions forward」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Capture what matters and move your intentions forward\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-09-12T16:45:52Z",
+      "updated_at": "2026-10-28T05:17:47Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T02:18:08.447045Z"
+      "observed_at": "2026-10-28T05:19:02.644833Z"
     },
     {
       "id": "project_4341922ec9bb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T02:17:26.748221Z"
+      "observed_at": "2026-10-28T05:18:29.353491Z"
     },
     {
-      "id": "project_f6f0b21aa3e6",
-      "project_name": "GPT-6.1 Terra",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "Fast, capable computer use at half the price",
+      "id": "project_b04daec36fea",
+      "project_name": "PulseDev",
+      "url": "https://www.producthunt.com/products/pulsedev",
+      "summary": "Click any UI bug on localhost and your AI agent fixes it",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Fast, capable computer use at half the price」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Fast, capable computer use at half the price\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T23:33:48Z",
-      "updated_at": "2026-10-28T01:26:13Z",
+      "recommend_reason_zh": "体验它主打的「Click any UI bug on localhost and your AI agent fixes it」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Click any UI bug on localhost and your AI agent fixes it\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T22:47:46Z",
+      "updated_at": "2026-10-28T04:56:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T02:18:08.447045Z"
+      "observed_at": "2026-10-28T05:19:02.644833Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1498,
+      "duration_ms": 1300,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 250,
+      "duration_ms": 115,
       "error": null
     }
   ]

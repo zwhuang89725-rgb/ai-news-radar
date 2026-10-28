@@ -5,10 +5,10 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 02:17:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 05:18:29 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Can we trust LLMs to judge whether a research idea is novel?</title>
+<title>我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?</title>
 <link>https://huggingface.co/blog/allenai/novelty-bench</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
 <description>Hugging Face Blog</description>
@@ -16,7 +16,7 @@
 <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot supports server-to-server authentication</title>
+<title>GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication</title>
 <link>https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</guid>
 <description>GitHub Changelog</description>
@@ -24,7 +24,7 @@
 <pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
 </item>
 <item>
-<title>Retell uses OpenAI models to help power 100M monthly calls</title>
+<title>Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls</title>
 <link>https://openai.com/index/retell-ai</link>
 <guid isPermaLink="true">https://openai.com/index/retell-ai</guid>
 <description>OpenAI News</description>
@@ -40,7 +40,7 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 </item>
 <item>
-<title>Build specialized multimodal models with LFM3</title>
+<title>使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3</title>
 <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
 <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
 <description>Hugging Face Blog</description>
@@ -64,6 +64,14 @@
 <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
+<title>​  谷歌 DeepMind 发布 Genie 4：能"走进去"的虚拟世界，首次同步发声</title>
+<link>https://www.aibase.com/news/31921</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31921</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 05:18:29 +0000</pubDate>
+</item>
+<item>
 <title>Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
 <link>https://latent.space/p/ainews-anthropic-s1</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1</guid>
@@ -78,14 +86,6 @@
 <description>作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 23:31:32 +0000</pubDate>
-</item>
-<item>
-<title>31 岁工程师离世，父母怒告 OpenAI：ChatGPT 教她减药瞒医</title>
-<link>https://www.aibase.com/news/31907</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31907</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 02:17:26 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -120,20 +120,20 @@
 <pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
 </item>
 <item>
+<title>​Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019</title>
+<link>https://www.aibase.com/news/31918</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31918</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 05:18:29 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 通过 OneGov 协议以六折向美国各级政府提供 Claude / We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</title>
 <link>https://x.com/AnthropicAI/status/2115207004293853358</link>
 <guid isPermaLink="true">https://x.com/AnthropicAI/status/2115207004293853358</guid>
 <description>Anthropic 宣布扩大与 USGSA 的合作，根据新的 OneGov 协议，以 40% 折扣向联邦、州、地方、部落及领地各级政府提供 Claude，详情见官方公告。（X：Anthropic (@AnthropicAI)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 22:20:23 +0000</pubDate>
-</item>
-<item>
-<title>Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</guid>
-<description>Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。（公众号：数字生命卡兹克）</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 00:22:00 +0000</pubDate>
 </item>
 <item>
 <title>LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent</title>
@@ -144,20 +144,20 @@
 <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
 </item>
 <item>
+<title>Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</guid>
+<description>Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 00:22:00 +0000</pubDate>
+</item>
+<item>
 <title>Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</title>
 <link>https://x.com/GeminiApp/status/2115171788812669225</link>
 <guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
 <description>Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。（X：Gemini (@GeminiApp)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
-</item>
-<item>
-<title>AI 让作业变废纸，诺奖级教授退回纸笔考场</title>
-<link>https://www.aibase.com/news/31917</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31917</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 02:17:26 +0000</pubDate>
 </item>
 <item>
 <title>Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR / Anyone can now bring their ideas into the company codebase</title>
