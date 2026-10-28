@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:19:13.339682Z",
+  "generated_at": "2026-10-28T08:18:17.057118Z",
   "date": "2026-10-28",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T05:18:29.353491Z"
+      "observed_at": "2026-10-28T08:17:31.274741Z"
     },
     {
-      "id": "project_51563789f138",
-      "project_name": "SavorApp_AI",
-      "url": "https://www.producthunt.com/products/savor-3",
-      "summary": "Capture what matters and move your intentions forward",
+      "id": "project_3f8f6e9cd3b5",
+      "project_name": "Dedica",
+      "url": "https://www.producthunt.com/products/dedica",
+      "summary": "Check if AI agents can use your website",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Capture what matters and move your intentions forward」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Capture what matters and move your intentions forward\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-12T16:45:52Z",
-      "updated_at": "2026-10-28T05:17:47Z",
+      "recommend_reason_zh": "体验它主打的「Check if AI agents can use your website」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Check if AI agents can use your website\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T00:45:35Z",
+      "updated_at": "2026-10-28T08:17:05Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T05:19:02.644833Z"
+      "observed_at": "2026-10-28T08:18:06.250053Z"
     },
     {
       "id": "project_4341922ec9bb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T05:18:29.353491Z"
+      "observed_at": "2026-10-28T08:17:31.274741Z"
     },
     {
-      "id": "project_b04daec36fea",
-      "project_name": "PulseDev",
-      "url": "https://www.producthunt.com/products/pulsedev",
-      "summary": "Click any UI bug on localhost and your AI agent fixes it",
+      "id": "project_ce719bf1e4ca",
+      "project_name": "Trigger.dev: Webhooks for your AI agents",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "summary": "Run AI agents with Slack, Supabase and 50+ other services",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Click any UI bug on localhost and your AI agent fixes it」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Click any UI bug on localhost and your AI agent fixes it\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T22:47:46Z",
-      "updated_at": "2026-10-28T04:56:07Z",
+      "recommend_reason_zh": "体验它主打的「Run AI agents with Slack, Supabase and 50+ other services」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run AI agents with Slack, Supabase and 50+ other services\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-16T09:30:22Z",
+      "updated_at": "2026-10-28T08:16:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T05:19:02.644833Z"
+      "observed_at": "2026-10-28T08:18:06.250053Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1300,
+      "duration_ms": 1416,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 115,
+      "duration_ms": 174,
       "error": null
     }
   ]
