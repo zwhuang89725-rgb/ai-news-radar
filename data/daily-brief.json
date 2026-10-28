@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T20:18:17.777640Z",
+  "generated_at": "2026-10-28T23:18:43.276209Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_f713f4e4a699",
-      "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
       "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "primary_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "source": "Hugging Face Blog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "title_zh": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录",
+          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
           "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
           "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
           "summary": null,
@@ -28,9 +28,25 @@
           "recency_basis": null
         },
         {
+          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
+          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
+          "title_en": null,
+          "title_original": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-28T22:56:46.012000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
           "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
-          "title": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR",
+          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
           "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
           "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
           "summary": null,
@@ -44,16 +60,17 @@
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "huggingface.co"
       ],
       "items": [
         {
           "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "title_zh": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录",
+          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
           "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
           "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
           "summary": null,
@@ -67,9 +84,25 @@
           "recency_basis": null
         },
         {
+          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
+          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
+          "title_en": null,
+          "title_original": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-28T22:56:46.012000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
           "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
-          "title": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR",
+          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
           "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
           "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
           "summary": null,
@@ -83,18 +116,18 @@
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8797,
-      "importance": 0.8797,
-      "importance_score": 0.8797,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8976,
+      "importance": 0.8976,
+      "importance_score": 0.8976,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9259,
-        "story_heat": 0.25
+        "recency": 0.8865,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -104,11 +137,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-10-28T14:58:17Z",
-      "latest_at": "2026-10-28T15:17:53Z",
+      "latest_at": "2026-10-28T22:56:46.012000Z",
       "primary_item": {
         "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-        "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "title_zh": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录",
+        "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
         "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
         "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
         "summary": null,
@@ -121,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -173,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9536,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -260,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9397,
+        "recency": 0.8998,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,30 +328,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
-      "story_id": "story_84a91576d939",
-      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "primary_url": "https://openai.com/index/the-future-of-the-firm",
+      "story_id": "story_dc34b00fe1cc",
+      "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "primary_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-          "title_en": "The future of the firm",
-          "title_original": "The future of the firm",
+          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
+          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-future-of-the-firm",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T10:00:00Z",
+          "published_at": "2026-10-28T13:15:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -329,33 +362,33 @@
       ],
       "items": [
         {
-          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-          "title_en": "The future of the firm",
-          "title_original": "The future of the firm",
+          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
+          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-future-of-the-firm",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T10:00:00Z",
+          "published_at": "2026-10-28T13:15:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8617,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,17 +397,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T10:00:00Z",
-      "latest_at": "2026-10-28T10:00:00Z",
+      "earliest_at": "2026-10-28T13:15:00Z",
+      "latest_at": "2026-10-28T13:15:00Z",
       "primary_item": {
-        "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-        "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-        "title_en": "The future of the firm",
-        "title_original": "The future of the firm",
+        "id": "0fd968b40feb377d645c078f6daf22388be116cf",
+        "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
+        "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-future-of-the-firm",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -382,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -434,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9386,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +502,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
+      }
+    },
+    {
+      "story_id": "story_02a536995c37",
+      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+      "url": "https://www.ithome.com/1/019/268.htm",
+      "primary_url": "https://www.ithome.com/1/019/268.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
+          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "title_zh": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "title_en": null,
+          "title_original": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/019/268.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T22:35:25.040000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
+          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "title_zh": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "title_en": null,
+          "title_original": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+          "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/019/268.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T22:35:25.040000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T22:35:25.040000Z",
+      "latest_at": "2026-10-28T22:35:25.040000Z",
+      "primary_item": {
+        "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
+        "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+        "title_zh": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+        "title_en": null,
+        "title_original": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+        "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/019/268.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -521,15 +640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.956,
+        "recency": 0.9154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,30 +674,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
-      "story_id": "story_3e2da8c9fde0",
-      "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "primary_url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "story_id": "story_84a91576d939",
+      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "primary_url": "https://openai.com/index/the-future-of-the-firm",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
-          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-          "title_zh": "Legora正在构建法律工作代理操作系统",
-          "title_en": "Legora is building the agentic operating system for legal work",
-          "title_original": "Legora is building the agentic operating system for legal work",
+          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+          "title_en": "The future of the firm",
+          "title_original": "The future of the firm",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "url": "https://openai.com/index/the-future-of-the-firm",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z",
+          "published_at": "2026-10-28T10:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -589,33 +708,33 @@
       ],
       "items": [
         {
-          "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
-          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-          "title_zh": "Legora正在构建法律工作代理操作系统",
-          "title_en": "Legora is building the agentic operating system for legal work",
-          "title_original": "Legora is building the agentic operating system for legal work",
+          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+          "title_en": "The future of the firm",
+          "title_original": "The future of the firm",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "url": "https://openai.com/index/the-future-of-the-firm",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z",
+          "published_at": "2026-10-28T10:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8555,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "official",
@@ -624,17 +743,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T09:30:00Z",
-      "latest_at": "2026-10-28T09:30:00Z",
+      "earliest_at": "2026-10-28T10:00:00Z",
+      "latest_at": "2026-10-28T10:00:00Z",
       "primary_item": {
-        "id": "c78fc69600251ee955d2ecf2f1997a73a41abb05",
-        "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-        "title_zh": "Legora正在构建法律工作代理操作系统",
-        "title_en": "Legora is building the agentic operating system for legal work",
-        "title_original": "Legora is building the agentic operating system for legal work",
+        "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
+        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
+        "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+        "title_en": "The future of the firm",
+        "title_original": "The future of the firm",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+        "url": "https://openai.com/index/the-future-of-the-firm",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -642,7 +761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -694,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9652,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,7 +847,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
+      }
+    },
+    {
+      "story_id": "story_3a2e7aa6d2f5",
+      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+      "url": "https://x.com/sundarpichai/status/2115535455156642066",
+      "primary_url": "https://x.com/sundarpichai/status/2115535455156642066",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+          "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2115535455156642066",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T20:05:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+          "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+          "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2115535455156642066",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T20:05:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9546,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T20:05:31Z",
+      "latest_at": "2026-10-28T20:05:31Z",
+      "primary_item": {
+        "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
+        "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103% / Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+        "title_zh": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
+        "title_en": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+        "title_original": "Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.",
+        "summary": "Sundar Pichai 发布 Alphabet Q3 业绩：年化收入 run rate 达 5000 亿美元，总收入同比增长 25%。Google Cloud 收入增长 103%，1P 模型 API 每分钟处理近 32B tokens（环比增 40%）；Search 查询同比增速为五年来最高，并提到 Argon、Carbon 领跑前沿及最新世界模型 Genie 4。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sundarpichai/status/2115535455156642066",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -780,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9375,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -815,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -867,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9415,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,93 +1106,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
-      "story_id": "story_d19ddeb7edba",
-      "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-      "primary_url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_fea99fd27cc2",
+      "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "primary_url": "https://openai.com/index/legora",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "title_zh": "Legora正在构建法律工作代理操作系统",
+          "title_en": "Legora is building the agentic operating system for legal work",
+          "title_original": "Legora is building the agentic operating system for legal work",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T10:56:24Z",
+          "url": "https://openai.com/index/legora",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
+          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+          "title_zh": "Legora正在构建法律工作代理操作系统",
+          "title_en": "Legora is building the agentic operating system for legal work",
+          "title_original": "Legora is building the agentic operating system for legal work",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T10:56:24Z",
+          "url": "https://openai.com/index/legora",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T09:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8735,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T10:56:24Z",
-      "latest_at": "2026-10-28T10:56:24Z",
+      "earliest_at": "2026-10-28T09:30:00Z",
+      "latest_at": "2026-10-28T09:30:00Z",
       "primary_item": {
-        "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-        "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-        "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-        "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-        "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-        "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+        "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
+        "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
+        "title_zh": "Legora正在构建法律工作代理操作系统",
+        "title_en": "Legora is building the agentic operating system for legal work",
+        "title_original": "Legora is building the agentic operating system for legal work",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://openai.com/index/legora",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -1039,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8561,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1279,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
+      }
+    },
+    {
+      "story_id": "story_d19ddeb7edba",
+      "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "primary_url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:56:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T10:56:24Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8364,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T10:56:24Z",
+      "latest_at": "2026-10-28T10:56:24Z",
+      "primary_item": {
+        "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
+        "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+        "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
+        "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+        "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+        "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -1125,15 +1417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7413,
+        "recency": 0.7098,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,93 +1451,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
-      }
-    },
-    {
-      "story_id": "story_3a5b4be1e667",
-      "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-      "url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "primary_url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-          "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2115489219804352921",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:01:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
-      ],
-      "items": [
-        {
-          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-          "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2115489219804352921",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:01:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9538,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T17:01:48Z",
-      "latest_at": "2026-10-28T17:01:48Z",
-      "primary_item": {
-        "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-        "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-        "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-        "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-        "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-        "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sundarpichai/status/2115489219804352921",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -1297,15 +1503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9363,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1332,7 +1538,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -1384,15 +1590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8408,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1417,7 +1623,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -1469,15 +1675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9557,
+        "recency": 0.9151,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1502,92 +1708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
-      }
-    },
-    {
-      "story_id": "story_a284733e7d1f",
-      "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-      "primary_url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-      "source": "Microsoft：Official Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "089ab133fa7d402dc7dc8b6066eaaee382aa18ff",
-          "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-          "title_zh": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
-          "title_en": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-          "title_original": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-          "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-          "source": "Microsoft：Official Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft：Official Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "089ab133fa7d402dc7dc8b6066eaaee382aa18ff",
-          "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-          "title_zh": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
-          "title_en": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-          "title_original": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-          "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-          "source": "Microsoft：Official Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:51:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9515,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T16:51:35Z",
-      "latest_at": "2026-10-28T16:51:35Z",
-      "primary_item": {
-        "id": "089ab133fa7d402dc7dc8b6066eaaee382aa18ff",
-        "title": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-        "title_zh": "Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发",
-        "title_en": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-        "title_original": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-        "summary": "Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
-        "source": "Microsoft：Official Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     },
     {
@@ -1639,15 +1760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8165,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,92 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
-      }
-    },
-    {
-      "story_id": "story_96589410c307",
-      "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_en": null,
-          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T11:38:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "title_en": null,
-          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T11:38:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8824,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T11:38:17Z",
-      "latest_at": "2026-10-28T11:38:17Z",
-      "primary_item": {
-        "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
-        "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-        "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-        "title_en": null,
-        "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-        "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T20:19:13.596586Z"
+        "scored_at": "2026-10-28T23:19:43.579905Z"
       }
     }
   ]
