@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-10-28T08:18:17.057118Z",
+  "generated_at": "2026-10-28T11:19:26.053111Z",
   "date": "2026-10-28",
   "total_items": 4,
   "items": [
+    {
+      "id": "project_df43f2fe1a6c",
+      "project_name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "summary": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "看看这个开源项目的「Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory\") and judge whether it fits a task you have on hand.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-10-28T11:18:25.573192Z"
+    },
+    {
+      "id": "project_d8832cd31c52",
+      "project_name": "Fraud Blocker",
+      "url": "https://www.producthunt.com/products/fraud-blocker",
+      "summary": "AI ad fraud protection for Google and Meta ads",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「AI ad fraud protection for Google and Meta ads」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI ad fraud protection for Google and Meta ads\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-23T14:44:56Z",
+      "updated_at": "2026-10-28T11:13:02Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-10-28T11:19:01.988050Z"
+    },
     {
       "id": "project_e2469c92ba3c",
       "project_name": "Nutlope/hallmark",
@@ -15,49 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T08:17:31.274741Z"
+      "observed_at": "2026-10-28T11:18:25.573192Z"
     },
     {
-      "id": "project_3f8f6e9cd3b5",
-      "project_name": "Dedica",
-      "url": "https://www.producthunt.com/products/dedica",
-      "summary": "Check if AI agents can use your website",
+      "id": "project_3d5c294b33c7",
+      "project_name": "Open For sales",
+      "url": "https://www.producthunt.com/products/open-for-sales",
+      "summary": "Your next sales campaign is one prompt away",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Check if AI agents can use your website」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Check if AI agents can use your website\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T00:45:35Z",
-      "updated_at": "2026-10-28T08:17:05Z",
+      "recommend_reason_zh": "体验它主打的「Your next sales campaign is one prompt away」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your next sales campaign is one prompt away\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-27T15:27:12Z",
+      "updated_at": "2026-10-28T11:13:03Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T08:18:06.250053Z"
-    },
-    {
-      "id": "project_4341922ec9bb",
-      "project_name": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "挑一个日常桌面任务试试它的 AI Agent，看看能否减少重复操作。",
-      "recommend_reason_en": "Pick an everyday desktop task and see whether its AI agent can cut the repetitive steps.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-10-28T08:17:31.274741Z"
-    },
-    {
-      "id": "project_ce719bf1e4ca",
-      "project_name": "Trigger.dev: Webhooks for your AI agents",
-      "url": "https://www.producthunt.com/products/trigger-dev",
-      "summary": "Run AI agents with Slack, Supabase and 50+ other services",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Run AI agents with Slack, Supabase and 50+ other services」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Run AI agents with Slack, Supabase and 50+ other services\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-16T09:30:22Z",
-      "updated_at": "2026-10-28T08:16:39Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T08:18:06.250053Z"
+      "observed_at": "2026-10-28T11:19:01.988050Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 11,
-      "duration_ms": 1416,
+      "item_count": 14,
+      "duration_ms": 164,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 174,
+      "duration_ms": 134,
       "error": null
     }
   ]

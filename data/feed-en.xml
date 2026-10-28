@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 08:17:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 11:18:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Legora is building the agentic operating system for legal work</title>
+<link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+<guid isPermaLink="true">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+<description>Legora is building the agentic operating system for legal work (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+</item>
 <item>
 <title>Can we trust LLMs to judge whether a research idea is novel?</title>
 <link>https://huggingface.co/blog/allenai/novelty-bench</link>
@@ -22,14 +30,6 @@
 <description>GitHub Copilot supports server-to-server authentication (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
-</item>
-<item>
-<title>Retell uses OpenAI models to help power 100M monthly calls</title>
-<link>https://openai.com/index/retell-ai</link>
-<guid isPermaLink="true">https://openai.com/index/retell-ai</guid>
-<description>Retell uses OpenAI models to help power 100M monthly calls (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Genie 4: A new generation of world simulation</title>
@@ -48,6 +48,22 @@
 <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</title>
+<link>https://x.com/SaitoWu/status/2115376256929948006</link>
+<guid isPermaLink="true">https://x.com/SaitoWu/status/2115376256929948006</guid>
+<description>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 09:32:56 +0000</pubDate>
+</item>
+<item>
+<title>Retell uses OpenAI models to help power 100M monthly calls</title>
+<link>https://openai.com/index/retell-ai</link>
+<guid isPermaLink="true">https://openai.com/index/retell-ai</guid>
+<description>Retell uses OpenAI models to help power 100M monthly calls (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
 <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication</guid>
@@ -56,12 +72,12 @@
 <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
 </item>
 <item>
-<title>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试</title>
-<link>https://www.aibase.com/news/31923</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31923</guid>
-<description>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试 (AIbase)</description>
+<title>CVE 漏洞数近乎垂直拉升，AI 成安全研究"放大器"</title>
+<link>https://www.aibase.com/news/31929</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31929</guid>
+<description>CVE 漏洞数近乎垂直拉升，AI 成安全研究"放大器" (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 08:17:31 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
 <title>Getting started with Claude Code Mods</title>
@@ -96,14 +112,6 @@
 <pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
 </item>
 <item>
-<title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
-<description>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</title>
 <link>https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</link>
 <guid isPermaLink="true">https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</guid>
@@ -112,20 +120,20 @@
 <pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek V5 惊现官方代码库，外界猜 11 月见真章</title>
-<link>https://www.aibase.com/news/31922</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31922</guid>
-<description>DeepSeek V5 惊现官方代码库，外界猜 11 月见真章 (AIbase)</description>
+<title>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变</title>
+<link>https://www.aibase.com/news/31933</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31933</guid>
+<description>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 08:17:31 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
-<title>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</title>
-<link>https://x.com/AnthropicAI/status/2115207004293853358</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2115207004293853358</guid>
-<description>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</description>
+<title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
+<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
+<description>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</description>
 <category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 22:20:23 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
 </item>
 <item>
 <title>How We Built Our Design Agent</title>
@@ -136,6 +144,14 @@
 <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
 </item>
 <item>
+<title>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</title>
+<link>https://x.com/AnthropicAI/status/2115207004293853358</link>
+<guid isPermaLink="true">https://x.com/AnthropicAI/status/2115207004293853358</guid>
+<description>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</description>
+<category>Industry news</category>
+<pubDate>Tue, 27 Oct 2026 22:20:23 +0000</pubDate>
+</item>
+<item>
 <title>Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</guid>
@@ -144,28 +160,12 @@
 <pubDate>Wed, 28 Oct 2026 00:22:00 +0000</pubDate>
 </item>
 <item>
-<title>With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</title>
-<link>https://x.com/GeminiApp/status/2115171788812669225</link>
-<guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
-<description>With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</description>
+<title>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”</title>
+<link>https://www.aibase.com/news/31931</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31931</guid>
+<description>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多” (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
-</item>
-<item>
-<title>Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能</title>
-<link>https://www.aibase.com/news/31927</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31927</guid>
-<description>Liquid AI重磅发布LFM3 多模态模型家族，主打高效专用智能 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 08:17:31 +0000</pubDate>
-</item>
-<item>
-<title>下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场</title>
-<link>https://www.aibase.com/news/31925</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31925</guid>
-<description>下一波“大的”要来了？DeepSeek V5 现身官方代码库，新一代旗舰模型预计 11 月登场 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 08:17:31 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
 </item>
 </channel>
 </rss>
