@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 11:18:25 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 14:17:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Legora is building the agentic operating system for legal work</title>
@@ -46,6 +46,14 @@
 <description>Build specialized multimodal models with LFM3 (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
+</item>
+<item>
+<title>AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
+<link>https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense</link>
+<guid isPermaLink="true">https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense</guid>
+<description>AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 10:56:24 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</title>
@@ -96,6 +104,14 @@
 <pubDate>Tue, 27 Oct 2026 23:31:32 +0000</pubDate>
 </item>
 <item>
+<title>面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型</title>
+<link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</guid>
+<description>面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 11:38:17 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
@@ -112,12 +128,12 @@
 <pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</title>
-<link>https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</guid>
-<description>OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</description>
+<title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
+<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
+<description>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</description>
 <category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变</title>
@@ -128,44 +144,28 @@
 <pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
-<title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
-<description>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
-</item>
-<item>
-<title>How We Built Our Design Agent</title>
-<link>https://www.langchain.com/blog/design-agent</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
-<description>How We Built Our Design Agent</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
-</item>
-<item>
-<title>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</title>
-<link>https://x.com/AnthropicAI/status/2115207004293853358</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2115207004293853358</guid>
-<description>We're expanding our partnership with @USGSA. Under a new OneGov agreement, we are bringing Claude to federal, state, local, tribal, and t...</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 22:20:23 +0000</pubDate>
-</item>
-<item>
-<title>Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</guid>
-<description>Google 发布世界模型 Genie 4，支持实时操控与原生音频</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 00:22:00 +0000</pubDate>
-</item>
-<item>
 <title>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”</title>
 <link>https://www.aibase.com/news/31931</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31931</guid>
 <description>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多” (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
+<title>豆包公关回应"15 万群演被喂模型"：传言严重失实</title>
+<link>https://www.aibase.com/news/31932</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31932</guid>
+<description>豆包公关回应"15 万群演被喂模型"：传言严重失实 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
+<title>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试</title>
+<link>https://www.aibase.com/news/31923</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31923</guid>
+<description>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 08:17:31 +0000</pubDate>
 </item>
 </channel>
 </rss>
