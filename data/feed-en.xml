@@ -5,8 +5,32 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 14:17:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 17:18:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+<description>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Wed, 28 Oct 2026 15:17:53 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Carbon: Our next frontier model</title>
+<link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model</guid>
+<description>Gemini 4 Carbon: Our next frontier model (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
+</item>
+<item>
+<title>Route and orchestrate models with GitHub Copilot Fusion</title>
+<link>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</guid>
+<description>Route and orchestrate models with GitHub Copilot Fusion (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Legora is building the agentic operating system for legal work</title>
 <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
@@ -16,36 +40,36 @@
 <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Can we trust LLMs to judge whether a research idea is novel?</title>
-<link>https://huggingface.co/blog/allenai/novelty-bench</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
-<description>Can we trust LLMs to judge whether a research idea is novel? (Hugging Face Blog)</description>
+<title>GitHub Copilot app, Universe releases</title>
+<link>https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</guid>
+<description>GitHub Copilot app, Universe releases (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 15:55:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot supports server-to-server authentication</title>
-<link>https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</guid>
-<description>GitHub Copilot supports server-to-server authentication (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
+<title>Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.</title>
+<link>https://x.com/rohanpaul_ai/status/2115491649543635378</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115491649543635378</guid>
+<description>Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 17:11:27 +0000</pubDate>
 </item>
 <item>
-<title>Genie 4: A new generation of world simulation</title>
-<link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</link>
-<guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation</guid>
-<description>Genie 4: A new generation of world simulation (Google DeepMind)</description>
+<title>GitHub Enterprise now includes access to GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot</guid>
+<description>GitHub Enterprise now includes access to GitHub Copilot (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 15:50:00 +0000</pubDate>
 </item>
 <item>
-<title>Build specialized multimodal models with LFM3</title>
-<link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
-<description>Build specialized multimodal models with LFM3 (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
+<title>Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents</title>
+<link>https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents</link>
+<guid isPermaLink="true">https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents</guid>
+<description>Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents (GitHub Blog)</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 16:07:40 +0000</pubDate>
 </item>
 <item>
 <title>AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
@@ -64,12 +88,12 @@
 <pubDate>Wed, 28 Oct 2026 09:32:56 +0000</pubDate>
 </item>
 <item>
-<title>Retell uses OpenAI models to help power 100M monthly calls</title>
-<link>https://openai.com/index/retell-ai</link>
-<guid isPermaLink="true">https://openai.com/index/retell-ai</guid>
-<description>Retell uses OpenAI models to help power 100M monthly calls (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+<title>I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.</title>
+<link>https://x.com/sundarpichai/status/2115489219804352921</link>
+<guid isPermaLink="true">https://x.com/sundarpichai/status/2115489219804352921</guid>
+<description>I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 17:01:48 +0000</pubDate>
 </item>
 <item>
 <title>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
@@ -78,6 +102,14 @@
 <description>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</description>
 <category>Industry news</category>
 <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
+</item>
+<item>
+<title>Security extension for the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</guid>
+<description>Security extension for the GitHub Copilot app (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 28 Oct 2026 15:45:00 +0000</pubDate>
 </item>
 <item>
 <title>CVE 漏洞数近乎垂直拉升，AI 成安全研究"放大器"</title>
@@ -96,14 +128,6 @@
 <pubDate>Wed, 28 Oct 2026 06:15:43 +0000</pubDate>
 </item>
 <item>
-<title>Verified AI just had its greatest month.</title>
-<link>https://x.com/rohanpaul_ai/status/2115224910603890778</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2115224910603890778</guid>
-<description>Verified AI just had its greatest month.</description>
-<category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 23:31:32 +0000</pubDate>
-</item>
-<item>
 <title>面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型</title>
 <link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</guid>
@@ -112,12 +136,12 @@
 <pubDate>Wed, 28 Oct 2026 11:38:17 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
-<description>Anthropic’s elaborate plan to keep Wall Street at bay</description>
+<title>GitHub Universe 2026: Evolving every layer of the stack</title>
+<link>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack</link>
+<guid isPermaLink="true">https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack</guid>
+<description>GitHub Universe 2026: Evolving every layer of the stack (GitHub Blog)</description>
 <category>Industry news</category>
-<pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 16:09:28 +0000</pubDate>
 </item>
 <item>
 <title>🔮 Anthropic’s S-1 in charts</title>
@@ -128,44 +152,20 @@
 <pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
 </item>
 <item>
-<title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
-<description>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</description>
+<title>The New Security Agenda</title>
+<link>https://www.a16z.news/p/the-new-security-agenda</link>
+<guid isPermaLink="true">https://www.a16z.news/p/the-new-security-agenda</guid>
+<description>The New Security Agenda</description>
 <category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 16:00:31 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变</title>
-<link>https://www.aibase.com/news/31933</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31933</guid>
-<description>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
-</item>
-<item>
-<title>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”</title>
-<link>https://www.aibase.com/news/31931</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31931</guid>
-<description>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多” (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
-</item>
-<item>
-<title>豆包公关回应"15 万群演被喂模型"：传言严重失实</title>
-<link>https://www.aibase.com/news/31932</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31932</guid>
-<description>豆包公关回应"15 万群演被喂模型"：传言严重失实 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 11:18:25 +0000</pubDate>
-</item>
-<item>
-<title>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试</title>
-<link>https://www.aibase.com/news/31923</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31923</guid>
-<description>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 08:17:31 +0000</pubDate>
+<title>Build shared workflows for your team with Copilot Automations</title>
+<link>https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</guid>
+<description>Build shared workflows for your team with Copilot Automations (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 28 Oct 2026 15:35:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
