@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 11:18:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 14:17:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -14,6 +14,14 @@
 <description>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Wed, 28 Oct 2026 22:56:46 +0000</pubDate>
+</item>
+<item>
+<title>Granite Switch 4.1.1 — Update models like you update software</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
+<description>Granite Switch 4.1.1 — Update models like you update software (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -32,12 +40,12 @@
 <pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-<link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-<guid isPermaLink="true">https://openai.com/index/openai-servicenow-partnership-expansion</guid>
-<description>OpenAI and ServiceNow expand partnership across enterprise workflows (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
+<title>Anthropic’s business plan: Build God or die trying</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
+<description>Anthropic’s business plan: Build God or die trying</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Google's AI search problem finally shows up in the earnings report, some investors believe</title>
@@ -54,6 +62,14 @@
 <description>GitHub Copilot app, Universe releases (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Wed, 28 Oct 2026 15:55:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+<link>https://huggingface.co/blog/anydecisionmodel</link>
+<guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
+<description>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限</title>
@@ -120,20 +136,20 @@
 <pubDate>Wed, 28 Oct 2026 15:50:00 +0000</pubDate>
 </item>
 <item>
+<title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+<link>https://huggingface.co/blog/mistral-large4</link>
+<guid isPermaLink="true">https://huggingface.co/blog/mistral-large4</guid>
+<description>Welcome Le Chonk: Mistral Large 4 on Hugging Face (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents</title>
 <link>https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents</link>
 <guid isPermaLink="true">https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents</guid>
 <description>Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents (GitHub Blog)</description>
 <category>Industry news</category>
 <pubDate>Wed, 28 Oct 2026 16:07:40 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销</title>
-<link>https://www.aibase.com/news/31965</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31965</guid>
-<description>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
 <title>Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...</title>
@@ -144,26 +160,10 @@
 <pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
 </item>
 <item>
-<title>OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局</title>
-<link>https://openmoss.ai/blog/cn/moss-image</link>
-<guid isPermaLink="true">https://openmoss.ai/blog/cn/moss-image</guid>
-<description>OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Security extension for the GitHub Copilot app</title>
-<link>https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</guid>
-<description>Security extension for the GitHub Copilot app (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Wed, 28 Oct 2026 15:45:00 +0000</pubDate>
-</item>
-<item>
-<title>专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU</title>
-<link>https://www.aibase.com/news/31967</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31967</guid>
-<description>专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU (AIbase)</description>
+<title>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销</title>
+<link>https://www.aibase.com/news/31965</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31965</guid>
+<description>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 11:18:25 +0000</pubDate>
 </item>

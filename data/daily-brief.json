@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:18:25.034332Z",
+  "generated_at": "2026-10-29T14:17:31.763254Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8722,
-      "importance": 0.8722,
-      "importance_score": 0.8722,
+      "score": 0.8665,
+      "importance": 0.8665,
+      "importance_score": 0.8665,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7455,
+        "recency": 0.7141,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
+      }
+    },
+    {
+      "story_id": "story_46b030e91541",
+      "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c17e3a2cde678293d2cb85b966f8cdb05ad6533",
+          "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software",
+          "title_zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型",
+          "title_en": "Granite Switch 4.1.1 — Update models like you update software",
+          "title_original": "Granite Switch 4.1.1 — Update models like you update software",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T13:37:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0c17e3a2cde678293d2cb85b966f8cdb05ad6533",
+          "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software",
+          "title_zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型",
+          "title_en": "Granite Switch 4.1.1 — Update models like you update software",
+          "title_original": "Granite Switch 4.1.1 — Update models like you update software",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T13:37:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8583,
+      "importance": 0.8583,
+      "importance_score": 0.8583,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9903,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T13:37:07Z",
+      "latest_at": "2026-10-29T13:37:07Z",
+      "primary_item": {
+        "id": "0c17e3a2cde678293d2cb85b966f8cdb05ad6533",
+        "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software",
+        "title_zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型",
+        "title_en": "Granite Switch 4.1.1 — Update models like you update software",
+        "title_original": "Granite Switch 4.1.1 — Update models like you update software",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -206,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7679,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -293,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7567,
+        "recency": 0.7248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,94 +415,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
-      "story_id": "story_dc34b00fe1cc",
-      "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "primary_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_57da17898958",
+      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
-          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "summary": null,
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T13:15:00Z",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
-          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "summary": null,
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T13:15:00Z",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
-      "importance_label": "官方更新",
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7272,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T13:15:00Z",
-      "latest_at": "2026-10-28T13:15:00Z",
+      "earliest_at": "2026-10-29T13:30:00Z",
+      "latest_at": "2026-10-29T13:30:00Z",
       "primary_item": {
-        "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-        "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
-        "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "summary": null,
+        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+        "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+        "title_en": "Anthropic’s business plan: Build God or die trying",
+        "title_original": "Anthropic’s business plan: Build God or die trying",
+        "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -467,15 +553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -553,15 +639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7558,
+        "recency": 0.7239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,7 +674,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
+      }
+    },
+    {
+      "story_id": "story_dd4d49cee6e1",
+      "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "primary_url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
+          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
+          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
+          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
+          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8135,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
+      "primary_item": {
+        "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
+        "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
+        "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/anydecisionmodel",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -640,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9578,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -674,7 +847,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -726,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -812,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8322,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -898,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.8901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,7 +1105,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -984,21 +1157,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8494,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-29T00:00:00Z",
       "latest_at": "2026-10-29T00:00:00Z",
@@ -1018,7 +1190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -1070,21 +1242,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7772,
+        "recency": 0.7444,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T17:51:00Z",
       "latest_at": "2026-10-28T17:51:00Z",
@@ -1104,7 +1275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -1156,21 +1327,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8027,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T20:05:31Z",
       "latest_at": "2026-10-28T20:05:31Z",
@@ -1190,7 +1360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -1242,15 +1412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7549,
+        "recency": 0.723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1277,7 +1447,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
+      }
+    },
+    {
+      "story_id": "story_90039c49e70a",
+      "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "primary_url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
+          "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "title_zh": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4",
+          "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
+          "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "title_zh": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4",
+          "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8135,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
+      "primary_item": {
+        "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
+        "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "title_zh": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4",
+        "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/mistral-large4",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -1329,15 +1586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7581,
+        "recency": 0.7261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1362,93 +1619,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
-      }
-    },
-    {
-      "story_id": "story_78719824fd6e",
-      "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-      "url": "https://www.aibase.com/news/31965",
-      "primary_url": "https://www.aibase.com/news/31965",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
-          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_en": null,
-          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31965",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:18:25.034332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
-          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_en": null,
-          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31965",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:18:25.034332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T11:18:25.034332Z",
-      "latest_at": "2026-10-29T11:18:25.034332Z",
-      "primary_item": {
-        "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
-        "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-        "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-        "title_en": null,
-        "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31965",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
@@ -1533,15 +1704,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7695,
+        "recency": 0.7371,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1567,198 +1738,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     },
     {
-      "story_id": "story_f80d1afef063",
-      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-      "url": "https://openmoss.ai/blog/cn/moss-image",
-      "primary_url": "https://openmoss.ai/blog/cn/moss-image",
-      "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
-          "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-          "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-          "title_en": null,
-          "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-          "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
-          "recommend_reason_zh": null,
-          "url": "https://openmoss.ai/blog/cn/moss-image",
-          "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）"
-      ],
-      "items": [
-        {
-          "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
-          "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-          "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-          "title_en": null,
-          "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-          "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
-          "recommend_reason_zh": null,
-          "url": "https://openmoss.ai/blog/cn/moss-image",
-          "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7567,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T16:00:00Z",
-      "latest_at": "2026-10-28T16:00:00Z",
-      "primary_item": {
-        "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
-        "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-        "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-        "title_en": null,
-        "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-        "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
-        "recommend_reason_zh": null,
-        "url": "https://openmoss.ai/blog/cn/moss-image",
-        "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
-      }
-    },
-    {
-      "story_id": "story_62dac217e32f",
-      "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-          "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序的安全扩展",
-          "title_en": "Security extension for the GitHub Copilot app",
-          "title_original": "Security extension for the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:45:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-          "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序的安全扩展",
-          "title_en": "Security extension for the GitHub Copilot app",
-          "title_original": "Security extension for the GitHub Copilot app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:45:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.754,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T15:45:00Z",
-      "latest_at": "2026-10-28T15:45:00Z",
-      "primary_item": {
-        "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-        "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用程序的安全扩展",
-        "title_en": "Security extension for the GitHub Copilot app",
-        "title_original": "Security extension for the GitHub Copilot app",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
-      }
-    },
-    {
-      "story_id": "story_097b741bd9ea",
-      "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
-      "url": "https://www.aibase.com/news/31967",
-      "primary_url": "https://www.aibase.com/news/31967",
+      "story_id": "story_78719824fd6e",
+      "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+      "url": "https://www.aibase.com/news/31965",
+      "primary_url": "https://www.aibase.com/news/31965",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "afb2652cac947458818082cdf283ef49f72955b4",
-          "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
-          "title_zh": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
+          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
           "title_en": null,
-          "title_original": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31967",
+          "url": "https://www.aibase.com/news/31965",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1773,14 +1772,14 @@
       ],
       "items": [
         {
-          "id": "afb2652cac947458818082cdf283ef49f72955b4",
-          "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
-          "title_zh": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
+          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
           "title_en": null,
-          "title_original": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31967",
+          "url": "https://www.aibase.com/news/31965",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1791,15 +1790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9578,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1810,14 +1809,14 @@
       "earliest_at": "2026-10-29T11:18:25.034332Z",
       "latest_at": "2026-10-29T11:18:25.034332Z",
       "primary_item": {
-        "id": "afb2652cac947458818082cdf283ef49f72955b4",
-        "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
-        "title_zh": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+        "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
+        "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+        "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
         "title_en": null,
-        "title_original": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+        "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31967",
+        "url": "https://www.aibase.com/news/31965",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1825,7 +1824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T11:19:23.403464Z"
+        "scored_at": "2026-10-29T14:20:18.092958Z"
       }
     }
   ]
