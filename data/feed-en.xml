@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 17:18:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 20:18:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>An updated Model Spec for more capable and beneficial AI</title>
+<link>https://openai.com/index/updated-model-spec</link>
+<guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+<description>An updated Model Spec for more capable and beneficial AI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Granite Switch 4.1.1 — Update models like you update software</title>
 <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
@@ -16,12 +24,20 @@
 <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
 </item>
 <item>
-<title>How we detect frontier model misalignment</title>
-<link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
-<guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
-<description>How we detect frontier model misalignment (OpenAI News)</description>
+<title>Webhook IP ranges added to the Meta API</title>
+<link>https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</guid>
+<description>Webhook IP ranges added to the Meta API (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 17:14:38 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.166.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>Codex CLI 0.166.0 (OpenAI Codex Changelog)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning</title>
@@ -32,6 +48,22 @@
 <pubDate>Thu, 29 Oct 2026 14:29:06 +0000</pubDate>
 </item>
 <item>
+<title>How we detect frontier model misalignment</title>
+<link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+<description>How we detect frontier model misalignment (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic’s financials are surprisingly strong</title>
+<link>https://www.understandingai.org/p/anthropics-financials-are-surprisingly</link>
+<guid isPermaLink="true">https://www.understandingai.org/p/anthropics-financials-are-surprisingly</guid>
+<description>Anthropic’s financials are surprisingly strong</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 19:10:41 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic is asking Wall Street to believe in AGI</title>
 <link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
 <guid isPermaLink="true">https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</guid>
@@ -40,10 +72,10 @@
 <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
-<link>https://huggingface.co/blog/announcing-project-protostar</link>
-<guid isPermaLink="true">https://huggingface.co/blog/announcing-project-protostar</guid>
-<description>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready (Hugging Face Blog)</description>
+<title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+<link>https://huggingface.co/blog/anydecisionmodel</link>
+<guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
+<description>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
@@ -64,10 +96,18 @@
 <pubDate>Thu, 29 Oct 2026 10:16:34 +0000</pubDate>
 </item>
 <item>
-<title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
-<link>https://huggingface.co/blog/anydecisionmodel</link>
-<guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
-<description>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms (Hugging Face Blog)</description>
+<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+<link>https://openai.com/index/ropes-gray-ai-diligence</link>
+<guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
+<description>How Ropes &amp; Gray is developing AI for transactional diligence (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+<link>https://huggingface.co/blog/mistral-large4</link>
+<guid isPermaLink="true">https://huggingface.co/blog/mistral-large4</guid>
+<description>Welcome Le Chonk: Mistral Large 4 on Hugging Face (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
@@ -78,6 +118,22 @@
 <description>The Rise of Agentic Attacks: What They Look Like, and Where They're Headed</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 14:36:22 +0000</pubDate>
+</item>
+<item>
+<title>Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</title>
+<link>https://x.com/TencentHunyuan/status/2115851165904814283</link>
+<guid isPermaLink="true">https://x.com/TencentHunyuan/status/2115851165904814283</guid>
+<description>Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 17:00:03 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
+<link>https://www.ithome.com/1/019/268.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/019/268.htm</guid>
+<description>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
 </item>
 <item>
 <title>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限</title>
@@ -96,22 +152,6 @@
 <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
-<link>https://www.ithome.com/1/019/268.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/019/268.htm</guid>
-<description>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
-</item>
-<item>
-<title>You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.</title>
-<link>https://x.com/GeminiApp/status/2115845164824711247</link>
-<guid isPermaLink="true">https://x.com/GeminiApp/status/2115845164824711247</guid>
-<description>You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 16:36:12 +0000</pubDate>
-</item>
-<item>
 <title>You're probably overprompting Claude</title>
 <link>https://x.com/addyosmani/status/2115688494865465370</link>
 <guid isPermaLink="true">https://x.com/addyosmani/status/2115688494865465370</guid>
@@ -120,52 +160,12 @@
 <pubDate>Thu, 29 Oct 2026 06:13:39 +0000</pubDate>
 </item>
 <item>
-<title>Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times</title>
-<link>https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times</link>
-<guid isPermaLink="true">https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times</guid>
-<description>Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times</description>
+<title>You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.</title>
+<link>https://x.com/GeminiApp/status/2115845164824711247</link>
+<guid isPermaLink="true">https://x.com/GeminiApp/status/2115845164824711247</guid>
+<description>You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.</description>
 <category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 13:42:38 +0000</pubDate>
-</item>
-<item>
-<title>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</title>
-<link>https://x.com/thsottiaux/status/2115850175868727621</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2115850175868727621</guid>
-<description>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 16:56:07 +0000</pubDate>
-</item>
-<item>
-<title>Exit Liquidity</title>
-<link>https://www.wheresyoured.at/exit-liquidity</link>
-<guid isPermaLink="true">https://www.wheresyoured.at/exit-liquidity</guid>
-<description>Exit Liquidity</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
-</item>
-<item>
-<title>How to Extract Tables from a PDF with an LLM</title>
-<link>https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm</guid>
-<description>How to Extract Tables from a PDF with an LLM</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.</title>
-<link>https://x.com/sundarpichai/status/2115535455156642066</link>
-<guid isPermaLink="true">https://x.com/sundarpichai/status/2115535455156642066</guid>
-<description>Q3 is in the books! We’re now on a half-trillion annual revenue run rate, with Alphabet revenues growing at 25%.</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 20:05:31 +0000</pubDate>
-</item>
-<item>
-<title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
-<link>https://huggingface.co/blog/mistral-large4</link>
-<guid isPermaLink="true">https://huggingface.co/blog/mistral-large4</guid>
-<description>Welcome Le Chonk: Mistral Large 4 on Hugging Face (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:36:12 +0000</pubDate>
 </item>
 </channel>
 </rss>
