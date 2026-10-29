@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:19:25.944295Z",
+  "generated_at": "2026-10-29T11:18:25.034332Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8781,
-      "importance": 0.8781,
-      "importance_score": 0.8781,
+      "score": 0.8722,
+      "importance": 0.8722,
+      "importance_score": 0.8722,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7783,
+        "recency": 0.7455,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8017,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.79,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7592,
+        "recency": 0.7272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
+      }
+    },
+    {
+      "story_id": "story_5685e68ea126",
+      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
+      "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
+      "primary_url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
+          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "title_zh": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+          "title_en": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "title_original": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "summary": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T10:16:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
+          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "title_zh": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+          "title_en": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "title_original": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "summary": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T10:16:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T10:16:34Z",
+      "latest_at": "2026-10-29T10:16:34Z",
+      "primary_item": {
+        "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
+        "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
+        "title_zh": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
+        "title_en": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+        "title_original": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+        "summary": "Google 三季度搜索收入增长约 12%，低于分析师预期的 15%，市值一度缩水最多 10%。高管 Philipp Schindler 承认 AI mode 查询的强劲增长因变现率较低产生了影响，同时公司称搜索查询年增速达五年来最高，并计划在美国及国际市场扩大聊天机器人广告项目。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -467,15 +553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.789,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,94 +588,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
-      "story_id": "story_84a91576d939",
-      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "primary_url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_14c5a77fa731",
+      "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+      "url": "https://www.aibase.com/news/31963",
+      "primary_url": "https://www.aibase.com/news/31963",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-          "title_en": "The future of the firm",
-          "title_original": "The future of the firm",
+          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
+          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_en": null,
+          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-future-of-the-firm",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T10:00:00Z",
+          "url": "https://www.aibase.com/news/31963",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:18:25.034332Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-          "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-          "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-          "title_en": "The future of the firm",
-          "title_original": "The future of the firm",
+          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
+          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_en": null,
+          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-future-of-the-firm",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T10:00:00Z",
+          "url": "https://www.aibase.com/news/31963",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:18:25.034332Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7244,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T10:00:00Z",
-      "latest_at": "2026-10-28T10:00:00Z",
+      "earliest_at": "2026-10-29T11:18:25.034332Z",
+      "latest_at": "2026-10-29T11:18:25.034332Z",
       "primary_item": {
-        "id": "37166f867e221c666885c4ab5fa1bd8c88ce23b3",
-        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式 / The future of the firm",
-        "title_zh": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-        "title_en": "The future of the firm",
-        "title_original": "The future of the firm",
+        "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
+        "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+        "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+        "title_en": null,
+        "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-future-of-the-firm",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31963",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -641,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8037,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,7 +760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -727,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -761,93 +846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
-      }
-    },
-    {
-      "story_id": "story_7be0333197ca",
-      "title": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-      "url": "https://www.aibase.com/news/31955",
-      "primary_url": "https://www.aibase.com/news/31955",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ff0f0f8663298725df44f882f1409b275441308",
-          "title": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-          "title_zh": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-          "title_en": null,
-          "title_original": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T08:19:25.944295Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8ff0f0f8663298725df44f882f1409b275441308",
-          "title": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-          "title_zh": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-          "title_en": null,
-          "title_original": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T08:19:25.944295Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T08:19:25.944295Z",
-      "latest_at": "2026-10-29T08:19:25.944295Z",
-      "primary_item": {
-        "id": "8ff0f0f8663298725df44f882f1409b275441308",
-        "title": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-        "title_zh": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-        "title_en": null,
-        "title_original": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31955",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -899,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9702,
+        "recency": 0.9293,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,7 +932,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -985,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8867,
+        "recency": 0.8494,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -1071,15 +1070,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8114,
+        "recency": 0.7772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1105,7 +1104,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -1157,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.8027,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,7 +1190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -1243,15 +1242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7881,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1278,7 +1277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -1330,15 +1329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.7581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1363,7 +1362,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
+      }
+    },
+    {
+      "story_id": "story_78719824fd6e",
+      "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+      "url": "https://www.aibase.com/news/31965",
+      "primary_url": "https://www.aibase.com/news/31965",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
+          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "title_en": null,
+          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31965",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:18:25.034332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
+          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "title_en": null,
+          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31965",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:18:25.034332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T11:18:25.034332Z",
+      "latest_at": "2026-10-29T11:18:25.034332Z",
+      "primary_item": {
+        "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
+        "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+        "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+        "title_en": null,
+        "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31965",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
@@ -1448,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8034,
+        "recency": 0.7695,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1482,67 +1567,152 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
-      "story_id": "story_fea99fd27cc2",
-      "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "primary_url": "https://openai.com/index/legora",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f80d1afef063",
+      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+      "url": "https://openmoss.ai/blog/cn/moss-image",
+      "primary_url": "https://openmoss.ai/blog/cn/moss-image",
+      "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
-          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-          "title_zh": "Legora正在构建法律工作代理操作系统",
-          "title_en": "Legora is building the agentic operating system for legal work",
-          "title_original": "Legora is building the agentic operating system for legal work",
-          "summary": null,
+          "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
+          "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_en": null,
+          "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z",
+          "url": "https://openmoss.ai/blog/cn/moss-image",
+          "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）"
       ],
       "items": [
         {
-          "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
-          "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-          "title_zh": "Legora正在构建法律工作代理操作系统",
-          "title_en": "Legora is building the agentic operating system for legal work",
-          "title_original": "Legora is building the agentic operating system for legal work",
-          "summary": null,
+          "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
+          "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_en": null,
+          "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legora",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T09:30:00Z",
+          "url": "https://openmoss.ai/blog/cn/moss-image",
+          "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-28T16:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7567,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T16:00:00Z",
+      "latest_at": "2026-10-28T16:00:00Z",
+      "primary_item": {
+        "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
+        "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+        "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+        "title_en": null,
+        "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+        "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+        "recommend_reason_zh": null,
+        "url": "https://openmoss.ai/blog/cn/moss-image",
+        "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T11:19:23.403464Z"
+      }
+    },
+    {
+      "story_id": "story_62dac217e32f",
+      "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
+          "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序的安全扩展",
+          "title_en": "Security extension for the GitHub Copilot app",
+          "title_original": "Security extension for the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:45:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
+          "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序的安全扩展",
+          "title_en": "Security extension for the GitHub Copilot app",
+          "title_original": "Security extension for the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T15:45:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7192,
+        "recency": 0.754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1551,48 +1721,48 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T09:30:00Z",
-      "latest_at": "2026-10-28T09:30:00Z",
+      "earliest_at": "2026-10-28T15:45:00Z",
+      "latest_at": "2026-10-28T15:45:00Z",
       "primary_item": {
-        "id": "2492f0e361fe322fc36ba7254d84b5c1829a0cf8",
-        "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
-        "title_zh": "Legora正在构建法律工作代理操作系统",
-        "title_en": "Legora is building the agentic operating system for legal work",
-        "title_original": "Legora is building the agentic operating system for legal work",
+        "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
+        "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用程序的安全扩展",
+        "title_en": "Security extension for the GitHub Copilot app",
+        "title_original": "Security extension for the GitHub Copilot app",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legora",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     },
     {
-      "story_id": "story_2d5267c84ac1",
-      "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-      "url": "https://www.aibase.com/news/31962",
-      "primary_url": "https://www.aibase.com/news/31962",
+      "story_id": "story_097b741bd9ea",
+      "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+      "url": "https://www.aibase.com/news/31967",
+      "primary_url": "https://www.aibase.com/news/31967",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3e6952218ae740ba8731b081a91ae9cce07df7a9",
-          "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-          "title_zh": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
+          "id": "afb2652cac947458818082cdf283ef49f72955b4",
+          "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "title_zh": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
           "title_en": null,
-          "title_original": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
+          "title_original": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31962",
+          "url": "https://www.aibase.com/news/31967",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T08:19:25.944295Z",
+          "published_at": "2026-10-29T11:18:25.034332Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1603,18 +1773,18 @@
       ],
       "items": [
         {
-          "id": "3e6952218ae740ba8731b081a91ae9cce07df7a9",
-          "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-          "title_zh": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
+          "id": "afb2652cac947458818082cdf283ef49f72955b4",
+          "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+          "title_zh": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
           "title_en": null,
-          "title_original": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
+          "title_original": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31962",
+          "url": "https://www.aibase.com/news/31967",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T08:19:25.944295Z",
+          "published_at": "2026-10-29T11:18:25.034332Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1637,17 +1807,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T08:19:25.944295Z",
-      "latest_at": "2026-10-29T08:19:25.944295Z",
+      "earliest_at": "2026-10-29T11:18:25.034332Z",
+      "latest_at": "2026-10-29T11:18:25.034332Z",
       "primary_item": {
-        "id": "3e6952218ae740ba8731b081a91ae9cce07df7a9",
-        "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-        "title_zh": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
+        "id": "afb2652cac947458818082cdf283ef49f72955b4",
+        "title": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
+        "title_zh": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
         "title_en": null,
-        "title_original": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
+        "title_original": "专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31962",
+        "url": "https://www.aibase.com/news/31967",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1655,177 +1825,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
-      }
-    },
-    {
-      "story_id": "story_97b0168eb606",
-      "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-      "url": "https://x.com/SaitoWu/status/2115376256929948006",
-      "primary_url": "https://x.com/SaitoWu/status/2115376256929948006",
-      "source": "X：Saito 硬地骇客 (@SaitoWu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
-          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "title_zh": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "title_en": null,
-          "title_original": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SaitoWu/status/2115376256929948006",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T09:32:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Saito 硬地骇客 (@SaitoWu)"
-      ],
-      "items": [
-        {
-          "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
-          "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "title_zh": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "title_en": null,
-          "title_original": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-          "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SaitoWu/status/2115376256929948006",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T09:32:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7197,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T09:32:56Z",
-      "latest_at": "2026-10-28T09:32:56Z",
-      "primary_item": {
-        "id": "3bf52f7e1310c3c9edd668d27b1f730c3e096793",
-        "title": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-        "title_zh": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-        "title_en": null,
-        "title_original": "Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字",
-        "summary": "Saito 转述 SemiAnalysis 播客对 Anthropic S-1 的解读：招股书口径为增量毛利 90%、推理毛利 85%、连续两个季度盈利，Q1 净收入留存达 500%，收入同比涨 1368% 而算力费用只涨 300%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/SaitoWu/status/2115376256929948006",
-        "source": "X：Saito 硬地骇客 (@SaitoWu)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
-      }
-    },
-    {
-      "story_id": "story_d19ddeb7edba",
-      "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-      "primary_url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T10:56:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-          "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-          "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-          "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T10:56:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7343,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T10:56:24Z",
-      "latest_at": "2026-10-28T10:56:24Z",
-      "primary_item": {
-        "id": "fa81ea92ca9d94d4a479d2bf569840f5fe997a1a",
-        "title": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-        "title_zh": "Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一",
-        "title_en": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-        "title_original": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
-        "summary": "网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T08:20:21.881839Z"
+        "scored_at": "2026-10-29T11:19:23.403464Z"
       }
     }
   ]

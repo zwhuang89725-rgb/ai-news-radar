@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 08:19:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 11:18:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -40,6 +40,14 @@
 <pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
 </item>
 <item>
+<title>Google's AI search problem finally shows up in the earnings report, some investors believe</title>
+<link>https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe</link>
+<guid isPermaLink="true">https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe</guid>
+<description>Google's AI search problem finally shows up in the earnings report, some investors believe</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 10:16:34 +0000</pubDate>
+</item>
+<item>
 <title>GitHub Copilot app, Universe releases</title>
 <link>https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</guid>
@@ -48,12 +56,12 @@
 <pubDate>Wed, 28 Oct 2026 15:55:00 +0000</pubDate>
 </item>
 <item>
-<title>The future of the firm</title>
-<link>https://openai.com/index/the-future-of-the-firm</link>
-<guid isPermaLink="true">https://openai.com/index/the-future-of-the-firm</guid>
-<description>The future of the firm (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+<title>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限</title>
+<link>https://www.aibase.com/news/31963</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31963</guid>
+<description>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.</title>
@@ -70,14 +78,6 @@
 <description>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</description>
 <category>Industry news</category>
 <pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
-</item>
-<item>
-<title>AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限</title>
-<link>https://www.aibase.com/news/31955</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31955</guid>
-<description>AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 08:19:25 +0000</pubDate>
 </item>
 <item>
 <title>You're probably overprompting Claude</title>
@@ -128,6 +128,14 @@
 <pubDate>Wed, 28 Oct 2026 16:07:40 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销</title>
+<link>https://www.aibase.com/news/31965</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31965</guid>
+<description>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
 <title>Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...</title>
 <link>https://x.com/bcherny/status/2115491259381072269</link>
 <guid isPermaLink="true">https://x.com/bcherny/status/2115491259381072269</guid>
@@ -136,36 +144,28 @@
 <pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
 </item>
 <item>
-<title>Legora is building the agentic operating system for legal work</title>
-<link>https://openai.com/index/legora</link>
-<guid isPermaLink="true">https://openai.com/index/legora</guid>
-<description>Legora is building the agentic operating system for legal work (OpenAI News)</description>
+<title>OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局</title>
+<link>https://openmoss.ai/blog/cn/moss-image</link>
+<guid isPermaLink="true">https://openmoss.ai/blog/cn/moss-image</guid>
+<description>OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局</description>
+<category>Industry news</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Security extension for the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</guid>
+<description>Security extension for the GitHub Copilot app (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 15:45:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比</title>
-<link>https://www.aibase.com/news/31962</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31962</guid>
-<description>GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比 (AIbase)</description>
+<title>专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU</title>
+<link>https://www.aibase.com/news/31967</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31967</guid>
+<description>专为端到端大模型打造：新芯航途发布X7 Ultra智驾芯片，中国首发量产Armv9 车规级CPU (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 08:19:25 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</title>
-<link>https://x.com/SaitoWu/status/2115376256929948006</link>
-<guid isPermaLink="true">https://x.com/SaitoWu/status/2115376256929948006</guid>
-<description>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 09:32:56 +0000</pubDate>
-</item>
-<item>
-<title>AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
-<link>https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense</link>
-<guid isPermaLink="true">https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense</guid>
-<description>AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 10:56:24 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 11:18:25 +0000</pubDate>
 </item>
 </channel>
 </rss>
