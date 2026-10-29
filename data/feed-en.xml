@@ -5,16 +5,8 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 20:18:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 23:18:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
-<item>
-<title>An updated Model Spec for more capable and beneficial AI</title>
-<link>https://openai.com/index/updated-model-spec</link>
-<guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
-<description>An updated Model Spec for more capable and beneficial AI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
-</item>
 <item>
 <title>Granite Switch 4.1.1 — Update models like you update software</title>
 <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
@@ -22,6 +14,14 @@
 <description>Granite Switch 4.1.1 — Update models like you update software (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
+</item>
+<item>
+<title>An updated Model Spec for more capable and beneficial AI</title>
+<link>https://openai.com/index/updated-model-spec</link>
+<guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+<description>An updated Model Spec for more capable and beneficial AI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Webhook IP ranges added to the Meta API</title>
@@ -64,6 +64,14 @@
 <pubDate>Thu, 29 Oct 2026 19:10:41 +0000</pubDate>
 </item>
 <item>
+<title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+<link>https://huggingface.co/blog/anydecisionmodel</link>
+<guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
+<description>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic is asking Wall Street to believe in AGI</title>
 <link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
 <guid isPermaLink="true">https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</guid>
@@ -72,12 +80,12 @@
 <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
-<link>https://huggingface.co/blog/anydecisionmodel</link>
-<guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
-<description>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<title>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
+<link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience</guid>
+<description>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 20:08:31 +0000</pubDate>
 </item>
 <item>
 <title>Mistral Le Chonk can now run locally!</title>
@@ -112,6 +120,14 @@
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</title>
+<link>https://x.com/Khazix0918/status/2115898252004622617</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2115898252004622617</guid>
+<description>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 20:07:09 +0000</pubDate>
+</item>
+<item>
 <title>The Rise of Agentic Attacks: What They Look Like, and Where They're Headed</title>
 <link>https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</link>
 <guid isPermaLink="true">https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</guid>
@@ -126,14 +142,6 @@
 <description>Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 17:00:03 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</title>
-<link>https://www.ithome.com/1/019/268.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/019/268.htm</guid>
-<description>Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链</description>
-<category>Industry news</category>
-<pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
 </item>
 <item>
 <title>AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限</title>
@@ -158,14 +166,6 @@
 <description>You're probably overprompting Claude</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 06:13:39 +0000</pubDate>
-</item>
-<item>
-<title>You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.</title>
-<link>https://x.com/GeminiApp/status/2115845164824711247</link>
-<guid isPermaLink="true">https://x.com/GeminiApp/status/2115845164824711247</guid>
-<description>You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 16:36:12 +0000</pubDate>
 </item>
 </channel>
 </rss>
