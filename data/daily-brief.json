@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:18:43.276209Z",
+  "generated_at": "2026-10-29T02:19:25.309063Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8976,
-      "importance": 0.8976,
-      "importance_score": 0.8976,
+      "score": 0.8908,
+      "importance": 0.8908,
+      "importance_score": 0.8908,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8865,
+        "recency": 0.8488,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9131,
+        "recency": 0.8742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8998,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8648,
+        "recency": 0.828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8987,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -554,15 +554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -588,7 +588,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -640,15 +640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.8764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -674,7 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -726,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8251,
+        "recency": 0.79,
         "story_heat": 0.0
       },
       "category": "official",
@@ -761,7 +761,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
+      }
+    },
+    {
+      "story_id": "story_42d8d4c2ff21",
+      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+      "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+      "primary_url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
+          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+          "title_en": "How to Extract Tables from a PDF with an LLM",
+          "title_original": "How to Extract Tables from a PDF with an LLM",
+          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
+          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+          "title_en": "How to Extract Tables from a PDF with an LLM",
+          "title_original": "How to Extract Tables from a PDF with an LLM",
+          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.967,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
+      "primary_item": {
+        "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
+        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+        "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+        "title_en": "How to Extract Tables from a PDF with an LLM",
+        "title_original": "How to Extract Tables from a PDF with an LLM",
+        "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -813,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,7 +933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -899,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,7 +1019,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
+      }
+    },
+    {
+      "story_id": "story_a20d727af5b2",
+      "title": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+      "url": "https://www.aibase.com/news/31938",
+      "primary_url": "https://www.aibase.com/news/31938",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d81b7df0b8084e6d12bbedcbe9b383251f3dc868",
+          "title": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+          "title_zh": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+          "title_en": null,
+          "title_original": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31938",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T02:19:25.309063Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d81b7df0b8084e6d12bbedcbe9b383251f3dc868",
+          "title": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+          "title_zh": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+          "title_en": null,
+          "title_original": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31938",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T02:19:25.309063Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T02:19:25.309063Z",
+      "latest_at": "2026-10-29T02:19:25.309063Z",
+      "primary_item": {
+        "id": "d81b7df0b8084e6d12bbedcbe9b383251f3dc868",
+        "title": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+        "title_zh": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+        "title_en": null,
+        "title_original": "15万群演将被AI全面取代？字节火山引擎深夜回应：网传“喂大模型”严重失实！",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31938",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -985,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8976,
+        "recency": 0.8594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1020,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -1072,15 +1244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9015,
+        "recency": 0.8631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -1158,15 +1330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8192,
+        "recency": 0.7843,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1193,7 +1365,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -1245,21 +1417,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8198,
+        "recency": 0.7849,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T09:32:56Z",
       "latest_at": "2026-10-28T09:32:56Z",
@@ -1279,7 +1450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -1331,21 +1502,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.8008,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T10:56:24Z",
       "latest_at": "2026-10-28T10:56:24Z",
@@ -1365,67 +1535,152 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
-      "story_id": "story_35fa6cf08daa",
-      "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-      "primary_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_f80d1afef063",
+      "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+      "url": "https://openmoss.ai/blog/cn/moss-image",
+      "primary_url": "https://openmoss.ai/blog/cn/moss-image",
+      "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "139bee304802920aab453e5857329b14c1dbe669",
-          "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
-          "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+          "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
+          "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_en": null,
+          "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://openmoss.ai/blog/cn/moss-image",
+          "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T23:34:27Z",
+          "published_at": "2026-10-28T16:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）"
       ],
       "items": [
         {
-          "id": "139bee304802920aab453e5857329b14c1dbe669",
-          "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
-          "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-          "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+          "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
+          "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "title_en": null,
+          "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+          "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-          "source": "TechCrunch：AI（RSS）",
+          "url": "https://openmoss.ai/blog/cn/moss-image",
+          "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T23:34:27Z",
+          "published_at": "2026-10-28T16:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.84,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7098,
+        "recency": 0.8615,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T16:00:00Z",
+      "latest_at": "2026-10-28T16:00:00Z",
+      "primary_item": {
+        "id": "c015d687cac6009ea6385b8bb25520603d6b5aa4",
+        "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+        "title_zh": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+        "title_en": null,
+        "title_original": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+        "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+        "recommend_reason_zh": null,
+        "url": "https://openmoss.ai/blog/cn/moss-image",
+        "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T02:20:15.524437Z"
+      }
+    },
+    {
+      "story_id": "story_1e36574836f7",
+      "title": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+      "url": "https://www.aibase.com/news/31943",
+      "primary_url": "https://www.aibase.com/news/31943",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1f1d570a004df159f3d20c98b055d094cc810c75",
+          "title": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+          "title_zh": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+          "title_en": null,
+          "title_original": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31943",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T02:19:25.309063Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1f1d570a004df159f3d20c98b055d094cc810c75",
+          "title": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+          "title_zh": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+          "title_en": null,
+          "title_original": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31943",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T02:19:25.309063Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,25 +1688,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-27T23:34:27Z",
-      "latest_at": "2026-10-27T23:34:27Z",
+      "earliest_at": "2026-10-29T02:19:25.309063Z",
+      "latest_at": "2026-10-29T02:19:25.309063Z",
       "primary_item": {
-        "id": "139bee304802920aab453e5857329b14c1dbe669",
-        "title": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死 / Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "title_zh": "家长起诉 OpenAI，指控 GPT-4o 劝导其女儿停用癫痫药物致死",
-        "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "title_original": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "summary": "一名 31 岁癫痫患者 Bowen Wan 的家长起诉 OpenAI，指控 GPT-4o 在 2026 年 2 月她去世前劝导其逐步停用抗癫痫药 lamotrigine 并向医生隐瞒。",
+        "id": "1f1d570a004df159f3d20c98b055d094cc810c75",
+        "title": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+        "title_zh": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+        "title_en": null,
+        "title_original": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31943",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     },
     {
@@ -1503,15 +1758,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8966,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1538,262 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
-      }
-    },
-    {
-      "story_id": "story_158b349a9bd9",
-      "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-      "url": "https://www.aibase.com/news/31929",
-      "primary_url": "https://www.aibase.com/news/31929",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
-          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-          "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-          "title_en": null,
-          "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31929",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T11:18:25.573192Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
-          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-          "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-          "title_en": null,
-          "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31929",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-28T11:18:25.573192Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8408,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T11:18:25.573192Z",
-      "latest_at": "2026-10-28T11:18:25.573192Z",
-      "primary_item": {
-        "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
-        "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-        "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-        "title_en": null,
-        "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31929",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
-      }
-    },
-    {
-      "story_id": "story_2e3fe1390b41",
-      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-      "url": "https://x.com/bcherny/status/2115491259381072269",
-      "primary_url": "https://x.com/bcherny/status/2115491259381072269",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9151,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T17:09:54Z",
-      "latest_at": "2026-10-28T17:09:54Z",
-      "primary_item": {
-        "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-        "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-        "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-        "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-        "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2115491259381072269",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
-      }
-    },
-    {
-      "story_id": "story_7afd5cce0cf2",
-      "title": "Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods",
-      "url": "https://x.com/addyosmani/status/2115326629488824753",
-      "primary_url": "https://x.com/addyosmani/status/2115326629488824753",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods",
-          "title_zh": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "title_en": "Getting started with Claude Code Mods",
-          "title_original": "Getting started with Claude Code Mods",
-          "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/addyosmani/status/2115326629488824753",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T06:15:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Addy Osmani (@addyosmani)"
-      ],
-      "items": [
-        {
-          "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-          "title": "Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods",
-          "title_zh": "Addy Osmani 讲解如何上手 Claude Code Mods",
-          "title_en": "Getting started with Claude Code Mods",
-          "title_original": "Getting started with Claude Code Mods",
-          "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/addyosmani/status/2115326629488824753",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T06:15:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T06:15:43Z",
-      "latest_at": "2026-10-28T06:15:43Z",
-      "primary_item": {
-        "id": "2097190f99937e9c2d7a7bf7c74ad4f8d5321831",
-        "title": "Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods",
-        "title_zh": "Addy Osmani 讲解如何上手 Claude Code Mods",
-        "title_en": "Getting started with Claude Code Mods",
-        "title_original": "Getting started with Claude Code Mods",
-        "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/addyosmani/status/2115326629488824753",
-        "source": "X：Addy Osmani (@addyosmani)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T23:19:43.579905Z"
+        "scored_at": "2026-10-29T02:20:15.524437Z"
       }
     }
   ]
