@@ -1,162 +1,8 @@
 {
-  "generated_at": "2026-10-29T14:17:31.763254Z",
+  "generated_at": "2026-10-29T17:18:09.149522Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_f713f4e4a699",
-      "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T14:58:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_en": null,
-          "title_original": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-28T22:56:46.012000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-28T15:17:53Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hugging Face Blog",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T14:58:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_en": null,
-          "title_original": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-28T22:56:46.012000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-28T15:17:53Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8665,
-      "importance": 0.8665,
-      "importance_score": 0.8665,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7141,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T14:58:17Z",
-      "latest_at": "2026-10-28T22:56:46.012000Z",
-      "primary_item": {
-        "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-        "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "title_zh": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-        "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
-      }
-    },
     {
       "story_id": "story_46b030e91541",
       "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software",
@@ -206,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8583,
-      "importance": 0.8583,
-      "importance_score": 0.8583,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9903,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,67 +87,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
-      "story_id": "story_bd644657309a",
-      "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "source": "Google DeepMind",
+      "story_id": "story_023d6c3fddb5",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "primary_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-          "title_zh": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-          "title_en": "Gemini 4 Carbon: Our next frontier model",
-          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "id": "f166caf33232a1d28015438ec78e6eb2177e2c18",
+          "title": "How we detect frontier model misalignment",
+          "title_zh": null,
+          "title_en": "How we detect frontier model misalignment",
+          "title_original": "How we detect frontier model misalignment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T17:00:58Z",
+          "published_at": "2026-10-29T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-          "title_zh": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-          "title_en": "Gemini 4 Carbon: Our next frontier model",
-          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "id": "f166caf33232a1d28015438ec78e6eb2177e2c18",
+          "title": "How we detect frontier model misalignment",
+          "title_zh": null,
+          "title_en": "How we detect frontier model misalignment",
+          "title_original": "How we detect frontier model misalignment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T17:00:58Z",
+          "published_at": "2026-10-29T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7355,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -310,135 +156,168 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T17:00:58Z",
-      "latest_at": "2026-10-28T17:00:58Z",
+      "earliest_at": "2026-10-29T09:00:00Z",
+      "latest_at": "2026-10-29T09:00:00Z",
       "primary_item": {
-        "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-        "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-        "title_zh": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-        "title_en": "Gemini 4 Carbon: Our next frontier model",
-        "title_original": "Gemini 4 Carbon: Our next frontier model",
+        "id": "f166caf33232a1d28015438ec78e6eb2177e2c18",
+        "title": "How we detect frontier model misalignment",
+        "title_zh": null,
+        "title_en": "How we detect frontier model misalignment",
+        "title_original": "How we detect frontier model misalignment",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-        "source": "Google DeepMind",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
-      "story_id": "story_a4f85859c631",
-      "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "primary_url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e149b8747c2d",
+      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+      "primary_url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-          "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-          "title_zh": "使用 GitHub Copilot Fusion 路由和编排模型",
-          "title_en": "Route and orchestrate models with GitHub Copilot Fusion",
-          "title_original": "Route and orchestrate models with GitHub Copilot Fusion",
+          "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:21:49Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "051ff645629b74978dbe881478916824d79301f7",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T16:00:00Z",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T14:29:06Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "404 Media（RSS）",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-          "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-          "title_zh": "使用 GitHub Copilot Fusion 路由和编排模型",
-          "title_en": "Route and orchestrate models with GitHub Copilot Fusion",
-          "title_original": "Route and orchestrate models with GitHub Copilot Fusion",
+          "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:21:49Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "051ff645629b74978dbe881478916824d79301f7",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T16:00:00Z",
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T14:29:06Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7248,
-        "story_heat": 0.0
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9584,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T16:00:00Z",
-      "latest_at": "2026-10-28T16:00:00Z",
+      "earliest_at": "2026-10-29T14:21:49Z",
+      "latest_at": "2026-10-29T14:29:06Z",
       "primary_item": {
-        "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-        "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-        "title_zh": "使用 GitHub Copilot Fusion 路由和编排模型",
-        "title_en": "Route and orchestrate models with GitHub Copilot Fusion",
-        "title_original": "Route and orchestrate models with GitHub Copilot Fusion",
-        "summary": null,
+        "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
+        "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+        "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+        "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+        "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+        "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
-      "story_id": "story_57da17898958",
-      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "story_id": "story_bbff85cd6612",
+      "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "primary_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
       "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-          "title_en": "Anthropic’s business plan: Build God or die trying",
-          "title_original": "Anthropic’s business plan: Build God or die trying",
-          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+          "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+          "title_en": "Anthropic is asking Wall Street to believe in AGI",
+          "title_original": "Anthropic is asking Wall Street to believe in AGI",
+          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T13:30:00Z",
+          "published_at": "2026-10-29T14:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -449,33 +328,33 @@
       ],
       "items": [
         {
-          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-          "title_en": "Anthropic’s business plan: Build God or die trying",
-          "title_original": "Anthropic’s business plan: Build God or die trying",
-          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+          "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+          "title_en": "Anthropic is asking Wall Street to believe in AGI",
+          "title_original": "Anthropic is asking Wall Street to believe in AGI",
+          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T13:30:00Z",
+          "published_at": "2026-10-29T14:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9886,
+        "recency": 0.9534,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -483,17 +362,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T13:30:00Z",
-      "latest_at": "2026-10-29T13:30:00Z",
+      "earliest_at": "2026-10-29T14:00:00Z",
+      "latest_at": "2026-10-29T14:00:00Z",
       "primary_item": {
-        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-        "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-        "title_en": "Anthropic’s business plan: Build God or die trying",
-        "title_original": "Anthropic’s business plan: Build God or die trying",
-        "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+        "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+        "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+        "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+        "title_en": "Anthropic is asking Wall Street to believe in AGI",
+        "title_original": "Anthropic is asking Wall Street to believe in AGI",
+        "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       },
@@ -501,7 +380,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
+      }
+    },
+    {
+      "story_id": "story_9628ce64bb0f",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "primary_url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "771f958eac92e2204203dd7a68a507b881e2026f",
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "title_zh": null,
+          "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "title_original": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "771f958eac92e2204203dd7a68a507b881e2026f",
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "title_zh": null,
+          "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "title_original": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7789,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
+      "primary_item": {
+        "id": "771f958eac92e2204203dd7a68a507b881e2026f",
+        "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "title_zh": null,
+        "title_en": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "title_original": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/announcing-project-protostar",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T17:38:17.440997Z"
+      }
+    },
+    {
+      "story_id": "story_35d92d41616a",
+      "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+      "url": "https://x.com/UnslothAI/status/2115812784189620265",
+      "primary_url": "https://x.com/UnslothAI/status/2115812784189620265",
+      "source": "X：Unsloth (@UnslothAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+          "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+          "title_en": "Mistral Le Chonk can now run locally!",
+          "title_original": "Mistral Le Chonk can now run locally!",
+          "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2115812784189620265",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:27:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "items": [
+        {
+          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+          "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+          "title_en": "Mistral Le Chonk can now run locally!",
+          "title_original": "Mistral Le Chonk can now run locally!",
+          "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2115812784189620265",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:27:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9598,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T14:27:32Z",
+      "latest_at": "2026-10-29T14:27:32Z",
+      "primary_item": {
+        "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+        "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+        "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+        "title_en": "Mistral Le Chonk can now run locally!",
+        "title_original": "Mistral Le Chonk can now run locally!",
+        "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/UnslothAI/status/2115812784189620265",
+        "source": "X：Unsloth (@UnslothAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
@@ -553,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9035,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -587,94 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
-      }
-    },
-    {
-      "story_id": "story_e0adfc587f0f",
-      "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-      "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-          "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-          "title_zh": "GitHub Copilot 应用程序、Universe 发布",
-          "title_en": "GitHub Copilot app, Universe releases",
-          "title_original": "GitHub Copilot app, Universe releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:55:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-          "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-          "title_zh": "GitHub Copilot 应用程序、Universe 发布",
-          "title_en": "GitHub Copilot app, Universe releases",
-          "title_original": "GitHub Copilot app, Universe releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:55:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7239,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T15:55:00Z",
-      "latest_at": "2026-10-28T15:55:00Z",
-      "primary_item": {
-        "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-        "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-        "title_zh": "GitHub Copilot 应用程序、Universe 发布",
-        "title_en": "GitHub Copilot app, Universe releases",
-        "title_original": "GitHub Copilot app, Universe releases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
@@ -726,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8135,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -761,7 +726,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
+      }
+    },
+    {
+      "story_id": "story_1011604b0b05",
+      "title": "Wiz 分析智能体攻击的七大指纹与发展趋势 / The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+      "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+      "primary_url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1fea79ecc546cf2b0924b0a417f45fd211d9f6ec",
+          "title": "Wiz 分析智能体攻击的七大指纹与发展趋势 / The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+          "title_zh": "Wiz 分析智能体攻击的七大指纹与发展趋势",
+          "title_en": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+          "title_original": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+          "summary": "Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:36:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wiz：Research（安全研究）"
+      ],
+      "items": [
+        {
+          "id": "1fea79ecc546cf2b0924b0a417f45fd211d9f6ec",
+          "title": "Wiz 分析智能体攻击的七大指纹与发展趋势 / The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+          "title_zh": "Wiz 分析智能体攻击的七大指纹与发展趋势",
+          "title_en": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+          "title_original": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+          "summary": "Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:36:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9618,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T14:36:22Z",
+      "latest_at": "2026-10-29T14:36:22Z",
+      "primary_item": {
+        "id": "1fea79ecc546cf2b0924b0a417f45fd211d9f6ec",
+        "title": "Wiz 分析智能体攻击的七大指纹与发展趋势 / The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+        "title_zh": "Wiz 分析智能体攻击的七大指纹与发展趋势",
+        "title_en": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+        "title_original": "The Rise of Agentic Attacks: What They Look Like, and Where They're Headed",
+        "summary": "Wiz 基于自身事件响应与公开披露案例，分析 AI 智能体参与真实入侵的现状与趋势，涉及 ARTEX、Hermes 等框架及韩国金融机构（约 67,000 人信息外泄）、泰国财政部、ConnectWise 供应链（尝试攻击超 2,250 个租户）等案例。",
+        "recommend_reason_zh": null,
+        "url": "https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
@@ -813,15 +864,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,67 +898,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
-      "story_id": "story_f40d22d35a4f",
-      "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-      "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_57da17898958",
+      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-          "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-          "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-          "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:11:27Z",
+          "published_at": "2026-10-29T13:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-          "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-          "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-          "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-          "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:11:27Z",
+          "published_at": "2026-10-29T13:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7373,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,25 +966,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T17:11:27Z",
-      "latest_at": "2026-10-28T17:11:27Z",
+      "earliest_at": "2026-10-29T13:30:00Z",
+      "latest_at": "2026-10-29T13:30:00Z",
       "primary_item": {
-        "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-        "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft / Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-        "title_zh": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-        "title_en": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-        "title_original": "Anthropic’s IPO filing shows $131.7B in cash and short-term investments, a bigger pile than Amazon’s or Microsoft’s.",
-        "summary": "Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。",
+        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+        "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+        "title_en": "Anthropic’s business plan: Build God or die trying",
+        "title_original": "Anthropic’s business plan: Build God or die trying",
+        "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
@@ -985,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7971,
+        "recency": 0.7632,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,7 +1070,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
+      }
+    },
+    {
+      "story_id": "story_7bfb05411041",
+      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "primary_url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:36:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2115845164824711247",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:36:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:36:12Z",
+      "latest_at": "2026-10-29T16:36:12Z",
+      "primary_item": {
+        "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
+        "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+        "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GeminiApp/status/2115845164824711247",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
@@ -1071,21 +1207,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-29T06:13:39Z",
       "latest_at": "2026-10-29T06:13:39Z",
@@ -1105,92 +1240,178 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
-      "story_id": "story_42d8d4c2ff21",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-      "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-      "primary_url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-      "source": "OpenRouter：Announcements（RSS）",
+      "story_id": "story_ae566d8a584d",
+      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+      "primary_url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-          "title_en": "How to Extract Tables from a PDF with an LLM",
-          "title_original": "How to Extract Tables from a PDF with an LLM",
-          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-          "source": "OpenRouter：Announcements（RSS）",
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z",
+          "published_at": "2026-10-29T13:42:38Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenRouter：Announcements（RSS）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-          "title_en": "How to Extract Tables from a PDF with an LLM",
-          "title_original": "How to Extract Tables from a PDF with an LLM",
-          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-          "source": "OpenRouter：Announcements（RSS）",
+          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z",
+          "published_at": "2026-10-29T13:42:38Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8135,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
+      "earliest_at": "2026-10-29T13:42:38Z",
+      "latest_at": "2026-10-29T13:42:38Z",
       "primary_item": {
-        "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
-        "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-        "title_en": "How to Extract Tables from a PDF with an LLM",
-        "title_original": "How to Extract Tables from a PDF with an LLM",
-        "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+        "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
+        "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+        "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
+        "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+        "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+        "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
         "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-        "source": "OpenRouter：Announcements（RSS）",
+        "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
+      }
+    },
+    {
+      "story_id": "story_e724b903804d",
+      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "primary_url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "title_en": null,
+          "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:56:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "title_en": null,
+          "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:56:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:56:07Z",
+      "latest_at": "2026-10-29T16:56:07Z",
+      "primary_item": {
+        "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+        "title_zh": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+        "title_en": null,
+        "title_original": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+        "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2115850175868727621",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
@@ -1242,15 +1463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7444,
+        "recency": 0.7127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,7 +1496,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
+      }
+    },
+    {
+      "story_id": "story_42d8d4c2ff21",
+      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+      "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+      "primary_url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
+          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+          "title_en": "How to Extract Tables from a PDF with an LLM",
+          "title_original": "How to Extract Tables from a PDF with an LLM",
+          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
+          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+          "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+          "title_en": "How to Extract Tables from a PDF with an LLM",
+          "title_original": "How to Extract Tables from a PDF with an LLM",
+          "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7789,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
+      "primary_item": {
+        "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
+        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格 / How to Extract Tables from a PDF with an LLM",
+        "title_zh": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+        "title_en": "How to Extract Tables from a PDF with an LLM",
+        "title_original": "How to Extract Tables from a PDF with an LLM",
+        "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
@@ -1327,15 +1633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7689,
+        "recency": 0.7362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1360,99 +1666,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
-      }
-    },
-    {
-      "story_id": "story_95c7481a0866",
-      "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-          "title_zh": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问",
-          "title_en": "GitHub Enterprise now includes access to GitHub Copilot",
-          "title_original": "GitHub Enterprise now includes access to GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-          "title_zh": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问",
-          "title_en": "GitHub Enterprise now includes access to GitHub Copilot",
-          "title_original": "GitHub Enterprise now includes access to GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.723,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T15:50:00Z",
-      "latest_at": "2026-10-28T15:50:00Z",
-      "primary_item": {
-        "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-        "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-        "title_zh": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问",
-        "title_en": "GitHub Enterprise now includes access to GitHub Copilot",
-        "title_original": "GitHub Enterprise now includes access to GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     },
     {
       "story_id": "story_90039c49e70a",
-      "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "url": "https://huggingface.co/blog/mistral-large4",
       "primary_url": "https://huggingface.co/blog/mistral-large4",
       "source": "Hugging Face Blog",
@@ -1460,8 +1679,8 @@
       "sources": [
         {
           "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-          "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_zh": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4",
+          "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
           "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
           "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
           "summary": null,
@@ -1482,8 +1701,8 @@
       "items": [
         {
           "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-          "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_zh": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4",
+          "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
           "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
           "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
           "summary": null,
@@ -1499,15 +1718,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8135,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1520,8 +1739,8 @@
       "latest_at": "2026-10-29T00:00:00Z",
       "primary_item": {
         "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-        "title": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "title_zh": "欢迎 Le Chonk：拥抱面部的 Mistral Large 4",
+        "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
         "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
         "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
         "summary": null,
@@ -1534,297 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
-      }
-    },
-    {
-      "story_id": "story_d13727425690",
-      "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-      "primary_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-          "title_zh": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-          "title_en": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-          "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-          "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:07:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-          "title_zh": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-          "title_en": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-          "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-          "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:07:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7261,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T16:07:40Z",
-      "latest_at": "2026-10-28T16:07:40Z",
-      "primary_item": {
-        "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-        "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-        "title_zh": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-        "title_en": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-        "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-        "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
-      }
-    },
-    {
-      "story_id": "story_2e3fe1390b41",
-      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-      "url": "https://x.com/bcherny/status/2115491259381072269",
-      "primary_url": "https://x.com/bcherny/status/2115491259381072269",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2fdaf08456d41172dc5c6ee428c553bf2d583e51",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-28T17:09:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-          "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2fdaf08456d41172dc5c6ee428c553bf2d583e51",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-28T17:09:54Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7371,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T17:09:54Z",
-      "latest_at": "2026-10-28T17:09:54Z",
-      "primary_item": {
-        "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-        "title_zh": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-        "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-        "title_original": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-        "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2115491259381072269",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
-      }
-    },
-    {
-      "story_id": "story_78719824fd6e",
-      "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-      "url": "https://www.aibase.com/news/31965",
-      "primary_url": "https://www.aibase.com/news/31965",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
-          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_en": null,
-          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31965",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:18:25.034332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
-          "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "title_en": null,
-          "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31965",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:18:25.034332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9578,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T11:18:25.034332Z",
-      "latest_at": "2026-10-29T11:18:25.034332Z",
-      "primary_item": {
-        "id": "0e19b4e07bdd3b38be7c41d06a96571622f364cd",
-        "title": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-        "title_zh": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-        "title_en": null,
-        "title_original": "Anthropic 递给企业一把\"监工钥匙\"：Claude 能看清每个员工的 AI 开销",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31965",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T14:20:18.092958Z"
+        "scored_at": "2026-10-29T17:38:17.440997Z"
       }
     }
   ]
