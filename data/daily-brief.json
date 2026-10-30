@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:17:57.968123Z",
+  "generated_at": "2026-10-30T23:18:27.523421Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9667,
+        "recency": 0.9256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8556,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -259,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.885,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -294,7 +294,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
+      }
+    },
+    {
+      "story_id": "story_9e6383f9ac28",
+      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+      "primary_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "54f951a0716a2535d221a0d96f93423786bdd543",
+          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
+          "title_zh": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+          "title_en": "Cracks are emerging in the AI spending boom",
+          "title_original": "Cracks are emerging in the AI spending boom",
+          "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T21:17:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "54f951a0716a2535d221a0d96f93423786bdd543",
+          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
+          "title_zh": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+          "title_en": "Cracks are emerging in the AI spending boom",
+          "title_original": "Cracks are emerging in the AI spending boom",
+          "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T21:17:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9713,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T21:17:40Z",
+      "latest_at": "2026-10-30T21:17:40Z",
+      "primary_item": {
+        "id": "54f951a0716a2535d221a0d96f93423786bdd543",
+        "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
+        "title_zh": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
+        "title_en": "Cracks are emerging in the AI spending boom",
+        "title_original": "Cracks are emerging in the AI spending boom",
+        "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -346,15 +432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8494,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,7 +467,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
+      }
+    },
+    {
+      "story_id": "story_2cd26106d24e",
+      "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+      "url": "https://www.ithome.com/1/020/395.htm",
+      "primary_url": "https://www.ithome.com/1/020/395.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
+          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_en": null,
+          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/020/395.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T23:09:21.313000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
+          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_en": null,
+          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/020/395.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T23:09:21.313000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9978,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T23:09:21.313000Z",
+      "latest_at": "2026-10-30T23:09:21.313000Z",
+      "primary_item": {
+        "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
+        "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+        "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+        "title_en": null,
+        "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+        "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/020/395.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -433,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.957,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -519,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9521,
+        "recency": 0.9116,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,7 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -605,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -639,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -691,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7551,
+        "recency": 0.723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -725,7 +897,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -777,15 +949,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -863,21 +1035,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9325,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T18:28:00Z",
       "latest_at": "2026-10-30T18:28:00Z",
@@ -897,7 +1068,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -949,21 +1120,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9633,
+        "recency": 0.9223,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T17:42:26Z",
       "latest_at": "2026-10-30T17:42:26Z",
@@ -983,7 +1153,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
+      }
+    },
+    {
+      "story_id": "story_e101bb0a4c36",
+      "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则 / Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "primary_url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b4bf7dce938bfd5d7eb240a37a076c093e438acf",
+          "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则 / Fair use benefits everyone",
+          "title_zh": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
+          "title_en": "Fair use benefits everyone",
+          "title_original": "Fair use benefits everyone",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/fair-use-benefits-everyone",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-30T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b4bf7dce938bfd5d7eb240a37a076c093e438acf",
+          "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则 / Fair use benefits everyone",
+          "title_zh": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
+          "title_en": "Fair use benefits everyone",
+          "title_original": "Fair use benefits everyone",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/fair-use-benefits-everyone",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-30T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7142,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T00:00:00Z",
+      "latest_at": "2026-10-30T00:00:00Z",
+      "primary_item": {
+        "id": "b4bf7dce938bfd5d7eb240a37a076c093e438acf",
+        "title": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则 / Fair use benefits everyone",
+        "title_zh": "OpenAI 汇编各方法庭之友意见，主张 AI 训练应适用合理使用原则",
+        "title_en": "Fair use benefits everyone",
+        "title_original": "Fair use benefits everyone",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/fair-use-benefits-everyone",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -1035,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,467 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
-      }
-    },
-    {
-      "story_id": "story_a29e7487a23f",
-      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
-          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T23:42:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
-          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T23:42:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7428,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T23:42:22Z",
-      "latest_at": "2026-10-29T23:42:22Z",
-      "primary_item": {
-        "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
-        "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
-        "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
-      }
-    },
-    {
-      "story_id": "story_c0d93c51570c",
-      "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧 / Google value plunges by $500B as AI fears rattle Wall Street",
-      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "primary_url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "66c9008c3638deeb0bcaace1cca0024a483c0f10",
-          "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧 / Google value plunges by $500B as AI fears rattle Wall Street",
-          "title_zh": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
-          "title_en": "Google value plunges by $500B as AI fears rattle Wall Street",
-          "title_original": "Google value plunges by $500B as AI fears rattle Wall Street",
-          "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T21:29:51.580000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e127e915e758a4ee74115684b444dc067f8a7bb2",
-          "title": "人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元 / Google value plunges by $500bn as AI fears rattle Wall Street",
-          "title_zh": "人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元",
-          "title_en": "Google value plunges by $500bn as AI fears rattle Wall Street",
-          "title_original": "Google value plunges by $500bn as AI fears rattle Wall Street",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-29T21:52:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "66c9008c3638deeb0bcaace1cca0024a483c0f10",
-          "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧 / Google value plunges by $500B as AI fears rattle Wall Street",
-          "title_zh": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
-          "title_en": "Google value plunges by $500B as AI fears rattle Wall Street",
-          "title_original": "Google value plunges by $500B as AI fears rattle Wall Street",
-          "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T21:29:51.580000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e127e915e758a4ee74115684b444dc067f8a7bb2",
-          "title": "人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元 / Google value plunges by $500bn as AI fears rattle Wall Street",
-          "title_zh": "人工智能担忧扰乱华尔街，谷歌市值暴跌 5000 亿美元",
-          "title_en": "Google value plunges by $500bn as AI fears rattle Wall Street",
-          "title_original": "Google value plunges by $500bn as AI fears rattle Wall Street",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-29T21:52:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7194,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T21:29:51.580000Z",
-      "latest_at": "2026-10-29T21:52:13Z",
-      "primary_item": {
-        "id": "66c9008c3638deeb0bcaace1cca0024a483c0f10",
-        "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧 / Google value plunges by $500B as AI fears rattle Wall Street",
-        "title_zh": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
-        "title_en": "Google value plunges by $500B as AI fears rattle Wall Street",
-        "title_original": "Google value plunges by $500B as AI fears rattle Wall Street",
-        "summary": "Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
-      }
-    },
-    {
-      "story_id": "story_62b4ec8a4595",
-      "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元 / Our customers’ ambition is accelerating our growth",
-      "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-      "primary_url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-      "source": "Sierra：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e68eae64b1758b39ba34ddf7038dee1f03c58346",
-          "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元 / Our customers’ ambition is accelerating our growth",
-          "title_zh": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
-          "title_en": "Our customers’ ambition is accelerating our growth",
-          "title_original": "Our customers’ ambition is accelerating our growth",
-          "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:50:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Sierra：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e68eae64b1758b39ba34ddf7038dee1f03c58346",
-          "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元 / Our customers’ ambition is accelerating our growth",
-          "title_zh": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
-          "title_en": "Our customers’ ambition is accelerating our growth",
-          "title_original": "Our customers’ ambition is accelerating our growth",
-          "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:50:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8978,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T12:50:00Z",
-      "latest_at": "2026-10-30T12:50:00Z",
-      "primary_item": {
-        "id": "e68eae64b1758b39ba34ddf7038dee1f03c58346",
-        "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元 / Our customers’ ambition is accelerating our growth",
-        "title_zh": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
-        "title_en": "Our customers’ ambition is accelerating our growth",
-        "title_original": "Our customers’ ambition is accelerating our growth",
-        "summary": "Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。",
-        "recommend_reason_zh": null,
-        "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
-        "source": "Sierra：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
-      }
-    },
-    {
-      "story_id": "story_4be980d8ec55",
-      "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-      "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
-      "primary_url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
-          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-          "title_zh": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
-          "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-          "title_original": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-          "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
-          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-          "title_zh": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
-          "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-          "title_original": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-          "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7459,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T00:00:00Z",
-      "latest_at": "2026-10-30T00:00:00Z",
-      "primary_item": {
-        "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
-        "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-        "title_zh": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
-        "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-        "title_original": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-        "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
-      }
-    },
-    {
-      "story_id": "story_342bac922280",
-      "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
-      "source": "公众号：月之暗面（Kimi）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4341062db06c4806c98812189a143621cafb83cd",
-          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "title_zh": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "title_en": null,
-          "title_original": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T04:04:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：月之暗面（Kimi）"
-      ],
-      "items": [
-        {
-          "id": "4341062db06c4806c98812189a143621cafb83cd",
-          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "title_zh": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "title_en": null,
-          "title_original": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T04:04:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7912,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T04:04:56Z",
-      "latest_at": "2026-10-30T04:04:56Z",
-      "primary_item": {
-        "id": "4341062db06c4806c98812189a143621cafb83cd",
-        "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-        "title_zh": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-        "title_en": null,
-        "title_original": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-        "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
-        "source": "公众号：月之暗面（Kimi）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -1580,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1613,7 +1410,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
+      }
+    },
+    {
+      "story_id": "story_a29e7487a23f",
+      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7112,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T23:42:22Z",
+      "latest_at": "2026-10-29T23:42:22Z",
+      "primary_item": {
+        "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+        "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+        "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -1665,15 +1547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1698,7 +1580,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
+      }
+    },
+    {
+      "story_id": "story_6b5020161b74",
+      "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "primary_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
+          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
+          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-30T21:52:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
+          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+          "title_zh": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级",
+          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-30T21:52:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
+          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
+          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-30T21:52:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
+          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+          "title_zh": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级",
+          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-30T21:52:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6575,
+      "importance": 0.6575,
+      "importance_score": 0.6575,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9794,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-30T21:52:03Z",
+      "latest_at": "2026-10-30T21:52:03Z",
+      "primary_item": {
+        "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
+        "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
+        "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     },
     {
@@ -1750,15 +1750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1783,7 +1783,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T20:19:05.630478Z"
+        "scored_at": "2026-10-30T23:19:19.030209Z"
       }
     }
   ]
