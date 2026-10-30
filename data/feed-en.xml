@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 02:18:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:18:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Granite Switch 4.1.1 — Update models like you update software</title>
@@ -64,6 +64,14 @@
 <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
 </item>
 <item>
+<title>Claude 开进车里：CarPlay 接入后，开车也能语音问 AI</title>
+<link>https://www.aibase.com/news/31982</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31982</guid>
+<description>Claude 开进车里：CarPlay 接入后，开车也能语音问 AI (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 05:18:24 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic’s financials are surprisingly strong</title>
 <link>https://www.understandingai.org/p/anthropics-financials-are-surprisingly</link>
 <guid isPermaLink="true">https://www.understandingai.org/p/anthropics-financials-are-surprisingly</guid>
@@ -80,12 +88,12 @@
 <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿</title>
-<link>https://www.aibase.com/news/31969</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31969</guid>
-<description>Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿 (AIbase)</description>
+<title>Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</guid>
+<description>Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</description>
 <category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 02:18:11 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 04:04:56 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus vs Sonnet vs Haiku: Which Should You Use?</title>
@@ -120,20 +128,20 @@
 <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI</title>
+<link>https://www.aibase.com/news/31978</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31978</guid>
+<description>Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 05:18:24 +0000</pubDate>
+</item>
+<item>
 <title>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</title>
 <link>https://x.com/Khazix0918/status/2115898252004622617</link>
 <guid isPermaLink="true">https://x.com/Khazix0918/status/2115898252004622617</guid>
 <description>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 20:07:09 +0000</pubDate>
-</item>
-<item>
-<title>Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出</title>
-<link>https://www.aibase.com/news/31973</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31973</guid>
-<description>Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 02:18:11 +0000</pubDate>
 </item>
 <item>
 <title>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
@@ -158,14 +166,6 @@
 <description>Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 17:00:03 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic’s business plan: Build God or die trying</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
-<description>Anthropic’s business plan: Build God or die trying</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:18:57.250837Z",
+  "generated_at": "2026-10-30T05:19:08.017198Z",
   "date": "2026-10-30",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-30T02:18:11.394796Z"
+      "observed_at": "2026-10-30T05:18:24.199204Z"
     },
     {
-      "id": "project_6bc4243ed1be",
-      "project_name": "Arco",
-      "url": "https://www.producthunt.com/products/arco-4",
-      "summary": "GitHub and Linear issues, right inside your Codex",
+      "id": "project_359be97eb696",
+      "project_name": "Polylane for ChatGPT",
+      "url": "https://www.producthunt.com/products/polylane",
+      "summary": "Ask ChatGPT what broke in production",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「GitHub and Linear issues, right inside your Codex」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"GitHub and Linear issues, right inside your Codex\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T05:31:15Z",
-      "updated_at": "2026-10-30T00:15:34Z",
+      "recommend_reason_zh": "体验它主打的「Ask ChatGPT what broke in production」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Ask ChatGPT what broke in production\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T22:04:42Z",
+      "updated_at": "2026-10-30T03:29:10Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-30T02:18:44.777513Z"
+      "observed_at": "2026-10-30T05:18:56.136267Z"
     },
     {
       "id": "project_239feae36314",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-30T02:18:11.394796Z"
+      "observed_at": "2026-10-30T05:18:24.199204Z"
     },
     {
-      "id": "project_6e30af5aa325",
-      "project_name": "Floot in ChatGPT",
-      "url": "https://www.producthunt.com/products/floot",
-      "summary": "Build and publish real apps without leaving ChatGPT",
+      "id": "project_6bc4243ed1be",
+      "project_name": "Arco",
+      "url": "https://www.producthunt.com/products/arco-4",
+      "summary": "GitHub and Linear issues, right inside your Codex",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Build and publish real apps without leaving ChatGPT」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Build and publish real apps without leaving ChatGPT\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T20:14:10Z",
-      "updated_at": "2026-10-30T02:15:34Z",
+      "recommend_reason_zh": "体验它主打的「GitHub and Linear issues, right inside your Codex」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"GitHub and Linear issues, right inside your Codex\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T05:31:15Z",
+      "updated_at": "2026-10-30T03:29:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-30T02:18:44.777513Z"
+      "observed_at": "2026-10-30T05:18:56.136267Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1221,
+      "duration_ms": 1156,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 239,
+      "duration_ms": 120,
       "error": null
     }
   ]

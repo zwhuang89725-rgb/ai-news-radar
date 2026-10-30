@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:18:11.394796Z",
+  "generated_at": "2026-10-30T05:18:24.199204Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8326,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8743,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8774,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -379,15 +379,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8416,
+        "recency": 0.8059,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -414,7 +414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -552,15 +552,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7789,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -587,7 +587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -639,15 +639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9632,
+        "recency": 0.9223,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -673,7 +673,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
+      }
+    },
+    {
+      "story_id": "story_3250c6f9d105",
+      "title": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+      "url": "https://www.aibase.com/news/31982",
+      "primary_url": "https://www.aibase.com/news/31982",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d7c37c4ab252831ebd3b151f2565c3ce632bd5e9",
+          "title": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+          "title_zh": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+          "title_en": null,
+          "title_original": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31982",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T05:18:24.199204Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d7c37c4ab252831ebd3b151f2565c3ce632bd5e9",
+          "title": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+          "title_zh": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+          "title_en": null,
+          "title_original": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31982",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T05:18:24.199204Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T05:18:24.199204Z",
+      "latest_at": "2026-10-30T05:18:24.199204Z",
+      "primary_item": {
+        "id": "d7c37c4ab252831ebd3b151f2565c3ce632bd5e9",
+        "title": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+        "title_zh": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+        "title_en": null,
+        "title_original": "Claude 开进车里：CarPlay 接入后，开车也能语音问 AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31982",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -725,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -759,7 +845,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -811,15 +897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8372,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -845,67 +931,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
-      "story_id": "story_d15c9b3529fc",
-      "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
-      "url": "https://www.aibase.com/news/31969",
-      "primary_url": "https://www.aibase.com/news/31969",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_342bac922280",
+      "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+      "source": "公众号：月之暗面（Kimi）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "956a24472564597b4b009daa951e87aa228fa024",
-          "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
-          "title_zh": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "id": "4341062db06c4806c98812189a143621cafb83cd",
+          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+          "title_zh": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
           "title_en": null,
-          "title_original": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
-          "summary": null,
+          "title_original": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+          "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31969",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T02:18:11.394796Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T04:04:56Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：月之暗面（Kimi）"
       ],
       "items": [
         {
-          "id": "956a24472564597b4b009daa951e87aa228fa024",
-          "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
-          "title_zh": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "id": "4341062db06c4806c98812189a143621cafb83cd",
+          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+          "title_zh": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
           "title_en": null,
-          "title_original": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
-          "summary": null,
+          "title_original": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+          "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31969",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T02:18:11.394796Z",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T04:04:56Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,25 +999,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-30T02:18:11.394796Z",
-      "latest_at": "2026-10-30T02:18:11.394796Z",
+      "earliest_at": "2026-10-30T04:04:56Z",
+      "latest_at": "2026-10-30T04:04:56Z",
       "primary_item": {
-        "id": "956a24472564597b4b009daa951e87aa228fa024",
-        "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
-        "title_zh": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+        "id": "4341062db06c4806c98812189a143621cafb83cd",
+        "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+        "title_zh": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
         "title_en": null,
-        "title_original": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
-        "summary": null,
+        "title_original": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+        "summary": "月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31969",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+        "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -983,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9673,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1017,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -1069,21 +1155,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7934,
+        "recency": 0.7597,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-29T10:16:34Z",
       "latest_at": "2026-10-29T10:16:34Z",
@@ -1103,7 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -1155,21 +1240,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8428,
+        "recency": 0.807,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-29T14:27:32Z",
       "latest_at": "2026-10-29T14:27:32Z",
@@ -1189,7 +1273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -1241,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7567,
+        "recency": 0.7246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1276,7 +1360,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
+      }
+    },
+    {
+      "story_id": "story_cd5f0b276e70",
+      "title": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+      "url": "https://www.aibase.com/news/31978",
+      "primary_url": "https://www.aibase.com/news/31978",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4b95463f6c531c205135894a85138963f92b4a45",
+          "title": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+          "title_zh": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+          "title_en": null,
+          "title_original": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31978",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T05:18:24.199204Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4b95463f6c531c205135894a85138963f92b4a45",
+          "title": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+          "title_zh": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+          "title_en": null,
+          "title_original": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31978",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T05:18:24.199204Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T05:18:24.199204Z",
+      "latest_at": "2026-10-30T05:18:24.199204Z",
+      "primary_item": {
+        "id": "4b95463f6c531c205135894a85138963f92b4a45",
+        "title": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+        "title_zh": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+        "title_en": null,
+        "title_original": "Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31978",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -1328,15 +1498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9146,
+        "recency": 0.8758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1361,93 +1531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
-      }
-    },
-    {
-      "story_id": "story_d796d6d04267",
-      "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-      "url": "https://www.aibase.com/news/31973",
-      "primary_url": "https://www.aibase.com/news/31973",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b06b8375984d34280b834491bb4abec4ba10df79",
-          "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-          "title_zh": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-          "title_en": null,
-          "title_original": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T02:18:11.394796Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b06b8375984d34280b834491bb4abec4ba10df79",
-          "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-          "title_zh": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-          "title_en": null,
-          "title_original": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T02:18:11.394796Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T02:18:11.394796Z",
-      "latest_at": "2026-10-30T02:18:11.394796Z",
-      "primary_item": {
-        "id": "b06b8375984d34280b834491bb4abec4ba10df79",
-        "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-        "title_zh": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-        "title_en": null,
-        "title_original": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31973",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -1499,15 +1583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9149,
+        "recency": 0.876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1533,7 +1617,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -1585,15 +1669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.8087,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1618,7 +1702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     },
     {
@@ -1670,15 +1754,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8743,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1703,93 +1787,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
-      }
-    },
-    {
-      "story_id": "story_57da17898958",
-      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-          "title_en": "Anthropic’s business plan: Build God or die trying",
-          "title_original": "Anthropic’s business plan: Build God or die trying",
-          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T13:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-          "title_en": "Anthropic’s business plan: Build God or die trying",
-          "title_original": "Anthropic’s business plan: Build God or die trying",
-          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T13:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8312,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T13:30:00Z",
-      "latest_at": "2026-10-29T13:30:00Z",
-      "primary_item": {
-        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
-        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
-        "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-        "title_en": "Anthropic’s business plan: Build God or die trying",
-        "title_original": "Anthropic’s business plan: Build God or die trying",
-        "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-30T02:41:22.298496Z"
+        "scored_at": "2026-10-30T05:39:09.322107Z"
       }
     }
   ]
