@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:18:25.086829Z",
+  "generated_at": "2026-10-30T02:18:11.394796Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8694,
+        "recency": 0.8326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9129,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9162,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
-      }
-    },
-    {
-      "story_id": "story_07aef458424a",
-      "title": "Codex CLI 0.166.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
-          "title": "Codex CLI 0.166.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.166.0",
-          "title_original": "Codex CLI 0.166.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
-          "title": "Codex CLI 0.166.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.166.0",
-          "title_original": "Codex CLI 0.166.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
-        "title": "Codex CLI 0.166.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.166.0",
-        "title_original": "Codex CLI 0.166.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -376,41 +289,18 @@
           "recency_basis": null
         },
         {
-          "id": "051ff645629b74978dbe881478916824d79301f7",
-          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "id": "f4579d3e1db2bcd5c78a835ce1fc4f6f5b95808f",
+          "title": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_zh": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_en": null,
+          "title_original": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-29T14:29:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "404 Media（RSS）",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
-          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
-          "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T14:21:49Z",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-29T23:49:53.582000Z",
           "updated_at": null,
           "recency_basis": null
         },
@@ -431,27 +321,83 @@
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
-      "importance_label": "行业动态",
+      "source_count": 3,
+      "source_names": [
+        "404 Media（RSS）",
+        "Hacker News · 24h最热",
+        "www.404media.co"
+      ],
+      "items": [
+        {
+          "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title_en": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "title_original": "Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
+          "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:21:49Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f4579d3e1db2bcd5c78a835ce1fc4f6f5b95808f",
+          "title": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_zh": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "title_en": null,
+          "title_original": "宣言、恐惧与“失败者思维”：深入探秘Proton的人工智能之战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "www.404media.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-29T23:49:53.582000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "051ff645629b74978dbe881478916824d79301f7",
+          "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_zh": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+          "title_en": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "title_original": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T14:29:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
-        "story_heat": 0.25
+        "recency": 0.8416,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-10-29T14:21:49Z",
-      "latest_at": "2026-10-29T14:29:06Z",
+      "latest_at": "2026-10-29T23:49:53.582000Z",
       "primary_item": {
         "id": "3e59f3a17425e339d369ff822cdca4645d9db83c",
         "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning",
@@ -468,7 +414,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
+      }
+    },
+    {
+      "story_id": "story_3151219826f8",
+      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+      "url": "https://www.platformer.news/thursday-newsletter-6",
+      "primary_url": "https://www.platformer.news/thursday-newsletter-6",
+      "source": "Platformer（热点 RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+          "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+          "title_en": "What Google and Reddit's bad days have in common",
+          "title_original": "What Google and Reddit's bad days have in common",
+          "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+          "recommend_reason_zh": null,
+          "url": "https://www.platformer.news/thursday-newsletter-6",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T00:51:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Platformer（热点 RSS）"
+      ],
+      "items": [
+        {
+          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+          "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+          "title_en": "What Google and Reddit's bad days have in common",
+          "title_original": "What Google and Reddit's bad days have in common",
+          "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+          "recommend_reason_zh": null,
+          "url": "https://www.platformer.news/thursday-newsletter-6",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T00:51:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9792,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T00:51:00Z",
+      "latest_at": "2026-10-30T00:51:00Z",
+      "primary_item": {
+        "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+        "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common",
+        "title_zh": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+        "title_en": "What Google and Reddit's bad days have in common",
+        "title_original": "What Google and Reddit's bad days have in common",
+        "summary": "Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。",
+        "recommend_reason_zh": null,
+        "url": "https://www.platformer.news/thursday-newsletter-6",
+        "source": "Platformer（热点 RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -520,15 +552,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8133,
+        "recency": 0.7789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -555,7 +587,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
+      }
+    },
+    {
+      "story_id": "story_a29e7487a23f",
+      "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+          "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+          "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T23:42:22Z",
+      "latest_at": "2026-10-29T23:42:22Z",
+      "primary_item": {
+        "id": "be059fff1a9ff1ef7c5fdcb4a8cc7a3b076dcd97",
+        "title": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元 / AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_zh": "Andy Jassy 称 AWS 将成为万亿美元营收业务，2026 年资本开支约 2200 亿美元",
+        "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title_original": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "summary": "亚马逊财报电话会上，CEO Andy Jassy 重申 AWS 可在未来五到十年成为万亿美元年营收业务，预计 2026 年现金资本开支约 2200 亿美元，其中大部分投向 AWS，2027 年还将大幅增加。AWS 当季营收同比增长 39%，年化营收运行率达 1840 亿美元，Jassy 预测 2027 和 2028 年增速均可超 40%；财报后盘后交易中亚马逊股价下跌约 6%。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -607,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9421,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,94 +759,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
-      }
-    },
-    {
-      "story_id": "story_dd4d49cee6e1",
-      "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "primary_url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
-          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/anydecisionmodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
-          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/anydecisionmodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-        "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
-        "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/anydecisionmodel",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -780,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -814,67 +845,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
-      "story_id": "story_0087c066e962",
-      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d15c9b3529fc",
+      "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+      "url": "https://www.aibase.com/news/31969",
+      "primary_url": "https://www.aibase.com/news/31969",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "id": "956a24472564597b4b009daa951e87aa228fa024",
+          "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "title_zh": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "title_en": null,
+          "title_original": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T20:08:31Z",
+          "url": "https://www.aibase.com/news/31969",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T02:18:11.394796Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "id": "956a24472564597b4b009daa951e87aa228fa024",
+          "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "title_zh": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "title_en": null,
+          "title_original": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T20:08:31Z",
+          "url": "https://www.aibase.com/news/31969",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T02:18:11.394796Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9553,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -882,85 +913,85 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T20:08:31Z",
-      "latest_at": "2026-10-29T20:08:31Z",
+      "earliest_at": "2026-10-30T02:18:11.394796Z",
+      "latest_at": "2026-10-30T02:18:11.394796Z",
       "primary_item": {
-        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
-        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+        "id": "956a24472564597b4b009daa951e87aa228fa024",
+        "title": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+        "title_zh": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+        "title_en": null,
+        "title_original": "Meta悄然推出AI时尚应用Style Sketch，支持虚拟衣橱与AI试穿",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31969",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
-      "story_id": "story_35d92d41616a",
-      "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
-      "url": "https://x.com/UnslothAI/status/2115812784189620265",
-      "primary_url": "https://x.com/UnslothAI/status/2115812784189620265",
-      "source": "X：Unsloth (@UnslothAI)",
+      "story_id": "story_4be980d8ec55",
+      "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+      "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
+      "primary_url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
-          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
-          "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
-          "title_en": "Mistral Le Chonk can now run locally!",
-          "title_original": "Mistral Le Chonk can now run locally!",
-          "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+          "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
+          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+          "title_zh": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+          "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+          "title_original": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+          "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/UnslothAI/status/2115812784189620265",
-          "source": "X：Unsloth (@UnslothAI)",
+          "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T14:27:32Z",
+          "published_at": "2026-10-30T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Unsloth (@UnslothAI)"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
-          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
-          "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
-          "title_en": "Mistral Le Chonk can now run locally!",
-          "title_original": "Mistral Le Chonk can now run locally!",
-          "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+          "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
+          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+          "title_zh": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+          "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+          "title_original": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+          "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/UnslothAI/status/2115812784189620265",
-          "source": "X：Unsloth (@UnslothAI)",
+          "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T14:27:32Z",
+          "published_at": "2026-10-30T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8801,
+        "recency": 0.9673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,25 +999,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T14:27:32Z",
-      "latest_at": "2026-10-29T14:27:32Z",
+      "earliest_at": "2026-10-30T00:00:00Z",
+      "latest_at": "2026-10-30T00:00:00Z",
       "primary_item": {
-        "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
-        "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
-        "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
-        "title_en": "Mistral Le Chonk can now run locally!",
-        "title_original": "Mistral Le Chonk can now run locally!",
-        "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+        "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
+        "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+        "title_zh": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+        "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+        "title_original": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+        "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/UnslothAI/status/2115812784189620265",
-        "source": "X：Unsloth (@UnslothAI)",
+        "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -1038,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8285,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1103,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
+      }
+    },
+    {
+      "story_id": "story_35d92d41616a",
+      "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+      "url": "https://x.com/UnslothAI/status/2115812784189620265",
+      "primary_url": "https://x.com/UnslothAI/status/2115812784189620265",
+      "source": "X：Unsloth (@UnslothAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+          "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+          "title_en": "Mistral Le Chonk can now run locally!",
+          "title_original": "Mistral Le Chonk can now run locally!",
+          "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2115812784189620265",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:27:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "items": [
+        {
+          "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+          "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+          "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+          "title_en": "Mistral Le Chonk can now run locally!",
+          "title_original": "Mistral Le Chonk can now run locally!",
+          "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2115812784189620265",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:27:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8428,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T14:27:32Z",
+      "latest_at": "2026-10-29T14:27:32Z",
+      "primary_item": {
+        "id": "617744d3720f957b127b78a2256a05a39d14aeb3",
+        "title": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!",
+        "title_zh": "Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型",
+        "title_en": "Mistral Le Chonk can now run locally!",
+        "title_original": "Mistral Le Chonk can now run locally!",
+        "summary": "Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/UnslothAI/status/2115812784189620265",
+        "source": "X：Unsloth (@UnslothAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -1124,15 +1241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7902,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1159,94 +1276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
-      }
-    },
-    {
-      "story_id": "story_90039c49e70a",
-      "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "primary_url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-          "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-          "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mistral-large4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-          "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-          "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/mistral-large4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "68ae70193a2243b16022e2472b9d8f57ab423989",
-        "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型 / Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "title_zh": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-        "title_en": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "title_original": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/mistral-large4",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -1298,15 +1328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.955,
+        "recency": 0.9146,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1331,7 +1361,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
+      }
+    },
+    {
+      "story_id": "story_d796d6d04267",
+      "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+      "url": "https://www.aibase.com/news/31973",
+      "primary_url": "https://www.aibase.com/news/31973",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b06b8375984d34280b834491bb4abec4ba10df79",
+          "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+          "title_zh": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+          "title_en": null,
+          "title_original": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31973",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T02:18:11.394796Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b06b8375984d34280b834491bb4abec4ba10df79",
+          "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+          "title_zh": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+          "title_en": null,
+          "title_original": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31973",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T02:18:11.394796Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T02:18:11.394796Z",
+      "latest_at": "2026-10-30T02:18:11.394796Z",
+      "primary_item": {
+        "id": "b06b8375984d34280b834491bb4abec4ba10df79",
+        "title": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+        "title_zh": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+        "title_en": null,
+        "title_original": "Mistral 把旗舰甩进开源池：1T 参数的 Large 4 权重免费放出",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31973",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T02:41:22.298496Z"
+      }
+    },
+    {
+      "story_id": "story_0087c066e962",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:08:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:08:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9149,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T20:08:31Z",
+      "latest_at": "2026-10-29T20:08:31Z",
+      "primary_item": {
+        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -1383,15 +1585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8819,
+        "recency": 0.8446,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1416,7 +1618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -1468,15 +1670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.913,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1501,92 +1703,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
-      }
-    },
-    {
-      "story_id": "story_14c5a77fa731",
-      "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-      "url": "https://www.aibase.com/news/31963",
-      "primary_url": "https://www.aibase.com/news/31963",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
-          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_en": null,
-          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31963",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:18:25.034332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
-          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_en": null,
-          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31963",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:18:25.034332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T11:18:25.034332Z",
-      "latest_at": "2026-10-29T11:18:25.034332Z",
-      "primary_item": {
-        "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
-        "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-        "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-        "title_en": null,
-        "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31963",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     },
     {
@@ -1638,15 +1755,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.8312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,92 +1789,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
-      }
-    },
-    {
-      "story_id": "story_c14931de3608",
-      "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-      "url": "https://x.com/addyosmani/status/2115688494865465370",
-      "primary_url": "https://x.com/addyosmani/status/2115688494865465370",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-          "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-          "title_zh": "Addy Osmani 谈你可能对 Claude 过度提示了",
-          "title_en": "You're probably overprompting Claude",
-          "title_original": "You're probably overprompting Claude",
-          "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/addyosmani/status/2115688494865465370",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T06:13:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Addy Osmani (@addyosmani)"
-      ],
-      "items": [
-        {
-          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-          "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-          "title_zh": "Addy Osmani 谈你可能对 Claude 过度提示了",
-          "title_en": "You're probably overprompting Claude",
-          "title_original": "You're probably overprompting Claude",
-          "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/addyosmani/status/2115688494865465370",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T06:13:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7814,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T06:13:39Z",
-      "latest_at": "2026-10-29T06:13:39Z",
-      "primary_item": {
-        "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-        "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-        "title_zh": "Addy Osmani 谈你可能对 Claude 过度提示了",
-        "title_en": "You're probably overprompting Claude",
-        "title_original": "You're probably overprompting Claude",
-        "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/addyosmani/status/2115688494865465370",
-        "source": "X：Addy Osmani (@addyosmani)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T23:41:01.224530Z"
+        "scored_at": "2026-10-30T02:41:22.298496Z"
       }
     }
   ]

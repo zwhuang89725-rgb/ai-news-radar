@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T23:19:09.731835Z",
+  "generated_at": "2026-10-30T02:18:57.250837Z",
   "date": "2026-10-30",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T23:18:25.086829Z"
+      "observed_at": "2026-10-30T02:18:11.394796Z"
     },
     {
-      "id": "project_c0824fc75e67",
-      "project_name": "MAO",
-      "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
-      "summary": "Team up Claude Code, Codex and Grok on one canvas",
+      "id": "project_6bc4243ed1be",
+      "project_name": "Arco",
+      "url": "https://www.producthunt.com/products/arco-4",
+      "summary": "GitHub and Linear issues, right inside your Codex",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Team up Claude Code, Codex and Grok on one canvas」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Team up Claude Code, Codex and Grok on one canvas\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T11:27:28Z",
-      "updated_at": "2026-10-29T22:20:41Z",
+      "recommend_reason_zh": "体验它主打的「GitHub and Linear issues, right inside your Codex」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"GitHub and Linear issues, right inside your Codex\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T05:31:15Z",
+      "updated_at": "2026-10-30T00:15:34Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T23:18:56.507767Z"
+      "observed_at": "2026-10-30T02:18:44.777513Z"
     },
     {
       "id": "project_239feae36314",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T23:18:25.086829Z"
+      "observed_at": "2026-10-30T02:18:11.394796Z"
     },
     {
-      "id": "project_1b48bd54803d",
-      "project_name": "Smart Jelly",
-      "url": "https://www.producthunt.com/products/smart-jelly",
-      "summary": "Your everyday AI tools and memory in one Mac app.",
+      "id": "project_6e30af5aa325",
+      "project_name": "Floot in ChatGPT",
+      "url": "https://www.producthunt.com/products/floot",
+      "summary": "Build and publish real apps without leaving ChatGPT",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your everyday AI tools and memory in one Mac app」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your everyday AI tools and memory in one Mac app\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T10:57:05Z",
-      "updated_at": "2026-10-29T21:39:13Z",
+      "recommend_reason_zh": "体验它主打的「Build and publish real apps without leaving ChatGPT」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Build and publish real apps without leaving ChatGPT\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T20:14:10Z",
+      "updated_at": "2026-10-30T02:15:34Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T23:18:56.507767Z"
+      "observed_at": "2026-10-30T02:18:44.777513Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1255,
+      "duration_ms": 1221,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 206,
+      "duration_ms": 239,
       "error": null
     }
   ]
