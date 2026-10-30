@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:19:18.642925Z",
+  "generated_at": "2026-10-30T20:18:53.751120Z",
   "date": "2026-10-31",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-30T17:18:39.961904Z"
+      "observed_at": "2026-10-30T20:17:57.968123Z"
     },
     {
-      "id": "project_84c8c219e868",
-      "project_name": "ilse",
-      "url": "https://www.producthunt.com/products/ilse",
-      "summary": "Point at your app and your AI agent changes the code",
+      "id": "project_004d192beecc",
+      "project_name": "Vaani Developer Platform",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+      "summary": "The only voice AI harness that you'll ever need",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Point at your app and your AI agent changes the code」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Point at your app and your AI agent changes the code\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T19:42:40Z",
-      "updated_at": "2026-10-30T17:06:55Z",
+      "recommend_reason_zh": "体验它主打的「The only voice AI harness that you'll ever need」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The only voice AI harness that you'll ever need\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T05:20:54Z",
+      "updated_at": "2026-10-30T20:17:48Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-30T17:19:07.748080Z"
+      "observed_at": "2026-10-30T20:18:41.801744Z"
     },
     {
       "id": "project_239feae36314",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-30T17:18:39.961904Z"
+      "observed_at": "2026-10-30T20:17:57.968123Z"
     },
     {
-      "id": "project_92d9e3213fbc",
-      "project_name": "SparkBots AI (Powered by Jev)",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
-      "summary": "Instantly extract key details and analyze any webpage or PDF",
+      "id": "project_84c8c219e868",
+      "project_name": "ilse",
+      "url": "https://www.producthunt.com/products/ilse",
+      "summary": "Point at your app and your AI agent changes the code",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Instantly extract key details and analyze any webpage or PDF」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Instantly extract key details and analyze any webpage or PDF\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-27T05:29:14Z",
-      "updated_at": "2026-10-30T16:53:40Z",
+      "recommend_reason_zh": "体验它主打的「Point at your app and your AI agent changes the code」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Point at your app and your AI agent changes the code\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T19:42:40Z",
+      "updated_at": "2026-10-30T20:17:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-30T17:19:07.748080Z"
+      "observed_at": "2026-10-30T20:18:41.801744Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 165,
+      "duration_ms": 1579,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 221,
+      "duration_ms": 374,
       "error": null
     }
   ]
