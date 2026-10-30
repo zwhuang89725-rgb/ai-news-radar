@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 05:18:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:19:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Granite Switch 4.1.1 — Update models like you update software</title>
@@ -48,6 +48,14 @@
 <pubDate>Fri, 30 Oct 2026 00:51:00 +0000</pubDate>
 </item>
 <item>
+<title>Google value plunges by $500B as AI fears rattle Wall Street</title>
+<link>https://www.bbc.com/news/articles/cm9qzdqpxy48o</link>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cm9qzdqpxy48o</guid>
+<description>Google value plunges by $500B as AI fears rattle Wall Street</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 21:52:13 +0000</pubDate>
+</item>
+<item>
 <title>How we detect frontier model misalignment</title>
 <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
 <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
@@ -56,20 +64,20 @@
 <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
+<title>AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病</title>
+<link>https://www.aibase.com/news/31989</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31989</guid>
+<description>AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 08:19:26 +0000</pubDate>
+</item>
+<item>
 <title>AWS will be a $1T business, Jassy says. But first, it will spend big.</title>
 <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big</guid>
 <description>AWS will be a $1T business, Jassy says. But first, it will spend big.</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
-</item>
-<item>
-<title>Claude 开进车里：CarPlay 接入后，开车也能语音问 AI</title>
-<link>https://www.aibase.com/news/31982</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31982</guid>
-<description>Claude 开进车里：CarPlay 接入后，开车也能语音问 AI (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 05:18:24 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic’s financials are surprisingly strong</title>
@@ -88,6 +96,14 @@
 <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace</title>
+<link>https://cursor.com/blog/claude-code-extension-security-notice</link>
+<guid isPermaLink="true">https://cursor.com/blog/claude-code-extension-security-notice</guid>
+<description>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace (Cursor Blog)</description>
+<category>Industry news</category>
+<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</title>
 <link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</guid>
@@ -102,6 +118,14 @@
 <description>Claude Opus vs Sonnet vs Haiku: Which Should You Use?</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...</title>
+<link>https://x.com/cursor_ai/status/2116074289053175808</link>
+<guid isPermaLink="true">https://x.com/cursor_ai/status/2116074289053175808</guid>
+<description>We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 07:46:39 +0000</pubDate>
 </item>
 <item>
 <title>Google's AI search problem finally shows up in the earnings report, some investors believe</title>
@@ -120,20 +144,20 @@
 <pubDate>Thu, 29 Oct 2026 14:27:32 +0000</pubDate>
 </item>
 <item>
-<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
-<link>https://openai.com/index/ropes-gray-ai-diligence</link>
-<guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
-<description>How Ropes &amp; Gray is developing AI for transactional diligence (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+<title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
+<link>https://www.aibase.com/news/31991</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31991</guid>
+<description>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 08:19:26 +0000</pubDate>
 </item>
 <item>
-<title>Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI</title>
-<link>https://www.aibase.com/news/31978</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31978</guid>
-<description>Omdia 预估 2027 年 AI PC 渗透率冲 60%，但买它的人其实不为 AI (AIbase)</description>
+<title>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</title>
+<link>https://x.com/thsottiaux/status/2115850175868727621</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2115850175868727621</guid>
+<description>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</description>
 <category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 05:18:24 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:56:07 +0000</pubDate>
 </item>
 <item>
 <title>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</title>
@@ -142,30 +166,6 @@
 <description>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</description>
 <category>Industry news</category>
 <pubDate>Thu, 29 Oct 2026 20:07:09 +0000</pubDate>
-</item>
-<item>
-<title>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
-<link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience</guid>
-<description>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 20:08:31 +0000</pubDate>
-</item>
-<item>
-<title>The Rise of Agentic Attacks: What They Look Like, and Where They're Headed</title>
-<link>https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</link>
-<guid isPermaLink="true">https://www.wiz.io/blog/the-rise-of-agentic-attacks-what-they-look-like-and-where-theyre-headed</guid>
-<description>The Rise of Agentic Attacks: What They Look Like, and Where They're Headed</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 14:36:22 +0000</pubDate>
-</item>
-<item>
-<title>Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</title>
-<link>https://x.com/TencentHunyuan/status/2115851165904814283</link>
-<guid isPermaLink="true">https://x.com/TencentHunyuan/status/2115851165904814283</guid>
-<description>Technical report of Hy-Nomas released last Friday: https://arxiv.org/abs/2610.36729</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 17:00:03 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:19:08.017198Z",
+  "generated_at": "2026-10-30T08:20:09.159409Z",
   "date": "2026-10-30",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-30T05:18:24.199204Z"
+      "observed_at": "2026-10-30T08:19:26.381209Z"
     },
     {
-      "id": "project_359be97eb696",
-      "project_name": "Polylane for ChatGPT",
-      "url": "https://www.producthunt.com/products/polylane",
-      "summary": "Ask ChatGPT what broke in production",
+      "id": "project_004d192beecc",
+      "project_name": "Vaani Developer Platform",
+      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+      "summary": "The only voice AI harness that you'll ever need",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Ask ChatGPT what broke in production」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Ask ChatGPT what broke in production\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T22:04:42Z",
-      "updated_at": "2026-10-30T03:29:10Z",
+      "recommend_reason_zh": "体验它主打的「The only voice AI harness that you'll ever need」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The only voice AI harness that you'll ever need\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T05:20:54Z",
+      "updated_at": "2026-10-30T08:19:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-30T05:18:56.136267Z"
+      "observed_at": "2026-10-30T08:19:57.682359Z"
     },
     {
       "id": "project_239feae36314",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-30T05:18:24.199204Z"
+      "observed_at": "2026-10-30T08:19:26.381209Z"
     },
     {
-      "id": "project_6bc4243ed1be",
-      "project_name": "Arco",
-      "url": "https://www.producthunt.com/products/arco-4",
-      "summary": "GitHub and Linear issues, right inside your Codex",
+      "id": "project_92d9e3213fbc",
+      "project_name": "SparkBots AI (Powered by Jev)",
+      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "summary": "Instantly extract key details and analyze any webpage or PDF",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「GitHub and Linear issues, right inside your Codex」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"GitHub and Linear issues, right inside your Codex\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T05:31:15Z",
-      "updated_at": "2026-10-30T03:29:07Z",
+      "recommend_reason_zh": "体验它主打的「Instantly extract key details and analyze any webpage or PDF」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Instantly extract key details and analyze any webpage or PDF\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-27T05:29:14Z",
+      "updated_at": "2026-10-30T08:19:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-30T05:18:56.136267Z"
+      "observed_at": "2026-10-30T08:19:57.682359Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1156,
+      "duration_ms": 1331,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 120,
+      "duration_ms": 155,
       "error": null
     }
   ]
