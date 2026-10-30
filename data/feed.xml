@@ -5,31 +5,23 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 30 Oct 2026 14:18:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 17:18:39 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI</title>
-<link>https://openai.com/index/updated-model-spec</link>
-<guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+<title>Community safety report and new protections for teens</title>
+<link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+<guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
-<title>添加到 Meta API 的 Webhook IP 范围 / Webhook IP ranges added to the Meta API</title>
-<link>https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 29 Oct 2026 17:14:38 +0000</pubDate>
-</item>
-<item>
-<title>404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化 / Manifestos, Fear, and ‘Loser Thinking’: Inside Proton’s AI Reckoning</title>
-<link>https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning</link>
-<guid isPermaLink="true">https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning</guid>
-<description>404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。（404 Media（RSS））</description>
-<category>多源热议</category>
-<pubDate>Thu, 29 Oct 2026 23:49:53 +0000</pubDate>
+<title>美国司法部首次大规模打击“幽灵学生”，诈骗者用 AI 修完课程骗取学生贷款 / DOJ exposes “ghost students” using AI to complete courses, steal student loans</title>
+<link>https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans</guid>
+<description>美国司法部起诉五人，启动首次针对“幽灵学生”的大规模联邦打击，诈骗者窃取美国公民身份冒充大学生骗取学生贷款，并已从关联肯尼亚人的网络没收超过 75 万美元加密货币。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
 </item>
 <item>
 <title>The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles</title>
@@ -40,20 +32,20 @@
 <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
 </item>
 <item>
-<title>Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common</title>
-<link>https://www.platformer.news/thursday-newsletter-6</link>
-<guid isPermaLink="true">https://www.platformer.news/thursday-newsletter-6</guid>
-<description>Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。（Platformer（热点 RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 00:51:00 +0000</pubDate>
-</item>
-<item>
 <title>Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧 / Google value plunges by $500B as AI fears rattle Wall Street</title>
 <link>https://www.bbc.com/news/articles/cm9qzdqpxy48o</link>
 <guid isPermaLink="true">https://www.bbc.com/news/articles/cm9qzdqpxy48o</guid>
 <description>Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。（Hacker News：AI 热帖）</description>
 <category>行业动态</category>
 <pubDate>Thu, 29 Oct 2026 21:52:13 +0000</pubDate>
+</item>
+<item>
+<title>Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common</title>
+<link>https://www.platformer.news/thursday-newsletter-6</link>
+<guid isPermaLink="true">https://www.platformer.news/thursday-newsletter-6</guid>
+<description>Casey Newton 分析 Google 与 Reddit 同日遭遇的股市重挫：Alphabet 股价跌 12.6%，蒸发约 $5000 亿市值，为史上第二大单日市值缩水；高管承认 AI Mode 变现能力低于传统搜索，尽管 AI Mode 月用户约 10 亿、搜索收入仍增长 12% 至 $633.5 亿。（Platformer（热点 RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 00:51:00 +0000</pubDate>
 </item>
 <item>
 <title>Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update</title>
@@ -120,28 +112,12 @@
 <pubDate>Fri, 30 Oct 2026 07:46:39 +0000</pubDate>
 </item>
 <item>
-<title>Unsloth 发布 Mistral Le Chonk 1-bit GGUF 量化版，可本地运行 1T 参数模型 / Mistral Le Chonk can now run locally!</title>
-<link>https://x.com/UnslothAI/status/2115812784189620265</link>
-<guid isPermaLink="true">https://x.com/UnslothAI/status/2115812784189620265</guid>
-<description>Unsloth 发布 Mistral Le Chonk（Mistral Large 4，1T 参数 MoE，52B 激活）的 Dynamic 1-bit GGUF，可在 Mac Studio 上本地运行，保留 91% top-1 准确率，体积约 233GB（较 1.1TB FP8 小 80%）。图为各量化档位给出硬件需求，1-bit 需 256-270GB 内存，最小 UD-IQ1_S 约占 233GB 磁盘，并支持文本与图像输入、1M 上下文和 160+ 语言。GGUF 与指南见 huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF 和 unsloth.ai/docs/models/mistral-large-4。（X：Unsloth (@UnslothAI)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 14:27:32 +0000</pubDate>
-</item>
-<item>
 <title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
 <link>https://www.aibase.com/news/31994</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31994</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 30 Oct 2026 11:17:25 +0000</pubDate>
-</item>
-<item>
-<title>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</title>
-<link>https://x.com/thsottiaux/status/2115850175868727621</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2115850175868727621</guid>
-<description>Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。（X：Tibo (@thsottiaux)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 16:56:07 +0000</pubDate>
 </item>
 <item>
 <title>Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
@@ -166,6 +142,30 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 30 Oct 2026 08:19:26 +0000</pubDate>
+</item>
+<item>
+<title>Claude多端应用迎来重磅升级，iPhone版正式支持CarPlay语音交互</title>
+<link>https://www.aibase.com/news/31985</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31985</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 08:19:26 +0000</pubDate>
+</item>
+<item>
+<title>Neuralink脑机接口迎来最强升级：Grok接入大脑，患者用意念直接唤醒AI</title>
+<link>https://www.aibase.com/news/31984</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31984</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 08:19:26 +0000</pubDate>
+</item>
+<item>
+<title>Knocket AI — 与来自您的网站或链接的访问者聊天 / Knocket AI — Chat with visitors from your website or link</title>
+<link>https://www.producthunt.com/products/knocket-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/knocket-ai</guid>
+<description>Chat with visitors from your website or link（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Fri, 30 Oct 2026 17:17:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
