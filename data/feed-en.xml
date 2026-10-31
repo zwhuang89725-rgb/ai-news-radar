@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 14:18:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 17:18:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>nemotron-halloween</title>
@@ -14,14 +14,6 @@
 <description>nemotron-halloween (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-</item>
-<item>
-<title>US tech stocks see sharp falls over AI cost fears</title>
-<link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</link>
-<guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</guid>
-<description>US tech stocks see sharp falls over AI cost fears</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 15:01:56 +0000</pubDate>
 </item>
 <item>
 <title>“Black October” for AI Developer Platforms</title>
@@ -54,22 +46,6 @@
 <description>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</description>
 <category>Industry news</category>
 <pubDate>Sat, 31 Oct 2026 03:25:09 +0000</pubDate>
-</item>
-<item>
-<title>Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web</title>
-<link>https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web</link>
-<guid isPermaLink="true">https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web</guid>
-<description>Google's AI Mode doesn't drive traffic "for anybody," Reddit CEO Huffman warns the entire web</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 17:15:24 +0000</pubDate>
-</item>
-<item>
-<title>DOJ exposes “ghost students” using AI to complete courses, steal student loans</title>
-<link>https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans</link>
-<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans</guid>
-<description>DOJ exposes “ghost students” using AI to complete courses, steal student loans</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
 </item>
 <item>
 <title>How to Build Your Own Always-On AI Agent</title>
@@ -109,7 +85,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
 <description>GitHub's AI coding agent that picks and combines models (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 14:15:44 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 17:17:39 +0000</pubDate>
 </item>
 <item>
 <title>Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.</title>
@@ -133,15 +109,15 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
 <description>Turn your new tab into an AI-powered workspace (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 14:14:14 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 17:16:55 +0000</pubDate>
 </item>
 <item>
-<title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
-<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
-<guid isPermaLink="true">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</guid>
-<description>AI startup hacks Anthropic, gains access to employee details, internal messages</description>
+<title>Malware uses LLMs to rank victims by how much they're worth</title>
+<link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
+<guid isPermaLink="true">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</guid>
+<description>Malware uses LLMs to rank victims by how much they're worth</description>
 <category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI raises less than half of $30B target</title>
@@ -152,12 +128,28 @@
 <pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
 </item>
 <item>
+<title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
+<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
+<guid isPermaLink="true">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</guid>
+<description>AI startup hacks Anthropic, gains access to employee details, internal messages</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+</item>
+<item>
 <title>Why Anthropic's Filing Crushed Tech Stocks</title>
 <link>https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</link>
 <guid isPermaLink="true">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</guid>
 <description>Why Anthropic's Filing Crushed Tech Stocks</description>
 <category>Worth watching</category>
 <pubDate>Sat, 31 Oct 2026 12:32:10 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
+<link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
+<guid isPermaLink="true">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</guid>
+<description>Anthropic may not secure investment-grade rating after IPO, Blackstone says</description>
+<category>Worth watching</category>
+<pubDate>Fri, 30 Oct 2026 17:27:25 +0000</pubDate>
 </item>
 <item>
 <title>We Took over ChatGPT Accounts</title>

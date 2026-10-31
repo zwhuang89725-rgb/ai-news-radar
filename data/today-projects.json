@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T14:19:07.300317Z",
-  "date": "2026-10-31",
+  "generated_at": "2026-10-31T17:19:11.877815Z",
+  "date": "2026-11-01",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-31T14:18:17.674231Z"
+      "observed_at": "2026-10-31T17:18:26.124598Z"
     },
     {
-      "id": "project_115c9074fbde",
-      "project_name": "Specsight",
-      "url": "https://www.producthunt.com/products/specsight",
-      "summary": "Product observability for teams shipping fast with AI",
+      "id": "project_41d572bb8750",
+      "project_name": "GitHub Copilot Fusion",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "summary": "GitHub's AI coding agent that picks and combines models",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Product observability for teams shipping fast with AI」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Product observability for teams shipping fast with AI\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-18T18:03:42Z",
-      "updated_at": "2026-10-31T14:17:52Z",
+      "recommend_reason_zh": "体验它主打的「GitHub's AI coding agent that picks and combines models」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"GitHub's AI coding agent that picks and combines models\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T05:39:35Z",
+      "updated_at": "2026-10-31T17:17:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-31T14:18:57.624484Z"
+      "observed_at": "2026-10-31T17:19:01.921082Z"
     },
     {
       "id": "project_5661de317a03",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-31T14:18:17.674231Z"
+      "observed_at": "2026-10-31T17:18:26.124598Z"
     },
     {
-      "id": "project_41d572bb8750",
-      "project_name": "GitHub Copilot Fusion",
-      "url": "https://www.producthunt.com/products/github-copilot-fusion",
-      "summary": "GitHub's AI coding agent that picks and combines models",
+      "id": "project_0dbfd5bd070c",
+      "project_name": "Backenly",
+      "url": "https://www.producthunt.com/products/backenly-2",
+      "summary": "The autonomous backend for AI coding agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「GitHub's AI coding agent that picks and combines models」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"GitHub's AI coding agent that picks and combines models\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T05:39:35Z",
-      "updated_at": "2026-10-31T14:15:44Z",
+      "recommend_reason_zh": "体验它主打的「The autonomous backend for AI coding agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The autonomous backend for AI coding agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T21:07:32Z",
+      "updated_at": "2026-10-31T17:17:36Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-31T14:18:57.624484Z"
+      "observed_at": "2026-10-31T17:19:01.921082Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1420,
+      "duration_ms": 1391,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 265,
+      "item_count": 49,
+      "duration_ms": 93,
       "error": null
     }
   ]
