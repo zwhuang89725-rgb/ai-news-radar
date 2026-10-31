@@ -5,16 +5,8 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 17:18:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 20:17:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
-<item>
-<title>nemotron-halloween</title>
-<link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-</item>
 <item>
 <title>Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms</title>
 <link>https://www.wiz.io/blog/black-october-for-ai-developer-platforms</link>
@@ -48,14 +40,6 @@
 <pubDate>Sat, 31 Oct 2026 03:25:09 +0000</pubDate>
 </item>
 <item>
-<title>OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News / How to Build Your Own Always-On AI Agent</title>
-<link>https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</guid>
-<description>OpenRouter 发布教程，演示用 @openrouter/agent 0.11.0 在 TypeScript 中搭建定时运行的常驻 AI Agent，监控 Hacker News 并生成摘要。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保 / Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
 <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</guid>
@@ -80,12 +64,12 @@
 <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
-<link>https://www.producthunt.com/products/github-copilot-fusion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
-<description>GitHub's AI coding agent that picks and combines models（Product Hunt）</description>
+<title>BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace</title>
+<link>https://www.producthunt.com/products/basetab-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
+<description>Turn your new tab into an AI-powered workspace（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sat, 31 Oct 2026 17:17:39 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 19:50:33 +0000</pubDate>
 </item>
 <item>
 <title>Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.</title>
@@ -96,28 +80,44 @@
 <pubDate>Sat, 31 Oct 2026 13:58:27 +0000</pubDate>
 </item>
 <item>
-<title>谷歌的卫星人工智能服务器向地球传输第一个响应 / Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
-<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
-<description>The Verge</description>
+<title>GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
+<link>https://www.producthunt.com/products/github-copilot-fusion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
+<description>GitHub's AI coding agent that picks and combines models（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 19:48:26 +0000</pubDate>
 </item>
 <item>
-<title>BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace</title>
-<link>https://www.producthunt.com/products/basetab-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
-<description>Turn your new tab into an AI-powered workspace（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Sat, 31 Oct 2026 17:16:55 +0000</pubDate>
+<title>Do the math: How we took over ChatGPT accounts</title>
+<link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+<guid isPermaLink="true">https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>多源热议</category>
+<pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
 </item>
 <item>
-<title>Malware uses LLMs to rank victims by how much they're worth</title>
-<link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
-<guid isPermaLink="true">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</guid>
+<title>人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages</title>
+<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
+<guid isPermaLink="true">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+</item>
+<item>
+<title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
+<link>https://ryanmadden.net/gpt-56-beats-factorio</link>
+<guid isPermaLink="true">https://ryanmadden.net/gpt-56-beats-factorio</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
+</item>
+<item>
+<title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
+<link>https://dl.acm.org/doi/full/10.1145/3706598.3713778</link>
+<guid isPermaLink="true">https://dl.acm.org/doi/full/10.1145/3706598.3713778</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target</title>
@@ -128,12 +128,12 @@
 <pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
 </item>
 <item>
-<title>人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages</title>
-<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
-<guid isPermaLink="true">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</guid>
+<title>Malware uses LLMs to rank victims by how much they're worth</title>
+<link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
+<guid isPermaLink="true">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
 </item>
 <item>
 <title>为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks</title>
@@ -142,22 +142,6 @@
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
 <pubDate>Sat, 31 Oct 2026 12:32:10 +0000</pubDate>
-</item>
-<item>
-<title>Blackstone 表示，Anthropic 在 IPO 后可能无法获得投资级评级 / Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
-<link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
-<guid isPermaLink="true">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Fri, 30 Oct 2026 17:27:25 +0000</pubDate>
-</item>
-<item>
-<title>我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts</title>
-<link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-<guid isPermaLink="true">https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
 </item>
 </channel>
 </rss>

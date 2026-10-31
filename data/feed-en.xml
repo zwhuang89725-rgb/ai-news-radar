@@ -5,16 +5,8 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 17:18:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 20:17:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
-<item>
-<title>nemotron-halloween</title>
-<link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
-<description>nemotron-halloween (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-</item>
 <item>
 <title>“Black October” for AI Developer Platforms</title>
 <link>https://www.wiz.io/blog/black-october-for-ai-developer-platforms</link>
@@ -48,14 +40,6 @@
 <pubDate>Sat, 31 Oct 2026 03:25:09 +0000</pubDate>
 </item>
 <item>
-<title>How to Build Your Own Always-On AI Agent</title>
-<link>https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</guid>
-<description>How to Build Your Own Always-On AI Agent</description>
-<category>Industry news</category>
-<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
 <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</guid>
@@ -80,12 +64,12 @@
 <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
-<link>https://www.producthunt.com/products/github-copilot-fusion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
-<description>GitHub's AI coding agent that picks and combines models (Product Hunt)</description>
+<title>BaseTab AI — Turn your new tab into an AI-powered workspace</title>
+<link>https://www.producthunt.com/products/basetab-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
+<description>Turn your new tab into an AI-powered workspace (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 17:17:39 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 19:50:33 +0000</pubDate>
 </item>
 <item>
 <title>Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.</title>
@@ -96,36 +80,20 @@
 <pubDate>Sat, 31 Oct 2026 13:58:27 +0000</pubDate>
 </item>
 <item>
-<title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
-<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
-<description>Google&amp;#8217;s satellite AI server transmits its first response to Earth (The Verge)</description>
+<title>GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
+<link>https://www.producthunt.com/products/github-copilot-fusion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
+<description>GitHub's AI coding agent that picks and combines models (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 19:48:26 +0000</pubDate>
 </item>
 <item>
-<title>BaseTab AI — Turn your new tab into an AI-powered workspace</title>
-<link>https://www.producthunt.com/products/basetab-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
-<description>Turn your new tab into an AI-powered workspace (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 17:16:55 +0000</pubDate>
-</item>
-<item>
-<title>Malware uses LLMs to rank victims by how much they're worth</title>
-<link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
-<guid isPermaLink="true">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</guid>
-<description>Malware uses LLMs to rank victims by how much they're worth</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI raises less than half of $30B target</title>
-<link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
-<guid isPermaLink="true">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</guid>
-<description>OpenAI raises less than half of $30B target</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
+<title>Do the math: How we took over ChatGPT accounts</title>
+<link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+<guid isPermaLink="true">https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
+<description>Do the math: How we took over ChatGPT accounts</description>
+<category>Multi-source buzz</category>
+<pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
 </item>
 <item>
 <title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
@@ -136,28 +104,44 @@
 <pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
 </item>
 <item>
+<title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
+<link>https://ryanmadden.net/gpt-56-beats-factorio</link>
+<guid isPermaLink="true">https://ryanmadden.net/gpt-56-beats-factorio</guid>
+<description>GPT-5.6 Sol can beat Factorio on peaceful mode</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
+</item>
+<item>
+<title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
+<link>https://dl.acm.org/doi/full/10.1145/3706598.3713778</link>
+<guid isPermaLink="true">https://dl.acm.org/doi/full/10.1145/3706598.3713778</guid>
+<description>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI raises less than half of $30B target</title>
+<link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
+<guid isPermaLink="true">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</guid>
+<description>OpenAI raises less than half of $30B target</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
+</item>
+<item>
+<title>Malware uses LLMs to rank victims by how much they're worth</title>
+<link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
+<guid isPermaLink="true">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</guid>
+<description>Malware uses LLMs to rank victims by how much they're worth</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+</item>
+<item>
 <title>Why Anthropic's Filing Crushed Tech Stocks</title>
 <link>https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</link>
 <guid isPermaLink="true">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</guid>
 <description>Why Anthropic's Filing Crushed Tech Stocks</description>
 <category>Worth watching</category>
 <pubDate>Sat, 31 Oct 2026 12:32:10 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
-<link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
-<guid isPermaLink="true">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</guid>
-<description>Anthropic may not secure investment-grade rating after IPO, Blackstone says</description>
-<category>Worth watching</category>
-<pubDate>Fri, 30 Oct 2026 17:27:25 +0000</pubDate>
-</item>
-<item>
-<title>We Took over ChatGPT Accounts</title>
-<link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-<guid isPermaLink="true">https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
-<description>We Took over ChatGPT Accounts</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
 </item>
 </channel>
 </rss>
