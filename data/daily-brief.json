@@ -1,94 +1,8 @@
 {
-  "generated_at": "2026-10-31T20:17:27.582628Z",
+  "generated_at": "2026-10-31T23:17:35.205569Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 14,
   "items": [
-    {
-      "story_id": "story_80b37c1e163d",
-      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-      "primary_url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-          "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-          "title_en": "“Black October” for AI Developer Platforms",
-          "title_original": "“Black October” for AI Developer Platforms",
-          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T22:51:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-          "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-          "title_en": "“Black October” for AI Developer Platforms",
-          "title_original": "“Black October” for AI Developer Platforms",
-          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T22:51:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7339,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T22:51:44Z",
-      "latest_at": "2026-10-30T22:51:44Z",
-      "primary_item": {
-        "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-        "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-        "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-        "title_en": "“Black October” for AI Developer Platforms",
-        "title_original": "“Black October” for AI Developer Platforms",
-        "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-        "recommend_reason_zh": null,
-        "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
-      }
-    },
     {
       "story_id": "story_8d0709896e67",
       "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
@@ -138,21 +52,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7467,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-31T00:03:47Z",
       "latest_at": "2026-10-31T00:03:47Z",
@@ -172,92 +85,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
-      }
-    },
-    {
-      "story_id": "story_9e6383f9ac28",
-      "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-      "primary_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "54f951a0716a2535d221a0d96f93423786bdd543",
-          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
-          "title_zh": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-          "title_en": "Cracks are emerging in the AI spending boom",
-          "title_original": "Cracks are emerging in the AI spending boom",
-          "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T21:17:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "54f951a0716a2535d221a0d96f93423786bdd543",
-          "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
-          "title_zh": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-          "title_en": "Cracks are emerging in the AI spending boom",
-          "title_original": "Cracks are emerging in the AI spending boom",
-          "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T21:17:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7174,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T21:17:40Z",
-      "latest_at": "2026-10-30T21:17:40Z",
-      "primary_item": {
-        "id": "54f951a0716a2535d221a0d96f93423786bdd543",
-        "title": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom",
-        "title_zh": "科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌",
-        "title_en": "Cracks are emerging in the AI spending boom",
-        "title_original": "Cracks are emerging in the AI spending boom",
-        "summary": "Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -309,15 +137,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -342,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -394,15 +222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7605,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -427,278 +255,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
-      "story_id": "story_2cd26106d24e",
-      "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-      "url": "https://www.ithome.com/1/020/395.htm",
-      "primary_url": "https://www.ithome.com/1/020/395.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
-          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_en": null,
-          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/020/395.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T23:09:21.313000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
-          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_en": null,
-          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/020/395.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T23:09:21.313000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.737,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T23:09:21.313000Z",
-      "latest_at": "2026-10-30T23:09:21.313000Z",
-      "primary_item": {
-        "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
-        "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-        "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-        "title_en": null,
-        "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-        "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/020/395.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
-      }
-    },
-    {
-      "story_id": "story_6b5020161b74",
-      "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "primary_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "45c2be5e007df5d29badf0af4d892942cd6262e7",
-          "title": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_zh": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_original": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T23:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
-          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_zh": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "45c2be5e007df5d29badf0af4d892942cd6262e7",
-          "title": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_zh": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_original": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T23:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
-          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_zh": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6365,
-      "importance": 0.6365,
-      "importance_score": 0.6365,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7234,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T21:52:03Z",
-      "latest_at": "2026-10-30T23:08:12Z",
-      "primary_item": {
-        "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-        "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
-        "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
-      }
-    },
-    {
-      "story_id": "story_56bd0150a143",
-      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "primary_url": "https://www.producthunt.com/products/basetab-ai",
+      "story_id": "story_7649785e238a",
+      "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "primary_url": "https://www.producthunt.com/products/github-copilot-fusion",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
+          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "summary": "GitHub's AI coding agent that picks and combines models",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-10-31T19:50:33Z",
+          "published_at": "2026-10-29T05:39:35Z",
+          "updated_at": "2026-10-31T22:47:52Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
+          "title": "GitHub Copilot Fusion",
+          "title_zh": null,
+          "title_en": "GitHub Copilot Fusion",
+          "title_original": "GitHub Copilot Fusion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -714,30 +306,30 @@
       ],
       "items": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
+          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "summary": "GitHub's AI coding agent that picks and combines models",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-10-31T19:50:33Z",
+          "published_at": "2026-10-29T05:39:35Z",
+          "updated_at": "2026-10-31T22:47:52Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
+          "title": "GitHub Copilot Fusion",
+          "title_zh": null,
+          "title_en": "GitHub Copilot Fusion",
+          "title_original": "GitHub Copilot Fusion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -748,15 +340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5929,
+      "importance": 0.5929,
+      "importance_score": 0.5929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9935,
+        "recency": 0.9929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -764,16 +356,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-10-31T19:50:33Z",
+      "latest_at": "2026-10-31T22:47:52Z",
       "primary_item": {
-        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "summary": "Turn your new tab into an AI-powered workspace",
+        "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+        "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+        "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "summary": "GitHub's AI coding agent that picks and combines models",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/basetab-ai",
+        "url": "https://www.producthunt.com/products/github-copilot-fusion",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -781,7 +373,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -866,15 +458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5723,
-      "importance": 0.5723,
-      "importance_score": 0.5723,
+      "score": 0.5656,
+      "importance": 0.5656,
+      "importance_score": 0.5656,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8784,
+        "recency": 0.8411,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -899,42 +491,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
-      "story_id": "story_7649785e238a",
-      "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-      "url": "https://www.producthunt.com/products/github-copilot-fusion",
-      "primary_url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "story_id": "story_56bd0150a143",
+      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "primary_url": "https://www.producthunt.com/products/basetab-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "summary": "GitHub's AI coding agent that picks and combines models",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-10-31T19:48:26Z",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-10-31T21:33:04Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
-          "title": "GitHub Copilot Fusion",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion",
-          "title_original": "GitHub Copilot Fusion",
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -950,30 +542,30 @@
       ],
       "items": [
         {
-          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "summary": "GitHub's AI coding agent that picks and combines models",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-10-31T19:48:26Z",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-10-31T21:33:04Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
-          "title": "GitHub Copilot Fusion",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion",
-          "title_original": "GitHub Copilot Fusion",
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -984,15 +576,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5929,
-      "importance": 0.5929,
-      "importance_score": 0.5929,
+      "score": 0.5897,
+      "importance": 0.5897,
+      "importance_score": 0.5897,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,16 +592,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-10-31T19:48:26Z",
+      "latest_at": "2026-10-31T21:33:04Z",
       "primary_item": {
-        "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-        "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-        "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "summary": "GitHub's AI coding agent that picks and combines models",
+        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "summary": "Turn your new tab into an AI-powered workspace",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/github-copilot-fusion",
+        "url": "https://www.producthunt.com/products/basetab-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1017,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -1134,15 +726,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5471,
-      "importance": 0.5471,
-      "importance_score": 0.5471,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8682,
+        "recency": 0.8314,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1167,7 +759,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -1252,15 +844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9055,
+        "recency": 0.8671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1285,7 +877,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
+      }
+    },
+    {
+      "story_id": "story_4bd396aab7ea",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "title_zh": null,
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "title_zh": null,
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "title_zh": null,
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "title_zh": null,
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50319358",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T19:39:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9488,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T19:39:19Z",
+      "latest_at": "2026-10-31T19:39:19Z",
+      "primary_item": {
+        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
+        "title": "Anthropic blocks users for anything touching training larger models",
+        "title_zh": null,
+        "title_en": "Anthropic blocks users for anything touching training larger models",
+        "title_original": "Anthropic blocks users for anything touching training larger models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -1370,15 +1080,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9793,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,125 +1113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
-      }
-    },
-    {
-      "story_id": "story_bd0cb60b3055",
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T18:02:29Z",
-      "latest_at": "2026-10-31T18:02:29Z",
-      "primary_item": {
-        "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
-        "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_zh": null,
-        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -1606,15 +1198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
+      "score": 0.5008,
+      "importance": 0.5008,
+      "importance_score": 0.5008,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7833,
+        "recency": 0.7501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1639,7 +1231,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
+      }
+    },
+    {
+      "story_id": "story_bd0cb60b3055",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.927,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:02:29Z",
+      "latest_at": "2026-10-31T18:02:29Z",
+      "primary_item": {
+        "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
+        "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_zh": null,
+        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -1724,15 +1434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9196,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1757,7 +1467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     },
     {
@@ -1842,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8941,
+        "recency": 0.8561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1875,7 +1585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T20:30:17.458203Z"
+        "scored_at": "2026-10-31T23:32:47.805397Z"
       }
     }
   ]
