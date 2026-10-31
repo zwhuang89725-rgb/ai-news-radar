@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 31 Oct 2026 08:18:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 11:18:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>nemotron-halloween</title>
@@ -14,14 +14,6 @@
 <description>nemotron-halloween (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-</item>
-<item>
-<title>Making it easier for websites to express AI training preferences</title>
-<link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-<guid isPermaLink="true">https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
-<description>Making it easier for websites to express AI training preferences (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
 </item>
 <item>
 <title>“Black October” for AI Developer Platforms</title>
@@ -54,14 +46,6 @@
 <description>Cracks are emerging in the AI spending boom</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
-</item>
-<item>
-<title>Community safety report and new protections for teens</title>
-<link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-<guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
-<description>Community safety report and new protections for teens (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</title>
@@ -136,36 +120,52 @@
 <pubDate>Fri, 30 Oct 2026 23:09:21 +0000</pubDate>
 </item>
 <item>
-<title>This incredible. Gemma 4 became the first LLM to run in space?</title>
-<link>https://x.com/_philschmid/status/2116235686445502608</link>
-<guid isPermaLink="true">https://x.com/_philschmid/status/2116235686445502608</guid>
-<description>This incredible. Gemma 4 became the first LLM to run in space?</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 18:28:00 +0000</pubDate>
+<title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
+<link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</guid>
+<description>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says (TechCrunch AI)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
 </item>
 <item>
-<title>Ultrathink</title>
-<link>https://x.com/adocomplete/status/2116224220539883992</link>
-<guid isPermaLink="true">https://x.com/adocomplete/status/2116224220539883992</guid>
-<description>Ultrathink</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 17:42:26 +0000</pubDate>
+<title>BaseTab AI — Turn your new tab into an AI-powered workspace</title>
+<link>https://www.producthunt.com/products/basetab-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
+<description>Turn your new tab into an AI-powered workspace (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 11:19:09 +0000</pubDate>
 </item>
 <item>
-<title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
-<link>https://www.aibase.com/news/31995</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31995</guid>
-<description>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判” (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 11:17:25 +0000</pubDate>
+<title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
+<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
+<description>Google&amp;#8217;s satellite AI server transmits its first response to Earth (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
 </item>
 <item>
-<title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
-<link>https://www.aibase.com/news/31994</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31994</guid>
-<description>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 11:17:25 +0000</pubDate>
+<title>GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
+<link>https://www.producthunt.com/products/github-copilot-fusion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
+<description>GitHub's AI coding agent that picks and combines models (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 11:19:09 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI raises less than half of $30B target</title>
+<link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
+<guid isPermaLink="true">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</guid>
+<description>OpenAI raises less than half of $30B target</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
+</item>
+<item>
+<title>AI Isn't Replacing SREs. It's Deskilling Them</title>
+<link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
+<guid isPermaLink="true">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</guid>
+<description>AI Isn't Replacing SREs. It's Deskilling Them</description>
+<category>Worth watching</category>
+<pubDate>Fri, 30 Oct 2026 15:52:18 +0000</pubDate>
 </item>
 </channel>
 </rss>

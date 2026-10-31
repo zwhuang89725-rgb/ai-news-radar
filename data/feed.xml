@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 08:18:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 11:18:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>nemotron-halloween</title>
@@ -14,14 +14,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-</item>
-<item>
-<title>让网站更容易表达人工智能训练偏好 / Making it easier for websites to express AI training preferences</title>
-<link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-<guid isPermaLink="true">https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms</title>
@@ -54,14 +46,6 @@
 <description>Alphabet、Amazon、Meta、Microsoft 今年计划资本开支合计超 7400 亿美元，投资者情绪从奖励大额投入转向担忧负自由现金流、债务攀升与回报不确定。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
-</item>
-<item>
-<title>社区安全报告和针对青少年的新保护 / Community safety report and new protections for teens</title>
-<link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-<guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic IPO 招股文件披露近 9000 亿美元隐性债务</title>
@@ -136,36 +120,52 @@
 <pubDate>Fri, 30 Oct 2026 23:09:21 +0000</pubDate>
 </item>
 <item>
-<title>Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?</title>
-<link>https://x.com/_philschmid/status/2116235686445502608</link>
-<guid isPermaLink="true">https://x.com/_philschmid/status/2116235686445502608</guid>
-<description>Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。（X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 18:28:00 +0000</pubDate>
+<title>英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
+<link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</guid>
+<description>TechCrunch AI</description>
+<category>多源热议</category>
+<pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 将 Claude Max 套餐更名为 Max 与 Ultra，Ultra 认证账号取消 5 小时限制 / Ultrathink</title>
-<link>https://x.com/adocomplete/status/2116224220539883992</link>
-<guid isPermaLink="true">https://x.com/adocomplete/status/2116224220539883992</guid>
-<description>Anthropic 将 Claude 订阅套餐更名：Max 5x 改为 Max，Max 20x 改为 Ultra，价格不变（Max 100 美元/月、Ultra 200 美元/月）。即日起多数老订阅者的认证 Ultra 账号取消 5 小时限制，新账号保留临时限制以防欺诈滥用，周限额不变。（X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 17:42:26 +0000</pubDate>
+<title>BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace</title>
+<link>https://www.producthunt.com/products/basetab-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
+<description>Turn your new tab into an AI-powered workspace（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 11:19:09 +0000</pubDate>
 </item>
 <item>
-<title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
-<link>https://www.aibase.com/news/31995</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31995</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 11:17:25 +0000</pubDate>
+<title>谷歌的卫星人工智能服务器向地球传输第一个响应 / Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
+<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
 </item>
 <item>
-<title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
-<link>https://www.aibase.com/news/31994</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31994</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 11:17:25 +0000</pubDate>
+<title>GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
+<link>https://www.producthunt.com/products/github-copilot-fusion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
+<description>GitHub's AI coding agent that picks and combines models（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 11:19:09 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target</title>
+<link>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</link>
+<guid isPermaLink="true">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
+</item>
+<item>
+<title>人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them</title>
+<link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
+<guid isPermaLink="true">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Fri, 30 Oct 2026 15:52:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
