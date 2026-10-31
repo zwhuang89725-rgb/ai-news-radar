@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 23:18:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 02:18:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>nemotron-halloween</title>
@@ -22,6 +22,22 @@
 <description>Making it easier for websites to express AI training preferences (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
+</item>
+<item>
+<title>“Black October” for AI Developer Platforms</title>
+<link>https://www.wiz.io/blog/black-october-for-ai-developer-platforms</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/black-october-for-ai-developer-platforms</guid>
+<description>“Black October” for AI Developer Platforms</description>
+<category>Industry news</category>
+<pubDate>Fri, 30 Oct 2026 22:51:44 +0000</pubDate>
+</item>
+<item>
+<title>阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489416&amp;idx=1&amp;sn=9525f61df8086fcd6fe4d4183da068de</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&amp;mid=2247489416&amp;idx=1&amp;sn=9525f61df8086fcd6fe4d4183da068de</guid>
+<description>阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试</description>
+<category>Industry news</category>
+<pubDate>Sat, 31 Oct 2026 00:03:47 +0000</pubDate>
 </item>
 <item>
 <title>US tech stocks see sharp falls over AI cost fears</title>
@@ -72,6 +88,14 @@
 <pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
 </item>
 <item>
+<title>How to Build Your Own Always-On AI Agent</title>
+<link>https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</guid>
+<description>How to Build Your Own Always-On AI Agent</description>
+<category>Industry news</category>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Silicon Valley wants you to invest in miracles</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
@@ -80,12 +104,12 @@
 <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
 </item>
 <item>
-<title>What Google and Reddit's bad days have in common</title>
-<link>https://www.platformer.news/thursday-newsletter-6</link>
-<guid isPermaLink="true">https://www.platformer.news/thursday-newsletter-6</guid>
-<description>What Google and Reddit's bad days have in common</description>
+<title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
+<link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</guid>
+<description>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</description>
 <category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 00:51:00 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
 </item>
 <item>
 <title>AI can turn public security fixes into working exploits before users receive an update</title>
@@ -94,6 +118,14 @@
 <description>AI can turn public security fixes into working exploits before users receive an update</description>
 <category>Industry news</category>
 <pubDate>Fri, 30 Oct 2026 12:07:16 +0000</pubDate>
+</item>
+<item>
+<title>The TL;DR on Figma Weave: Make your creative process repeatable</title>
+<link>https://www.figma.com/blog/the-tldr-on-figma-weave</link>
+<guid isPermaLink="true">https://www.figma.com/blog/the-tldr-on-figma-weave</guid>
+<description>The TL;DR on Figma Weave: Make your creative process repeatable (Figma AI / Agent / Make)</description>
+<category>Industry news</category>
+<pubDate>Sat, 31 Oct 2026 00:58:00 +0000</pubDate>
 </item>
 <item>
 <title>This incredible. Gemma 4 became the first LLM to run in space?</title>
@@ -112,14 +144,6 @@
 <pubDate>Fri, 30 Oct 2026 17:42:26 +0000</pubDate>
 </item>
 <item>
-<title>Fair use benefits everyone</title>
-<link>https://openai.com/index/fair-use-benefits-everyone</link>
-<guid isPermaLink="true">https://openai.com/index/fair-use-benefits-everyone</guid>
-<description>Fair use benefits everyone (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
 <link>https://www.aibase.com/news/31995</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31995</guid>
@@ -136,36 +160,12 @@
 <pubDate>Fri, 30 Oct 2026 11:17:25 +0000</pubDate>
 </item>
 <item>
-<title>AWS will be a $1T business, Jassy says. But first, it will spend big.</title>
-<link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big</guid>
-<description>AWS will be a $1T business, Jassy says. But first, it will spend big.</description>
-<category>Industry news</category>
-<pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
-</item>
-<item>
-<title>AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病</title>
-<link>https://www.aibase.com/news/31989</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31989</guid>
-<description>AI 学会"睡觉"：谷歌想治好大模型边学边忘的老毛病 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 08:19:26 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
 <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</guid>
 <description>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says (TechCrunch AI)</description>
-<category>Worth watching</category>
-<pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
-</item>
-<item>
-<title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
-<link>https://www.aibase.com/news/31991</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31991</guid>
-<description>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 30 Oct 2026 08:19:26 +0000</pubDate>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
 </item>
 </channel>
 </rss>
