@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:18:28.941422Z",
+  "generated_at": "2026-10-31T05:19:25.341212Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8864,
+        "recency": 0.8486,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7845,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9515,
+        "recency": 0.9109,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,7 +260,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -312,15 +312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9681,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,7 +346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -431,15 +431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8474,
+        "recency": 0.8113,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,7 +466,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -518,15 +518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,7 +552,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
+      }
+    },
+    {
+      "story_id": "story_494ce9a30627",
+      "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+      "url": "https://www.ithome.com/1/020/444.htm",
+      "primary_url": "https://www.ithome.com/1/020/444.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
+          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "title_zh": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "title_en": null,
+          "title_original": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "summary": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/020/444.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T03:25:09.697000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
+          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "title_zh": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "title_en": null,
+          "title_original": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "summary": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/020/444.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T03:25:09.697000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9729,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-31T03:25:09.697000Z",
+      "latest_at": "2026-10-31T03:25:09.697000Z",
+      "primary_item": {
+        "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
+        "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+        "title_zh": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+        "title_en": null,
+        "title_original": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+        "summary": "Anthropic 近日提交 IPO 招股文件，彭博社报道其计划未来在服务器、建筑和电力等领域投入近 9,000 亿美元债务。该公司资产负债表显示 1,175 亿美元负债和 1,120 亿美元现金，而租赁合同及数据中心、电力和 GPU 采购协议等表外义务未直接体现；Anthropic 计划通过增加收入和筹集资金支付这些负债。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/020/444.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -604,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7788,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,93 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
-      }
-    },
-    {
-      "story_id": "story_2cd26106d24e",
-      "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-      "url": "https://www.ithome.com/1/020/395.htm",
-      "primary_url": "https://www.ithome.com/1/020/395.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
-          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_en": null,
-          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/020/395.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T23:09:21.313000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
-          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "title_en": null,
-          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/020/395.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T23:09:21.313000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9555,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T23:09:21.313000Z",
-      "latest_at": "2026-10-30T23:09:21.313000Z",
-      "primary_item": {
-        "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
-        "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-        "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-        "title_en": null,
-        "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
-        "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/020/395.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -777,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -863,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.8357,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -897,7 +897,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -949,21 +949,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9672,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-31T00:00:00Z",
       "latest_at": "2026-10-31T00:00:00Z",
@@ -983,7 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1035,21 +1034,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8274,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T13:11:05Z",
       "latest_at": "2026-10-30T13:11:05Z",
@@ -1069,7 +1067,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1121,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1207,15 +1205,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8148,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1240,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1292,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,7 +1323,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
+      }
+    },
+    {
+      "story_id": "story_2cd26106d24e",
+      "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+      "url": "https://www.ithome.com/1/020/395.htm",
+      "primary_url": "https://www.ithome.com/1/020/395.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
+          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_en": null,
+          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/020/395.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T23:09:21.313000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
+          "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "title_en": null,
+          "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+          "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/020/395.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T23:09:21.313000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9148,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T23:09:21.313000Z",
+      "latest_at": "2026-10-30T23:09:21.313000Z",
+      "primary_item": {
+        "id": "de422c20eb0cea07d256e3fb44d27ac3ce3692b1",
+        "title": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+        "title_zh": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+        "title_en": null,
+        "title_original": "阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能",
+        "summary": "阿里巴巴发布公告，说明千问集成 Apple 智能后用户可自主选择是否开通，功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月 iOS 27.3 正式发布时面向中国用户推出。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/020/395.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1377,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1410,7 +1494,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1462,15 +1546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8456,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1495,7 +1579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1547,15 +1631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.805,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1580,7 +1664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     },
     {
@@ -1632,15 +1716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.805,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1665,158 +1749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
-      }
-    },
-    {
-      "story_id": "story_6b5020161b74",
-      "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "primary_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "45c2be5e007df5d29badf0af4d892942cd6262e7",
-          "title": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_zh": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_original": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T23:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
-          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_zh": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-          "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "45c2be5e007df5d29badf0af4d892942cd6262e7",
-          "title": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_zh": "Anthropic 首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "title_original": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T23:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0ce31924f1081ac47f59e7be5d0b6f32edf79348",
-          "title": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_zh": "报告称，Anthropic 预计在首次公开募股后将获得信用机构的高“垃圾”评级",
-          "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T21:52:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6751,
-      "importance": 0.6751,
-      "importance_score": 0.6751,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9379,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T21:52:03Z",
-      "latest_at": "2026-10-30T23:08:12Z",
-      "primary_item": {
-        "id": "edaaeb225c3a7ae15d856159b452ac829e16c135",
-        "title": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级 / Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "title_zh": "英国《金融时报》报道称，Anthropic 预计在 IPO 后将获得信用机构的高“垃圾”评级",
-        "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "title_original": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T02:19:22.457908Z"
+        "scored_at": "2026-10-31T05:20:17.569246Z"
       }
     }
   ]
