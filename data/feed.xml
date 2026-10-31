@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 31 Oct 2026 11:18:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 14:18:17 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>nemotron-halloween</title>
@@ -14,6 +14,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
+</item>
+<item>
+<title>AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears</title>
+<link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</link>
+<guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</guid>
+<description>BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 15:01:56 +0000</pubDate>
 </item>
 <item>
 <title>Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms</title>
@@ -30,14 +38,6 @@
 <description>10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。（公众号：千问APP（阿里））</description>
 <category>行业动态</category>
 <pubDate>Sat, 31 Oct 2026 00:03:47 +0000</pubDate>
-</item>
-<item>
-<title>AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears</title>
-<link>https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</link>
-<guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvwy72e0n72yo</guid>
-<description>BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 15:01:56 +0000</pubDate>
 </item>
 <item>
 <title>科技巨头 AI 资本开支超 7400 亿美元，投资者担忧升温引发市场下跌 / Cracks are emerging in the AI spending boom</title>
@@ -72,14 +72,6 @@
 <pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
 </item>
 <item>
-<title>The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
-<description>The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。（The Verge：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
-</item>
-<item>
 <title>OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News / How to Build Your Own Always-On AI Agent</title>
 <link>https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</link>
 <guid isPermaLink="true">https://openrouter.ai/blog/tutorials/build-always-on-ai-agent</guid>
@@ -94,22 +86,6 @@
 <description>据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
-</item>
-<item>
-<title>Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update</title>
-<link>https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</link>
-<guid isPermaLink="true">https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</guid>
-<description>Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。（Epoch AI：Gradient Updates（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 12:07:16 +0000</pubDate>
-</item>
-<item>
-<title>Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable</title>
-<link>https://www.figma.com/blog/the-tldr-on-figma-weave</link>
-<guid isPermaLink="true">https://www.figma.com/blog/the-tldr-on-figma-weave</guid>
-<description>Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。（Figma AI / Agent / Make）</description>
-<category>行业动态</category>
-<pubDate>Sat, 31 Oct 2026 00:58:00 +0000</pubDate>
 </item>
 <item>
 <title>阿里巴巴：Apple 智能国行用户可自主选择是否开通千问集成功能</title>
@@ -128,12 +104,20 @@
 <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
 </item>
 <item>
-<title>BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace</title>
-<link>https://www.producthunt.com/products/basetab-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
-<description>Turn your new tab into an AI-powered workspace（Product Hunt）</description>
+<title>GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
+<link>https://www.producthunt.com/products/github-copilot-fusion</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
+<description>GitHub's AI coding agent that picks and combines models（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sat, 31 Oct 2026 11:19:09 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 14:15:44 +0000</pubDate>
+</item>
+<item>
+<title>Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.</title>
+<link>https://github.com/Orkas-AI/Orkas</link>
+<guid isPermaLink="true">https://github.com/Orkas-AI/Orkas</guid>
+<description>Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 13:58:27 +0000</pubDate>
 </item>
 <item>
 <title>谷歌的卫星人工智能服务器向地球传输第一个响应 / Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
@@ -144,12 +128,20 @@
 <pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
-<link>https://www.producthunt.com/products/github-copilot-fusion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
-<description>GitHub's AI coding agent that picks and combines models（Product Hunt）</description>
+<title>BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace</title>
+<link>https://www.producthunt.com/products/basetab-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
+<description>Turn your new tab into an AI-powered workspace（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sat, 31 Oct 2026 11:19:09 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 14:14:14 +0000</pubDate>
+</item>
+<item>
+<title>人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages</title>
+<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
+<guid isPermaLink="true">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 筹集的资金不到 $30B 目标的一半 / OpenAI raises less than half of $30B target</title>
@@ -160,12 +152,20 @@
 <pubDate>Sat, 31 Oct 2026 03:22:44 +0000</pubDate>
 </item>
 <item>
-<title>人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them</title>
-<link>https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</link>
-<guid isPermaLink="true">https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling</guid>
+<title>为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks</title>
+<link>https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</link>
+<guid isPermaLink="true">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Fri, 30 Oct 2026 15:52:18 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 12:32:10 +0000</pubDate>
+</item>
+<item>
+<title>我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts</title>
+<link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+<guid isPermaLink="true">https://www.parameter.ai/labs/we-found-a-gap-at-openai</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:18:33.800766Z",
+  "generated_at": "2026-10-31T14:18:17.674231Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7783,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,179 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
-      }
-    },
-    {
-      "story_id": "story_80b37c1e163d",
-      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-      "primary_url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-          "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-          "title_en": "“Black October” for AI Developer Platforms",
-          "title_original": "“Black October” for AI Developer Platforms",
-          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T22:51:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-          "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-          "title_en": "“Black October” for AI Developer Platforms",
-          "title_original": "“Black October” for AI Developer Platforms",
-          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T22:51:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8355,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T22:51:44Z",
-      "latest_at": "2026-10-30T22:51:44Z",
-      "primary_item": {
-        "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
-        "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
-        "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
-        "title_en": "“Black October” for AI Developer Platforms",
-        "title_original": "“Black October” for AI Developer Platforms",
-        "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
-        "recommend_reason_zh": null,
-        "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
-      }
-    },
-    {
-      "story_id": "story_8d0709896e67",
-      "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_en": null,
-          "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:03:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_en": null,
-          "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:03:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8501,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-31T00:03:47Z",
-      "latest_at": "2026-10-31T00:03:47Z",
-      "primary_item": {
-        "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-        "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-        "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-        "title_en": null,
-        "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-        "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -344,15 +172,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7441,
+        "recency": 0.7126,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -379,7 +207,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
+      }
+    },
+    {
+      "story_id": "story_80b37c1e163d",
+      "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
+      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+      "primary_url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
+          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
+          "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+          "title_en": "“Black October” for AI Developer Platforms",
+          "title_original": "“Black October” for AI Developer Platforms",
+          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T22:51:44Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wiz：Research（安全研究）"
+      ],
+      "items": [
+        {
+          "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
+          "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
+          "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+          "title_en": "“Black October” for AI Developer Platforms",
+          "title_original": "“Black October” for AI Developer Platforms",
+          "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T22:51:44Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8001,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T22:51:44Z",
+      "latest_at": "2026-10-30T22:51:44Z",
+      "primary_item": {
+        "id": "0a76bed5a0bfa32c56fb84e613196f584fccb0ba",
+        "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件 / “Black October” for AI Developer Platforms",
+        "title_zh": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
+        "title_en": "“Black October” for AI Developer Platforms",
+        "title_original": "“Black October” for AI Developer Platforms",
+        "summary": "Wiz 研究团队梳理 10 月内至少九个 AI 开发者平台披露的安全事件，包括 Fireworks AI、Lightning AI、Railway、Warp、OpenCode 等，多起报告指向凭据窃取、agent swarm 攻击和以“蒸馏”为目的的窃取。",
+        "recommend_reason_zh": null,
+        "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T14:19:13.647802Z"
+      }
+    },
+    {
+      "story_id": "story_8d0709896e67",
+      "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
+          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "title_en": null,
+          "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T00:03:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
+          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "title_en": null,
+          "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T00:03:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8141,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-31T00:03:47Z",
+      "latest_at": "2026-10-31T00:03:47Z",
+      "primary_item": {
+        "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
+        "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+        "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+        "title_en": null,
+        "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+        "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -431,15 +431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8168,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -465,7 +465,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -517,15 +517,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8923,
+        "recency": 0.8545,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -551,7 +551,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -603,21 +603,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7705,
+        "recency": 0.7379,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T17:15:24Z",
       "latest_at": "2026-10-30T17:15:24Z",
@@ -637,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -689,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -722,92 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
-      }
-    },
-    {
-      "story_id": "story_4c05b26f3043",
-      "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7265,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T13:11:05Z",
-      "latest_at": "2026-10-30T13:11:05Z",
-      "primary_item": {
-        "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-        "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-        "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-        "title_en": "Silicon Valley wants you to invest in miracles",
-        "title_original": "Silicon Valley wants you to invest in miracles",
-        "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -859,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -892,7 +806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -944,15 +858,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8659,
+        "recency": 0.8292,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,177 +892,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
-      }
-    },
-    {
-      "story_id": "story_dfe72b41cb92",
-      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-      "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-      "primary_url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-          "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-          "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-          "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-          "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:07:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Epoch AI：Gradient Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-          "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-          "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-          "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-          "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:07:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T12:07:16Z",
-      "latest_at": "2026-10-30T12:07:16Z",
-      "primary_item": {
-        "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-        "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-        "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-        "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-        "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-        "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-        "recommend_reason_zh": null,
-        "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-        "source": "Epoch AI：Gradient Updates（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
-      }
-    },
-    {
-      "story_id": "story_9185a97dc649",
-      "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-      "primary_url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-      "source": "Figma AI / Agent / Make",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-          "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:58:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Figma AI / Agent / Make"
-      ],
-      "items": [
-        {
-          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-          "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:58:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8613,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-31T00:58:00Z",
-      "latest_at": "2026-10-31T00:58:00Z",
-      "primary_item": {
-        "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-        "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-        "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-        "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-        "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-        "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-        "recommend_reason_zh": null,
-        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-        "source": "Figma AI / Agent / Make",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -1200,21 +944,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.839,
+        "recency": 0.8035,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T23:09:21.313000Z",
       "latest_at": "2026-10-30T23:09:21.313000Z",
@@ -1234,7 +977,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -1352,15 +1095,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6545,
-      "importance": 0.6545,
-      "importance_score": 0.6545,
+      "score": 0.6482,
+      "importance": 0.6482,
+      "importance_score": 0.6482,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8236,
+        "recency": 0.7887,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1385,42 +1128,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
-      "story_id": "story_7d8b2e57a16f",
-      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "primary_url": "https://www.producthunt.com/products/basetab-ai",
+      "story_id": "story_7649785e238a",
+      "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+      "url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "primary_url": "https://www.producthunt.com/products/github-copilot-fusion",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
+          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "summary": "GitHub's AI coding agent that picks and combines models",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-10-31T11:00:12Z",
+          "published_at": "2026-10-29T05:39:35Z",
+          "updated_at": "2026-10-31T14:15:44Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
+          "title": "GitHub Copilot Fusion",
+          "title_zh": null,
+          "title_en": "GitHub Copilot Fusion",
+          "title_original": "GitHub Copilot Fusion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1436,30 +1179,30 @@
       ],
       "items": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
+          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+          "summary": "GitHub's AI coding agent that picks and combines models",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-10-31T11:00:12Z",
+          "published_at": "2026-10-29T05:39:35Z",
+          "updated_at": "2026-10-31T14:15:44Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
+          "title": "GitHub Copilot Fusion",
+          "title_zh": null,
+          "title_en": "GitHub Copilot Fusion",
+          "title_original": "GitHub Copilot Fusion",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
+          "url": "https://www.producthunt.com/products/github-copilot-fusion",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1470,32 +1213,32 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5934,
-      "importance": 0.5934,
-      "importance_score": 0.5934,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.9994,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T11:00:12Z",
-      "latest_at": "2026-10-31T11:19:09.715000Z",
+      "earliest_at": "2026-10-31T11:19:09.715000Z",
+      "latest_at": "2026-10-31T14:15:44Z",
       "primary_item": {
-        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "summary": "Turn your new tab into an AI-powered workspace",
+        "id": "164bc916d7614aa824fd54c0bd7515878401a319",
+        "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
+        "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
+        "summary": "GitHub's AI coding agent that picks and combines models",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/basetab-ai",
+        "url": "https://www.producthunt.com/products/github-copilot-fusion",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1503,7 +1246,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
+      }
+    },
+    {
+      "story_id": "story_73470a4c9770",
+      "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "primary_url": "https://github.com/Orkas-AI/Orkas",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_zh": null,
+          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "title_zh": null,
+          "title_en": "Orkas-AI /      Orkas",
+          "title_original": "Orkas-AI /      Orkas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:58:27.659000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_zh": null,
+          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
+          "title": "Orkas-AI /      Orkas",
+          "title_zh": null,
+          "title_en": "Orkas-AI /      Orkas",
+          "title_original": "Orkas-AI /      Orkas",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Orkas-AI/Orkas",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:58:27.659000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9577,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T11:18:33.800766Z",
+      "latest_at": "2026-10-31T13:58:27.659000Z",
+      "primary_item": {
+        "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
+        "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "title_zh": null,
+        "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/Orkas-AI/Orkas",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -1587,15 +1448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5764,
-      "importance": 0.5764,
-      "importance_score": 0.5764,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7829,
+        "recency": 0.7498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1620,42 +1481,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
-      "story_id": "story_783b177dc145",
-      "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-      "url": "https://www.producthunt.com/products/github-copilot-fusion",
-      "primary_url": "https://www.producthunt.com/products/github-copilot-fusion",
+      "story_id": "story_56bd0150a143",
+      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "primary_url": "https://www.producthunt.com/products/basetab-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "summary": "GitHub's AI coding agent that picks and combines models",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-10-31T11:00:21Z",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-10-31T14:14:14Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
-          "title": "GitHub Copilot Fusion",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion",
-          "title_original": "GitHub Copilot Fusion",
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1671,30 +1532,30 @@
       ],
       "items": [
         {
-          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "summary": "GitHub's AI coding agent that picks and combines models",
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-10-31T11:00:21Z",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-10-31T14:14:14Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
-          "title": "GitHub Copilot Fusion",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion",
-          "title_original": "GitHub Copilot Fusion",
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
+          "url": "https://www.producthunt.com/products/basetab-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1705,32 +1566,32 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5934,
-      "importance": 0.5934,
-      "importance_score": 0.5934,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.999,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T11:00:21Z",
-      "latest_at": "2026-10-31T11:19:09.715000Z",
+      "earliest_at": "2026-10-31T11:19:09.715000Z",
+      "latest_at": "2026-10-31T14:14:14Z",
       "primary_item": {
-        "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-        "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-        "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "summary": "GitHub's AI coding agent that picks and combines models",
+        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "summary": "Turn your new tab into an AI-powered workspace",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/github-copilot-fusion",
+        "url": "https://www.producthunt.com/products/basetab-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1738,7 +1599,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
+      }
+    },
+    {
+      "story_id": "story_b76c67efad88",
+      "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "primary_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "cb363902fc192c257c1b07df331e250226804bca",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50315990",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cb363902fc192c257c1b07df331e250226804bca",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50315990",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9873,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T13:25:10Z",
+      "latest_at": "2026-10-31T13:25:10Z",
+      "primary_item": {
+        "id": "cb363902fc192c257c1b07df331e250226804bca",
+        "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+        "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
@@ -1823,15 +1802,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8918,
+        "recency": 0.854,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1856,46 +1835,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     },
     {
-      "story_id": "story_6b518e2b8570",
-      "title": "人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "primary_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "story_id": "story_c641336dd047",
+      "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "primary_url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "419e5622cadbbfe164f29474fde977f6795612bd",
-          "title": "人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_zh": "人工智能不会取代 SRE。这正在削弱他们的技能",
-          "title_en": "AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_original": "AI Isn't Replacing SREs. It's Deskilling Them",
+          "id": "2821a27e01fb717e64de459d5faad8aad83b06b7",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-30T15:52:18Z",
+          "published_at": "2026-10-31T12:32:10Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "f8e58da2c46d2f934eac1823b2aff97708e3d21c",
-          "title": "人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_zh": "人工智能不会取代 SRE。这正在削弱他们的技能",
-          "title_en": "AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_original": "AI Isn't Replacing SREs. It's Deskilling Them",
+          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50305693",
+          "url": "https://news.ycombinator.com/item?id=50315574",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T15:52:18Z",
+          "published_at": "2026-10-31T12:32:10Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1907,66 +1886,66 @@
       ],
       "items": [
         {
-          "id": "419e5622cadbbfe164f29474fde977f6795612bd",
-          "title": "人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_zh": "人工智能不会取代 SRE。这正在削弱他们的技能",
-          "title_en": "AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_original": "AI Isn't Replacing SREs. It's Deskilling Them",
+          "id": "2821a27e01fb717e64de459d5faad8aad83b06b7",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-30T15:52:18Z",
+          "published_at": "2026-10-31T12:32:10Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "f8e58da2c46d2f934eac1823b2aff97708e3d21c",
-          "title": "人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_zh": "人工智能不会取代 SRE。这正在削弱他们的技能",
-          "title_en": "AI Isn't Replacing SREs. It's Deskilling Them",
-          "title_original": "AI Isn't Replacing SREs. It's Deskilling Them",
+          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
+          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50305693",
+          "url": "https://news.ycombinator.com/item?id=50315574",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T15:52:18Z",
+          "published_at": "2026-10-31T12:32:10Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7553,
+        "recency": 0.9748,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T15:52:18Z",
-      "latest_at": "2026-10-30T15:52:18Z",
+      "earliest_at": "2026-10-31T12:32:10Z",
+      "latest_at": "2026-10-31T12:32:10Z",
       "primary_item": {
-        "id": "419e5622cadbbfe164f29474fde977f6795612bd",
-        "title": "人工智能不会取代 SRE。这正在削弱他们的技能 / AI Isn't Replacing SREs. It's Deskilling Them",
-        "title_zh": "人工智能不会取代 SRE。这正在削弱他们的技能",
-        "title_en": "AI Isn't Replacing SREs. It's Deskilling Them",
-        "title_original": "AI Isn't Replacing SREs. It's Deskilling Them",
+        "id": "2821a27e01fb717e64de459d5faad8aad83b06b7",
+        "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
+        "title_zh": "为什么 Anthropic 的文件会压垮科技股",
+        "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
+        "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1974,7 +1953,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T11:19:30.945715Z"
+        "scored_at": "2026-10-31T14:19:13.647802Z"
+      }
+    },
+    {
+      "story_id": "story_57d101ca8a1e",
+      "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9466,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T10:30:11Z",
+      "latest_at": "2026-10-31T10:30:11Z",
+      "primary_item": {
+        "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+        "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+        "title_zh": "我们接管了 ChatGPT 帐户",
+        "title_en": "We Took over ChatGPT Accounts",
+        "title_original": "We Took over ChatGPT Accounts",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T14:19:13.647802Z"
       }
     }
   ]
