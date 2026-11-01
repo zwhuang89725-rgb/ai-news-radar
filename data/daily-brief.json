@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-01T05:18:42.012652Z",
+  "generated_at": "2026-11-01T08:18:26.460299Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_56bd0150a143",
@@ -24,7 +24,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T05:18:48Z",
+          "updated_at": "2026-11-01T08:05:31Z",
           "recency_basis": "updated_at"
         },
         {
@@ -63,7 +63,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T05:18:48Z",
+          "updated_at": "2026-11-01T08:05:31Z",
           "recency_basis": "updated_at"
         },
         {
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -101,7 +101,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-11-01T05:18:48Z",
+      "latest_at": "2026-11-01T08:05:31Z",
       "primary_item": {
         "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
         "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
@@ -118,7 +118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -142,7 +142,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T05:18:46Z",
+          "updated_at": "2026-11-01T07:59:39Z",
           "recency_basis": "updated_at"
         },
         {
@@ -181,7 +181,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T05:18:46Z",
+          "updated_at": "2026-11-01T07:59:39Z",
           "recency_basis": "updated_at"
         },
         {
@@ -203,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5934,
+      "importance": 0.5934,
+      "importance_score": 0.5934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9955,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -219,7 +219,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-11-01T05:18:46Z",
+      "latest_at": "2026-11-01T07:59:39Z",
       "primary_item": {
         "id": "164bc916d7614aa824fd54c0bd7515878401a319",
         "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
@@ -236,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -321,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.553,
-      "importance": 0.553,
-      "importance_score": 0.553,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.7384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -354,46 +354,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
-      "story_id": "story_a8cf7a3536eb",
-      "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
-      "primary_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "story_id": "story_fe78a93aa7e9",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "primary_url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
-          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "The AI cost of JavaScript frameworks",
+          "title_zh": null,
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-01T02:19:53Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
-          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
-          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "The AI cost of JavaScript frameworks",
+          "title_zh": null,
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50322173",
+          "url": "https://news.ycombinator.com/item?id=50323088",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-01T02:19:53Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -405,66 +405,66 @@
       ],
       "items": [
         {
-          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
-          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+          "title": "The AI cost of JavaScript frameworks",
+          "title_zh": null,
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-01T02:19:53Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
-          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
-          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "id": "65f9daa1ba8b9ac866c042942145e04ba51a14be",
+          "title": "The AI cost of JavaScript frameworks",
+          "title_zh": null,
+          "title_en": "The AI cost of JavaScript frameworks",
+          "title_original": "The AI cost of JavaScript frameworks",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50322173",
+          "url": "https://news.ycombinator.com/item?id=50323088",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-01T02:19:53Z",
+          "published_at": "2026-11-01T06:06:19Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9579,
+        "recency": 0.9687,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-01T02:19:53Z",
-      "latest_at": "2026-11-01T02:19:53Z",
+      "earliest_at": "2026-11-01T06:06:19Z",
+      "latest_at": "2026-11-01T06:06:19Z",
       "primary_item": {
-        "id": "86dac9685189f611ba8217fa9e0123727ce37172",
-        "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
-        "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "id": "4be52ae5d2d921ea14c314522926b5bc8638a606",
+        "title": "The AI cost of JavaScript frameworks",
+        "title_zh": null,
+        "title_en": "The AI cost of JavaScript frameworks",
+        "title_original": "The AI cost of JavaScript frameworks",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -472,7 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -557,15 +557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8597,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -590,7 +590,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
+      }
+    },
+    {
+      "story_id": "story_a8cf7a3536eb",
+      "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "primary_url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c813980448395c850ee21cd24719bbc76b0d4fc",
+          "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+          "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50322173",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T02:19:53Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9173,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T02:19:53Z",
+      "latest_at": "2026-11-01T02:19:53Z",
+      "primary_item": {
+        "id": "86dac9685189f611ba8217fa9e0123727ce37172",
+        "title": "巴西法院制裁因在法庭备案中迅速注入的律师 / Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "title_zh": "巴西法院制裁因在法庭备案中迅速注入的律师",
+        "title_en": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "title_original": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T08:26:37.732418Z"
+      }
+    },
+    {
+      "story_id": "story_bd0cb60b3055",
+      "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8138,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:02:29Z",
+      "latest_at": "2026-10-31T18:02:29Z",
+      "primary_item": {
+        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+        "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
+        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -707,15 +943,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7622,
+        "recency": 0.7299,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -740,243 +976,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
-      }
-    },
-    {
-      "story_id": "story_bd0cb60b3055",
-      "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8498,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T18:02:29Z",
-      "latest_at": "2026-10-31T18:02:29Z",
-      "primary_item": {
-        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
-        "title": "生成式人工智能对批判性思维的影响：自我报告（2025） / The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_zh": "生成式人工智能对批判性思维的影响：自我报告（2025）",
-        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
-      }
-    },
-    {
-      "story_id": "story_f4bfb4b46446",
-      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
-          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-          "title_zh": "AI文本水印和质量损失",
-          "title_en": "AI text watermarking and quality loss",
-          "title_original": "AI text watermarking and quality loss",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T21:50:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8977,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T21:50:13Z",
-      "latest_at": "2026-10-31T21:50:13Z",
-      "primary_item": {
-        "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
-        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
-        "title_zh": "AI文本水印和质量损失",
-        "title_en": "AI text watermarking and quality loss",
-        "title_original": "AI text watermarking and quality loss",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -1061,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8073,
+        "recency": 0.7731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1094,46 +1094,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
-      "story_id": "story_d3473ed57e42",
-      "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "story_id": "story_f4bfb4b46446",
+      "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
-          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 使用限制合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
+          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T21:49:07Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
-          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 使用限制合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320588",
+          "url": "https://news.ycombinator.com/item?id=50320599",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T21:49:07Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1145,66 +1145,66 @@
       ],
       "items": [
         {
-          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
-          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 使用限制合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
+          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-31T21:49:07Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
-          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-          "title_zh": "ChatGPT 和 Codex 使用限制合并",
-          "title_en": "ChatGPT and Codex usage limits merging",
-          "title_original": "ChatGPT and Codex usage limits merging",
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+          "title_zh": "AI文本水印和质量损失",
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50320588",
+          "url": "https://news.ycombinator.com/item?id=50320599",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T21:49:07Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8974,
+        "recency": 0.8597,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T21:49:07Z",
-      "latest_at": "2026-10-31T21:49:07Z",
+      "earliest_at": "2026-10-31T21:50:13Z",
+      "latest_at": "2026-10-31T21:50:13Z",
       "primary_item": {
-        "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
-        "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
-        "title_zh": "ChatGPT 和 Codex 使用限制合并",
-        "title_en": "ChatGPT and Codex usage limits merging",
-        "title_original": "ChatGPT and Codex usage limits merging",
+        "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+        "title": "AI文本水印和质量损失 / AI text watermarking and quality loss",
+        "title_zh": "AI文本水印和质量损失",
+        "title_en": "AI text watermarking and quality loss",
+        "title_original": "AI text watermarking and quality loss",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1212,7 +1212,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -1297,15 +1297,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7949,
+        "recency": 0.7613,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,7 +1330,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
+      }
+    },
+    {
+      "story_id": "story_d3473ed57e42",
+      "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "primary_url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320588",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4b82a17efd51b44486cb9abc366e41282375300e",
+          "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+          "title_zh": "ChatGPT 和 Codex 使用限制合并",
+          "title_en": "ChatGPT and Codex usage limits merging",
+          "title_original": "ChatGPT and Codex usage limits merging",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320588",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T21:49:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8594,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T21:49:07Z",
+      "latest_at": "2026-10-31T21:49:07Z",
+      "primary_item": {
+        "id": "eafcbe69da4dfa03812a20e734473be558c8483d",
+        "title": "ChatGPT 和 Codex 使用限制合并 / ChatGPT and Codex usage limits merging",
+        "title_zh": "ChatGPT 和 Codex 使用限制合并",
+        "title_en": "ChatGPT and Codex usage limits merging",
+        "title_original": "ChatGPT and Codex usage limits merging",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -1415,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8698,
+        "recency": 0.833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,7 +1566,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     },
     {
@@ -1533,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5071,
-      "importance": 0.5071,
-      "importance_score": 0.5071,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7849,
+        "recency": 0.7516,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1566,7 +1684,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T05:20:01.626833Z"
+        "scored_at": "2026-11-01T08:26:37.732418Z"
       }
     }
   ]
