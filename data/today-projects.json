@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:18:54.755385Z",
+  "generated_at": "2026-11-01T20:18:13.761083Z",
   "date": "2026-11-02",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T17:17:47.038659Z"
+      "observed_at": "2026-11-01T20:17:29.461560Z"
     },
     {
       "id": "project_f6ae4e322b42",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「The AI research agent with its own cloud lab」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"The AI research agent with its own cloud lab\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-26T10:07:37Z",
-      "updated_at": "2026-11-01T17:16:02Z",
+      "updated_at": "2026-11-01T20:17:22Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T17:18:44.020403Z"
+      "observed_at": "2026-11-01T20:18:01.525151Z"
     },
     {
       "id": "project_7e7a6ce6c81f",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T17:17:47.038659Z"
+      "observed_at": "2026-11-01T20:17:29.461560Z"
     },
     {
-      "id": "project_ce7071017850",
-      "project_name": "Riverside Agents",
-      "url": "https://www.producthunt.com/products/riverside-fm",
-      "summary": "A team of AI agents for video: produce, edit, clip, post",
+      "id": "project_095d4671ea97",
+      "project_name": "Fluent 2",
+      "url": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
+      "summary": "AI teammates that run locally on your Mac",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A team of AI agents for video: produce, edit, clip, post」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A team of AI agents for video: produce, edit, clip, post\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T17:33:37Z",
-      "updated_at": "2026-11-01T17:12:56Z",
+      "recommend_reason_zh": "体验它主打的「AI teammates that run locally on your Mac」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI teammates that run locally on your Mac\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T18:35:46Z",
+      "updated_at": "2026-11-01T20:00:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T17:18:44.020403Z"
+      "observed_at": "2026-11-01T20:18:01.525151Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 1026,
+      "duration_ms": 351,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 47,
-      "duration_ms": 180,
+      "item_count": 49,
+      "duration_ms": 374,
       "error": null
     }
   ]
