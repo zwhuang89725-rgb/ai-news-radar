@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:19:14.179371Z",
+  "generated_at": "2026-11-01T05:19:51.539693Z",
   "date": "2026-11-01",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T02:18:36.413055Z"
+      "observed_at": "2026-11-01T05:18:42.012652Z"
     },
     {
-      "id": "project_e75d64348350",
-      "project_name": "Pluto Door",
-      "url": "https://www.producthunt.com/products/pluto-door",
-      "summary": "SSH client with an AI agent and a desktop for every server",
+      "id": "project_3ccc85aba186",
+      "project_name": "Coding Wrapped",
+      "url": "https://www.producthunt.com/products/coding-wrapped",
+      "summary": "See how you really vibe code with Claude Code & Codex",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "挑一个日常桌面任务试试它的 AI Agent，看看能否减少重复操作。",
-      "recommend_reason_en": "Pick an everyday desktop task and see whether its AI agent can cut the repetitive steps.",
-      "published_at": "2026-10-30T22:10:44Z",
-      "updated_at": "2026-11-01T02:17:51Z",
+      "recommend_reason_zh": "体验它主打的「See how you really vibe code with Claude Code & Codex」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"See how you really vibe code with Claude Code & Codex\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-20T08:53:03Z",
+      "updated_at": "2026-11-01T05:18:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T02:19:04.031934Z"
+      "observed_at": "2026-11-01T05:19:40.331497Z"
     },
     {
       "id": "project_5661de317a03",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T02:18:36.413055Z"
+      "observed_at": "2026-11-01T05:18:42.012652Z"
     },
     {
-      "id": "project_5d37d73fdf4d",
-      "project_name": "telemetry.dev",
-      "url": "https://www.producthunt.com/products/telemetry-dev",
-      "summary": "LLM observability for AI agents",
+      "id": "project_b5d1c4c8c683",
+      "project_name": "BaseTab AI",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "summary": "Turn your new tab into an AI-powered workspace",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「LLM observability for AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"LLM observability for AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T00:13:46Z",
-      "updated_at": "2026-11-01T02:12:25Z",
+      "recommend_reason_zh": "体验它主打的「Turn your new tab into an AI-powered workspace」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn your new tab into an AI-powered workspace\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T17:41:03Z",
+      "updated_at": "2026-11-01T05:18:48Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T02:19:04.031934Z"
+      "observed_at": "2026-11-01T05:19:40.331497Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1478,
+      "duration_ms": 1471,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 168,
+      "item_count": 47,
+      "duration_ms": 122,
       "error": null
     }
   ]
