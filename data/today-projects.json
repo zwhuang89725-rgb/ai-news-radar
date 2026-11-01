@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:19:06.547180Z",
+  "generated_at": "2026-11-01T14:19:06.953821Z",
   "date": "2026-11-01",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T11:18:25.322923Z"
+      "observed_at": "2026-11-01T14:18:18.904011Z"
     },
     {
-      "id": "project_cc315665cdb1",
-      "project_name": "Usage for Claude + ChatGPT 4.0",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+      "id": "project_ce7071017850",
+      "project_name": "Riverside Agents",
+      "url": "https://www.producthunt.com/products/riverside-fm",
+      "summary": "A team of AI agents for video: produce, edit, clip, post",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T21:38:31Z",
-      "updated_at": "2026-11-01T11:07:47Z",
+      "recommend_reason_zh": "体验它主打的「A team of AI agents for video: produce, edit, clip, post」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A team of AI agents for video: produce, edit, clip, post\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T17:33:37Z",
+      "updated_at": "2026-11-01T14:17:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T11:18:55.942886Z"
+      "observed_at": "2026-11-01T14:18:54.939193Z"
     },
     {
       "id": "project_7e7a6ce6c81f",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T11:18:25.322923Z"
+      "observed_at": "2026-11-01T14:18:18.904011Z"
     },
     {
       "id": "project_291e0eac383b",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「Follow AI models and agents like you follow people」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Follow AI models and agents like you follow people\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-28T00:09:53Z",
-      "updated_at": "2026-11-01T11:17:48Z",
+      "updated_at": "2026-11-01T13:42:26Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T11:18:55.942886Z"
+      "observed_at": "2026-11-01T14:18:54.939193Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 1417,
+      "duration_ms": 408,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 48,
-      "duration_ms": 187,
+      "duration_ms": 323,
       "error": null
     }
   ]

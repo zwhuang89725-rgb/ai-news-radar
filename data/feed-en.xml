@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 11:18:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 14:18:18 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch</title>
+<link>https://www.producthunt.com/products/usage-for-claude</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/usage-for-claude</guid>
+<description>Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 01 Nov 2026 14:11:35 +0000</pubDate>
+</item>
 <item>
 <title>patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</title>
 <link>https://github.com/patchy631/ai-engineering-hub</link>
@@ -14,22 +22,6 @@
 <description>In-depth tutorials on LLMs, RAGs and real-world AI agent applications. (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 01 Nov 2026 11:18:25 +0000</pubDate>
-</item>
-<item>
-<title>Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch</title>
-<link>https://www.producthunt.com/products/usage-for-claude</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/usage-for-claude</guid>
-<description>Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 11:07:47 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models</title>
-<link>https://www.producthunt.com/products/github-copilot-fusion</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/github-copilot-fusion</guid>
-<description>GitHub's AI coding agent that picks and combines models (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 10:42:51 +0000</pubDate>
 </item>
 <item>
 <title>The AI cost of JavaScript frameworks</title>
@@ -40,28 +32,12 @@
 <pubDate>Sun, 01 Nov 2026 06:06:19 +0000</pubDate>
 </item>
 <item>
-<title>BaseTab AI — Turn your new tab into an AI-powered workspace</title>
-<link>https://www.producthunt.com/products/basetab-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/basetab-ai</guid>
-<description>Turn your new tab into an AI-powered workspace (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 01 Nov 2026 10:04:50 +0000</pubDate>
-</item>
-<item>
 <title>AI text watermarking and quality loss</title>
 <link>https://blog.keyvan.net/p/ai-text-watermarking-and-quality</link>
 <guid isPermaLink="true">https://blog.keyvan.net/p/ai-text-watermarking-and-quality</guid>
 <description>AI text watermarking and quality loss</description>
 <category>Worth watching</category>
 <pubDate>Sat, 31 Oct 2026 21:50:13 +0000</pubDate>
-</item>
-<item>
-<title>Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.</title>
-<link>https://github.com/Orkas-AI/Orkas</link>
-<guid isPermaLink="true">https://github.com/Orkas-AI/Orkas</guid>
-<description>Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys. (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 13:58:27 +0000</pubDate>
 </item>
 <item>
 <title>Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing</title>
@@ -72,12 +48,12 @@
 <pubDate>Sun, 01 Nov 2026 02:19:53 +0000</pubDate>
 </item>
 <item>
-<title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
-<link>https://ryanmadden.net/gpt-56-beats-factorio</link>
-<guid isPermaLink="true">https://ryanmadden.net/gpt-56-beats-factorio</guid>
-<description>GPT-5.6 Sol can beat Factorio on peaceful mode</description>
+<title>Anthropic blocks users for anything touching training larger models</title>
+<link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
+<guid isPermaLink="true">https://twitter.com/jiahaoshao1/status/2116475922190922088</guid>
+<description>Anthropic blocks users for anything touching training larger models</description>
 <category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
+<pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT and Codex usage limits merging</title>
@@ -88,6 +64,14 @@
 <pubDate>Sat, 31 Oct 2026 21:49:07 +0000</pubDate>
 </item>
 <item>
+<title>GPT-5.6 Sol can beat Factorio on peaceful mode</title>
+<link>https://ryanmadden.net/gpt-56-beats-factorio</link>
+<guid isPermaLink="true">https://ryanmadden.net/gpt-56-beats-factorio</guid>
+<description>GPT-5.6 Sol can beat Factorio on peaceful mode</description>
+<category>Worth watching</category>
+<pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
+</item>
+<item>
 <title>The Impact of Generative AI on Critical Thinking: Self-Reported (2025)</title>
 <link>https://dl.acm.org/doi/full/10.1145/3706598.3713778</link>
 <guid isPermaLink="true">https://dl.acm.org/doi/full/10.1145/3706598.3713778</guid>
@@ -96,36 +80,12 @@
 <pubDate>Sat, 31 Oct 2026 18:02:29 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic blocks users for anything touching training larger models</title>
-<link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
-<guid isPermaLink="true">https://twitter.com/jiahaoshao1/status/2116475922190922088</guid>
-<description>Anthropic blocks users for anything touching training larger models</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
-</item>
-<item>
 <title>Malware uses LLMs to rank victims by how much they're worth</title>
 <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
 <guid isPermaLink="true">https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</guid>
 <description>Malware uses LLMs to rank victims by how much they're worth</description>
 <category>Worth watching</category>
 <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
-</item>
-<item>
-<title>AI startup hacks Anthropic, gains access to employee details, internal messages</title>
-<link>https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</link>
-<guid isPermaLink="true">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</guid>
-<description>AI startup hacks Anthropic, gains access to employee details, internal messages</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 13:25:10 +0000</pubDate>
-</item>
-<item>
-<title>Why Anthropic's Filing Crushed Tech Stocks</title>
-<link>https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</link>
-<guid isPermaLink="true">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</guid>
-<description>Why Anthropic's Filing Crushed Tech Stocks</description>
-<category>Worth watching</category>
-<pubDate>Sat, 31 Oct 2026 12:32:10 +0000</pubDate>
 </item>
 </channel>
 </rss>

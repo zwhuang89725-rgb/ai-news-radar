@@ -1,11 +1,129 @@
 {
-  "generated_at": "2026-11-01T11:18:25.322923Z",
+  "generated_at": "2026-11-01T14:18:18.904011Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 10,
   "items": [
     {
+      "story_id": "story_810fcd3ac3a9",
+      "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+      "url": "https://www.producthunt.com/products/usage-for-claude",
+      "primary_url": "https://www.producthunt.com/products/usage-for-claude",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
+          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
+          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T21:38:31Z",
+          "updated_at": "2026-11-01T14:11:35Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
+          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
+          "title_zh": "Claude + ChatGPT 4.0 的用法",
+          "title_en": "Usage for Claude + ChatGPT 4.0",
+          "title_original": "Usage for Claude + ChatGPT 4.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T11:02:06.197000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
+          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
+          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T21:38:31Z",
+          "updated_at": "2026-11-01T14:11:35Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
+          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
+          "title_zh": "Claude + ChatGPT 4.0 的用法",
+          "title_en": "Usage for Claude + ChatGPT 4.0",
+          "title_original": "Usage for Claude + ChatGPT 4.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/usage-for-claude",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-01T11:02:06.197000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-01T11:02:06.197000Z",
+      "latest_at": "2026-11-01T14:11:35Z",
+      "primary_item": {
+        "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
+        "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
+        "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/usage-for-claude",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T14:19:15.258316Z"
+      }
+    },
+    {
       "story_id": "story_cee90a97bd0f",
-      "title": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "primary_url": "https://github.com/patchy631/ai-engineering-hub",
       "source": "GitHub Trending",
@@ -13,8 +131,8 @@
       "sources": [
         {
           "id": "44bee38ad638e025446a002105d7414f8517cda3",
-          "title": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_zh": null,
+          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
           "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
           "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
           "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
@@ -52,8 +170,8 @@
       "items": [
         {
           "id": "44bee38ad638e025446a002105d7414f8517cda3",
-          "title": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_zh": null,
+          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
           "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
           "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
           "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
@@ -85,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -104,8 +222,8 @@
       "latest_at": "2026-11-01T11:18:25.322923Z",
       "primary_item": {
         "id": "44bee38ad638e025446a002105d7414f8517cda3",
-        "title": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "title_zh": null,
+        "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
         "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
         "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
         "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
@@ -118,243 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
-      }
-    },
-    {
-      "story_id": "story_810fcd3ac3a9",
-      "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "primary_url": "https://www.producthunt.com/products/usage-for-claude",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T21:38:31Z",
-          "updated_at": "2026-11-01T11:07:47Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
-          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
-          "title_zh": "Claude + ChatGPT 4.0 的用法",
-          "title_en": "Usage for Claude + ChatGPT 4.0",
-          "title_original": "Usage for Claude + ChatGPT 4.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:02:06.197000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T21:38:31Z",
-          "updated_at": "2026-11-01T11:07:47Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
-          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
-          "title_zh": "Claude + ChatGPT 4.0 的用法",
-          "title_en": "Usage for Claude + ChatGPT 4.0",
-          "title_original": "Usage for Claude + ChatGPT 4.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:02:06.197000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9974,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T11:02:06.197000Z",
-      "latest_at": "2026-11-01T11:07:47Z",
-      "primary_item": {
-        "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-        "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-        "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/usage-for-claude",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
-      }
-    },
-    {
-      "story_id": "story_7649785e238a",
-      "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-      "url": "https://www.producthunt.com/products/github-copilot-fusion",
-      "primary_url": "https://www.producthunt.com/products/github-copilot-fusion",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "summary": "GitHub's AI coding agent that picks and combines models",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T10:42:51Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
-          "title": "GitHub Copilot Fusion",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion",
-          "title_original": "GitHub Copilot Fusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T11:19:09.715000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-          "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-          "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-          "summary": "GitHub's AI coding agent that picks and combines models",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-11-01T10:42:51Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d94ece39b2eb5a71b6ae29f35bf3df0144c7e3f5",
-          "title": "GitHub Copilot Fusion",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion",
-          "title_original": "GitHub Copilot Fusion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/github-copilot-fusion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T11:19:09.715000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5927,
-      "importance": 0.5927,
-      "importance_score": 0.5927,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9915,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-11-01T10:42:51Z",
-      "primary_item": {
-        "id": "164bc916d7614aa824fd54c0bd7515878401a319",
-        "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "title_zh": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型",
-        "title_en": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "title_original": "GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
-        "summary": "GitHub's AI coding agent that picks and combines models",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/github-copilot-fusion",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     },
     {
@@ -439,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9276,
+        "recency": 0.8883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -472,125 +354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
-      }
-    },
-    {
-      "story_id": "story_56bd0150a143",
-      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "primary_url": "https://www.producthunt.com/products/basetab-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T10:04:50Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T11:19:09.715000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-11-01T10:04:50Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T11:19:09.715000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.591,
-      "importance": 0.591,
-      "importance_score": 0.591,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9824,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-11-01T10:04:50Z",
-      "primary_item": {
-        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "summary": "Turn your new tab into an AI-powered workspace",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/basetab-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     },
     {
@@ -675,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8232,
+        "recency": 0.7884,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -708,125 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
-      }
-    },
-    {
-      "story_id": "story_73470a4c9770",
-      "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "primary_url": "https://github.com/Orkas-AI/Orkas",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
-          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_zh": null,
-          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "title_zh": null,
-          "title_en": "Orkas-AI /      Orkas",
-          "title_original": "Orkas-AI /      Orkas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T13:58:27.659000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
-          "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_zh": null,
-          "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "94b2736ef75ba6fd11e78de12192852272012da7",
-          "title": "Orkas-AI /      Orkas",
-          "title_zh": null,
-          "title_en": "Orkas-AI /      Orkas",
-          "title_original": "Orkas-AI /      Orkas",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Orkas-AI/Orkas",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T13:58:27.659000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7071,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T11:18:33.800766Z",
-      "latest_at": "2026-10-31T13:58:27.659000Z",
-      "primary_item": {
-        "id": "95d5b0422865f2bafaaa2674507c46d35633b11c",
-        "title": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "title_zh": null,
-        "title_en": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "title_original": "Orkas-AI/Orkas — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "summary": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/Orkas-AI/Orkas",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     },
     {
@@ -911,15 +557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8784,
+        "recency": 0.8412,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -944,46 +590,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     },
     {
-      "story_id": "story_147f50f62e45",
-      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
-      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "story_id": "story_4bd396aab7ea",
+      "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "01a824f20f8c6eb9c31d678fce704c1c18bc2b62",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T18:50:34Z",
+          "published_at": "2026-10-31T19:39:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318871",
+          "url": "https://news.ycombinator.com/item?id=50319358",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z",
+          "published_at": "2026-10-31T19:39:19Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -995,66 +641,66 @@
       ],
       "items": [
         {
-          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "01a824f20f8c6eb9c31d678fce704c1c18bc2b62",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T18:50:34Z",
+          "published_at": "2026-10-31T19:39:19Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
-          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
+          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+          "title_en": "Anthropic blocks users for anything touching training larger models",
+          "title_original": "Anthropic blocks users for anything touching training larger models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318871",
+          "url": "https://news.ycombinator.com/item?id=50319358",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T18:50:34Z",
+          "published_at": "2026-10-31T19:39:19Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7884,
+        "recency": 0.7639,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T18:50:34Z",
-      "latest_at": "2026-10-31T18:50:34Z",
+      "earliest_at": "2026-10-31T19:39:19Z",
+      "latest_at": "2026-10-31T19:39:19Z",
       "primary_item": {
-        "id": "d36d681baf902d7645d93823f295c74c99c0984d",
-        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
-        "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "id": "01a824f20f8c6eb9c31d678fce704c1c18bc2b62",
+        "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
+        "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
+        "title_en": "Anthropic blocks users for anything touching training larger models",
+        "title_original": "Anthropic blocks users for anything touching training larger models",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -1062,7 +708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     },
     {
@@ -1147,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5077,
+      "importance": 0.5077,
+      "importance_score": 0.5077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.823,
+        "recency": 0.7881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1180,7 +826,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
+      }
+    },
+    {
+      "story_id": "story_147f50f62e45",
+      "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "primary_url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:50:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:50:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:50:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2e8329eb78068adcea49f51201d6ba41f2ab907d",
+          "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+          "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:50:34Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.755,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:50:34Z",
+      "latest_at": "2026-10-31T18:50:34Z",
+      "primary_item": {
+        "id": "d36d681baf902d7645d93823f295c74c99c0984d",
+        "title": "GPT-5.6 Sol 可以在和平模式下击败异星工厂 / GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "title_zh": "GPT-5.6 Sol 可以在和平模式下击败异星工厂",
+        "title_en": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "title_original": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     },
     {
@@ -1265,15 +1029,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.5001,
+      "importance": 0.5001,
+      "importance_score": 0.5001,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7793,
+        "recency": 0.7463,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,125 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
-      }
-    },
-    {
-      "story_id": "story_4bd396aab7ea",
-      "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "primary_url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "23f3c0a89beb854cf821a2dd0bb366ddace2172e",
-          "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-          "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-          "title_en": "Anthropic blocks users for anything touching training larger models",
-          "title_original": "Anthropic blocks users for anything touching training larger models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50319358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T19:39:19Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7977,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T19:39:19Z",
-      "latest_at": "2026-10-31T19:39:19Z",
-      "primary_item": {
-        "id": "f24d3b13cac3634823a076da3204fc0bc43b0d35",
-        "title": "Anthropic 阻止用户进行任何涉及训练更大模型的事情 / Anthropic blocks users for anything touching training larger models",
-        "title_zh": "Anthropic 阻止用户进行任何涉及训练更大模型的事情",
-        "title_en": "Anthropic blocks users for anything touching training larger models",
-        "title_original": "Anthropic blocks users for anything touching training larger models",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     },
     {
@@ -1501,15 +1147,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7403,
+        "recency": 0.7089,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,243 +1180,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
-      }
-    },
-    {
-      "story_id": "story_b76c67efad88",
-      "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-      "primary_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T13:25:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315990",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T13:25:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-31T13:25:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315990",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T13:25:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.729,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T13:25:10Z",
-      "latest_at": "2026-10-31T13:25:10Z",
-      "primary_item": {
-        "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-        "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-        "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-        "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-        "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
-      }
-    },
-    {
-      "story_id": "story_c641336dd047",
-      "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-      "primary_url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "2821a27e01fb717e64de459d5faad8aad83b06b7",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T12:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315574",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T12:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2821a27e01fb717e64de459d5faad8aad83b06b7",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T12:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "dfe7eed54139d118d7b7c88180d08b37272eb148",
-          "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-          "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-          "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-          "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315574",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T12:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7198,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T12:32:10Z",
-      "latest_at": "2026-10-31T12:32:10Z",
-      "primary_item": {
-        "id": "2821a27e01fb717e64de459d5faad8aad83b06b7",
-        "title": "为什么 Anthropic 的文件会压垮科技股 / Why Anthropic's Filing Crushed Tech Stocks",
-        "title_zh": "为什么 Anthropic 的文件会压垮科技股",
-        "title_en": "Why Anthropic's Filing Crushed Tech Stocks",
-        "title_original": "Why Anthropic's Filing Crushed Tech Stocks",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-01T11:20:04.096046Z"
+        "scored_at": "2026-11-01T14:19:15.258316Z"
       }
     }
   ]
