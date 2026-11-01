@@ -1,93 +1,8 @@
 {
-  "generated_at": "2026-10-31T23:17:35.205569Z",
+  "generated_at": "2026-11-01T02:18:36.413055Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
-    {
-      "story_id": "story_8d0709896e67",
-      "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_en": null,
-          "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:03:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "title_en": null,
-          "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:03:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-31T00:03:47Z",
-      "latest_at": "2026-10-31T00:03:47Z",
-      "primary_item": {
-        "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-        "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-        "title_zh": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-        "title_en": null,
-        "title_original": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-        "summary": "10月31日阿里巴巴宣布与Apple合作，将千问集成至Apple智能，中国用户可在Siri、写作工具及视觉智能中调用千问的文本与图像理解、内容生成能力。功能11月4日起随iOS开发者Beta开放测试，12月iOS 27.3正式发布时推出；用户可自主选择开通，请求与回复不用于模型训练。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
-      }
-    },
     {
       "story_id": "story_494ce9a30627",
       "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
@@ -137,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7505,
+        "recency": 0.7185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -170,92 +85,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
-      }
-    },
-    {
-      "story_id": "story_3feb90a96221",
-      "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保 / Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-      "primary_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4b1cd24de8b1316db66e6731ca7c111697482f30",
-          "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保 / Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "title_zh": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
-          "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "title_original": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "summary": "据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T01:20:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4b1cd24de8b1316db66e6731ca7c111697482f30",
-          "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保 / Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "title_zh": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
-          "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "title_original": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "summary": "据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T01:20:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7283,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-31T01:20:05Z",
-      "latest_at": "2026-10-31T01:20:05Z",
-      "primary_item": {
-        "id": "4b1cd24de8b1316db66e6731ca7c111697482f30",
-        "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保 / Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "title_zh": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
-        "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "title_original": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-        "summary": "据 The Information 报道、Bloomberg 佐证，Nvidia 正洽谈为 Nscale 在西弗吉尼亚为 Anthropic 建设的数据中心担保数十亿美元债务融资，Anthropic 已就首栋建筑签署 446 亿美元合同。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
@@ -279,7 +109,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-10-31T22:47:52Z",
+          "updated_at": "2026-11-01T02:08:51Z",
           "recency_basis": "updated_at"
         },
         {
@@ -318,7 +148,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-29T05:39:35Z",
-          "updated_at": "2026-10-31T22:47:52Z",
+          "updated_at": "2026-11-01T02:08:51Z",
           "recency_basis": "updated_at"
         },
         {
@@ -340,15 +170,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5929,
-      "importance": 0.5929,
-      "importance_score": 0.5929,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9929,
+        "recency": 0.9977,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -356,7 +186,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-10-31T22:47:52Z",
+      "latest_at": "2026-11-01T02:08:51Z",
       "primary_item": {
         "id": "164bc916d7614aa824fd54c0bd7515878401a319",
         "title": "GitHub Copilot Fusion — GitHub 的 AI 编码代理，用于选择和组合模型 / GitHub Copilot Fusion — GitHub's AI coding agent that picks and combines models",
@@ -373,7 +203,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
+      }
+    },
+    {
+      "story_id": "story_56bd0150a143",
+      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+      "url": "https://www.producthunt.com/products/basetab-ai",
+      "primary_url": "https://www.producthunt.com/products/basetab-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-11-01T02:02:33Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T11:19:09.715000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+          "summary": "Turn your new tab into an AI-powered workspace",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-29T17:41:03Z",
+          "updated_at": "2026-11-01T02:02:33Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3894647d876b9067526b5f0958105d39a727464e",
+          "title": "基础标签人工智能 / BaseTab AI",
+          "title_zh": "基础标签人工智能",
+          "title_en": "BaseTab AI",
+          "title_original": "BaseTab AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/basetab-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T11:19:09.715000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5935,
+      "importance": 0.5935,
+      "importance_score": 0.5935,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T11:19:09.715000Z",
+      "latest_at": "2026-11-01T02:02:33Z",
+      "primary_item": {
+        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
+        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
+        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
+        "summary": "Turn your new tab into an AI-powered workspace",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/basetab-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
@@ -458,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5656,
-      "importance": 0.5656,
-      "importance_score": 0.5656,
+      "score": 0.5591,
+      "importance": 0.5591,
+      "importance_score": 0.5591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8411,
+        "recency": 0.8052,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -491,125 +439,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
-      "story_id": "story_56bd0150a143",
-      "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-      "url": "https://www.producthunt.com/products/basetab-ai",
-      "primary_url": "https://www.producthunt.com/products/basetab-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_f4bfb4b46446",
+      "title": "AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "primary_url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-10-31T21:33:04Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+          "title": "AI text watermarking and quality loss",
+          "title_zh": null,
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "producthunt",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:50:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI text watermarking and quality loss",
+          "title_zh": null,
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320599",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T11:19:09.715000Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-          "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-          "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-          "summary": "Turn your new tab into an AI-powered workspace",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T17:41:03Z",
-          "updated_at": "2026-10-31T21:33:04Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3894647d876b9067526b5f0958105d39a727464e",
-          "title": "基础标签人工智能 / BaseTab AI",
-          "title_zh": "基础标签人工智能",
-          "title_en": "BaseTab AI",
-          "title_original": "BaseTab AI",
+          "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+          "title": "AI text watermarking and quality loss",
+          "title_zh": null,
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/basetab-ai",
-          "source": "producthunt",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T21:50:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "74f11109afbab8d53ec8b4ecfa5692ceff29ed42",
+          "title": "AI text watermarking and quality loss",
+          "title_zh": null,
+          "title_en": "AI text watermarking and quality loss",
+          "title_original": "AI text watermarking and quality loss",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50320599",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T11:19:09.715000Z",
+          "published_at": "2026-10-31T21:50:13Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5897,
-      "importance": 0.5897,
-      "importance_score": 0.5897,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9752,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T11:19:09.715000Z",
-      "latest_at": "2026-10-31T21:33:04Z",
+      "earliest_at": "2026-10-31T21:50:13Z",
+      "latest_at": "2026-10-31T21:50:13Z",
       "primary_item": {
-        "id": "1ec7bcd9def1b304ca86c778ab757f9e262374ad",
-        "title": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区 / BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_zh": "BaseTab AI — 将您的新选项卡变成人工智能驱动的工作区",
-        "title_en": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "title_original": "BaseTab AI — Turn your new tab into an AI-powered workspace",
-        "summary": "Turn your new tab into an AI-powered workspace",
+        "id": "615e183ff6fa57811a3acf5a09051df96c3b8c64",
+        "title": "AI text watermarking and quality loss",
+        "title_zh": null,
+        "title_en": "AI text watermarking and quality loss",
+        "title_original": "AI text watermarking and quality loss",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/basetab-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
+      }
+    },
+    {
+      "story_id": "story_bd0cb60b3055",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
+          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_zh": null,
+          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50318401",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T18:02:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8874,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T18:02:29Z",
+      "latest_at": "2026-10-31T18:02:29Z",
+      "primary_item": {
+        "id": "75c17818c4525dc1be62158fdc400e2b524573d7",
+        "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_zh": null,
+        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
@@ -726,15 +792,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8314,
+        "recency": 0.7959,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -759,46 +825,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
-      "story_id": "story_b76c67efad88",
-      "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-      "primary_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "story_id": "story_f00d1511750a",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T13:25:10Z",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315990",
+          "url": "https://news.ycombinator.com/item?id=50316531",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T13:25:10Z",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -810,66 +876,66 @@
       ],
       "items": [
         {
-          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-31T13:25:10Z",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
-          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": null,
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50315990",
+          "url": "https://news.ycombinator.com/item?id=50316531",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-31T13:25:10Z",
+          "published_at": "2026-10-31T14:29:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8671,
+        "recency": 0.843,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-31T13:25:10Z",
-      "latest_at": "2026-10-31T13:25:10Z",
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
       "primary_item": {
-        "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
-        "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
-        "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
-        "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-        "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "id": "eba10b3c44a3f03d2bb187901f72f10641412f4f",
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_zh": null,
+        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -877,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
@@ -962,15 +1028,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9488,
+        "recency": 0.9084,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,7 +1061,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
+      }
+    },
+    {
+      "story_id": "story_b76c67efad88",
+      "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "primary_url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50315990",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6ad4b75c870c4bf77e9519d1f8b920a2127d99ae",
+          "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+          "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50315990",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T13:25:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8302,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T13:25:10Z",
+      "latest_at": "2026-10-31T13:25:10Z",
+      "primary_item": {
+        "id": "f98fe6fcc792a301ba76c9f1223f4b8196275177",
+        "title": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息 / AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "title_zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息",
+        "title_en": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "title_original": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
@@ -1080,15 +1264,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.8978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1113,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
@@ -1198,15 +1382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7501,
+        "recency": 0.7181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,246 +1412,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
-      }
-    },
-    {
-      "story_id": "story_bd0cb60b3055",
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "primary_url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cbff795f42069ae415c907777dcf46269020d1fc",
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_zh": null,
-          "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50318401",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T18:02:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.927,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T18:02:29Z",
-      "latest_at": "2026-10-31T18:02:29Z",
-      "primary_item": {
-        "id": "04290ef1e4aca0c0325a6b2074ff16b45074b5ed",
-        "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_zh": null,
-        "title_en": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "title_original": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
-      }
-    },
-    {
-      "story_id": "story_f00d1511750a",
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
-          "title": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": null,
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": null,
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
-          "title": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": null,
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
-          "title": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_zh": null,
-          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50316531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-31T14:29:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8806,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-31T14:29:03Z",
-      "latest_at": "2026-10-31T14:29:03Z",
-      "primary_item": {
-        "id": "3f177b06167d62c2517789bc881e85ec2139520f",
-        "title": "Malware uses LLMs to rank victims by how much they're worth",
-        "title_zh": null,
-        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
-        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     },
     {
@@ -1552,15 +1500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8561,
+        "recency": 0.8196,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1585,7 +1533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T23:32:47.805397Z"
+        "scored_at": "2026-11-01T02:34:41.134129Z"
       }
     }
   ]
