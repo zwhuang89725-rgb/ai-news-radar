@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T14:19:06.953821Z",
-  "date": "2026-11-01",
+  "generated_at": "2026-11-01T17:18:54.755385Z",
+  "date": "2026-11-02",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T14:18:18.904011Z"
+      "observed_at": "2026-11-01T17:17:47.038659Z"
     },
     {
-      "id": "project_ce7071017850",
-      "project_name": "Riverside Agents",
-      "url": "https://www.producthunt.com/products/riverside-fm",
-      "summary": "A team of AI agents for video: produce, edit, clip, post",
+      "id": "project_f6ae4e322b42",
+      "project_name": "ClawsGO Science",
+      "url": "https://www.producthunt.com/products/clawsgo-science",
+      "summary": "The AI research agent with its own cloud lab",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A team of AI agents for video: produce, edit, clip, post」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A team of AI agents for video: produce, edit, clip, post\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T17:33:37Z",
-      "updated_at": "2026-11-01T14:17:31Z",
+      "recommend_reason_zh": "体验它主打的「The AI research agent with its own cloud lab」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The AI research agent with its own cloud lab\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T10:07:37Z",
+      "updated_at": "2026-11-01T17:16:02Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T14:18:54.939193Z"
+      "observed_at": "2026-11-01T17:18:44.020403Z"
     },
     {
       "id": "project_7e7a6ce6c81f",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-01T14:18:18.904011Z"
+      "observed_at": "2026-11-01T17:17:47.038659Z"
     },
     {
-      "id": "project_291e0eac383b",
-      "project_name": "Modelpeers",
-      "url": "https://www.producthunt.com/products/modelpeers",
-      "summary": "Follow AI models and agents like you follow people",
+      "id": "project_ce7071017850",
+      "project_name": "Riverside Agents",
+      "url": "https://www.producthunt.com/products/riverside-fm",
+      "summary": "A team of AI agents for video: produce, edit, clip, post",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Follow AI models and agents like you follow people」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Follow AI models and agents like you follow people\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T00:09:53Z",
-      "updated_at": "2026-11-01T13:42:26Z",
+      "recommend_reason_zh": "体验它主打的「A team of AI agents for video: produce, edit, clip, post」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A team of AI agents for video: produce, edit, clip, post\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T17:33:37Z",
+      "updated_at": "2026-11-01T17:12:56Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-01T14:18:54.939193Z"
+      "observed_at": "2026-11-01T17:18:44.020403Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 408,
+      "duration_ms": 1026,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 48,
-      "duration_ms": 323,
+      "item_count": 47,
+      "duration_ms": 180,
       "error": null
     }
   ]
