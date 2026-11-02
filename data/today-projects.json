@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:19:10.203469Z",
+  "generated_at": "2026-11-02T14:18:27.866763Z",
   "date": "2026-11-02",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-02T11:18:30.449744Z"
+      "observed_at": "2026-11-02T14:17:28.549238Z"
     },
     {
-      "id": "project_672b64a83fc2",
-      "project_name": "CuriousLM",
-      "url": "https://www.producthunt.com/products/curiouslm",
-      "summary": "Private AI that runs on your device. No account.",
+      "id": "project_6b0550f2386a",
+      "project_name": "Hera",
+      "url": "https://www.producthunt.com/products/hera-6",
+      "summary": "AI Creative Canvas",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Private AI that runs on your device. No account」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Private AI that runs on your device. No account\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-07T07:16:11Z",
-      "updated_at": "2026-11-02T11:18:47Z",
+      "recommend_reason_zh": "体验它主打的「AI Creative Canvas」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI Creative Canvas\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T14:29:36Z",
+      "updated_at": "2026-11-02T14:17:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-02T11:19:00.511768Z"
+      "observed_at": "2026-11-02T14:18:18.347819Z"
     },
     {
       "id": "project_5661de317a03",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-02T11:18:30.449744Z"
+      "observed_at": "2026-11-02T14:17:28.549238Z"
     },
     {
-      "id": "project_f9a2fba12d35",
-      "project_name": "Friday Work",
-      "url": "https://www.producthunt.com/products/friday-work",
-      "summary": "When Claude hits its limit, your task keeps going",
+      "id": "project_0daf31358353",
+      "project_name": "beacon.sh",
+      "url": "https://www.producthunt.com/products/asymptotelabs",
+      "summary": "Open-source self-improving memory for AI coding agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「When Claude hits its limit, your task keeps going」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"When Claude hits its limit, your task keeps going\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-01T22:55:35Z",
-      "updated_at": "2026-11-02T11:18:27Z",
+      "recommend_reason_zh": "体验它主打的「Open-source self-improving memory for AI coding agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Open-source self-improving memory for AI coding agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-25T14:47:53Z",
+      "updated_at": "2026-11-02T14:17:47Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-02T11:19:00.511768Z"
+      "observed_at": "2026-11-02T14:18:18.347819Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 341,
+      "duration_ms": 1506,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 258,
+      "duration_ms": 395,
       "error": null
     }
   ]
