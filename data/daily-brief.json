@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-02T08:18:47.583667Z",
+  "generated_at": "2026-11-02T11:18:30.449744Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ce5baf5ed029",
-      "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-      "url": "https://www.aibase.com/news/32009",
-      "primary_url": "https://www.aibase.com/news/32009",
+      "story_id": "story_ed7ab6871012",
+      "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+      "url": "https://www.aibase.com/news/32025",
+      "primary_url": "https://www.aibase.com/news/32025",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "id": "727a6244dc133ddff65f65c2c3e665bb43a6da9f",
+          "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+          "title_zh": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "title_en": null,
-          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_original": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32009",
+          "url": "https://www.aibase.com/news/32025",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
+          "published_at": "2026-11-02T11:18:30.449744Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,18 +34,18 @@
       ],
       "items": [
         {
-          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "id": "727a6244dc133ddff65f65c2c3e665bb43a6da9f",
+          "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+          "title_zh": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "title_en": null,
-          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_original": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32009",
+          "url": "https://www.aibase.com/news/32025",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
+          "published_at": "2026-11-02T11:18:30.449744Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -68,17 +68,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T08:18:47.583667Z",
-      "latest_at": "2026-11-02T08:18:47.583667Z",
+      "earliest_at": "2026-11-02T11:18:30.449744Z",
+      "latest_at": "2026-11-02T11:18:30.449744Z",
       "primary_item": {
-        "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
-        "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
-        "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "id": "727a6244dc133ddff65f65c2c3e665bb43a6da9f",
+        "title": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
+        "title_zh": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
         "title_en": null,
-        "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "title_original": "ChatGPT 要能主动挂断危险对话，屡犯者直接封号",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32009",
+        "url": "https://www.aibase.com/news/32025",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -86,7 +86,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9957,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -172,7 +172,351 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_9467d9ce31bc",
+      "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+      "url": "https://www.aibase.com/news/32024",
+      "primary_url": "https://www.aibase.com/news/32024",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2a5698129013613f3bc471c5c7b4d2942970da35",
+          "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "title_zh": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "title_en": null,
+          "title_original": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32024",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T11:18:30.449744Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2a5698129013613f3bc471c5c7b4d2942970da35",
+          "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "title_zh": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "title_en": null,
+          "title_original": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32024",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T11:18:30.449744Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T11:18:30.449744Z",
+      "latest_at": "2026-11-02T11:18:30.449744Z",
+      "primary_item": {
+        "id": "2a5698129013613f3bc471c5c7b4d2942970da35",
+        "title": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+        "title_zh": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+        "title_en": null,
+        "title_original": "六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32024",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_49a04fe2aa63",
+      "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+      "url": "https://www.aibase.com/news/32023",
+      "primary_url": "https://www.aibase.com/news/32023",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cae8ccbb385b0f21455d0a79269e7c154d47a06e",
+          "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "title_zh": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "title_en": null,
+          "title_original": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32023",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T11:18:30.449744Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cae8ccbb385b0f21455d0a79269e7c154d47a06e",
+          "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "title_zh": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "title_en": null,
+          "title_original": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32023",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T11:18:30.449744Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T11:18:30.449744Z",
+      "latest_at": "2026-11-02T11:18:30.449744Z",
+      "primary_item": {
+        "id": "cae8ccbb385b0f21455d0a79269e7c154d47a06e",
+        "title": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+        "title_zh": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+        "title_en": null,
+        "title_original": "破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32023",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_41401e58132a",
+      "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+      "url": "https://www.aibase.com/news/32026",
+      "primary_url": "https://www.aibase.com/news/32026",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4f21f6776b8f618c9c4b8865a44517054324193d",
+          "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "title_zh": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "title_en": null,
+          "title_original": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32026",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T11:18:30.449744Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4f21f6776b8f618c9c4b8865a44517054324193d",
+          "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "title_zh": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "title_en": null,
+          "title_original": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32026",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T11:18:30.449744Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T11:18:30.449744Z",
+      "latest_at": "2026-11-02T11:18:30.449744Z",
+      "primary_item": {
+        "id": "4f21f6776b8f618c9c4b8865a44517054324193d",
+        "title": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+        "title_zh": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+        "title_en": null,
+        "title_original": "蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32026",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_ce5baf5ed029",
+      "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+      "url": "https://www.aibase.com/news/32009",
+      "primary_url": "https://www.aibase.com/news/32009",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
+          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_en": null,
+          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
+          "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "title_en": null,
+          "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T08:18:47.583667Z",
+      "latest_at": "2026-11-02T08:18:47.583667Z",
+      "primary_item": {
+        "id": "60eea7025d8fed4598d4fd7e0bfee41fd6e31c47",
+        "title": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "title_zh": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "title_en": null,
+        "title_original": "Claude Code搭载Opus 5. 5 正式封杀复刻特定现有游戏",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32009",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -224,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -258,351 +602,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_b4f480bb991f",
-      "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-      "url": "https://www.aibase.com/news/32018",
-      "primary_url": "https://www.aibase.com/news/32018",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
-          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "title_en": null,
-          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32018",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
-          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "title_en": null,
-          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32018",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T08:18:47.583667Z",
-      "latest_at": "2026-11-02T08:18:47.583667Z",
-      "primary_item": {
-        "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
-        "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-        "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-        "title_en": null,
-        "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32018",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_82801400d954",
-      "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-      "url": "https://www.aibase.com/news/32013",
-      "primary_url": "https://www.aibase.com/news/32013",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "title_en": null,
-          "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "title_en": null,
-          "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T08:18:47.583667Z",
-      "latest_at": "2026-11-02T08:18:47.583667Z",
-      "primary_item": {
-        "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
-        "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-        "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-        "title_en": null,
-        "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32013",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_2e0994bf6e75",
-      "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-      "url": "https://www.aibase.com/news/32020",
-      "primary_url": "https://www.aibase.com/news/32020",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
-          "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-          "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-          "title_en": null,
-          "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
-          "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-          "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-          "title_en": null,
-          "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T08:18:47.583667Z",
-      "latest_at": "2026-11-02T08:18:47.583667Z",
-      "primary_item": {
-        "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
-        "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-        "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-        "title_en": null,
-        "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32020",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_a025df272916",
-      "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-      "url": "https://www.aibase.com/news/32015",
-      "primary_url": "https://www.aibase.com/news/32015",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_en": null,
-          "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "title_en": null,
-          "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T08:18:47.583667Z",
-      "latest_at": "2026-11-02T08:18:47.583667Z",
-      "primary_item": {
-        "id": "27373518628afd46dceef0661b0edb27fd2457fe",
-        "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-        "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-        "title_en": null,
-        "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32015",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -686,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5928,
-      "importance": 0.5928,
-      "importance_score": 0.5928,
+      "score": 0.5859,
+      "importance": 0.5859,
+      "importance_score": 0.5859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9024,
+        "recency": 0.8642,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -719,144 +719,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
-      "story_id": "story_810fcd3ac3a9",
-      "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-      "url": "https://www.producthunt.com/products/usage-for-claude",
-      "primary_url": "https://www.producthunt.com/products/usage-for-claude",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T21:38:31Z",
-          "updated_at": "2026-11-02T07:43:37Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
-          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
-          "title_zh": "Claude + ChatGPT 4.0 的用法",
-          "title_en": "Usage for Claude + ChatGPT 4.0",
-          "title_original": "Usage for Claude + ChatGPT 4.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:02:06.197000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-          "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-          "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-29T21:38:31Z",
-          "updated_at": "2026-11-02T07:43:37Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "fe0d0c8df2aeedb3b22cd4e629cfd05cb0f4c438",
-          "title": "Claude + ChatGPT 4.0 的用法 / Usage for Claude + ChatGPT 4.0",
-          "title_zh": "Claude + ChatGPT 4.0 的用法",
-          "title_en": "Usage for Claude + ChatGPT 4.0",
-          "title_original": "Usage for Claude + ChatGPT 4.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/usage-for-claude",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:02:06.197000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5927,
-      "importance": 0.5927,
-      "importance_score": 0.5927,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9916,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T11:02:06.197000Z",
-      "latest_at": "2026-11-02T07:43:37Z",
-      "primary_item": {
-        "id": "5606ee3e0f1445ad81daf67519855ee21ba71dd2",
-        "title": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制 / Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "title_zh": "Claude + ChatGPT 4.0 的使用 — Claude + ChatGPT 在 Mac、iPhone、iPad 和 Watch 上的限制",
-        "title_en": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "title_original": "Usage for Claude + ChatGPT 4.0 — Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/usage-for-claude",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_2b7bcee8dc21",
-      "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-      "url": "https://www.aibase.com/news/32014",
-      "primary_url": "https://www.aibase.com/news/32014",
+      "story_id": "story_b4f480bb991f",
+      "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+      "url": "https://www.aibase.com/news/32018",
+      "primary_url": "https://www.aibase.com/news/32018",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
-          "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
+          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "title_en": null,
-          "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32014",
+          "url": "https://www.aibase.com/news/32018",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -871,14 +753,14 @@
       ],
       "items": [
         {
-          "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
-          "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-          "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
+          "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+          "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "title_en": null,
-          "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32014",
+          "url": "https://www.aibase.com/news/32018",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -889,15 +771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,14 +790,14 @@
       "earliest_at": "2026-11-02T08:18:47.583667Z",
       "latest_at": "2026-11-02T08:18:47.583667Z",
       "primary_item": {
-        "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
-        "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
-        "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+        "id": "b67ac0e6d0ef892c0162490735e9ff5dd2a9b480",
+        "title": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
+        "title_zh": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
         "title_en": null,
-        "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+        "title_original": "OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32014",
+        "url": "https://www.aibase.com/news/32018",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -923,93 +805,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_b208a3586dc5",
-      "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-      "url": "https://www.aibase.com/news/32017",
-      "primary_url": "https://www.aibase.com/news/32017",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6b888ae817d43b0558df48ea7829ca9ea159777a",
-          "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-          "title_zh": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-          "title_en": null,
-          "title_original": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32017",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6b888ae817d43b0558df48ea7829ca9ea159777a",
-          "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-          "title_zh": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-          "title_en": null,
-          "title_original": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32017",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T08:18:47.583667Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T08:18:47.583667Z",
-      "latest_at": "2026-11-02T08:18:47.583667Z",
-      "primary_item": {
-        "id": "6b888ae817d43b0558df48ea7829ca9ea159777a",
-        "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-        "title_zh": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-        "title_en": null,
-        "title_original": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32017",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -1093,15 +889,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5861,
-      "importance": 0.5861,
-      "importance_score": 0.5861,
+      "score": 0.5788,
+      "importance": 0.5788,
+      "importance_score": 0.5788,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.955,
+        "recency": 0.9146,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1126,7 +922,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_82801400d954",
+      "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+      "url": "https://www.aibase.com/news/32013",
+      "primary_url": "https://www.aibase.com/news/32013",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
+          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "title_en": null,
+          "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
+          "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "title_en": null,
+          "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T08:18:47.583667Z",
+      "latest_at": "2026-11-02T08:18:47.583667Z",
+      "primary_item": {
+        "id": "15bf7acc0d545564c97547921f346b6b72aff0fc",
+        "title": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+        "title_zh": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+        "title_en": null,
+        "title_original": "中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32013",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -1244,15 +1126,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.895,
+        "recency": 0.8571,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1277,125 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_cee90a97bd0f",
-      "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "primary_url": "https://github.com/patchy631/ai-engineering-hub",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "44bee38ad638e025446a002105d7414f8517cda3",
-          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
-          "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
-          "title": "patchy631 / 人工智能工程中心 / patchy631 /      ai-engineering-hub",
-          "title_zh": "patchy631 / 人工智能工程中心",
-          "title_en": "patchy631 /      ai-engineering-hub",
-          "title_original": "patchy631 /      ai-engineering-hub",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:02:27.779000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "44bee38ad638e025446a002105d7414f8517cda3",
-          "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
-          "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
-          "title": "patchy631 / 人工智能工程中心 / patchy631 /      ai-engineering-hub",
-          "title_zh": "patchy631 / 人工智能工程中心",
-          "title_en": "patchy631 /      ai-engineering-hub",
-          "title_original": "patchy631 /      ai-engineering-hub",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T11:02:27.779000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5471,
-      "importance": 0.5471,
-      "importance_score": 0.5471,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7383,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T11:02:27.779000Z",
-      "latest_at": "2026-11-01T11:18:25.322923Z",
-      "primary_item": {
-        "id": "44bee38ad638e025446a002105d7414f8517cda3",
-        "title": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。 / patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "title_zh": "patchy631/ai-engineering-hub — 有关 LLM、RAG 和实际 AI 代理应用程序的深入教程。",
-        "title_en": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "title_original": "patchy631/ai-engineering-hub — In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/patchy631/ai-engineering-hub",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -1480,15 +1244,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1513,7 +1277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -1631,15 +1395,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8132,
+        "recency": 0.7788,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1664,26 +1428,144 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
-      "story_id": "story_354481b94d29",
-      "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-      "url": "https://www.aibase.com/news/32019",
-      "primary_url": "https://www.aibase.com/news/32019",
+      "story_id": "story_96da7e5b0c4d",
+      "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "primary_url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
+          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
+          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-02T01:47:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
+          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
+          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50332086",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T01:47:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
+          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
+          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-02T01:47:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
+          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
+          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50332086",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T01:47:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8715,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T01:47:07Z",
+      "latest_at": "2026-11-02T01:47:07Z",
+      "primary_item": {
+        "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
+        "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
+        "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
+        "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
+        "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_2e0994bf6e75",
+      "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+      "url": "https://www.aibase.com/news/32020",
+      "primary_url": "https://www.aibase.com/news/32020",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "897ccc99762a50f32baf04157e61fbce453e7073",
-          "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "title_zh": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
+          "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
+          "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+          "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "title_en": null,
-          "title_original": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
+          "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32019",
+          "url": "https://www.aibase.com/news/32020",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1698,14 +1580,14 @@
       ],
       "items": [
         {
-          "id": "897ccc99762a50f32baf04157e61fbce453e7073",
-          "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-          "title_zh": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
+          "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
+          "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+          "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "title_en": null,
-          "title_original": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
+          "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32019",
+          "url": "https://www.aibase.com/news/32020",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1716,15 +1598,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1735,14 +1617,14 @@
       "earliest_at": "2026-11-02T08:18:47.583667Z",
       "latest_at": "2026-11-02T08:18:47.583667Z",
       "primary_item": {
-        "id": "897ccc99762a50f32baf04157e61fbce453e7073",
-        "title": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
-        "title_zh": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
+        "id": "3f386519ef3fd1784c105618a9b4b400908f67a4",
+        "title": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
+        "title_zh": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
         "title_en": null,
-        "title_original": "行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5",
+        "title_original": "北京出台智能眼镜消费政策：购新补贴15%，单件最高500元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32019",
+        "url": "https://www.aibase.com/news/32020",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1750,7 +1632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
@@ -1835,15 +1717,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8517,
+        "recency": 0.8157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1868,144 +1750,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     },
     {
-      "story_id": "story_96da7e5b0c4d",
-      "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "primary_url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "97bc64e3c576b0f09c5e252be28a450d8bdd0cc0",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T01:47:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50332086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T01:47:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "97bc64e3c576b0f09c5e252be28a450d8bdd0cc0",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T01:47:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bfaf43d9f9fb04ebcfd0056727d988e2179efe46",
-          "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
-          "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50332086",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T01:47:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.91,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T01:47:07Z",
-      "latest_at": "2026-11-02T01:47:07Z",
-      "primary_item": {
-        "id": "97bc64e3c576b0f09c5e252be28a450d8bdd0cc0",
-        "title": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域 / AI fan wikis riddled with errors are muddying the waters of games culture",
-        "title_zh": "充满错误的人工智能粉丝维基正在搅乱游戏文化的水域",
-        "title_en": "AI fan wikis riddled with errors are muddying the waters of games culture",
-        "title_original": "AI fan wikis riddled with errors are muddying the waters of games culture",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
-      }
-    },
-    {
-      "story_id": "story_ba3b1e222937",
-      "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-      "url": "https://www.aibase.com/news/32021",
-      "primary_url": "https://www.aibase.com/news/32021",
+      "story_id": "story_a025df272916",
+      "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
+      "url": "https://www.aibase.com/news/32015",
+      "primary_url": "https://www.aibase.com/news/32015",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
-          "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-          "title_zh": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
+          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
+          "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
           "title_en": null,
-          "title_original": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32021",
+          "url": "https://www.aibase.com/news/32015",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2020,14 +1784,14 @@
       ],
       "items": [
         {
-          "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
-          "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-          "title_zh": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "id": "27373518628afd46dceef0661b0edb27fd2457fe",
+          "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
+          "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
           "title_en": null,
-          "title_original": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+          "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32021",
+          "url": "https://www.aibase.com/news/32015",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2038,15 +1802,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2057,14 +1821,14 @@
       "earliest_at": "2026-11-02T08:18:47.583667Z",
       "latest_at": "2026-11-02T08:18:47.583667Z",
       "primary_item": {
-        "id": "ec80a339579a6a6aa82703b5ac8baa5aaf85a7f7",
-        "title": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
-        "title_zh": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+        "id": "27373518628afd46dceef0661b0edb27fd2457fe",
+        "title": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
+        "title_zh": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
         "title_en": null,
-        "title_original": "韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角",
+        "title_original": "我国 AI 推理数据首超训练：日均词元调用破 175 万亿",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32021",
+        "url": "https://www.aibase.com/news/32015",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2072,7 +1836,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-02T08:20:09.434932Z"
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_2b7bcee8dc21",
+      "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+      "url": "https://www.aibase.com/news/32014",
+      "primary_url": "https://www.aibase.com/news/32014",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
+          "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "title_en": null,
+          "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32014",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
+          "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "title_en": null,
+          "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32014",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T08:18:47.583667Z",
+      "latest_at": "2026-11-02T08:18:47.583667Z",
+      "primary_item": {
+        "id": "8fb5f2902c2eede9462d286f8fef1064b49d6d00",
+        "title": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+        "title_zh": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+        "title_en": null,
+        "title_original": "李佳琦直播间也卖Token了!AI算力与智能硬件亮相双11娱乐主管",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32014",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
+      }
+    },
+    {
+      "story_id": "story_b208a3586dc5",
+      "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+      "url": "https://www.aibase.com/news/32017",
+      "primary_url": "https://www.aibase.com/news/32017",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6b888ae817d43b0558df48ea7829ca9ea159777a",
+          "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+          "title_zh": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+          "title_en": null,
+          "title_original": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32017",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6b888ae817d43b0558df48ea7829ca9ea159777a",
+          "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+          "title_zh": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+          "title_en": null,
+          "title_original": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32017",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-02T08:18:47.583667Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9577,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T08:18:47.583667Z",
+      "latest_at": "2026-11-02T08:18:47.583667Z",
+      "primary_item": {
+        "id": "6b888ae817d43b0558df48ea7829ca9ea159777a",
+        "title": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+        "title_zh": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+        "title_en": null,
+        "title_original": "特斯拉人形机器人迎来重大突破：量产版Optimus首次搭载端到端视觉大模型，动作流畅度对标真人",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32017",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-02T11:19:21.237001Z"
       }
     }
   ]
