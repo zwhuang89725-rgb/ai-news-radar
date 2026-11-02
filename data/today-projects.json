@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:19:18.735313Z",
+  "generated_at": "2026-11-02T05:20:20.882913Z",
   "date": "2026-11-02",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-02T02:18:32.275421Z"
+      "observed_at": "2026-11-02T05:19:25.024265Z"
     },
     {
-      "id": "project_f6ae4e322b42",
-      "project_name": "ClawsGO Science",
-      "url": "https://www.producthunt.com/products/clawsgo-science",
-      "summary": "The AI research agent with its own cloud lab",
+      "id": "project_cc315665cdb1",
+      "project_name": "Usage for Claude + ChatGPT 4.0",
+      "url": "https://www.producthunt.com/products/usage-for-claude",
+      "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The AI research agent with its own cloud lab」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The AI research agent with its own cloud lab\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T10:07:37Z",
-      "updated_at": "2026-11-02T02:18:05Z",
+      "recommend_reason_zh": "体验它主打的「Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-29T21:38:31Z",
+      "updated_at": "2026-11-02T05:08:22Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-02T02:19:06.641942Z"
+      "observed_at": "2026-11-02T05:20:09.450690Z"
     },
     {
       "id": "project_7e7a6ce6c81f",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-02T02:18:32.275421Z"
+      "observed_at": "2026-11-02T05:19:25.024265Z"
     },
     {
-      "id": "project_640ea6dd5d0f",
-      "project_name": "agentmash",
-      "url": "https://www.producthunt.com/products/agentmash",
-      "summary": "open-source multiplayer AI for teams' coding agents",
+      "id": "project_ce7071017850",
+      "project_name": "Riverside Agents",
+      "url": "https://www.producthunt.com/products/riverside-fm",
+      "summary": "A team of AI agents for video: produce, edit, clip, post",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「open-source multiplayer AI for teams' coding agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"open-source multiplayer AI for teams' coding agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-31T18:08:19Z",
-      "updated_at": "2026-11-02T02:13:59Z",
+      "recommend_reason_zh": "体验它主打的「A team of AI agents for video: produce, edit, clip, post」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A team of AI agents for video: produce, edit, clip, post\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T17:33:37Z",
+      "updated_at": "2026-11-02T05:10:54Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-02T02:19:06.641942Z"
+      "observed_at": "2026-11-02T05:20:09.450690Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 17,
-      "duration_ms": 1393,
+      "duration_ms": 1626,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 238,
+      "item_count": 48,
+      "duration_ms": 284,
       "error": null
     }
   ]
