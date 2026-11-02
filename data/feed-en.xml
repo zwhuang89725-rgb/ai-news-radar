@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 17:18:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 20:18:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Introducing the Grid Protectors Program</title>
@@ -16,12 +16,44 @@
 <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
+<title>The latest AI news we announced in October 2026</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026</guid>
+<description>The latest AI news we announced in October 2026 (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Mon, 02 Nov 2026 17:45:00 +0000</pubDate>
+</item>
+<item>
 <title>Security risk assessments include repository protection status</title>
 <link>https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status</guid>
 <description>Security risk assessments include repository protection status (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 02 Nov 2026 15:47:21 +0000</pubDate>
+</item>
+<item>
+<title>pull_request_target blocked by default December 2</title>
+<link>https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</guid>
+<description>pull_request_target blocked by default December 2 (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 02 Nov 2026 15:14:46 +0000</pubDate>
+</item>
+<item>
+<title>LifeVal</title>
+<link>https://openai.com/index/lifeval</link>
+<guid isPermaLink="true">https://openai.com/index/lifeval</guid>
+<description>LifeVal (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Qodo builds context into AI code review with Codex</title>
+<link>https://openai.com/index/qodo-codex-plugin</link>
+<guid isPermaLink="true">https://openai.com/index/qodo-codex-plugin</guid>
+<description>Qodo builds context into AI code review with Codex (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 要能主动挂断危险对话，屡犯者直接封号</title>
@@ -72,6 +104,22 @@
 <pubDate>Mon, 02 Nov 2026 08:18:47 +0000</pubDate>
 </item>
 <item>
+<title>Apple&amp;#8217;s &amp;#8216;Ultra&amp;#8217; smart home robot might have to wait until 2028</title>
+<link>https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay</guid>
+<description>Apple&amp;#8217;s &amp;#8216;Ultra&amp;#8217; smart home robot might have to wait until 2028 (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 02 Nov 2026 17:06:10 +0000</pubDate>
+</item>
+<item>
+<title>Cedric AI for Meetings — The first AI agent to present your slides and attend for you</title>
+<link>https://www.producthunt.com/products/cedric</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
+<description>The first AI agent to present your slides and attend for you (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 02 Nov 2026 20:17:44 +0000</pubDate>
+</item>
+<item>
 <title>DeepSeek 甩出 Super-agent：AI 从"等人派活"变成"自己找活干"</title>
 <link>https://www.aibase.com/news/32016</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32016</guid>
@@ -80,12 +128,20 @@
 <pubDate>Mon, 02 Nov 2026 08:18:47 +0000</pubDate>
 </item>
 <item>
-<title>Cedric AI for Meetings — The first AI agent to present your slides and attend for you</title>
-<link>https://www.producthunt.com/products/cedric</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
-<description>The first AI agent to present your slides and attend for you (Product Hunt)</description>
+<title>The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
+<link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
+<description>The New York Times sues Brave web browser for AI scraping and bypassing paywalls (The Verge)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 17:15:34 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>昨晚，一个人工智能代理对一只小鼠进行了脑部手术</title>
+<link>https://twitter.com/OcanaSantero/status/2115442964574908902</link>
+<guid isPermaLink="true">https://twitter.com/OcanaSantero/status/2115442964574908902</guid>
+<description>昨晚，一个人工智能代理对一只小鼠进行了脑部手术 (twitter.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Mon, 02 Nov 2026 19:42:44 +0000</pubDate>
 </item>
 <item>
 <title>百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek</title>
@@ -96,28 +152,12 @@
 <pubDate>Mon, 02 Nov 2026 01:12:15 +0000</pubDate>
 </item>
 <item>
-<title>充斥着错误的AI粉丝维基正在混淆游戏文化的风向</title>
-<link>https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</link>
-<guid isPermaLink="true">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</guid>
-<description>充斥着错误的AI粉丝维基正在混淆游戏文化的风向 (www.eurogamer.net)</description>
+<title>Anthropic公司内部的人工智能使用成本（按零售价计算）现已超过其员工薪资总额</title>
+<link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
+<guid isPermaLink="true">https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</guid>
+<description>Anthropic公司内部的人工智能使用成本（按零售价计算）现已超过其员工薪资总额 (www.businessinsider.com)</description>
 <category>Multi-source buzz</category>
-<pubDate>Mon, 02 Nov 2026 17:04:04 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元</title>
-<link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
-<guid isPermaLink="true">https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</guid>
-<description>Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元 (www.cnbc.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 02 Nov 2026 16:16:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号</title>
-<link>https://www.aibase.com/news/32018</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32018</guid>
-<description>OpenAI宣布升级ChatGPT暴力内容限制，危险对话频发将面临封号 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 02 Nov 2026 08:18:47 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 18:22:40 +0000</pubDate>
 </item>
 <item>
 <title>Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
@@ -125,47 +165,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
 <description>Save web as an Agent-friendly Markdown browser extension (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 17:06:08 +0000</pubDate>
-</item>
-<item>
-<title>中国首项前沿人工智能出口管制：商务部第48号公告</title>
-<link>https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2</link>
-<guid isPermaLink="true">https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2</guid>
-<description>中国首项前沿人工智能出口管制：商务部第48号公告 (labs.cloudsecurityalliance.org)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 02 Nov 2026 14:23:59 +0000</pubDate>
-</item>
-<item>
-<title>GPT-Rosalind-6 System Card Addendum</title>
-<link>https://deploymentsafety.openai.com/gpt-rosalind-6</link>
-<guid isPermaLink="true">https://deploymentsafety.openai.com/gpt-rosalind-6</guid>
-<description>GPT-Rosalind-6 System Card Addendum</description>
-<category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 14:44:02 +0000</pubDate>
-</item>
-<item>
-<title>中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发</title>
-<link>https://www.aibase.com/news/32013</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32013</guid>
-<description>中国大模型周调用量连续 27 周领跑全球：OpenRouter最新数据显示国产AI生态爆发 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 02 Nov 2026 08:18:47 +0000</pubDate>
-</item>
-<item>
-<title>阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”</title>
-<link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist</guid>
-<description>阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” (techcrunch.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 02 Nov 2026 00:37:42 +0000</pubDate>
-</item>
-<item>
-<title>北京出台智能眼镜消费政策：购新补贴15%，单件最高500元</title>
-<link>https://www.aibase.com/news/32020</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32020</guid>
-<description>北京出台智能眼镜消费政策：购新补贴15%，单件最高500元 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 02 Nov 2026 08:18:47 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 19:56:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
