@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:18:28.245815Z",
+  "generated_at": "2026-11-03T20:18:30.291987Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.8522,
+      "importance": 0.8522,
+      "importance_score": 0.8522,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9992,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.97,
+        "recency": 0.9288,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.996,
+        "recency": 0.9538,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,30 +261,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
-      "story_id": "story_aa1d1403b32a",
-      "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "primary_url": "https://openai.com/index/heimstaden",
+      "story_id": "story_fbd820eb18a9",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "primary_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
-          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
-          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
-          "title_en": "Heimstaden is changing residential real estate management with AI",
-          "title_original": "Heimstaden is changing residential real estate management with AI",
+          "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
+          "title": "Accelerating engineering for the physical world",
+          "title_zh": null,
+          "title_en": "Accelerating engineering for the physical world",
+          "title_original": "Accelerating engineering for the physical world",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/heimstaden",
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T08:00:00Z",
+          "published_at": "2026-11-03T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -295,33 +295,33 @@
       ],
       "items": [
         {
-          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
-          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
-          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
-          "title_en": "Heimstaden is changing residential real estate management with AI",
-          "title_original": "Heimstaden is changing residential real estate management with AI",
+          "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
+          "title": "Accelerating engineering for the physical world",
+          "title_zh": null,
+          "title_en": "Accelerating engineering for the physical world",
+          "title_original": "Accelerating engineering for the physical world",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/heimstaden",
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T08:00:00Z",
+          "published_at": "2026-11-03T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8742,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,17 +330,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T08:00:00Z",
-      "latest_at": "2026-11-03T08:00:00Z",
+      "earliest_at": "2026-11-03T12:00:00Z",
+      "latest_at": "2026-11-03T12:00:00Z",
       "primary_item": {
-        "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
-        "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
-        "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
-        "title_en": "Heimstaden is changing residential real estate management with AI",
-        "title_original": "Heimstaden is changing residential real estate management with AI",
+        "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
+        "title": "Accelerating engineering for the physical world",
+        "title_zh": null,
+        "title_en": "Accelerating engineering for the physical world",
+        "title_original": "Accelerating engineering for the physical world",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/heimstaden",
+        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9897,
+        "recency": 0.9478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9736,
+        "recency": 0.9323,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,67 +522,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
-      "story_id": "story_0e2e48e223fc",
-      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "source": "Google AI Blog",
+      "story_id": "story_aa1d1403b32a",
+      "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "primary_url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
+          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+          "title_en": "Heimstaden is changing residential real estate management with AI",
+          "title_original": "Heimstaden is changing residential real estate management with AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
+          "url": "https://openai.com/index/heimstaden",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z",
+          "published_at": "2026-11-03T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
+          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+          "title_en": "Heimstaden is changing residential real estate management with AI",
+          "title_original": "Heimstaden is changing residential real estate management with AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
+          "url": "https://openai.com/index/heimstaden",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z",
+          "published_at": "2026-11-03T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7116,
+        "ai_relevance": 0.91,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,25 +591,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T17:45:00Z",
-      "latest_at": "2026-11-02T17:45:00Z",
+      "earliest_at": "2026-11-03T08:00:00Z",
+      "latest_at": "2026-11-03T08:00:00Z",
       "primary_item": {
-        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-        "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-        "title_en": "The latest AI news we announced in October 2026",
-        "title_original": "The latest AI news we announced in October 2026",
+        "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+        "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+        "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+        "title_en": "Heimstaden is changing residential real estate management with AI",
+        "title_original": "Heimstaden is changing residential real estate management with AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-        "source": "Google AI Blog",
+        "url": "https://openai.com/index/heimstaden",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9663,
+        "recency": 0.9253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,30 +696,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
-      "story_id": "story_f6a787bee313",
-      "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "primary_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "story_id": "story_e53a6dd32ac3",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "primary_url": "https://openai.com/index/cisco-cyber",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "title_zh": null,
+          "title_en": "How Cisco defends at machine speed with OpenAI",
+          "title_original": "How Cisco defends at machine speed with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "url": "https://openai.com/index/cisco-cyber",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z",
+          "published_at": "2026-11-03T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -730,33 +730,33 @@
       ],
       "items": [
         {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "title_zh": null,
+          "title_en": "How Cisco defends at machine speed with OpenAI",
+          "title_original": "How Cisco defends at machine speed with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "url": "https://openai.com/index/cisco-cyber",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z",
+          "published_at": "2026-11-03T08:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7142,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -765,17 +765,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T18:00:00Z",
-      "latest_at": "2026-11-02T18:00:00Z",
+      "earliest_at": "2026-11-03T08:00:00Z",
+      "latest_at": "2026-11-03T08:00:00Z",
       "primary_item": {
-        "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-        "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
-        "title_zh": "准备下一次安全冲刺以强化 OpenAI",
-        "title_en": "Preparing our next security sprint to harden OpenAI",
-        "title_original": "Preparing our next security sprint to harden OpenAI",
+        "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+        "title": "How Cisco defends at machine speed with OpenAI",
+        "title_zh": null,
+        "title_en": "How Cisco defends at machine speed with OpenAI",
+        "title_original": "How Cisco defends at machine speed with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "url": "https://openai.com/index/cisco-cyber",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -783,7 +783,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -835,15 +835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7789,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -870,7 +870,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -922,21 +922,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-03T11:18:35.355608Z",
       "latest_at": "2026-11-03T11:18:35.355608Z",
@@ -956,7 +955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -1008,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.951,
+        "recency": 0.9106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1043,30 +1042,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
-      "story_id": "story_5f8be3ab19ec",
-      "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "primary_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "story_id": "story_7ee3fbdb08d6",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "primary_url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "40d752318d489ac394846899a2875a4159e3aa68",
+          "title": "CWE-bench v2: More coverage, quality, and transparency",
+          "title_zh": null,
+          "title_en": "CWE-bench v2: More coverage, quality, and transparency",
+          "title_original": "CWE-bench v2: More coverage, quality, and transparency",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/cwe-bench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "40d752318d489ac394846899a2875a4159e3aa68",
+          "title": "CWE-bench v2: More coverage, quality, and transparency",
+          "title_zh": null,
+          "title_en": "CWE-bench v2: More coverage, quality, and transparency",
+          "title_original": "CWE-bench v2: More coverage, quality, and transparency",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/cwe-bench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7458,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T00:00:00Z",
+      "latest_at": "2026-11-03T00:00:00Z",
+      "primary_item": {
+        "id": "40d752318d489ac394846899a2875a4159e3aa68",
+        "title": "CWE-bench v2: More coverage, quality, and transparency",
+        "title_zh": null,
+        "title_en": "CWE-bench v2: More coverage, quality, and transparency",
+        "title_original": "CWE-bench v2: More coverage, quality, and transparency",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/cwe-bench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T20:38:18.364144Z"
+      }
+    },
+    {
+      "story_id": "story_5ab1c1c739d8",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "primary_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-          "title_zh": "用更大的错误赏金奖励防御者",
-          "title_en": "Rewarding defenders with bigger bug bounties",
-          "title_original": "Rewarding defenders with bigger bug bounties",
+          "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
+          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "title_zh": null,
+          "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z",
+          "published_at": "2026-11-03T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1077,33 +1163,33 @@
       ],
       "items": [
         {
-          "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-          "title_zh": "用更大的错误赏金奖励防御者",
-          "title_en": "Rewarding defenders with bigger bug bounties",
-          "title_original": "Rewarding defenders with bigger bug bounties",
+          "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
+          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "title_zh": null,
+          "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z",
+          "published_at": "2026-11-03T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7142,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1112,17 +1198,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T18:00:00Z",
-      "latest_at": "2026-11-02T18:00:00Z",
+      "earliest_at": "2026-11-03T00:00:00Z",
+      "latest_at": "2026-11-03T00:00:00Z",
       "primary_item": {
-        "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-        "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
-        "title_zh": "用更大的错误赏金奖励防御者",
-        "title_en": "Rewarding defenders with bigger bug bounties",
-        "title_original": "Rewarding defenders with bigger bug bounties",
+        "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
+        "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "title_zh": null,
+        "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1130,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -1182,21 +1268,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-03T11:18:35.355608Z",
       "latest_at": "2026-11-03T11:18:35.355608Z",
@@ -1216,7 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -1268,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8734,
+        "recency": 0.8363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1303,7 +1388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -1355,21 +1440,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-03T11:18:35.355608Z",
       "latest_at": "2026-11-03T11:18:35.355608Z",
@@ -1389,7 +1473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -1441,15 +1525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1474,7 +1558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
@@ -1526,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1559,209 +1643,223 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     },
     {
-      "story_id": "story_fdd52236999e",
-      "title": "谷歌将在不需要人工智能的学校中完全禁用搜索 / Google is entirely disabling Search in schools that don&#8217;t want AI",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "primary_url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_a8b082ecc7e6",
+      "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5fad5d0c37edce21a59cf83ddda0281293ee520a",
-          "title": "谷歌将在不需要人工智能的学校中完全禁用搜索 / Google is entirely disabling Search in schools that don&#8217;t want AI",
-          "title_zh": "谷歌将在不需要人工智能的学校中完全禁用搜索",
-          "title_en": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-          "title_original": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": null,
+          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-03T17:00:04Z",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T17:14:02.313000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "c0403f973547ddcee6814f3055d78588b95affc7",
-          "title": "谷歌将在不需要人工智能的学校中完全禁用搜索 / Google is entirely disabling Search in schools that don’t want AI",
-          "title_zh": "谷歌将在不需要人工智能的学校中完全禁用搜索",
-          "title_en": "Google is entirely disabling Search in schools that don’t want AI",
-          "title_original": "Google is entirely disabling Search in schools that don’t want AI",
+          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-          "source": "The Verge",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "New York Times",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-03T17:00:04Z",
+          "published_at": "2026-11-03T17:13:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
+          "title": "Google will turn off search for schools that reject AI",
+          "title_zh": null,
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
+          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
+          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
+          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
+          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 5,
       "source_names": [
-        "The Verge"
+        "Hacker News (黑客新闻)",
+        "New York Times",
+        "hackernews",
+        "www.nytimes.com"
       ],
       "items": [
         {
-          "id": "5fad5d0c37edce21a59cf83ddda0281293ee520a",
-          "title": "谷歌将在不需要人工智能的学校中完全禁用搜索 / Google is entirely disabling Search in schools that don&#8217;t want AI",
-          "title_zh": "谷歌将在不需要人工智能的学校中完全禁用搜索",
-          "title_en": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-          "title_original": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": null,
+          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-03T17:00:04Z",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T17:14:02.313000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "c0403f973547ddcee6814f3055d78588b95affc7",
-          "title": "谷歌将在不需要人工智能的学校中完全禁用搜索 / Google is entirely disabling Search in schools that don’t want AI",
-          "title_zh": "谷歌将在不需要人工智能的学校中完全禁用搜索",
-          "title_en": "Google is entirely disabling Search in schools that don’t want AI",
-          "title_original": "Google is entirely disabling Search in schools that don’t want AI",
+          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-          "source": "The Verge",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "New York Times",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-03T17:00:04Z",
+          "published_at": "2026-11-03T17:13:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
+          "title": "Google will turn off search for schools that reject AI",
+          "title_zh": null,
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
+          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
+          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
+          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
+          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6147,
-      "importance": 0.6147,
-      "importance_score": 0.6147,
-      "importance_label": "值得关注",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.613,
+      "importance": 0.613,
+      "importance_score": 0.613,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.9956,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9566,
+        "story_heat": 1.0
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-03T17:00:04Z",
-      "latest_at": "2026-11-03T17:00:04Z",
+      "earliest_at": "2026-11-03T15:25:47Z",
+      "latest_at": "2026-11-03T17:14:02.313000Z",
       "primary_item": {
-        "id": "5fad5d0c37edce21a59cf83ddda0281293ee520a",
-        "title": "谷歌将在不需要人工智能的学校中完全禁用搜索 / Google is entirely disabling Search in schools that don&#8217;t want AI",
-        "title_zh": "谷歌将在不需要人工智能的学校中完全禁用搜索",
-        "title_en": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-        "title_original": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
-      }
-    },
-    {
-      "story_id": "story_9b692c13ddce",
-      "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-      "url": "https://www.aibase.com/news/32050",
-      "primary_url": "https://www.aibase.com/news/32050",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
-          "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "title_en": null,
-          "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32050",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
-          "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "title_en": null,
-          "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32050",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
-      "primary_item": {
-        "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
-        "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-        "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+        "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
+        "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+        "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
         "title_en": null,
-        "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+        "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32050",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T17:19:27.562509Z"
+        "scored_at": "2026-11-03T20:38:18.364144Z"
       }
     }
   ]
