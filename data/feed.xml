@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 03 Nov 2026 20:18:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:18:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents</title>
@@ -16,12 +16,12 @@
 <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air</title>
-<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
+<title>Dependabot version updates support Agent Package Manager</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 20:24:07 +0000</pubDate>
 </item>
 <item>
 <title>使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity</title>
@@ -48,12 +48,12 @@
 <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
 </item>
 <item>
-<title>使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API</title>
-<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
+<title>GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air</title>
+<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
 </item>
 <item>
 <title>Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI</title>
@@ -64,20 +64,12 @@
 <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
-<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
+<title>使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API</title>
+<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
-</item>
-<item>
-<title>How Cisco defends at machine speed with OpenAI</title>
-<link>https://openai.com/index/cisco-cyber</link>
-<guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
 </item>
 <item>
 <title>Transformers 模型集成合约 / Transformers Model Integration Contracts</title>
@@ -88,6 +80,14 @@
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>How Cisco defends at machine speed with OpenAI</title>
+<link>https://openai.com/index/cisco-cyber</link>
+<guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
 <title>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心</title>
 <link>https://www.aibase.com/news/32058</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32058</guid>
@@ -96,12 +96,12 @@
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
 </item>
 <item>
-<title>Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15</title>
-<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
+<title>CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
+<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
 </item>
 <item>
 <title>CWE-bench v2: More coverage, quality, and transparency</title>
@@ -128,12 +128,12 @@
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens</title>
-<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
+<title>Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发</title>
@@ -142,6 +142,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens</title>
+<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
 </item>
 <item>
 <title>8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布</title>
@@ -158,14 +166,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 03 Nov 2026 08:18:31 +0000</pubDate>
-</item>
-<item>
-<title>封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎</title>
-<link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</guid>
-<description>www.nytimes.com</description>
-<category>多源热议</category>
-<pubDate>Tue, 03 Nov 2026 17:14:02 +0000</pubDate>
 </item>
 </channel>
 </rss>

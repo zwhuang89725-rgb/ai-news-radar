@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 20:18:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:18:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>StateBench: Testing how language models track state changes over long documents</title>
@@ -16,12 +16,12 @@
 <pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot is now available in JetBrains Air</title>
-<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
-<description>GitHub Copilot is now available in JetBrains Air (GitHub Changelog)</description>
+<title>Dependabot version updates support Agent Package Manager</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager</guid>
+<description>Dependabot version updates support Agent Package Manager (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 20:24:07 +0000</pubDate>
 </item>
 <item>
 <title>Agentic cheminformatics with Google Antigravity</title>
@@ -48,12 +48,12 @@
 <pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
 </item>
 <item>
-<title>Look up a resource’s cost center with the GitHub REST API</title>
-<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
-<description>Look up a resource’s cost center with the GitHub REST API (GitHub Changelog)</description>
+<title>GitHub Copilot is now available in JetBrains Air</title>
+<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
+<description>GitHub Copilot is now available in JetBrains Air (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
 </item>
 <item>
 <title>Heimstaden is changing residential real estate management with AI</title>
@@ -64,20 +64,12 @@
 <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
-<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
-<description>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions (GitHub Changelog)</description>
+<title>Look up a resource’s cost center with the GitHub REST API</title>
+<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
+<description>Look up a resource’s cost center with the GitHub REST API (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
-</item>
-<item>
-<title>How Cisco defends at machine speed with OpenAI</title>
-<link>https://openai.com/index/cisco-cyber</link>
-<guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
-<description>How Cisco defends at machine speed with OpenAI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
 </item>
 <item>
 <title>Transformers Model Integration Contracts</title>
@@ -88,6 +80,14 @@
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>How Cisco defends at machine speed with OpenAI</title>
+<link>https://openai.com/index/cisco-cyber</link>
+<guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
+<description>How Cisco defends at machine speed with OpenAI (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+</item>
+<item>
 <title>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心</title>
 <link>https://www.aibase.com/news/32058</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32058</guid>
@@ -96,12 +96,12 @@
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
 </item>
 <item>
-<title>Dependabot now supports Python 3.15</title>
-<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
-<description>Dependabot now supports Python 3.15 (GitHub Changelog)</description>
+<title>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
+<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
+<description>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
 </item>
 <item>
 <title>CWE-bench v2: More coverage, quality, and transparency</title>
@@ -128,12 +128,12 @@
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Desktop adds short-lived authentication tokens</title>
-<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
-<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
+<title>Dependabot now supports Python 3.15</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
+<description>Dependabot now supports Python 3.15 (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发</title>
@@ -142,6 +142,14 @@
 <description>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Desktop adds short-lived authentication tokens</title>
+<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
+<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
 </item>
 <item>
 <title>8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布</title>
@@ -158,14 +166,6 @@
 <description>AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 08:18:31 +0000</pubDate>
-</item>
-<item>
-<title>封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎</title>
-<link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</guid>
-<description>封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 (www.nytimes.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Tue, 03 Nov 2026 17:14:02 +0000</pubDate>
 </item>
 </channel>
 </rss>

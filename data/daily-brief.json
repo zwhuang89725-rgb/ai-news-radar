@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:18:30.291987Z",
+  "generated_at": "2026-11-03T23:18:31.247146Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8522,
-      "importance": 0.8522,
-      "importance_score": 0.8522,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9569,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,30 +87,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
-      "story_id": "story_46598a98a79d",
-      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "story_id": "story_05cba21c67c5",
+      "title": "Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot version updates support Agent Package Manager",
+          "title_zh": null,
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z",
+          "published_at": "2026-11-03T20:24:07Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -121,33 +121,33 @@
       ],
       "items": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot version updates support Agent Package Manager",
+          "title_zh": null,
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z",
+          "published_at": "2026-11-03T20:24:07Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9288,
+        "ai_relevance": 0.87,
+        "recency": 0.9589,
         "story_heat": 0.0
       },
       "category": "official",
@@ -156,17 +156,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:11:46Z",
-      "latest_at": "2026-11-03T15:11:46Z",
+      "earliest_at": "2026-11-03T20:24:07Z",
+      "latest_at": "2026-11-03T20:24:07Z",
       "primary_item": {
-        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-        "title_en": "GitHub Copilot is now available in JetBrains Air",
-        "title_original": "GitHub Copilot is now available in JetBrains Air",
+        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+        "title": "Dependabot version updates support Agent Package Manager",
+        "title_zh": null,
+        "title_en": "Dependabot version updates support Agent Package Manager",
+        "title_original": "Dependabot version updates support Agent Package Manager",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9538,
+        "recency": 0.9133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8869,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9478,
+        "recency": 0.9076,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,30 +435,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
-      "story_id": "story_6f142f0f742c",
-      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "story_id": "story_46598a98a79d",
+      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z",
+          "published_at": "2026-11-03T15:11:46Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -469,33 +469,33 @@
       ],
       "items": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z",
+          "published_at": "2026-11-03T15:11:46Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9323,
+        "ai_relevance": 0.91,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,17 +504,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:27:13Z",
-      "latest_at": "2026-11-03T15:27:13Z",
+      "earliest_at": "2026-11-03T15:11:46Z",
+      "latest_at": "2026-11-03T15:11:46Z",
       "primary_item": {
-        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-        "title_en": "Look up a resource’s cost center with the GitHub REST API",
-        "title_original": "Look up a resource’s cost center with the GitHub REST API",
+        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+        "title_en": "GitHub Copilot is now available in JetBrains Air",
+        "title_original": "GitHub Copilot is now available in JetBrains Air",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,30 +609,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
-      "story_id": "story_4f6706e957ed",
-      "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "story_id": "story_6f142f0f742c",
+      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+          "title_en": "Look up a resource’s cost center with the GitHub REST API",
+          "title_original": "Look up a resource’s cost center with the GitHub REST API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z",
+          "published_at": "2026-11-03T15:27:13Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -643,33 +643,33 @@
       ],
       "items": [
         {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+          "title_en": "Look up a resource’s cost center with the GitHub REST API",
+          "title_original": "Look up a resource’s cost center with the GitHub REST API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z",
+          "published_at": "2026-11-03T15:27:13Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9253,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "official",
@@ -678,17 +678,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T14:56:03Z",
-      "latest_at": "2026-11-03T14:56:03Z",
+      "earliest_at": "2026-11-03T15:27:13Z",
+      "latest_at": "2026-11-03T15:27:13Z",
       "primary_item": {
-        "id": "d614d57971cd1df8ae60519986a771e876042c89",
-        "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-        "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+        "title_en": "Look up a resource’s cost center with the GitHub REST API",
+        "title_original": "Look up a resource’s cost center with the GitHub REST API",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -696,94 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
-      }
-    },
-    {
-      "story_id": "story_e53a6dd32ac3",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "primary_url": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
-          "title": "How Cisco defends at machine speed with OpenAI",
-          "title_zh": null,
-          "title_en": "How Cisco defends at machine speed with OpenAI",
-          "title_original": "How Cisco defends at machine speed with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cisco-cyber",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
-          "title": "How Cisco defends at machine speed with OpenAI",
-          "title_zh": null,
-          "title_en": "How Cisco defends at machine speed with OpenAI",
-          "title_original": "How Cisco defends at machine speed with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cisco-cyber",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8372,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T08:00:00Z",
-      "latest_at": "2026-11-03T08:00:00Z",
-      "primary_item": {
-        "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
-        "title": "How Cisco defends at machine speed with OpenAI",
-        "title_zh": null,
-        "title_en": "How Cisco defends at machine speed with OpenAI",
-        "title_original": "How Cisco defends at machine speed with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/cisco-cyber",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -835,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -870,7 +783,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
+      }
+    },
+    {
+      "story_id": "story_e53a6dd32ac3",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "primary_url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "title_zh": null,
+          "title_en": "How Cisco defends at machine speed with OpenAI",
+          "title_original": "How Cisco defends at machine speed with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cisco-cyber",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "title_zh": null,
+          "title_en": "How Cisco defends at machine speed with OpenAI",
+          "title_original": "How Cisco defends at machine speed with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cisco-cyber",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8017,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T08:00:00Z",
+      "latest_at": "2026-11-03T08:00:00Z",
+      "primary_item": {
+        "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+        "title": "How Cisco defends at machine speed with OpenAI",
+        "title_zh": null,
+        "title_en": "How Cisco defends at machine speed with OpenAI",
+        "title_original": "How Cisco defends at machine speed with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/cisco-cyber",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -922,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,30 +955,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
-      "story_id": "story_456b6b3229d2",
-      "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+      "story_id": "story_4f6706e957ed",
+      "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
+          "id": "d614d57971cd1df8ae60519986a771e876042c89",
+          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
+          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z",
+          "published_at": "2026-11-03T14:56:03Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -989,33 +989,33 @@
       ],
       "items": [
         {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
+          "id": "d614d57971cd1df8ae60519986a771e876042c89",
+          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
+          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z",
+          "published_at": "2026-11-03T14:56:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9106,
+        "recency": 0.8861,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1024,17 +1024,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T13:49:32Z",
-      "latest_at": "2026-11-03T13:49:32Z",
+      "earliest_at": "2026-11-03T14:56:03Z",
+      "latest_at": "2026-11-03T14:56:03Z",
       "primary_item": {
-        "id": "dd83561245e444032a512d5c31e40958b86264ef",
-        "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-        "title_zh": "Dependabot 现在支持 Python 3.15",
-        "title_en": "Dependabot now supports Python 3.15",
-        "title_original": "Dependabot now supports Python 3.15",
+        "id": "d614d57971cd1df8ae60519986a771e876042c89",
+        "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
+        "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1042,7 +1042,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -1094,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1129,7 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -1181,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1216,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -1268,15 +1268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1301,30 +1301,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
-      "story_id": "story_734406bf8820",
-      "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-      "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-      "primary_url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "story_id": "story_456b6b3229d2",
+      "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
-          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
-          "title_en": "GitHub Desktop adds short-lived authentication tokens",
-          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "id": "dd83561245e444032a512d5c31e40958b86264ef",
+          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+          "title_zh": "Dependabot 现在支持 Python 3.15",
+          "title_en": "Dependabot now supports Python 3.15",
+          "title_original": "Dependabot now supports Python 3.15",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T07:55:58Z",
+          "published_at": "2026-11-03T13:49:32Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1335,33 +1335,33 @@
       ],
       "items": [
         {
-          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
-          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
-          "title_en": "GitHub Desktop adds short-lived authentication tokens",
-          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "id": "dd83561245e444032a512d5c31e40958b86264ef",
+          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+          "title_zh": "Dependabot 现在支持 Python 3.15",
+          "title_en": "Dependabot now supports Python 3.15",
+          "title_original": "Dependabot now supports Python 3.15",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T07:55:58Z",
+          "published_at": "2026-11-03T13:49:32Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8363,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1370,17 +1370,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T07:55:58Z",
-      "latest_at": "2026-11-03T07:55:58Z",
+      "earliest_at": "2026-11-03T13:49:32Z",
+      "latest_at": "2026-11-03T13:49:32Z",
       "primary_item": {
-        "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
-        "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-        "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
-        "title_en": "GitHub Desktop adds short-lived authentication tokens",
-        "title_original": "GitHub Desktop adds short-lived authentication tokens",
+        "id": "dd83561245e444032a512d5c31e40958b86264ef",
+        "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+        "title_zh": "Dependabot 现在支持 Python 3.15",
+        "title_en": "Dependabot now supports Python 3.15",
+        "title_original": "Dependabot now supports Python 3.15",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1388,7 +1388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -1440,15 +1440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1473,7 +1473,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
+      }
+    },
+    {
+      "story_id": "story_734406bf8820",
+      "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+      "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "primary_url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+          "title_en": "GitHub Desktop adds short-lived authentication tokens",
+          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T07:55:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+          "title_en": "GitHub Desktop adds short-lived authentication tokens",
+          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T07:55:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8009,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T07:55:58Z",
+      "latest_at": "2026-11-03T07:55:58Z",
+      "primary_item": {
+        "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+        "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+        "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+        "title_en": "GitHub Desktop adds short-lived authentication tokens",
+        "title_original": "GitHub Desktop adds short-lived authentication tokens",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -1525,15 +1612,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1558,7 +1645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     },
     {
@@ -1610,15 +1697,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1643,223 +1730,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
-      }
-    },
-    {
-      "story_id": "story_a8b082ecc7e6",
-      "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": null,
-          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "Google will turn off search for schools that reject AI",
-          "title_zh": null,
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
-          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
-          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
-          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
-          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "New York Times",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": null,
-          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "Google will turn off search for schools that reject AI",
-          "title_zh": null,
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
-          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
-          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
-          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
-          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.613,
-      "importance": 0.613,
-      "importance_score": 0.613,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9566,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-03T15:25:47Z",
-      "latest_at": "2026-11-03T17:14:02.313000Z",
-      "primary_item": {
-        "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-        "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-        "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-        "title_en": null,
-        "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T20:38:18.364144Z"
+        "scored_at": "2026-11-03T23:46:21.047256Z"
       }
     }
   ]
