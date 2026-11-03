@@ -5,15 +5,15 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 03 Nov 2026 02:18:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 05:19:29 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Scaling Git at OpenAI</title>
+<title>OpenAI 中的 Git 扩展 / Scaling Git at OpenAI</title>
 <link>https://openai.com/index/scaling-git-at-openai</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 04:44:37 +0000</pubDate>
 </item>
 <item>
 <title>我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026</title>
@@ -32,12 +32,12 @@
 <pubDate>Mon, 02 Nov 2026 15:47:21 +0000</pubDate>
 </item>
 <item>
-<title>电网保护者计划简介 / Introducing the Grid Protectors Program</title>
-<link>https://openai.com/index/grid-protectors-program</link>
-<guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
+<title>Preparing our next security sprint to harden OpenAI</title>
+<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+<guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2</title>
@@ -48,12 +48,44 @@
 <pubDate>Mon, 02 Nov 2026 15:14:46 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值</title>
-<link>https://www.aibase.com/news/32029</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32029</guid>
+<title>从"禁军用"到拿下五角大楼，OpenAI 请来前陆军部长当顾问</title>
+<link>https://www.aibase.com/news/32043</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32043</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 03 Nov 2026 02:18:27 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 05:19:29 +0000</pubDate>
+</item>
+<item>
+<title>Rewarding defenders with bigger bug bounties</title>
+<link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+<guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买</title>
+<link>https://www.aibase.com/news/32041</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32041</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 03 Nov 2026 05:19:29 +0000</pubDate>
+</item>
+<item>
+<title>电网保护者计划简介 / Introducing the Grid Protectors Program</title>
+<link>https://openai.com/index/grid-protectors-program</link>
+<guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>腾讯混元放出"AI 科学家"：自己训蛋白、造机械手，还反手改进下一代 AI</title>
+<link>https://www.aibase.com/news/32044</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32044</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 03 Nov 2026 05:19:29 +0000</pubDate>
 </item>
 <item>
 <title>LifeVal</title>
@@ -64,49 +96,25 @@
 <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI宣布ChatGPT Classic将于2027年1月30日停用</title>
-<link>https://www.aibase.com/news/32039</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32039</guid>
+<title>苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制</title>
+<link>https://www.aibase.com/news/32042</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32042</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 03 Nov 2026 02:18:27 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 05:19:29 +0000</pubDate>
 </item>
 <item>
-<title>何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租</title>
-<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44</link>
-<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44</guid>
-<description>Daily Digest</description>
-<category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 08:01:01 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问</title>
-<link>https://www.aibase.com/news/32031</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32031</guid>
+<title>营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验</title>
+<link>https://www.aibase.com/news/32045</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32045</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 03 Nov 2026 02:18:27 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 05:19:29 +0000</pubDate>
 </item>
 <item>
-<title>​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水</title>
-<link>https://www.aibase.com/news/32030</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32030</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 03 Nov 2026 02:18:27 +0000</pubDate>
-</item>
-<item>
-<title>一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的"必答题"</title>
-<link>https://www.aibase.com/news/32035</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32035</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 03 Nov 2026 02:18:27 +0000</pubDate>
-</item>
-<item>
-<title>人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当"大管家"</title>
-<link>https://www.aibase.com/news/32037</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32037</guid>
+<title>Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值</title>
+<link>https://www.aibase.com/news/32029</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32029</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 03 Nov 2026 02:18:27 +0000</pubDate>
@@ -125,15 +133,23 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
 <description>The first AI agent to present your slides and attend for you（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Tue, 03 Nov 2026 02:13:42 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 05:18:23 +0000</pubDate>
 </item>
 <item>
-<title>千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份</title>
-<link>https://www.aibase.com/news/32027</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32027</guid>
+<title>OpenAI宣布ChatGPT Classic将于2027年1月30日停用</title>
+<link>https://www.aibase.com/news/32039</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32039</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 03 Nov 2026 02:18:27 +0000</pubDate>
+</item>
+<item>
+<title>Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
+<link>https://www.producthunt.com/products/linkly-ai-clipper</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
+<description>Save web as an Agent-friendly Markdown browser extension（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Tue, 03 Nov 2026 05:07:04 +0000</pubDate>
 </item>
 <item>
 <title>人工智能时代中的“无我”数学</title>
@@ -150,22 +166,6 @@
 <description>www.techpolicy.press</description>
 <category>多源热议</category>
 <pubDate>Tue, 03 Nov 2026 00:13:47 +0000</pubDate>
-</item>
-<item>
-<title>《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙 / The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
-<link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 的增长势头刚刚趋于平缓</title>
-<link>https://www.regenerator1.com/p/anthropics-growth-just-flattened</link>
-<guid isPermaLink="true">https://www.regenerator1.com/p/anthropics-growth-just-flattened</guid>
-<description>www.regenerator1.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 02 Nov 2026 23:57:43 +0000</pubDate>
 </item>
 </channel>
 </rss>

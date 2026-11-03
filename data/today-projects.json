@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:19:10.171863Z",
+  "generated_at": "2026-11-03T05:20:09.127622Z",
   "date": "2026-11-03",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-03T02:18:27.954777Z"
+      "observed_at": "2026-11-03T05:19:29.288482Z"
     },
     {
-      "id": "project_6b0550f2386a",
-      "project_name": "Hera",
-      "url": "https://www.producthunt.com/products/hera-6",
-      "summary": "AI Creative Canvas",
+      "id": "project_f9a2fba12d35",
+      "project_name": "Friday Work",
+      "url": "https://www.producthunt.com/products/friday-work",
+      "summary": "When Claude hits its limit, your task keeps going",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI Creative Canvas」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI Creative Canvas\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T14:29:36Z",
-      "updated_at": "2026-11-03T01:59:29Z",
+      "recommend_reason_zh": "体验它主打的「When Claude hits its limit, your task keeps going」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"When Claude hits its limit, your task keeps going\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-01T22:55:35Z",
+      "updated_at": "2026-11-03T05:11:55Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-03T02:18:57.643273Z"
+      "observed_at": "2026-11-03T05:19:58.988307Z"
     },
     {
       "id": "project_b8da10635efb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-03T02:18:27.954777Z"
+      "observed_at": "2026-11-03T05:19:29.288482Z"
     },
     {
-      "id": "project_672b64a83fc2",
-      "project_name": "CuriousLM",
-      "url": "https://www.producthunt.com/products/curiouslm",
-      "summary": "Private AI that runs on your device. No account.",
+      "id": "project_6b0550f2386a",
+      "project_name": "Hera",
+      "url": "https://www.producthunt.com/products/hera-6",
+      "summary": "AI Creative Canvas",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Private AI that runs on your device. No account」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Private AI that runs on your device. No account\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-07T07:16:11Z",
-      "updated_at": "2026-11-03T02:00:46Z",
+      "recommend_reason_zh": "体验它主打的「AI Creative Canvas」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI Creative Canvas\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T14:29:36Z",
+      "updated_at": "2026-11-03T04:49:52Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-03T02:18:57.643273Z"
+      "observed_at": "2026-11-03T05:19:58.988307Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1441,
+      "duration_ms": 1552,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 48,
-      "duration_ms": 251,
+      "duration_ms": 276,
       "error": null
     }
   ]
