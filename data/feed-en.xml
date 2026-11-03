@@ -5,15 +5,31 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 14:17:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 17:18:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>Dependabot now supports Python 3.15</title>
-<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
-<description>Dependabot now supports Python 3.15 (GitHub Changelog)</description>
+<title>StateBench: Testing how language models track state changes over long documents</title>
+<link>https://huggingface.co/blog/allenai/statebench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/statebench</guid>
+<description>StateBench: Testing how language models track state changes over long documents (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot is now available in JetBrains Air</title>
+<link>https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air</guid>
+<description>GitHub Copilot is now available in JetBrains Air (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 15:11:46 +0000</pubDate>
+</item>
+<item>
+<title>Agentic cheminformatics with Google Antigravity</title>
+<link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity</link>
+<guid isPermaLink="true">https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity</guid>
+<description>Agentic cheminformatics with Google Antigravity (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
 </item>
 <item>
 <title>Heimstaden is changing residential real estate management with AI</title>
@@ -24,20 +40,20 @@
 <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Transformers Model Integration Contracts</title>
-<link>https://huggingface.co/blog/transformers-mic</link>
-<guid isPermaLink="true">https://huggingface.co/blog/transformers-mic</guid>
-<description>Transformers Model Integration Contracts (Hugging Face Blog)</description>
+<title>Palette: teaching a small model to build decks in your design language</title>
+<link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
+<description>Palette: teaching a small model to build decks in your design language (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Desktop adds short-lived authentication tokens</title>
-<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
-<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
+<title>Look up a resource’s cost center with the GitHub REST API</title>
+<link>https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api</guid>
+<description>Look up a resource’s cost center with the GitHub REST API (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:27:13 +0000</pubDate>
 </item>
 <item>
 <title>The latest AI news we announced in October 2026</title>
@@ -48,20 +64,12 @@
 <pubDate>Mon, 02 Nov 2026 17:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Scaling Git at OpenAI</title>
-<link>https://openai.com/index/scaling-git-at-openai</link>
-<guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
-<description>Scaling Git at OpenAI (OpenAI News)</description>
+<title>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions</title>
+<link>https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions</guid>
+<description>CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 03 Nov 2026 04:44:37 +0000</pubDate>
-</item>
-<item>
-<title>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心</title>
-<link>https://www.aibase.com/news/32058</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32058</guid>
-<description>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 14:56:03 +0000</pubDate>
 </item>
 <item>
 <title>Preparing our next security sprint to harden OpenAI</title>
@@ -72,20 +80,28 @@
 <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Security risk assessments include repository protection status</title>
-<link>https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status</guid>
-<description>Security risk assessments include repository protection status (GitHub Changelog)</description>
+<title>Transformers Model Integration Contracts</title>
+<link>https://huggingface.co/blog/transformers-mic</link>
+<guid isPermaLink="true">https://huggingface.co/blog/transformers-mic</guid>
+<description>Transformers Model Integration Contracts (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 15:47:21 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会</title>
-<link>https://www.aibase.com/news/32057</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32057</guid>
-<description>联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会 (AIbase)</description>
+<title>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心</title>
+<link>https://www.aibase.com/news/32058</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32058</guid>
+<description>电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
+</item>
+<item>
+<title>Dependabot now supports Python 3.15</title>
+<link>https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15</guid>
+<description>Dependabot now supports Python 3.15 (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 03 Nov 2026 13:49:32 +0000</pubDate>
 </item>
 <item>
 <title>Rewarding defenders with bigger bug bounties</title>
@@ -96,12 +112,20 @@
 <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>pull_request_target blocked by default December 2</title>
-<link>https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2</guid>
-<description>pull_request_target blocked by default December 2 (GitHub Changelog)</description>
+<title>联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会</title>
+<link>https://www.aibase.com/news/32057</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32057</guid>
+<description>联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Desktop adds short-lived authentication tokens</title>
+<link>https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens</guid>
+<description>GitHub Desktop adds short-lived authentication tokens (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 15:14:46 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 07:55:58 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发</title>
@@ -110,14 +134,6 @@
 <description>腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 11:18:35 +0000</pubDate>
-</item>
-<item>
-<title>Introducing the Grid Protectors Program</title>
-<link>https://openai.com/index/grid-protectors-program</link>
-<guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
-<description>Introducing the Grid Protectors Program (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布</title>
@@ -136,36 +152,20 @@
 <pubDate>Tue, 03 Nov 2026 08:18:31 +0000</pubDate>
 </item>
 <item>
+<title>Google is entirely disabling Search in schools that don&amp;#8217;t want AI</title>
+<link>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
+<description>Google is entirely disabling Search in schools that don&amp;#8217;t want AI (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 03 Nov 2026 17:00:04 +0000</pubDate>
+</item>
+<item>
 <title>App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进"成人区"</title>
 <link>https://www.aibase.com/news/32050</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32050</guid>
 <description>App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进"成人区" (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 03 Nov 2026 08:18:31 +0000</pubDate>
-</item>
-<item>
-<title>Teamily AI — Your personal agent, agent teams &amp; people in one messenger</title>
-<link>https://www.producthunt.com/products/teamily-ai-human-ai-social-network</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/teamily-ai-human-ai-social-network</guid>
-<description>Your personal agent, agent teams &amp; people in one messenger (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 03 Nov 2026 14:17:26 +0000</pubDate>
-</item>
-<item>
-<title>Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。</title>
-<link>https://github.com/Usagi-org/ai-goofish-monitor</link>
-<guid isPermaLink="true">https://github.com/Usagi-org/ai-goofish-monitor</guid>
-<description>Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 03 Nov 2026 11:19:00 +0000</pubDate>
-</item>
-<item>
-<title>Apple&amp;#8217;s &amp;#8216;Ultra&amp;#8217; smart home robot might have to wait until 2028</title>
-<link>https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay</guid>
-<description>Apple&amp;#8217;s &amp;#8216;Ultra&amp;#8217; smart home robot might have to wait until 2028 (The Verge)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 02 Nov 2026 17:06:10 +0000</pubDate>
 </item>
 </channel>
 </rss>
