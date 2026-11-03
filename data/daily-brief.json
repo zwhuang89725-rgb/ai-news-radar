@@ -1,11 +1,98 @@
 {
-  "generated_at": "2026-11-03T08:18:31.996244Z",
+  "generated_at": "2026-11-03T11:18:35.355608Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_aa1d1403b32a",
+      "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "primary_url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+          "title_en": "Heimstaden is changing residential real estate management with AI",
+          "title_original": "Heimstaden is changing residential real estate management with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/heimstaden",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+          "title_en": "Heimstaden is changing residential real estate management with AI",
+          "title_original": "Heimstaden is changing residential real estate management with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/heimstaden",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9533,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T08:00:00Z",
+      "latest_at": "2026-11-03T08:00:00Z",
+      "primary_item": {
+        "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+        "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+        "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+        "title_en": "Heimstaden is changing residential real estate management with AI",
+        "title_original": "Heimstaden is changing residential real estate management with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/heimstaden",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T11:19:29.015795Z"
+      }
+    },
+    {
       "story_id": "story_5d294462667a",
-      "title": "Transformers Model Integration Contracts",
+      "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
       "url": "https://huggingface.co/blog/transformers-mic",
       "primary_url": "https://huggingface.co/blog/transformers-mic",
       "source": "Hugging Face Blog",
@@ -13,8 +100,8 @@
       "sources": [
         {
           "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-          "title": "Transformers Model Integration Contracts",
-          "title_zh": null,
+          "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
+          "title_zh": "Transformers 模型集成合约",
           "title_en": "Transformers Model Integration Contracts",
           "title_original": "Transformers Model Integration Contracts",
           "summary": null,
@@ -35,8 +122,8 @@
       "items": [
         {
           "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-          "title": "Transformers Model Integration Contracts",
-          "title_zh": null,
+          "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
+          "title_zh": "Transformers 模型集成合约",
           "title_en": "Transformers Model Integration Contracts",
           "title_original": "Transformers Model Integration Contracts",
           "summary": null,
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8869,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,8 +160,8 @@
       "latest_at": "2026-11-03T00:00:00Z",
       "primary_item": {
         "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-        "title": "Transformers Model Integration Contracts",
-        "title_zh": null,
+        "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
+        "title_zh": "Transformers 模型集成合约",
         "title_en": "Transformers Model Integration Contracts",
         "title_original": "Transformers Model Integration Contracts",
         "summary": null,
@@ -87,7 +174,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
+      }
+    },
+    {
+      "story_id": "story_0e2e48e223fc",
+      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in October 2026",
+          "title_original": "The latest AI news we announced in October 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in October 2026",
+          "title_original": "The latest AI news we announced in October 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.776,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T17:45:00Z",
+      "latest_at": "2026-11-02T17:45:00Z",
+      "primary_item": {
+        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+        "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+        "title_en": "The latest AI news we announced in October 2026",
+        "title_original": "The latest AI news we announced in October 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
@@ -172,15 +346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7845,
+        "recency": 0.7512,
         "story_heat": 0.25
       },
       "category": "official",
@@ -208,94 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
-      }
-    },
-    {
-      "story_id": "story_0e2e48e223fc",
-      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8104,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T17:45:00Z",
-      "latest_at": "2026-11-02T17:45:00Z",
-      "primary_item": {
-        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-        "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-        "title_en": "The latest AI news we announced in October 2026",
-        "title_original": "The latest AI news we announced in October 2026",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
@@ -347,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7878,
+        "recency": 0.7544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,94 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
-      }
-    },
-    {
-      "story_id": "story_f6a787bee313",
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "primary_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "title_zh": null,
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "title_zh": null,
-          "title_en": "Preparing our next security sprint to harden OpenAI",
-          "title_original": "Preparing our next security sprint to harden OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T18:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8133,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T18:00:00Z",
-      "latest_at": "2026-11-02T18:00:00Z",
-      "primary_item": {
-        "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
-        "title": "Preparing our next security sprint to harden OpenAI",
-        "title_zh": null,
-        "title_en": "Preparing our next security sprint to harden OpenAI",
-        "title_original": "Preparing our next security sprint to harden OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7816,
+        "recency": 0.7485,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,30 +556,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
-      "story_id": "story_3fe4e225a6ff",
-      "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-      "url": "https://www.aibase.com/news/32047",
-      "primary_url": "https://www.aibase.com/news/32047",
+      "story_id": "story_5c950af68297",
+      "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+      "url": "https://www.aibase.com/news/32058",
+      "primary_url": "https://www.aibase.com/news/32058",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
+          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
           "title_en": null,
-          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32047",
+          "url": "https://www.aibase.com/news/32058",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "published_at": "2026-11-03T11:18:35.355608Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -590,18 +590,18 @@
       ],
       "items": [
         {
-          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
+          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
           "title_en": null,
-          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32047",
+          "url": "https://www.aibase.com/news/32058",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "published_at": "2026-11-03T11:18:35.355608Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -624,17 +624,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
+      "earliest_at": "2026-11-03T11:18:35.355608Z",
+      "latest_at": "2026-11-03T11:18:35.355608Z",
       "primary_item": {
-        "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-        "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-        "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
+        "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
         "title_en": null,
-        "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32047",
+        "url": "https://www.aibase.com/news/32058",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -642,12 +642,185 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
+      }
+    },
+    {
+      "story_id": "story_f6a787bee313",
+      "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "primary_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
+          "title_en": "Preparing our next security sprint to harden OpenAI",
+          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+          "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+          "title_zh": "准备下一次安全冲刺以强化 OpenAI",
+          "title_en": "Preparing our next security sprint to harden OpenAI",
+          "title_original": "Preparing our next security sprint to harden OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T18:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7788,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T18:00:00Z",
+      "latest_at": "2026-11-02T18:00:00Z",
+      "primary_item": {
+        "id": "b9b93a3d086d2c5cb15ca658002a431c2c48a3a4",
+        "title": "准备下一次安全冲刺以强化 OpenAI / Preparing our next security sprint to harden OpenAI",
+        "title_zh": "准备下一次安全冲刺以强化 OpenAI",
+        "title_en": "Preparing our next security sprint to harden OpenAI",
+        "title_original": "Preparing our next security sprint to harden OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T11:19:29.015795Z"
+      }
+    },
+    {
+      "story_id": "story_a6428b15d16b",
+      "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+      "url": "https://www.aibase.com/news/32057",
+      "primary_url": "https://www.aibase.com/news/32057",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
+          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_en": null,
+          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T11:18:35.355608Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
+          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_en": null,
+          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T11:18:35.355608Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T11:18:35.355608Z",
+      "latest_at": "2026-11-03T11:18:35.355608Z",
+      "primary_item": {
+        "id": "8588536787f5cf44a86f80b061af3483522cdad1",
+        "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "title_en": null,
+        "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32057",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
       "story_id": "story_5f8be3ab19ec",
-      "title": "Rewarding defenders with bigger bug bounties",
+      "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "primary_url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI News",
@@ -655,8 +828,8 @@
       "sources": [
         {
           "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "Rewarding defenders with bigger bug bounties",
-          "title_zh": null,
+          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+          "title_zh": "用更大的错误赏金奖励防御者",
           "title_en": "Rewarding defenders with bigger bug bounties",
           "title_original": "Rewarding defenders with bigger bug bounties",
           "summary": null,
@@ -677,8 +850,8 @@
       "items": [
         {
           "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-          "title": "Rewarding defenders with bigger bug bounties",
-          "title_zh": null,
+          "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+          "title_zh": "用更大的错误赏金奖励防御者",
           "title_en": "Rewarding defenders with bigger bug bounties",
           "title_original": "Rewarding defenders with bigger bug bounties",
           "summary": null,
@@ -694,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8133,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -715,8 +888,8 @@
       "latest_at": "2026-11-02T18:00:00Z",
       "primary_item": {
         "id": "b2e4c818cc50ea544c8d3d183c6f3bbec8c87082",
-        "title": "Rewarding defenders with bigger bug bounties",
-        "title_zh": null,
+        "title": "用更大的错误赏金奖励防御者 / Rewarding defenders with bigger bug bounties",
+        "title_zh": "用更大的错误赏金奖励防御者",
         "title_en": "Rewarding defenders with bigger bug bounties",
         "title_original": "Rewarding defenders with bigger bug bounties",
         "summary": null,
@@ -729,30 +902,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
-      "story_id": "story_51b22de8c23f",
-      "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-      "url": "https://www.aibase.com/news/32053",
-      "primary_url": "https://www.aibase.com/news/32053",
+      "story_id": "story_2c304998d0ff",
+      "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+      "url": "https://www.aibase.com/news/32055",
+      "primary_url": "https://www.aibase.com/news/32055",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
+          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "title_en": null,
-          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32053",
+          "url": "https://www.aibase.com/news/32055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "published_at": "2026-11-03T11:18:35.355608Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -763,18 +936,18 @@
       ],
       "items": [
         {
-          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
+          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "title_en": null,
-          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32053",
+          "url": "https://www.aibase.com/news/32055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "published_at": "2026-11-03T11:18:35.355608Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -797,17 +970,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
+      "earliest_at": "2026-11-03T11:18:35.355608Z",
+      "latest_at": "2026-11-03T11:18:35.355608Z",
       "primary_item": {
-        "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-        "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-        "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
+        "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+        "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
         "title_en": null,
-        "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32053",
+        "url": "https://www.aibase.com/news/32055",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -815,7 +988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
@@ -867,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7788,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -902,7 +1075,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
+      }
+    },
+    {
+      "story_id": "story_3fe4e225a6ff",
+      "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+      "url": "https://www.aibase.com/news/32047",
+      "primary_url": "https://www.aibase.com/news/32047",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_en": null,
+          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T08:18:31.996244Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_en": null,
+          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T08:18:31.996244Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T08:18:31.996244Z",
+      "latest_at": "2026-11-03T08:18:31.996244Z",
+      "primary_item": {
+        "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+        "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "title_en": null,
+        "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32047",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T11:19:29.015795Z"
+      }
+    },
+    {
+      "story_id": "story_51b22de8c23f",
+      "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+      "url": "https://www.aibase.com/news/32053",
+      "primary_url": "https://www.aibase.com/news/32053",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
+          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_en": null,
+          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32053",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T08:18:31.996244Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
+          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_en": null,
+          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32053",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T08:18:31.996244Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T08:18:31.996244Z",
+      "latest_at": "2026-11-03T08:18:31.996244Z",
+      "primary_item": {
+        "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
+        "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "title_en": null,
+        "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32053",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
@@ -954,15 +1299,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,352 +1333,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
-      "story_id": "story_b86e981c547a",
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "primary_url": "https://openai.com/index/lifeval",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_281f06484546",
+      "title": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "primary_url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
       "sources": [
         {
-          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-          "title": "LifeVal",
-          "title_zh": null,
-          "title_en": "LifeVal",
-          "title_original": "LifeVal",
+          "id": "f0009b7905a823fa7278f84e323a1d9826b8d549",
+          "title": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "title_zh": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "title_en": null,
+          "title_original": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "87b1cb74416964e66f669f9cfcaf70b3ee60a34e",
+          "title": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 / Usagi-org /      ai-goofish-monitor",
+          "title_zh": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "title_en": "Usagi-org /      ai-goofish-monitor",
+          "title_original": "Usagi-org /      ai-goofish-monitor",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T09:00:00Z",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T11:19:00.163000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "GitHub Trending",
+        "github"
       ],
       "items": [
         {
-          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-          "title": "LifeVal",
-          "title_zh": null,
-          "title_en": "LifeVal",
-          "title_original": "LifeVal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T09:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T09:00:00Z",
-      "latest_at": "2026-11-02T09:00:00Z",
-      "primary_item": {
-        "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-        "title": "LifeVal",
-        "title_zh": null,
-        "title_en": "LifeVal",
-        "title_original": "LifeVal",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lifeval",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
-      }
-    },
-    {
-      "story_id": "story_4deba44ebf5f",
-      "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-      "url": "https://www.aibase.com/news/32051",
-      "primary_url": "https://www.aibase.com/news/32051",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "635e93c45031619fede27113f142ea63629efd30",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "id": "f0009b7905a823fa7278f84e323a1d9826b8d549",
+          "title": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "title_zh": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
           "title_en": null,
-          "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "summary": null,
+          "title_original": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32051",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
           "updated_at": null,
           "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
+        },
         {
-          "id": "635e93c45031619fede27113f142ea63629efd30",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "title_en": null,
-          "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "id": "87b1cb74416964e66f669f9cfcaf70b3ee60a34e",
+          "title": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 / Usagi-org /      ai-goofish-monitor",
+          "title_zh": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+          "title_en": "Usagi-org /      ai-goofish-monitor",
+          "title_original": "Usagi-org /      ai-goofish-monitor",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32051",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T11:19:00.163000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
+      "earliest_at": "2026-11-03T11:18:35.355608Z",
+      "latest_at": "2026-11-03T11:19:00.163000Z",
       "primary_item": {
-        "id": "635e93c45031619fede27113f142ea63629efd30",
-        "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-        "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+        "id": "f0009b7905a823fa7278f84e323a1d9826b8d549",
+        "title": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+        "title_zh": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
         "title_en": null,
-        "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-        "summary": null,
+        "title_original": "Usagi-org/ai-goofish-monitor — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+        "summary": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32051",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
-      }
-    },
-    {
-      "story_id": "story_6289c90601b2",
-      "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-      "url": "https://www.aibase.com/news/32048",
-      "primary_url": "https://www.aibase.com/news/32048",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
-          "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "title_zh": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "title_en": null,
-          "title_original": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
-          "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "title_zh": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "title_en": null,
-          "title_original": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32048",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
-      "primary_item": {
-        "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
-        "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-        "title_zh": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-        "title_en": null,
-        "title_original": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32048",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
-      }
-    },
-    {
-      "story_id": "story_c714a7741af1",
-      "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-      "url": "https://www.aibase.com/news/32049",
-      "primary_url": "https://www.aibase.com/news/32049",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e97c4be4bbf22546cb7847476cb52ed10da15eff",
-          "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "title_zh": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "title_en": null,
-          "title_original": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e97c4be4bbf22546cb7847476cb52ed10da15eff",
-          "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "title_zh": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "title_en": null,
-          "title_original": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
-      "primary_item": {
-        "id": "e97c4be4bbf22546cb7847476cb52ed10da15eff",
-        "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-        "title_zh": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-        "title_en": null,
-        "title_original": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32049",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
@@ -1357,7 +1475,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-07-27T13:11:29Z",
-          "updated_at": "2026-11-03T08:02:00Z",
+          "updated_at": "2026-11-03T11:09:18Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1396,7 +1514,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-07-27T13:11:29Z",
-          "updated_at": "2026-11-03T08:02:00Z",
+          "updated_at": "2026-11-03T11:09:18Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1418,15 +1536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5935,
-      "importance": 0.5935,
-      "importance_score": 0.5935,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.996,
+        "recency": 0.9978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1434,7 +1552,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-02T13:54:17.704000Z",
-      "latest_at": "2026-11-03T08:02:00Z",
+      "latest_at": "2026-11-03T11:09:18Z",
       "primary_item": {
         "id": "7bff3337845e31fa86260a5b1f04eb906121a875",
         "title": "Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension",
@@ -1451,7 +1569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
@@ -1535,15 +1653,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5883,
-      "importance": 0.5883,
-      "importance_score": 0.5883,
+      "score": 0.5822,
+      "importance": 0.5822,
+      "importance_score": 0.5822,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.8029,
+        "recency": 0.7688,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1568,26 +1686,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
-      "story_id": "story_8885e13a3293",
-      "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-      "url": "https://www.aibase.com/news/32052",
-      "primary_url": "https://www.aibase.com/news/32052",
+      "story_id": "story_4deba44ebf5f",
+      "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+      "url": "https://www.aibase.com/news/32051",
+      "primary_url": "https://www.aibase.com/news/32051",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
-          "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-          "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "id": "635e93c45031619fede27113f142ea63629efd30",
+          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
           "title_en": null,
-          "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32052",
+          "url": "https://www.aibase.com/news/32051",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1602,14 +1720,14 @@
       ],
       "items": [
         {
-          "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
-          "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-          "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "id": "635e93c45031619fede27113f142ea63629efd30",
+          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
           "title_en": null,
-          "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32052",
+          "url": "https://www.aibase.com/news/32051",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1620,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1639,14 +1757,14 @@
       "earliest_at": "2026-11-03T08:18:31.996244Z",
       "latest_at": "2026-11-03T08:18:31.996244Z",
       "primary_item": {
-        "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
-        "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-        "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+        "id": "635e93c45031619fede27113f142ea63629efd30",
+        "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+        "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
         "title_en": null,
-        "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+        "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32052",
+        "url": "https://www.aibase.com/news/32051",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1654,211 +1772,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     },
     {
-      "story_id": "story_87193ddcb49b",
-      "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-      "url": "https://www.aibase.com/news/32054",
-      "primary_url": "https://www.aibase.com/news/32054",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_70ae47cd269f",
+      "title": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "primary_url": "https://github.com/spotify/portal-ai-plugins",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
       "sources": [
         {
-          "id": "cfc35d085de9c82def08c59eaca1f5e04481c860",
-          "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-          "title_zh": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-          "title_en": null,
-          "title_original": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-          "summary": null,
+          "id": "0fe75e4ca115a55465c235a5509887902a88db06",
+          "title": "spotify/portal-ai-plugins",
+          "title_zh": null,
+          "title_en": "spotify/portal-ai-plugins",
+          "title_original": "spotify/portal-ai-plugins",
+          "summary": "",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32054",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
           "updated_at": null,
           "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cfc35d085de9c82def08c59eaca1f5e04481c860",
-          "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-          "title_zh": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-          "title_en": null,
-          "title_original": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32054",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
-      "primary_item": {
-        "id": "cfc35d085de9c82def08c59eaca1f5e04481c860",
-        "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-        "title_zh": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-        "title_en": null,
-        "title_original": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32054",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
-      }
-    },
-    {
-      "story_id": "story_d88ce8b1d39d",
-      "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-      "url": "https://www.producthunt.com/products/cedric",
-      "primary_url": "https://www.producthunt.com/products/cedric",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "summary": "The first AI agent to present your slides and attend for you",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T13:40:39Z",
-          "updated_at": "2026-11-03T05:18:23Z",
-          "recency_basis": "updated_at"
         },
         {
-          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
-          "title": "Cedric AI for Meetings",
+          "id": "e80e007d91bf6d7f2271108ac89c2a9c72a78c52",
+          "title": "spotify /      portal-ai-plugins",
           "title_zh": null,
-          "title_en": "Cedric AI for Meetings",
-          "title_original": "Cedric AI for Meetings",
+          "title_en": "spotify /      portal-ai-plugins",
+          "title_original": "spotify /      portal-ai-plugins",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
-          "source": "producthunt",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T13:54:17.704000Z",
+          "published_at": "2026-11-03T11:19:00.163000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "GitHub Trending",
+        "github"
       ],
       "items": [
         {
-          "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-          "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-          "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-          "summary": "The first AI agent to present your slides and attend for you",
+          "id": "0fe75e4ca115a55465c235a5509887902a88db06",
+          "title": "spotify/portal-ai-plugins",
+          "title_zh": null,
+          "title_en": "spotify/portal-ai-plugins",
+          "title_original": "spotify/portal-ai-plugins",
+          "summary": "",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T13:40:39Z",
-          "updated_at": "2026-11-03T05:18:23Z",
-          "recency_basis": "updated_at"
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
         },
         {
-          "id": "9bfb71f71d36d4785270fe577cbfbfde4f3bb81d",
-          "title": "Cedric AI for Meetings",
+          "id": "e80e007d91bf6d7f2271108ac89c2a9c72a78c52",
+          "title": "spotify /      portal-ai-plugins",
           "title_zh": null,
-          "title_en": "Cedric AI for Meetings",
-          "title_original": "Cedric AI for Meetings",
+          "title_en": "spotify /      portal-ai-plugins",
+          "title_original": "spotify /      portal-ai-plugins",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cedric",
-          "source": "producthunt",
+          "url": "https://github.com/spotify/portal-ai-plugins",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-02T13:54:17.704000Z",
+          "published_at": "2026-11-03T11:19:00.163000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5866,
-      "importance": 0.5866,
-      "importance_score": 0.5866,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-02T13:54:17.704000Z",
-      "latest_at": "2026-11-03T05:18:23Z",
+      "earliest_at": "2026-11-03T11:18:35.355608Z",
+      "latest_at": "2026-11-03T11:19:00.163000Z",
       "primary_item": {
-        "id": "6897cca06d42702a8242942cdd44f54d5ef59445",
-        "title": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "title_zh": "Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理",
-        "title_en": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "title_original": "Cedric AI for Meetings — The first AI agent to present your slides and attend for you",
-        "summary": "The first AI agent to present your slides and attend for you",
+        "id": "0fe75e4ca115a55465c235a5509887902a88db06",
+        "title": "spotify/portal-ai-plugins",
+        "title_zh": null,
+        "title_en": "spotify/portal-ai-plugins",
+        "title_original": "spotify/portal-ai-plugins",
+        "summary": "",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/cedric",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://github.com/spotify/portal-ai-plugins",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T08:37:10.990838Z"
+        "scored_at": "2026-11-03T11:19:29.015795Z"
       }
     }
   ]
