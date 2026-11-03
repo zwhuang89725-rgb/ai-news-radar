@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:19:10.271386Z",
+  "generated_at": "2026-11-03T14:17:57.342885Z",
   "date": "2026-11-03",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-03T11:18:35.355608Z"
+      "observed_at": "2026-11-03T14:17:16.864018Z"
     },
     {
-      "id": "project_8d2a21d0ff2a",
-      "project_name": "SUN Web & API",
-      "url": "https://www.producthunt.com/products/sun-ai",
-      "summary": "Turn prompts and PDFs into audio, on the web or via API",
+      "id": "project_779802444a5d",
+      "project_name": "IQ",
+      "url": "https://www.producthunt.com/products/iq-code",
+      "summary": "The dashboard for your team's AI use",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn prompts and PDFs into audio, on the web or via API」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn prompts and PDFs into audio, on the web or via API\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T22:13:45Z",
-      "updated_at": "2026-11-03T11:18:11Z",
+      "recommend_reason_zh": "体验它主打的「The dashboard for your team's AI use」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The dashboard for your team's AI use\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-27T23:21:31Z",
+      "updated_at": "2026-11-03T13:33:42Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-03T11:19:01.480199Z"
+      "observed_at": "2026-11-03T14:17:47.875519Z"
     },
     {
       "id": "project_40b1bb8d3105",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-03T11:18:35.355608Z"
+      "observed_at": "2026-11-03T14:17:16.864018Z"
     },
     {
-      "id": "project_ab9bc6e6af18",
-      "project_name": "Testifly",
-      "url": "https://www.producthunt.com/products/testifly-launch",
-      "summary": "Autonomous AI QA. Zero prompting. Zero maintenance.",
+      "id": "project_ba638cbdbe77",
+      "project_name": "Videco",
+      "url": "https://www.producthunt.com/products/videco",
+      "summary": "Turn every video into a content campaign with AI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Autonomous AI QA. Zero prompting. Zero maintenance」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Autonomous AI QA. Zero prompting. Zero maintenance\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T15:09:07Z",
-      "updated_at": "2026-11-03T11:17:47Z",
+      "recommend_reason_zh": "体验它主打的「Turn every video into a content campaign with AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn every video into a content campaign with AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-22T10:55:05Z",
+      "updated_at": "2026-11-03T14:17:27Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-03T11:19:01.480199Z"
+      "observed_at": "2026-11-03T14:17:47.875519Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1262,
+      "duration_ms": 1526,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 138,
+      "duration_ms": 205,
       "error": null
     }
   ]
