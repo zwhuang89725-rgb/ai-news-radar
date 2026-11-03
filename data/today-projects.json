@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T23:20:22.054126Z",
+  "generated_at": "2026-11-03T02:19:10.171863Z",
   "date": "2026-11-03",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-02T23:18:14.125271Z"
+      "observed_at": "2026-11-03T02:18:27.954777Z"
     },
     {
-      "id": "project_0daf31358353",
-      "project_name": "beacon.sh",
-      "url": "https://www.producthunt.com/products/asymptotelabs",
-      "summary": "Open-source self-improving memory for AI coding agents",
+      "id": "project_6b0550f2386a",
+      "project_name": "Hera",
+      "url": "https://www.producthunt.com/products/hera-6",
+      "summary": "AI Creative Canvas",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open-source self-improving memory for AI coding agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open-source self-improving memory for AI coding agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-25T14:47:53Z",
-      "updated_at": "2026-11-02T23:18:20Z",
+      "recommend_reason_zh": "体验它主打的「AI Creative Canvas」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI Creative Canvas\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T14:29:36Z",
+      "updated_at": "2026-11-03T01:59:29Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-02T23:20:12.372541Z"
+      "observed_at": "2026-11-03T02:18:57.643273Z"
     },
     {
       "id": "project_b8da10635efb",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-02T23:18:14.125271Z"
+      "observed_at": "2026-11-03T02:18:27.954777Z"
     },
     {
-      "id": "project_7a1fb9abfc2e",
-      "project_name": "Cedric AI for Meetings",
-      "url": "https://www.producthunt.com/products/cedric",
-      "summary": "The first AI agent to present your slides and attend for you",
+      "id": "project_672b64a83fc2",
+      "project_name": "CuriousLM",
+      "url": "https://www.producthunt.com/products/curiouslm",
+      "summary": "Private AI that runs on your device. No account.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The first AI agent to present your slides and attend for you」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The first AI agent to present your slides and attend for you\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-27T13:40:39Z",
-      "updated_at": "2026-11-02T22:51:40Z",
+      "recommend_reason_zh": "体验它主打的「Private AI that runs on your device. No account」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Private AI that runs on your device. No account\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-07T07:16:11Z",
+      "updated_at": "2026-11-03T02:00:46Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-02T23:20:12.372541Z"
+      "observed_at": "2026-11-03T02:18:57.643273Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1313,
+      "duration_ms": 1441,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 48,
-      "duration_ms": 252,
+      "duration_ms": 251,
       "error": null
     }
   ]
