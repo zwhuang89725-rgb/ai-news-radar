@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:19:06.327650Z",
+  "generated_at": "2026-11-04T11:19:54.645103Z",
   "date": "2026-11-04",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T08:18:25.630787Z"
+      "observed_at": "2026-11-04T11:19:03.079408Z"
     },
     {
-      "id": "project_67ae2b89a1a6",
-      "project_name": "Zero Wire",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "summary": "Check your exposure to critical CVEs with one agent prompt",
+      "id": "project_75f36a1d626d",
+      "project_name": "Hashference",
+      "url": "https://www.producthunt.com/products/hashference",
+      "summary": "Fund 45+ top AI models using your idle CPU/GPU compute",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Check your exposure to critical CVEs with one agent prompt」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Check your exposure to critical CVEs with one agent prompt\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T14:12:58Z",
-      "updated_at": "2026-11-04T08:18:39Z",
+      "recommend_reason_zh": "体验它主打的「Fund 45+ top AI models using your idle CPU/GPU compute」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Fund 45+ top AI models using your idle CPU/GPU compute\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-03T23:09:16Z",
+      "updated_at": "2026-11-04T11:18:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T08:18:55.927625Z"
+      "observed_at": "2026-11-04T11:19:42.536033Z"
     },
     {
       "id": "project_40b1bb8d3105",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T08:18:25.630787Z"
+      "observed_at": "2026-11-04T11:19:03.079408Z"
     },
     {
-      "id": "project_5b7eb374917e",
-      "project_name": "fileForensics",
-      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
-      "summary": "Real or not? Check files before your AI trusts them.",
+      "id": "project_ecdcc3d9df24",
+      "project_name": "OpenMail",
+      "url": "https://www.producthunt.com/products/openmail",
+      "summary": "Give your AI agents an identity through email",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Real or not? Check files before your AI trusts them」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Real or not? Check files before your AI trusts them\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T05:33:28Z",
-      "updated_at": "2026-11-04T08:18:29Z",
+      "recommend_reason_zh": "体验它主打的「Give your AI agents an identity through email」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Give your AI agents an identity through email\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-20T12:11:36Z",
+      "updated_at": "2026-11-04T11:18:07Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T08:18:55.927625Z"
+      "observed_at": "2026-11-04T11:19:42.536033Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1317,
+      "duration_ms": 437,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 156,
+      "duration_ms": 154,
       "error": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:18:25.630787Z",
+  "generated_at": "2026-11-04T11:19:03.079408Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8939,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8046,
+        "recency": 0.7704,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.802,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.797,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.842,
+        "recency": 0.8062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,30 +522,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
-      "story_id": "story_82841d997380",
-      "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
-      "url": "https://www.aibase.com/news/32079",
-      "primary_url": "https://www.aibase.com/news/32079",
+      "story_id": "story_2cee1d071980",
+      "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+      "url": "https://www.aibase.com/news/32089",
+      "primary_url": "https://www.aibase.com/news/32089",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4a80b19073bb689970bae441c0df968acca55788",
-          "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
-          "title_zh": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
           "title_en": null,
-          "title_original": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32079",
+          "url": "https://www.aibase.com/news/32089",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -556,18 +556,18 @@
       ],
       "items": [
         {
-          "id": "4a80b19073bb689970bae441c0df968acca55788",
-          "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
-          "title_zh": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+          "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
           "title_en": null,
-          "title_original": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32079",
+          "url": "https://www.aibase.com/news/32089",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -590,17 +590,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T08:18:25.630787Z",
-      "latest_at": "2026-11-04T08:18:25.630787Z",
+      "earliest_at": "2026-11-04T11:19:03.079408Z",
+      "latest_at": "2026-11-04T11:19:03.079408Z",
       "primary_item": {
-        "id": "4a80b19073bb689970bae441c0df968acca55788",
-        "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
-        "title_zh": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+        "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
+        "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
+        "title_zh": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
         "title_en": null,
-        "title_original": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+        "title_original": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32079",
+        "url": "https://www.aibase.com/news/32089",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -660,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7811,
+        "recency": 0.7478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -695,30 +695,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
-      "story_id": "story_5f6ae507519e",
-      "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-      "url": "https://www.aibase.com/news/32082",
-      "primary_url": "https://www.aibase.com/news/32082",
+      "story_id": "story_18d99203e626",
+      "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+      "url": "https://www.aibase.com/news/32088",
+      "primary_url": "https://www.aibase.com/news/32088",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-          "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
+          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+          "title_zh": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
           "title_en": null,
-          "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "title_original": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32082",
+          "url": "https://www.aibase.com/news/32088",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,18 +729,18 @@
       ],
       "items": [
         {
-          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-          "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
+          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+          "title_zh": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
           "title_en": null,
-          "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "title_original": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32082",
+          "url": "https://www.aibase.com/news/32088",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -763,17 +763,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T08:18:25.630787Z",
-      "latest_at": "2026-11-04T08:18:25.630787Z",
+      "earliest_at": "2026-11-04T11:19:03.079408Z",
+      "latest_at": "2026-11-04T11:19:03.079408Z",
       "primary_item": {
-        "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-        "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-        "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+        "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
+        "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
+        "title_zh": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
         "title_en": null,
-        "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+        "title_original": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32082",
+        "url": "https://www.aibase.com/news/32088",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -781,7 +781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -833,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.784,
+        "recency": 0.7506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -868,30 +868,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
-      "story_id": "story_30b7a3b71d5a",
-      "title": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
-      "url": "https://www.aibase.com/news/32084",
-      "primary_url": "https://www.aibase.com/news/32084",
+      "story_id": "story_088b9397ab75",
+      "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+      "url": "https://www.aibase.com/news/32091",
+      "primary_url": "https://www.aibase.com/news/32091",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fe216d8a15ddf018dc559b1027367280c696a14f",
-          "title": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
-          "title_zh": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
+          "id": "3811967584c703c8d62335daebae484c6912011d",
+          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "title_zh": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
           "title_en": null,
-          "title_original": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
+          "title_original": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32084",
+          "url": "https://www.aibase.com/news/32091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -902,18 +902,18 @@
       ],
       "items": [
         {
-          "id": "fe216d8a15ddf018dc559b1027367280c696a14f",
-          "title": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
-          "title_zh": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
+          "id": "3811967584c703c8d62335daebae484c6912011d",
+          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+          "title_zh": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
           "title_en": null,
-          "title_original": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
+          "title_original": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32084",
+          "url": "https://www.aibase.com/news/32091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -936,17 +936,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T08:18:25.630787Z",
-      "latest_at": "2026-11-04T08:18:25.630787Z",
+      "earliest_at": "2026-11-04T11:19:03.079408Z",
+      "latest_at": "2026-11-04T11:19:03.079408Z",
       "primary_item": {
-        "id": "fe216d8a15ddf018dc559b1027367280c696a14f",
-        "title": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
-        "title_zh": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
+        "id": "3811967584c703c8d62335daebae484c6912011d",
+        "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
+        "title_zh": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
         "title_en": null,
-        "title_original": "字节跳动收紧内部AI权限：网传将全公司封禁外部AI访问L4 代码库，高管回应保密与体验平衡",
+        "title_original": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32084",
+        "url": "https://www.aibase.com/news/32091",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -954,7 +954,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -1006,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7781,
+        "recency": 0.745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1041,30 +1041,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
-      "story_id": "story_a7cf180a5c88",
-      "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
-      "url": "https://www.aibase.com/news/32080",
-      "primary_url": "https://www.aibase.com/news/32080",
+      "story_id": "story_7e6a6536aea5",
+      "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
+      "url": "https://www.aibase.com/news/32087",
+      "primary_url": "https://www.aibase.com/news/32087",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0aac943559c3a6db6261a2454485e44ca9ff63a0",
-          "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
-          "title_zh": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+          "id": "af22aeb2e39bace889a5eae7000252fd0aaf2675",
+          "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
+          "title_zh": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
           "title_en": null,
-          "title_original": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+          "title_original": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32080",
+          "url": "https://www.aibase.com/news/32087",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1075,18 +1075,18 @@
       ],
       "items": [
         {
-          "id": "0aac943559c3a6db6261a2454485e44ca9ff63a0",
-          "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
-          "title_zh": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+          "id": "af22aeb2e39bace889a5eae7000252fd0aaf2675",
+          "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
+          "title_zh": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
           "title_en": null,
-          "title_original": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+          "title_original": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32080",
+          "url": "https://www.aibase.com/news/32087",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
+          "published_at": "2026-11-04T11:19:03.079408Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1109,17 +1109,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T08:18:25.630787Z",
-      "latest_at": "2026-11-04T08:18:25.630787Z",
+      "earliest_at": "2026-11-04T11:19:03.079408Z",
+      "latest_at": "2026-11-04T11:19:03.079408Z",
       "primary_item": {
-        "id": "0aac943559c3a6db6261a2454485e44ca9ff63a0",
-        "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
-        "title_zh": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+        "id": "af22aeb2e39bace889a5eae7000252fd0aaf2675",
+        "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
+        "title_zh": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
         "title_en": null,
-        "title_original": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+        "title_original": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32080",
+        "url": "https://www.aibase.com/news/32087",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1127,7 +1127,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
+      }
+    },
+    {
+      "story_id": "story_9ee05711a91b",
+      "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+      "url": "https://www.aibase.com/news/32086",
+      "primary_url": "https://www.aibase.com/news/32086",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
+          "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "title_zh": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "title_en": null,
+          "title_original": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32086",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T11:19:03.079408Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
+          "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "title_zh": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "title_en": null,
+          "title_original": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32086",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T11:19:03.079408Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T11:19:03.079408Z",
+      "latest_at": "2026-11-04T11:19:03.079408Z",
+      "primary_item": {
+        "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
+        "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+        "title_zh": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+        "title_en": null,
+        "title_original": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32086",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -1179,15 +1265,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7658,
+        "recency": 0.7332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1214,26 +1300,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
-      "story_id": "story_47237af9f73d",
-      "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-      "url": "https://www.aibase.com/news/32081",
-      "primary_url": "https://www.aibase.com/news/32081",
+      "story_id": "story_82841d997380",
+      "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+      "url": "https://www.aibase.com/news/32079",
+      "primary_url": "https://www.aibase.com/news/32079",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
-          "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-          "title_zh": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+          "id": "4a80b19073bb689970bae441c0df968acca55788",
+          "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "title_zh": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
           "title_en": null,
-          "title_original": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+          "title_original": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32081",
+          "url": "https://www.aibase.com/news/32079",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1248,14 +1334,14 @@
       ],
       "items": [
         {
-          "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
-          "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-          "title_zh": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+          "id": "4a80b19073bb689970bae441c0df968acca55788",
+          "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "title_zh": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
           "title_en": null,
-          "title_original": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+          "title_original": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32081",
+          "url": "https://www.aibase.com/news/32079",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1266,15 +1352,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1285,14 +1371,14 @@
       "earliest_at": "2026-11-04T08:18:25.630787Z",
       "latest_at": "2026-11-04T08:18:25.630787Z",
       "primary_item": {
-        "id": "436f600a520e291d8dd2807b50c2df2d9288bf24",
-        "title": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
-        "title_zh": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+        "id": "4a80b19073bb689970bae441c0df968acca55788",
+        "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+        "title_zh": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
         "title_en": null,
-        "title_original": "普林斯顿AI Lab推出SSoN基准，人类准确率83.3%而大模型最高仅39.7%",
+        "title_original": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32081",
+        "url": "https://www.aibase.com/news/32079",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1300,93 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
-      }
-    },
-    {
-      "story_id": "story_b2062a31b869",
-      "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-      "url": "https://www.aibase.com/news/32083",
-      "primary_url": "https://www.aibase.com/news/32083",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0bf26dbbe0b2100ff61c8a57c77433150aa8a099",
-          "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_zh": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_en": null,
-          "title_original": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32083",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0bf26dbbe0b2100ff61c8a57c77433150aa8a099",
-          "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_zh": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "title_en": null,
-          "title_original": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32083",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T08:18:25.630787Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T08:18:25.630787Z",
-      "latest_at": "2026-11-04T08:18:25.630787Z",
-      "primary_item": {
-        "id": "0bf26dbbe0b2100ff61c8a57c77433150aa8a099",
-        "title": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-        "title_zh": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-        "title_en": null,
-        "title_original": "机器人距离自主完成复杂任务还有多远?王兴兴谈具身智能突破方向",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32083",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -1471,15 +1471,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5865,
+      "importance": 0.5865,
+      "importance_score": 0.5865,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9995,
+        "recency": 0.957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1504,26 +1504,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
-      "story_id": "story_0dfb151fd650",
-      "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-      "url": "https://www.aibase.com/news/32085",
-      "primary_url": "https://www.aibase.com/news/32085",
+      "story_id": "story_5f6ae507519e",
+      "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+      "url": "https://www.aibase.com/news/32082",
+      "primary_url": "https://www.aibase.com/news/32082",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c7e9f5fda5f6a3c86508b0046d85f20519300dfc",
-          "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-          "title_zh": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
+          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
           "title_en": null,
-          "title_original": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+          "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32085",
+          "url": "https://www.aibase.com/news/32082",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1538,14 +1538,14 @@
       ],
       "items": [
         {
-          "id": "c7e9f5fda5f6a3c86508b0046d85f20519300dfc",
-          "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-          "title_zh": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
+          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+          "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
           "title_en": null,
-          "title_original": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+          "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32085",
+          "url": "https://www.aibase.com/news/32082",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1556,15 +1556,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1575,14 +1575,14 @@
       "earliest_at": "2026-11-04T08:18:25.630787Z",
       "latest_at": "2026-11-04T08:18:25.630787Z",
       "primary_item": {
-        "id": "c7e9f5fda5f6a3c86508b0046d85f20519300dfc",
-        "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-        "title_zh": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+        "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
+        "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
+        "title_zh": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
         "title_en": null,
-        "title_original": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+        "title_original": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32085",
+        "url": "https://www.aibase.com/news/32082",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1590,7 +1590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -1806,15 +1806,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5856,
-      "importance": 0.5856,
-      "importance_score": 0.5856,
+      "score": 0.5794,
+      "importance": 0.5794,
+      "importance_score": 0.5794,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8044,
+        "recency": 0.7702,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1839,7 +1839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     },
     {
@@ -1990,15 +1990,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5838,
-      "importance": 0.5838,
-      "importance_score": 0.5838,
+      "score": 0.5767,
+      "importance": 0.5767,
+      "importance_score": 0.5767,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9334,
+        "recency": 0.8937,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -2023,7 +2023,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T08:34:52.657978Z"
+        "scored_at": "2026-11-04T11:39:25.501316Z"
       }
     }
   ]
