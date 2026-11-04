@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-04T11:19:54.645103Z",
+  "generated_at": "2026-11-04T14:19:20.244455Z",
   "date": "2026-11-04",
   "total_items": 4,
   "items": [
     {
-      "id": "project_b8da10635efb",
-      "project_name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "id": "project_8ac198972094",
+      "project_name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and inje…」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and inje...\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "用一份自己的资料试试检索，看看能否更快找到需要的信息。",
+      "recommend_reason_en": "Try its retrieval on a document of your own and see whether it finds what you need faster.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T11:19:03.079408Z"
+      "observed_at": "2026-11-04T14:18:29.559688Z"
     },
     {
-      "id": "project_75f36a1d626d",
-      "project_name": "Hashference",
-      "url": "https://www.producthunt.com/products/hashference",
-      "summary": "Fund 45+ top AI models using your idle CPU/GPU compute",
+      "id": "project_67ae2b89a1a6",
+      "project_name": "Zero Wire",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "summary": "Check your exposure to critical CVEs with one agent prompt",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Fund 45+ top AI models using your idle CPU/GPU compute」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Fund 45+ top AI models using your idle CPU/GPU compute\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T23:09:16Z",
-      "updated_at": "2026-11-04T11:18:39Z",
+      "recommend_reason_zh": "体验它主打的「Check your exposure to critical CVEs with one agent prompt」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Check your exposure to critical CVEs with one agent prompt\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-03T14:12:58Z",
+      "updated_at": "2026-11-04T13:40:16Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T11:19:42.536033Z"
+      "observed_at": "2026-11-04T14:19:10.682426Z"
     },
     {
-      "id": "project_40b1bb8d3105",
-      "project_name": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "summary": "Computer use CLI for AI agents",
+      "id": "project_d747ecb5894f",
+      "project_name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「Computer use CLI for AI agents」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"Computer use CLI for AI agents\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "看看这个开源项目的「Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T11:19:03.079408Z"
+      "observed_at": "2026-11-04T14:18:29.559688Z"
     },
     {
-      "id": "project_ecdcc3d9df24",
-      "project_name": "OpenMail",
-      "url": "https://www.producthunt.com/products/openmail",
-      "summary": "Give your AI agents an identity through email",
+      "id": "project_77093ba9977a",
+      "project_name": "Wanaka Studio",
+      "url": "https://www.producthunt.com/products/wanaka-studio",
+      "summary": "Make and publish 3D games with the first AI game engine",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Give your AI agents an identity through email」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Give your AI agents an identity through email\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-20T12:11:36Z",
-      "updated_at": "2026-11-04T11:18:07Z",
+      "recommend_reason_zh": "体验它主打的「Make and publish 3D games with the first AI game engine」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Make and publish 3D games with the first AI game engine\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T13:18:07Z",
+      "updated_at": "2026-11-04T14:17:53Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T11:19:42.536033Z"
+      "observed_at": "2026-11-04T14:19:10.682426Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 437,
+      "item_count": 16,
+      "duration_ms": 299,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 154,
+      "duration_ms": 134,
       "error": null
     }
   ]
