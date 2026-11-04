@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-03T23:18:31.247146Z",
+  "generated_at": "2026-11-04T02:18:24.317454Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_e2a9defc33ad",
+      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9748,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:32:19Z",
+      "latest_at": "2026-11-04T00:32:19Z",
+      "primary_item": {
+        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+        "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+        "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+        "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T02:19:16.670450Z"
+      }
+    },
     {
       "story_id": "story_ca1ade1b3eb8",
       "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9163,
+        "recency": 0.8775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
-      }
-    },
-    {
-      "story_id": "story_05cba21c67c5",
-      "title": "Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot version updates support Agent Package Manager",
-          "title_zh": null,
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot version updates support Agent Package Manager",
-          "title_zh": null,
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9589,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T20:24:07Z",
-      "latest_at": "2026-11-03T20:24:07Z",
-      "primary_item": {
-        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-        "title": "Dependabot version updates support Agent Package Manager",
-        "title_zh": null,
-        "title_en": "Dependabot version updates support Agent Package Manager",
-        "title_original": "Dependabot version updates support Agent Package Manager",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9133,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,12 +261,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
       "story_id": "story_fbd820eb18a9",
-      "title": "Accelerating engineering for the physical world",
+      "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "primary_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "source": "OpenAI News",
@@ -274,8 +274,8 @@
       "sources": [
         {
           "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-          "title": "Accelerating engineering for the physical world",
-          "title_zh": null,
+          "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
+          "title_zh": "加速物理世界的工程",
           "title_en": "Accelerating engineering for the physical world",
           "title_original": "Accelerating engineering for the physical world",
           "summary": null,
@@ -296,8 +296,8 @@
       "items": [
         {
           "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-          "title": "Accelerating engineering for the physical world",
-          "title_zh": null,
+          "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
+          "title_zh": "加速物理世界的工程",
           "title_en": "Accelerating engineering for the physical world",
           "title_original": "Accelerating engineering for the physical world",
           "summary": null,
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8493,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -334,8 +334,8 @@
       "latest_at": "2026-11-03T12:00:00Z",
       "primary_item": {
         "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-        "title": "Accelerating engineering for the physical world",
-        "title_zh": null,
+        "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
+        "title_zh": "加速物理世界的工程",
         "title_en": "Accelerating engineering for the physical world",
         "title_original": "Accelerating engineering for the physical world",
         "summary": null,
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9076,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,30 +435,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
-      "story_id": "story_46598a98a79d",
-      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "story_id": "story_05cba21c67c5",
+      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "title_zh": "Dependabot版本更新支持代理包管理器",
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z",
+          "published_at": "2026-11-03T20:24:07Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -469,33 +469,33 @@
       ],
       "items": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "title_zh": "Dependabot版本更新支持代理包管理器",
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z",
+          "published_at": "2026-11-03T20:24:07Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8895,
+        "ai_relevance": 0.87,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,17 +504,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:11:46Z",
-      "latest_at": "2026-11-03T15:11:46Z",
+      "earliest_at": "2026-11-03T20:24:07Z",
+      "latest_at": "2026-11-03T20:24:07Z",
       "primary_item": {
-        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-        "title_en": "GitHub Copilot is now available in JetBrains Air",
-        "title_original": "GitHub Copilot is now available in JetBrains Air",
+        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+        "title_zh": "Dependabot版本更新支持代理包管理器",
+        "title_en": "Dependabot version updates support Agent Package Manager",
+        "title_original": "Dependabot version updates support Agent Package Manager",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8017,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +609,353 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
+      }
+    },
+    {
+      "story_id": "story_ab1a735365a9",
+      "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+      "url": "https://www.aibase.com/news/32066",
+      "primary_url": "https://www.aibase.com/news/32066",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_zh": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_en": null,
+          "title_original": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:18:24.317454Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_zh": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_en": null,
+          "title_original": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:18:24.317454Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:18:24.317454Z",
+      "latest_at": "2026-11-04T02:18:24.317454Z",
+      "primary_item": {
+        "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+        "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "title_zh": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "title_en": null,
+        "title_original": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32066",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T02:19:16.670450Z"
+      }
+    },
+    {
+      "story_id": "story_46598a98a79d",
+      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:11:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:11:46Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8518,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T15:11:46Z",
+      "latest_at": "2026-11-03T15:11:46Z",
+      "primary_item": {
+        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+        "title_en": "GitHub Copilot is now available in JetBrains Air",
+        "title_original": "GitHub Copilot is now available in JetBrains Air",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T02:19:16.670450Z"
+      }
+    },
+    {
+      "story_id": "story_e53a6dd32ac3",
+      "title": "思科如何利用 OpenAI 以机器速度进行防御 / How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "primary_url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+          "title": "思科如何利用 OpenAI 以机器速度进行防御 / How Cisco defends at machine speed with OpenAI",
+          "title_zh": "思科如何利用 OpenAI 以机器速度进行防御",
+          "title_en": "How Cisco defends at machine speed with OpenAI",
+          "title_original": "How Cisco defends at machine speed with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cisco-cyber",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+          "title": "思科如何利用 OpenAI 以机器速度进行防御 / How Cisco defends at machine speed with OpenAI",
+          "title_zh": "思科如何利用 OpenAI 以机器速度进行防御",
+          "title_en": "How Cisco defends at machine speed with OpenAI",
+          "title_original": "How Cisco defends at machine speed with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/cisco-cyber",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7677,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T08:00:00Z",
+      "latest_at": "2026-11-03T08:00:00Z",
+      "primary_item": {
+        "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
+        "title": "思科如何利用 OpenAI 以机器速度进行防御 / How Cisco defends at machine speed with OpenAI",
+        "title_zh": "思科如何利用 OpenAI 以机器速度进行防御",
+        "title_en": "How Cisco defends at machine speed with OpenAI",
+        "title_original": "How Cisco defends at machine speed with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/cisco-cyber",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T02:19:16.670450Z"
+      }
+    },
+    {
+      "story_id": "story_efa31e635cc5",
+      "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+      "url": "https://www.aibase.com/news/32061",
+      "primary_url": "https://www.aibase.com/news/32061",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+          "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_zh": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_en": null,
+          "title_original": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:18:24.317454Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+          "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_zh": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_en": null,
+          "title_original": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:18:24.317454Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:18:24.317454Z",
+      "latest_at": "2026-11-04T02:18:24.317454Z",
+      "primary_item": {
+        "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+        "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+        "title_zh": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+        "title_en": null,
+        "title_original": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32061",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
@@ -661,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8928,
+        "recency": 0.8549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,204 +1042,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
-      "story_id": "story_5d294462667a",
-      "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "primary_url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-          "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-          "title_zh": "Transformers 模型集成合约",
-          "title_en": "Transformers Model Integration Contracts",
-          "title_original": "Transformers Model Integration Contracts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/transformers-mic",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-          "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-          "title_zh": "Transformers 模型集成合约",
-          "title_en": "Transformers Model Integration Contracts",
-          "title_original": "Transformers Model Integration Contracts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/transformers-mic",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T00:00:00Z",
-      "latest_at": "2026-11-03T00:00:00Z",
-      "primary_item": {
-        "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-        "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-        "title_zh": "Transformers 模型集成合约",
-        "title_en": "Transformers Model Integration Contracts",
-        "title_original": "Transformers Model Integration Contracts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/transformers-mic",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
-      }
-    },
-    {
-      "story_id": "story_e53a6dd32ac3",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "primary_url": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
-          "title": "How Cisco defends at machine speed with OpenAI",
-          "title_zh": null,
-          "title_en": "How Cisco defends at machine speed with OpenAI",
-          "title_original": "How Cisco defends at machine speed with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cisco-cyber",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
-          "title": "How Cisco defends at machine speed with OpenAI",
-          "title_zh": null,
-          "title_en": "How Cisco defends at machine speed with OpenAI",
-          "title_original": "How Cisco defends at machine speed with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cisco-cyber",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8017,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T08:00:00Z",
-      "latest_at": "2026-11-03T08:00:00Z",
-      "primary_item": {
-        "id": "1dadb1c1e31ce81c7426641ea5d3c0b715437f14",
-        "title": "How Cisco defends at machine speed with OpenAI",
-        "title_zh": null,
-        "title_en": "How Cisco defends at machine speed with OpenAI",
-        "title_original": "How Cisco defends at machine speed with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/cisco-cyber",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
-      }
-    },
-    {
-      "story_id": "story_5c950af68297",
-      "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-      "url": "https://www.aibase.com/news/32058",
-      "primary_url": "https://www.aibase.com/news/32058",
+      "story_id": "story_5d284baa8c5a",
+      "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+      "url": "https://www.aibase.com/news/32059",
+      "primary_url": "https://www.aibase.com/news/32059",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+          "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+          "title_zh": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "title_en": null,
-          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_original": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32058",
+          "url": "https://www.aibase.com/news/32059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T11:18:35.355608Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -904,50 +1076,51 @@
       ],
       "items": [
         {
-          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+          "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+          "title_zh": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "title_en": null,
-          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_original": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32058",
+          "url": "https://www.aibase.com/news/32059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T11:18:35.355608Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T11:18:35.355608Z",
-      "latest_at": "2026-11-03T11:18:35.355608Z",
+      "earliest_at": "2026-11-04T02:18:24.317454Z",
+      "latest_at": "2026-11-04T02:18:24.317454Z",
       "primary_item": {
-        "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-        "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-        "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+        "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+        "title_zh": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
         "title_en": null,
-        "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "title_original": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32058",
+        "url": "https://www.aibase.com/news/32059",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -955,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
@@ -1007,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8861,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1042,204 +1215,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
-      "story_id": "story_7ee3fbdb08d6",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "primary_url": "https://huggingface.co/blog/cwe-bench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "40d752318d489ac394846899a2875a4159e3aa68",
-          "title": "CWE-bench v2: More coverage, quality, and transparency",
-          "title_zh": null,
-          "title_en": "CWE-bench v2: More coverage, quality, and transparency",
-          "title_original": "CWE-bench v2: More coverage, quality, and transparency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/cwe-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "40d752318d489ac394846899a2875a4159e3aa68",
-          "title": "CWE-bench v2: More coverage, quality, and transparency",
-          "title_zh": null,
-          "title_en": "CWE-bench v2: More coverage, quality, and transparency",
-          "title_original": "CWE-bench v2: More coverage, quality, and transparency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/cwe-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T00:00:00Z",
-      "latest_at": "2026-11-03T00:00:00Z",
-      "primary_item": {
-        "id": "40d752318d489ac394846899a2875a4159e3aa68",
-        "title": "CWE-bench v2: More coverage, quality, and transparency",
-        "title_zh": null,
-        "title_en": "CWE-bench v2: More coverage, quality, and transparency",
-        "title_original": "CWE-bench v2: More coverage, quality, and transparency",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/cwe-bench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
-      }
-    },
-    {
-      "story_id": "story_5ab1c1c739d8",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "primary_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
-          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_zh": null,
-          "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
-          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_zh": null,
-          "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T00:00:00Z",
-      "latest_at": "2026-11-03T00:00:00Z",
-      "primary_item": {
-        "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
-        "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "title_zh": null,
-        "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
-      }
-    },
-    {
-      "story_id": "story_a6428b15d16b",
-      "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-      "url": "https://www.aibase.com/news/32057",
-      "primary_url": "https://www.aibase.com/news/32057",
+      "story_id": "story_6d9c07161e8e",
+      "title": "Seedance海外收入占比达50%，半年增长近5倍",
+      "url": "https://www.aibase.com/news/32067",
+      "primary_url": "https://www.aibase.com/news/32067",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
-          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+          "title": "Seedance海外收入占比达50%，半年增长近5倍",
+          "title_zh": "Seedance海外收入占比达50%，半年增长近5倍",
           "title_en": null,
-          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_original": "Seedance海外收入占比达50%，半年增长近5倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32057",
+          "url": "https://www.aibase.com/news/32067",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T11:18:35.355608Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1250,50 +1249,51 @@
       ],
       "items": [
         {
-          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
-          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+          "title": "Seedance海外收入占比达50%，半年增长近5倍",
+          "title_zh": "Seedance海外收入占比达50%，半年增长近5倍",
           "title_en": null,
-          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_original": "Seedance海外收入占比达50%，半年增长近5倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32057",
+          "url": "https://www.aibase.com/news/32067",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T11:18:35.355608Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T11:18:35.355608Z",
-      "latest_at": "2026-11-03T11:18:35.355608Z",
+      "earliest_at": "2026-11-04T02:18:24.317454Z",
+      "latest_at": "2026-11-04T02:18:24.317454Z",
       "primary_item": {
-        "id": "8588536787f5cf44a86f80b061af3483522cdad1",
-        "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-        "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+        "title": "Seedance海外收入占比达50%，半年增长近5倍",
+        "title_zh": "Seedance海外收入占比达50%，半年增长近5倍",
         "title_en": null,
-        "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "title_original": "Seedance海外收入占比达50%，半年增长近5倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32057",
+        "url": "https://www.aibase.com/news/32067",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1301,7 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
@@ -1353,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.872,
+        "recency": 0.8351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1388,30 +1388,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
-      "story_id": "story_2c304998d0ff",
-      "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-      "url": "https://www.aibase.com/news/32055",
-      "primary_url": "https://www.aibase.com/news/32055",
+      "story_id": "story_d5a11f311a4b",
+      "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+      "url": "https://www.aibase.com/news/32068",
+      "primary_url": "https://www.aibase.com/news/32068",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
-          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-          "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+          "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+          "title_zh": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "title_en": null,
-          "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "title_original": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32055",
+          "url": "https://www.aibase.com/news/32068",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T11:18:35.355608Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1422,50 +1422,51 @@
       ],
       "items": [
         {
-          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
-          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-          "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+          "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+          "title_zh": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "title_en": null,
-          "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "title_original": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32055",
+          "url": "https://www.aibase.com/news/32068",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T11:18:35.355608Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T11:18:35.355608Z",
-      "latest_at": "2026-11-03T11:18:35.355608Z",
+      "earliest_at": "2026-11-04T02:18:24.317454Z",
+      "latest_at": "2026-11-04T02:18:24.317454Z",
       "primary_item": {
-        "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
-        "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-        "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+        "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+        "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+        "title_zh": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
         "title_en": null,
-        "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+        "title_original": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32055",
+        "url": "https://www.aibase.com/news/32068",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1473,7 +1474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
@@ -1525,15 +1526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8009,
+        "recency": 0.767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1560,30 +1561,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
-      "story_id": "story_3fe4e225a6ff",
-      "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-      "url": "https://www.aibase.com/news/32047",
-      "primary_url": "https://www.aibase.com/news/32047",
+      "story_id": "story_85a34f88a0d7",
+      "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+      "url": "https://www.aibase.com/news/32060",
+      "primary_url": "https://www.aibase.com/news/32060",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "id": "f8a51a11bfa18911eef1e4c8fb5571e7344a6333",
+          "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+          "title_zh": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
           "title_en": null,
-          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_original": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32047",
+          "url": "https://www.aibase.com/news/32060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1594,50 +1595,51 @@
       ],
       "items": [
         {
-          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "id": "f8a51a11bfa18911eef1e4c8fb5571e7344a6333",
+          "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+          "title_zh": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
           "title_en": null,
-          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_original": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32047",
+          "url": "https://www.aibase.com/news/32060",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "published_at": "2026-11-04T02:18:24.317454Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
+      "earliest_at": "2026-11-04T02:18:24.317454Z",
+      "latest_at": "2026-11-04T02:18:24.317454Z",
       "primary_item": {
-        "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-        "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-        "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "id": "f8a51a11bfa18911eef1e4c8fb5571e7344a6333",
+        "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+        "title_zh": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
         "title_en": null,
-        "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "title_original": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32047",
+        "url": "https://www.aibase.com/news/32060",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1645,92 +1647,223 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     },
     {
-      "story_id": "story_51b22de8c23f",
-      "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-      "url": "https://www.aibase.com/news/32053",
-      "primary_url": "https://www.aibase.com/news/32053",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a8b082ecc7e6",
+      "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
           "title_en": null,
-          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32053",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T17:14:02.313000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-03T17:13:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
+          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
+          "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索",
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
+          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
+          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
+          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
+          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "New York Times",
+        "hackernews",
+        "www.nytimes.com"
       ],
       "items": [
         {
-          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
           "title_en": null,
-          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32053",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T08:18:31.996244Z",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-03T17:14:02.313000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-03T17:13:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
+          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
+          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
+          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
+          "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索",
+          "title_en": "Google will turn off search for schools that reject AI",
+          "title_original": "Google will turn off search for schools that reject AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
+          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
+          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
+          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
+          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50353192",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T15:25:47Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5987,
+      "importance": 0.5987,
+      "importance_score": 0.5987,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8052,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8772,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-03T08:18:31.996244Z",
-      "latest_at": "2026-11-03T08:18:31.996244Z",
+      "earliest_at": "2026-11-03T15:25:47Z",
+      "latest_at": "2026-11-03T17:14:02.313000Z",
       "primary_item": {
-        "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-        "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-        "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
+        "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+        "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
         "title_en": null,
-        "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32053",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T23:46:21.047256Z"
+        "scored_at": "2026-11-04T02:19:16.670450Z"
       }
     }
   ]
