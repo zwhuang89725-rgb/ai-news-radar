@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-05T17:19:27.910285Z",
+  "generated_at": "2026-11-05T20:17:38.324888Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3ce30504df16",
+      "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T19:35:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+          "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T19:35:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9899,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T19:35:16Z",
+      "latest_at": "2026-11-05T19:35:16Z",
+      "primary_item": {
+        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
+        "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "title_zh": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型",
+        "title_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "title_original": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T20:18:38.653916Z"
+      }
+    },
     {
       "story_id": "story_6b1555ab30d9",
       "title": "Gemini Omni 1.2 Flash：快速、经济高效，具有更长的剪辑 / Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9953,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +174,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
+      }
+    },
+    {
+      "story_id": "story_c4e6d017dd84",
+      "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "primary_url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a9a74fb4b8072a7fc3a7ba81f5c0503199944bae",
+          "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "title_zh": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿",
+          "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "title_original": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T09:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "a9a74fb4b8072a7fc3a7ba81f5c0503199944bae",
+          "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "title_zh": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿",
+          "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "title_original": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T09:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8495,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T09:00:00Z",
+      "latest_at": "2026-11-05T09:00:00Z",
+      "primary_item": {
+        "id": "a9a74fb4b8072a7fc3a7ba81f5c0503199944bae",
+        "title": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿 / GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+        "title_zh": "GPT-6 Cyber​​：推进一致的网络安全代理的前沿",
+        "title_en": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+        "title_original": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-gpt-6-cyber",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T20:18:38.653916Z"
+      }
+    },
+    {
+      "story_id": "story_6f01c2353f93",
+      "title": "秘密扫描升级探测器，SpaceX 成为合作伙伴 / Secret scanning upgrades detectors, adds SpaceX as partner",
+      "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+      "primary_url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bc6de1adec3359c7cb952406e23a7c94e1de80d0",
+          "title": "秘密扫描升级探测器，SpaceX 成为合作伙伴 / Secret scanning upgrades detectors, adds SpaceX as partner",
+          "title_zh": "秘密扫描升级探测器，SpaceX 成为合作伙伴",
+          "title_en": "Secret scanning upgrades detectors, adds SpaceX as partner",
+          "title_original": "Secret scanning upgrades detectors, adds SpaceX as partner",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T15:48:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bc6de1adec3359c7cb952406e23a7c94e1de80d0",
+          "title": "秘密扫描升级探测器，SpaceX 成为合作伙伴 / Secret scanning upgrades detectors, adds SpaceX as partner",
+          "title_zh": "秘密扫描升级探测器，SpaceX 成为合作伙伴",
+          "title_en": "Secret scanning upgrades detectors, adds SpaceX as partner",
+          "title_original": "Secret scanning upgrades detectors, adds SpaceX as partner",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T15:48:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9374,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T15:48:50Z",
+      "latest_at": "2026-11-05T15:48:50Z",
+      "primary_item": {
+        "id": "bc6de1adec3359c7cb952406e23a7c94e1de80d0",
+        "title": "秘密扫描升级探测器，SpaceX 成为合作伙伴 / Secret scanning upgrades detectors, adds SpaceX as partner",
+        "title_zh": "秘密扫描升级探测器，SpaceX 成为合作伙伴",
+        "title_en": "Secret scanning upgrades detectors, adds SpaceX as partner",
+        "title_original": "Secret scanning upgrades detectors, adds SpaceX as partner",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -139,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7787,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +435,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
+      }
+    },
+    {
+      "story_id": "story_2fb9f8919489",
+      "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "951395a070151ffeb897674157f63461692438b9",
+          "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
+          "title_zh": "公共预览中的新拉取请求概述页面",
+          "title_en": "New pull request overview page in public preview",
+          "title_original": "New pull request overview page in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "951395a070151ffeb897674157f63461692438b9",
+          "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
+          "title_zh": "公共预览中的新拉取请求概述页面",
+          "title_en": "New pull request overview page in public preview",
+          "title_original": "New pull request overview page in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8373,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T08:00:00Z",
+      "latest_at": "2026-11-05T08:00:00Z",
+      "primary_item": {
+        "id": "951395a070151ffeb897674157f63461692438b9",
+        "title": "公共预览中的新拉取请求概述页面 / New pull request overview page in public preview",
+        "title_zh": "公共预览中的新拉取请求概述页面",
+        "title_en": "New pull request overview page in public preview",
+        "title_original": "New pull request overview page in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -226,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8015,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,268 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
-      }
-    },
-    {
-      "story_id": "story_bf5abd3d9223",
-      "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
-      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
-      "primary_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
-          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
-          "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
-          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
-          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T19:10:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
-          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
-          "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
-          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
-          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T19:10:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7263,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T19:10:40Z",
-      "latest_at": "2026-11-04T19:10:40Z",
-      "primary_item": {
-        "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
-        "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
-        "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
-        "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
-        "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
-      }
-    },
-    {
-      "story_id": "story_a1cac76551fa",
-      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T17:50:10Z",
-      "latest_at": "2026-11-04T17:50:10Z",
-      "primary_item": {
-        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-        "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
-      }
-    },
-    {
-      "story_id": "story_103533f8718a",
-      "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
-      "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
-      "primary_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
-          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
-          "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
-          "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
-          "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T20:04:52Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
-          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
-          "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
-          "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
-          "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T20:04:52Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7358,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T20:04:52Z",
-      "latest_at": "2026-11-04T20:04:52Z",
-      "primary_item": {
-        "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
-        "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
-        "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
-        "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
-        "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -574,21 +661,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-05T11:19:27.865168Z",
       "latest_at": "2026-11-05T11:19:27.865168Z",
@@ -608,7 +694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -660,21 +746,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-05T11:19:27.865168Z",
       "latest_at": "2026-11-05T11:19:27.865168Z",
@@ -694,7 +779,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -746,21 +831,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-05T11:19:27.865168Z",
       "latest_at": "2026-11-05T11:19:27.865168Z",
@@ -780,7 +864,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -832,21 +916,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-05T11:19:27.865168Z",
       "latest_at": "2026-11-05T11:19:27.865168Z",
@@ -866,7 +949,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
+      }
+    },
+    {
+      "story_id": "story_43aed8424453",
+      "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "primary_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
+          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+          "title_en": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "title_original": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-05T19:12:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.646,
+      "importance": 0.646,
+      "importance_score": 0.646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9845,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-05T19:12:39Z",
+      "latest_at": "2026-11-05T19:12:39Z",
+      "primary_item": {
+        "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
+        "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
+        "title_zh": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
+        "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "title_original": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -918,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,7 +1152,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
+      }
+    },
+    {
+      "story_id": "story_21796aae7a5a",
+      "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+      "url": "https://www.producthunt.com/products/easy-peasy-ai",
+      "primary_url": "https://www.producthunt.com/products/easy-peasy-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
+          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
+          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "summary": "Hire an AI team that splits the work and asks before sending",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-04T06:19:49Z",
+          "updated_at": "2026-11-05T20:02:09Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "96e387c1f2671d95fefea702640de285e459a453",
+          "title": "AI Employees by Easy-Peasy.AI",
+          "title_zh": null,
+          "title_en": "AI Employees by Easy-Peasy.AI",
+          "title_original": "AI Employees by Easy-Peasy.AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T14:19:01.571000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
+          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
+          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "summary": "Hire an AI team that splits the work and asks before sending",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-04T06:19:49Z",
+          "updated_at": "2026-11-05T20:02:09Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "96e387c1f2671d95fefea702640de285e459a453",
+          "title": "AI Employees by Easy-Peasy.AI",
+          "title_zh": null,
+          "title_en": "AI Employees by Easy-Peasy.AI",
+          "title_original": "AI Employees by Easy-Peasy.AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T14:19:01.571000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5935,
+      "importance": 0.5935,
+      "importance_score": 0.5935,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9963,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-05T14:19:01.571000Z",
+      "latest_at": "2026-11-05T20:02:09Z",
+      "primary_item": {
+        "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
+        "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+        "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
+        "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+        "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+        "summary": "Hire an AI team that splits the work and asks before sending",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/easy-peasy-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -1003,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1036,125 +1355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
-      }
-    },
-    {
-      "story_id": "story_21796aae7a5a",
-      "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-      "url": "https://www.producthunt.com/products/easy-peasy-ai",
-      "primary_url": "https://www.producthunt.com/products/easy-peasy-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
-          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
-          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "summary": "Hire an AI team that splits the work and asks before sending",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-04T06:19:49Z",
-          "updated_at": "2026-11-05T17:12:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "96e387c1f2671d95fefea702640de285e459a453",
-          "title": "AI Employees by Easy-Peasy.AI",
-          "title_zh": null,
-          "title_en": "AI Employees by Easy-Peasy.AI",
-          "title_original": "AI Employees by Easy-Peasy.AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T14:19:01.571000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
-          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
-          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-          "summary": "Hire an AI team that splits the work and asks before sending",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-04T06:19:49Z",
-          "updated_at": "2026-11-05T17:12:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "96e387c1f2671d95fefea702640de285e459a453",
-          "title": "AI Employees by Easy-Peasy.AI",
-          "title_zh": null,
-          "title_en": "AI Employees by Easy-Peasy.AI",
-          "title_original": "AI Employees by Easy-Peasy.AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/easy-peasy-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T14:19:01.571000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9983,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T14:19:01.571000Z",
-      "latest_at": "2026-11-05T17:12:28Z",
-      "primary_item": {
-        "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
-        "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-        "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
-        "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-        "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
-        "summary": "Hire an AI team that splits the work and asks before sending",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/easy-peasy-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -1238,15 +1439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.581,
-      "importance": 0.581,
-      "importance_score": 0.581,
+      "score": 0.5754,
+      "importance": 0.5754,
+      "importance_score": 0.5754,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7391,
+        "recency": 0.7081,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1271,7 +1472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -1389,15 +1590,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5668,
-      "importance": 0.5668,
-      "importance_score": 0.5668,
+      "score": 0.5594,
+      "importance": 0.5594,
+      "importance_score": 0.5594,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9777,
+        "recency": 0.9366,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1422,7 +1623,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
@@ -1474,15 +1675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1507,164 +1708,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
-      "story_id": "story_1d39612a56b8",
-      "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-      "url": "https://www.producthunt.com/products/stitch-ai",
-      "primary_url": "https://www.producthunt.com/products/stitch-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "1f9f0a6f65c9b6eaa74539387711a149f5d6291f",
-          "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-          "title_zh": "Stitch.ai — 您的新工作区，内置邮件、日历和任务",
-          "title_en": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-          "title_original": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-          "summary": "Your new workspace with mail, calendar and tasks built in",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-05T11:20:02Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "aaf5c4569f32084c9384c2ff955fccb69909923a",
-          "title": "Stitch.ai",
-          "title_zh": null,
-          "title_en": "Stitch.ai",
-          "title_original": "Stitch.ai",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T14:19:01.571000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "1f9f0a6f65c9b6eaa74539387711a149f5d6291f",
-          "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-          "title_zh": "Stitch.ai — 您的新工作区，内置邮件、日历和任务",
-          "title_en": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-          "title_original": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-          "summary": "Your new workspace with mail, calendar and tasks built in",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T06:04:34Z",
-          "updated_at": "2026-11-05T11:20:02Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "aaf5c4569f32084c9384c2ff955fccb69909923a",
-          "title": "Stitch.ai",
-          "title_zh": null,
-          "title_en": "Stitch.ai",
-          "title_original": "Stitch.ai",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/stitch-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T14:19:01.571000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5793,
-      "importance": 0.5793,
-      "importance_score": 0.5793,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9171,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T11:20:02Z",
-      "latest_at": "2026-11-05T14:19:01.571000Z",
-      "primary_item": {
-        "id": "1f9f0a6f65c9b6eaa74539387711a149f5d6291f",
-        "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-        "title_zh": "Stitch.ai — 您的新工作区，内置邮件、日历和任务",
-        "title_en": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-        "title_original": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
-        "summary": "Your new workspace with mail, calendar and tasks built in",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/stitch-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
-      }
-    },
-    {
-      "story_id": "story_ee11db97c64d",
-      "title": "MCP 详解",
-      "url": "https://mcp-explained.com",
-      "primary_url": "https://mcp-explained.com",
-      "source": "mcp-explained.com",
+      "story_id": "story_27a96b710ea0",
+      "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "primary_url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "source": "claude.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a16f03d03d08a4297adb1789db4a4768f454b3fb",
-          "title": "MCP 详解",
-          "title_zh": "MCP 详解",
+          "id": "17dd377517ac13777a7f6351fb1cc1e4d1b1bca9",
+          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
+          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
           "title_en": null,
-          "title_original": "MCP 详解",
+          "title_original": "作为双侧人工耳蜗使用者，我的心理物理学体验",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mcp-explained.com",
-          "source": "mcp-explained.com",
+          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+          "source": "claude.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-05T16:23:50.403000Z",
+          "published_at": "2026-11-05T19:34:42.612000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "79ca73688c8d9c872db11791467f87639c77ae7c",
-          "title": "MCP 详解 / MCP Explained",
-          "title_zh": "MCP 详解",
-          "title_en": "MCP Explained",
-          "title_original": "MCP Explained",
+          "id": "9f67232d5945181331611ad070473ef13ef9cf2a",
+          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验 / My psychophysics as a bilateral cochlear implant user",
+          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
+          "title_en": "My psychophysics as a bilateral cochlear implant user",
+          "title_original": "My psychophysics as a bilateral cochlear implant user",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mcp-explained.com",
+          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-05T14:08:35Z",
+          "published_at": "2026-11-05T16:21:12Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1672,281 +1755,196 @@
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "mcp-explained.com"
+        "claude.ai"
       ],
       "items": [
         {
-          "id": "a16f03d03d08a4297adb1789db4a4768f454b3fb",
-          "title": "MCP 详解",
-          "title_zh": "MCP 详解",
+          "id": "17dd377517ac13777a7f6351fb1cc1e4d1b1bca9",
+          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
+          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
           "title_en": null,
-          "title_original": "MCP 详解",
+          "title_original": "作为双侧人工耳蜗使用者，我的心理物理学体验",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mcp-explained.com",
-          "source": "mcp-explained.com",
+          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+          "source": "claude.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-05T16:23:50.403000Z",
+          "published_at": "2026-11-05T19:34:42.612000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "79ca73688c8d9c872db11791467f87639c77ae7c",
-          "title": "MCP 详解 / MCP Explained",
-          "title_zh": "MCP 详解",
-          "title_en": "MCP Explained",
-          "title_original": "MCP Explained",
+          "id": "9f67232d5945181331611ad070473ef13ef9cf2a",
+          "title": "作为双侧人工耳蜗使用者，我的心理物理学体验 / My psychophysics as a bilateral cochlear implant user",
+          "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
+          "title_en": "My psychophysics as a bilateral cochlear implant user",
+          "title_original": "My psychophysics as a bilateral cochlear implant user",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://mcp-explained.com",
+          "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-05T14:08:35Z",
+          "published_at": "2026-11-05T16:21:12Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9897,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-05T14:08:35Z",
-      "latest_at": "2026-11-05T16:23:50.403000Z",
+      "earliest_at": "2026-11-05T16:21:12Z",
+      "latest_at": "2026-11-05T19:34:42.612000Z",
       "primary_item": {
-        "id": "a16f03d03d08a4297adb1789db4a4768f454b3fb",
-        "title": "MCP 详解",
-        "title_zh": "MCP 详解",
+        "id": "17dd377517ac13777a7f6351fb1cc1e4d1b1bca9",
+        "title": "作为双侧人工耳蜗使用者，我的心理物理学体验",
+        "title_zh": "作为双侧人工耳蜗使用者，我的心理物理学体验",
         "title_en": null,
-        "title_original": "MCP 详解",
+        "title_original": "作为双侧人工耳蜗使用者，我的心理物理学体验",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://mcp-explained.com",
-        "source": "mcp-explained.com",
+        "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+        "source": "claude.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     },
     {
-      "story_id": "story_c461d6d5cb69",
-      "title": "更新后的模型规格，提供更强大、更有益的人工智能 / An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "primary_url": "https://openai.com/index/updated-model-spec",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_792873d220fb",
+      "title": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "primary_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "source": "www.wsj.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5fb1dd56fa16cb23a7cb01caf9452953587e3174",
-          "title": "更新后的模型规格，提供更强大、更有益的人工智能 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "更新后的模型规格，提供更强大、更有益的人工智能",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "id": "21faf7b2ccff1fb6cd4c52262d620d3dcca4df07",
+          "title": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+          "title_zh": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+          "title_en": null,
+          "title_original": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/updated-model-spec",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T15:31:43Z",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+          "source": "www.wsj.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T19:34:42.615000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "ccb40c235f202a4142d1ae37d0039579d20befc2",
-          "title": "更新后的模型规格，提供更强大、更有益的人工智能 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "更新后的模型规格，提供更强大、更有益的人工智能",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "id": "0ee8ab603aa7bbe2a46ff0e6e34ebcf54370fd63",
+          "title": "大选后投资者撤离AI交易，纳斯达克指数下跌5% / Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+          "title_zh": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+          "title_en": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+          "title_original": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50380365",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T15:31:43Z",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-05T18:00:01Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Hacker News · 24h最热",
+        "www.wsj.com"
       ],
       "items": [
         {
-          "id": "5fb1dd56fa16cb23a7cb01caf9452953587e3174",
-          "title": "更新后的模型规格，提供更强大、更有益的人工智能 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "更新后的模型规格，提供更强大、更有益的人工智能",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "id": "21faf7b2ccff1fb6cd4c52262d620d3dcca4df07",
+          "title": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+          "title_zh": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+          "title_en": null,
+          "title_original": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/updated-model-spec",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T15:31:43Z",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+          "source": "www.wsj.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T19:34:42.615000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "ccb40c235f202a4142d1ae37d0039579d20befc2",
-          "title": "更新后的模型规格，提供更强大、更有益的人工智能 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "更新后的模型规格，提供更强大、更有益的人工智能",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "id": "0ee8ab603aa7bbe2a46ff0e6e34ebcf54370fd63",
+          "title": "大选后投资者撤离AI交易，纳斯达克指数下跌5% / Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+          "title_zh": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+          "title_en": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+          "title_original": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50380365",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-05T15:31:43Z",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-05T18:00:01Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9744,
+        "recency": 0.9897,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-05T15:31:43Z",
-      "latest_at": "2026-11-05T15:31:43Z",
+      "earliest_at": "2026-11-05T18:00:01Z",
+      "latest_at": "2026-11-05T19:34:42.615000Z",
       "primary_item": {
-        "id": "5fb1dd56fa16cb23a7cb01caf9452953587e3174",
-        "title": "更新后的模型规格，提供更强大、更有益的人工智能 / An updated Model Spec for more capable and beneficial AI",
-        "title_zh": "更新后的模型规格，提供更强大、更有益的人工智能",
-        "title_en": "An updated Model Spec for more capable and beneficial AI",
-        "title_original": "An updated Model Spec for more capable and beneficial AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/updated-model-spec",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
-      }
-    },
-    {
-      "story_id": "story_ab6b782bbecd",
-      "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-      "url": "https://www.aibase.com/news/32115",
-      "primary_url": "https://www.aibase.com/news/32115",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
-          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_en": null,
-          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32115",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
-          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_en": null,
-          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32115",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8779,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T08:18:30.682148Z",
-      "latest_at": "2026-11-05T08:18:30.682148Z",
-      "primary_item": {
-        "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
-        "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-        "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+        "id": "21faf7b2ccff1fb6cd4c52262d620d3dcca4df07",
+        "title": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
+        "title_zh": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
         "title_en": null,
-        "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+        "title_original": "大选后投资者撤离AI交易，纳斯达克指数下跌5%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32115",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+        "source": "www.wsj.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T17:20:36.464603Z"
+        "scored_at": "2026-11-05T20:18:38.653916Z"
       }
     }
   ]
