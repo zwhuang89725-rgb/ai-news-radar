@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 05:18:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 08:18:30 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
@@ -32,14 +32,6 @@
 <pubDate>Wed, 04 Nov 2026 19:10:40 +0000</pubDate>
 </item>
 <item>
-<title>A thousand fewer paths to root</title>
-<link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-<guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-<description>A thousand fewer paths to root (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 05 Nov 2026 02:01:04 +0000</pubDate>
-</item>
-<item>
 <title>CodeQL 2.27.4 improves accuracy and query metadata</title>
 <link>https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata</guid>
@@ -48,60 +40,52 @@
 <pubDate>Wed, 04 Nov 2026 20:04:52 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相</title>
-<link>https://www.aibase.com/news/32108</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32108</guid>
-<description>GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相 (AIbase)</description>
+<title>Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职</title>
+<link>https://www.aibase.com/news/32120</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32120</guid>
+<description>Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
-<title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
-<link>https://openai.com/index/daybreak-red-aws-govcloud</link>
-<guid isPermaLink="true">https://openai.com/index/daybreak-red-aws-govcloud</guid>
-<description>Daybreak Red is now available in AWS GovCloud (US-East) (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+<title>Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码</title>
+<link>https://www.aibase.com/news/32119</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32119</guid>
+<description>Sand.ai 宣布完成 2 亿美元 A+ 轮融资，多方资本与上海国资强势加码 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
-<title>Kimi Hosted Agents 发布:Harness 运行时转向云端托管</title>
-<link>https://www.aibase.com/news/32112</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32112</guid>
-<description>Kimi Hosted Agents 发布:Harness 运行时转向云端托管 (AIbase)</description>
+<title>从"能画"到"能改"：OpenAI 用 Images 2.6 补齐生图工作流</title>
+<link>https://www.aibase.com/news/32116</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32116</guid>
+<description>从"能画"到"能改"：OpenAI 用 Images 2.6 补齐生图工作流 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元</title>
-<link>https://www.aibase.com/news/32111</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32111</guid>
-<description>OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元 (AIbase)</description>
+<title>千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改</title>
+<link>https://www.aibase.com/news/32115</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32115</guid>
+<description>千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
-<title>可灵 AI 宣布 Kling 4.0 Flash 全面开放，深度融入专业影视工作流</title>
-<link>https://www.aibase.com/news/32109</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32109</guid>
-<description>可灵 AI 宣布 Kling 4.0 Flash 全面开放，深度融入专业影视工作流 (AIbase)</description>
+<title>大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%</title>
+<link>https://www.aibase.com/news/32114</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32114</guid>
+<description>大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44% (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
-<title>国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源</title>
-<link>https://www.aibase.com/news/32107</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32107</guid>
-<description>国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源 (AIbase)</description>
+<title>百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA</title>
+<link>https://www.aibase.com/news/32118</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32118</guid>
+<description>百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
-</item>
-<item>
-<title>灵光2.0上线一周托管超116万项事务，用户突破2000万</title>
-<link>https://www.aibase.com/news/32105</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32105</guid>
-<description>灵光2.0上线一周托管超116万项事务，用户突破2000万 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
 <title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
@@ -112,28 +96,28 @@
 <pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
 </item>
 <item>
-<title>KREV AI — An AI team that runs your ecommerce brand</title>
-<link>https://www.producthunt.com/products/krev</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/krev</guid>
-<description>An AI team that runs your ecommerce brand (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Thu, 05 Nov 2026 05:17:37 +0000</pubDate>
-</item>
-<item>
-<title>盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠</title>
-<link>https://www.aibase.com/news/32110</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32110</guid>
-<description>盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
-</item>
-<item>
 <title>Orphex MCP — Run your entire digital marketing stack via one unified MCP</title>
 <link>https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing</guid>
 <description>Run your entire digital marketing stack via one unified MCP (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Thu, 05 Nov 2026 05:09:55 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 08:16:47 +0000</pubDate>
+</item>
+<item>
+<title>砍额度不砍战略：苹果把内部 AI 开支拧进"紧箍咒"</title>
+<link>https://www.aibase.com/news/32117</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32117</guid>
+<description>砍额度不砍战略：苹果把内部 AI 开支拧进"紧箍咒" (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
+</item>
+<item>
+<title>KREV AI — An AI team that runs your ecommerce brand</title>
+<link>https://www.producthunt.com/products/krev</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/krev</guid>
+<description>An AI team that runs your ecommerce brand (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Thu, 05 Nov 2026 08:01:53 +0000</pubDate>
 </item>
 <item>
 <title>高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s</title>
@@ -144,10 +128,10 @@
 <pubDate>Thu, 05 Nov 2026 01:44:43 +0000</pubDate>
 </item>
 <item>
-<title>美国中期选举变"数据中心公投"：76% 选民反对，AI 基建撞上地方墙</title>
-<link>https://www.aibase.com/news/32106</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32106</guid>
-<description>美国中期选举变"数据中心公投"：76% 选民反对，AI 基建撞上地方墙 (AIbase)</description>
+<title>GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相</title>
+<link>https://www.aibase.com/news/32108</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32108</guid>
+<description>GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
 </item>
@@ -160,12 +144,28 @@
 <pubDate>Wed, 04 Nov 2026 23:04:46 +0000</pubDate>
 </item>
 <item>
-<title>大型语言模型可证明推理方面的进展</title>
-<link>https://www.anthropic.com/research/provable-inference</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/provable-inference</guid>
-<description>大型语言模型可证明推理方面的进展 (www.anthropic.com)</description>
+<title>Google hasn&amp;#8217;t figured out how to make AI pay like its search engine</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</guid>
+<description>Google hasn&amp;#8217;t figured out how to make AI pay like its search engine (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>人工智能正迫使我们偿还40年的技术债务</title>
+<link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
+<guid isPermaLink="true">https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</guid>
+<description>人工智能正迫使我们偿还40年的技术债务 (spectrum.ieee.org)</description>
 <category>Multi-source buzz</category>
-<pubDate>Wed, 04 Nov 2026 19:37:46 +0000</pubDate>
+<pubDate>Wed, 04 Nov 2026 15:21:22 +0000</pubDate>
+</item>
+<item>
+<title>杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好</title>
+<link>https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</link>
+<guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</guid>
+<description>杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 (www.theguardian.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Wed, 04 Nov 2026 15:21:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
