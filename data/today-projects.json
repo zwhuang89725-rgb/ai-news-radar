@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:19:12.382567Z",
+  "generated_at": "2026-11-05T02:20:15.735188Z",
   "date": "2026-11-05",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T23:18:23.774121Z"
+      "observed_at": "2026-11-05T02:19:29.143485Z"
     },
     {
-      "id": "project_77093ba9977a",
-      "project_name": "Wanaka Studio",
-      "url": "https://www.producthunt.com/products/wanaka-studio",
-      "summary": "Make and publish 3D games with the first AI game engine",
+      "id": "project_0d1b189eaf98",
+      "project_name": "Orphex MCP",
+      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+      "summary": "Run your entire digital marketing stack via one unified MCP",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Make and publish 3D games with the first AI game engine」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Make and publish 3D games with the first AI game engine\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T13:18:07Z",
-      "updated_at": "2026-11-04T23:12:26Z",
+      "recommend_reason_zh": "体验它主打的「Run your entire digital marketing stack via one unified MCP」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run your entire digital marketing stack via one unified MCP\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-07T09:59:12Z",
+      "updated_at": "2026-11-05T01:37:13Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T23:19:01.711528Z"
+      "observed_at": "2026-11-05T02:20:03.035436Z"
     },
     {
       "id": "project_d747ecb5894f",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T23:18:23.774121Z"
+      "observed_at": "2026-11-05T02:19:29.143485Z"
     },
     {
-      "id": "project_6e30af5aa325",
-      "project_name": "Floot Payments",
-      "url": "https://www.producthunt.com/products/floot",
-      "summary": "Take payments in apps you build in ChatGPT and Claude",
+      "id": "project_5b7eb374917e",
+      "project_name": "fileForensics",
+      "url": "https://www.producthunt.com/products/fileai-ai-ocr",
+      "summary": "Real or not? Check files before your AI trusts them.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Take payments in apps you build in ChatGPT and Claude」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Take payments in apps you build in ChatGPT and Claude\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T21:05:52Z",
-      "updated_at": "2026-11-04T23:09:12Z",
+      "recommend_reason_zh": "体验它主打的「Real or not? Check files before your AI trusts them」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Real or not? Check files before your AI trusts them\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T05:33:28Z",
+      "updated_at": "2026-11-05T02:16:37Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T23:19:01.711528Z"
+      "observed_at": "2026-11-05T02:20:03.035436Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1370,
+      "duration_ms": 198,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 300,
+      "duration_ms": 265,
       "error": null
     }
   ]
