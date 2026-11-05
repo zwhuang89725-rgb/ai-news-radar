@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 05 Nov 2026 08:18:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 11:19:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.</title>
@@ -16,12 +16,12 @@
 <pubDate>Wed, 04 Nov 2026 21:12:50 +0000</pubDate>
 </item>
 <item>
-<title>Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
-<link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
+<title>仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
+<link>https://huggingface.co/blog/phonon-tts</link>
+<guid isPermaLink="true">https://huggingface.co/blog/phonon-tts</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant</title>
@@ -32,12 +32,60 @@
 <pubDate>Wed, 04 Nov 2026 19:10:40 +0000</pubDate>
 </item>
 <item>
+<title>为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure</title>
+<link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+<guid isPermaLink="true">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
+<link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
+<guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
+</item>
+<item>
 <title>CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata</title>
 <link>https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 04 Nov 2026 20:04:52 +0000</pubDate>
+</item>
+<item>
+<title>AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体</title>
+<link>https://www.aibase.com/news/32125</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32125</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 05 Nov 2026 11:19:27 +0000</pubDate>
+</item>
+<item>
+<title>AI 让死亡成为"可选项"？布罗克曼抛出生命终极命题</title>
+<link>https://www.aibase.com/news/32123</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32123</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 05 Nov 2026 11:19:27 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu</title>
+<link>https://www.aibase.com/news/32124</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32124</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 05 Nov 2026 11:19:27 +0000</pubDate>
+</item>
+<item>
+<title>研发超级 AI 或判 20 年：美国民主党抛出最严封杀令</title>
+<link>https://www.aibase.com/news/32122</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32122</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 05 Nov 2026 11:19:27 +0000</pubDate>
 </item>
 <item>
 <title>Claude Code 产品负责人 Cat Wu 闪电跳槽，两周内三位核心骨干相继离职</title>
@@ -56,44 +104,28 @@
 <pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
-<title>从"能画"到"能改"：OpenAI 用 Images 2.6 补齐生图工作流</title>
-<link>https://www.aibase.com/news/32116</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32116</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
-</item>
-<item>
-<title>千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改</title>
-<link>https://www.aibase.com/news/32115</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32115</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
-</item>
-<item>
-<title>大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%</title>
-<link>https://www.aibase.com/news/32114</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32114</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
-</item>
-<item>
-<title>百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA</title>
-<link>https://www.aibase.com/news/32118</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32118</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
-</item>
-<item>
 <title>Gemini for Home 现已接入 AT&amp;T 的智能安全系统 / Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
 <link>https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system</guid>
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Wed, 04 Nov 2026 20:23:24 +0000</pubDate>
+</item>
+<item>
+<title>LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT</title>
+<link>https://www.producthunt.com/products/livereacting</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/livereacting</guid>
+<description>Run 24/7 and pre-recorded live streams from ChatGPT（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Thu, 05 Nov 2026 10:06:28 +0000</pubDate>
+</item>
+<item>
+<title>从"能画"到"能改"：OpenAI 用 Images 2.6 补齐生图工作流</title>
+<link>https://www.aibase.com/news/32116</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32116</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
 </item>
 <item>
 <title>Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP</title>
@@ -104,20 +136,12 @@
 <pubDate>Thu, 05 Nov 2026 08:16:47 +0000</pubDate>
 </item>
 <item>
-<title>砍额度不砍战略：苹果把内部 AI 开支拧进"紧箍咒"</title>
-<link>https://www.aibase.com/news/32117</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32117</guid>
+<title>千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改</title>
+<link>https://www.aibase.com/news/32115</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32115</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Thu, 05 Nov 2026 08:18:30 +0000</pubDate>
-</item>
-<item>
-<title>KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand</title>
-<link>https://www.producthunt.com/products/krev</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/krev</guid>
-<description>An AI team that runs your ecommerce brand（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Thu, 05 Nov 2026 08:01:53 +0000</pubDate>
 </item>
 <item>
 <title>高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s</title>
@@ -126,14 +150,6 @@
 <description>www.qualcomm.com</description>
 <category>多源热议</category>
 <pubDate>Thu, 05 Nov 2026 01:44:43 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相</title>
-<link>https://www.aibase.com/news/32108</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32108</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 05 Nov 2026 05:18:26 +0000</pubDate>
 </item>
 <item>
 <title>现在什么都是AI骗局了</title>
@@ -150,22 +166,6 @@
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>人工智能正迫使我们偿还40年的技术债务</title>
-<link>https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</link>
-<guid isPermaLink="true">https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</guid>
-<description>spectrum.ieee.org</description>
-<category>多源热议</category>
-<pubDate>Wed, 04 Nov 2026 15:21:22 +0000</pubDate>
-</item>
-<item>
-<title>杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好</title>
-<link>https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</link>
-<guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai</guid>
-<description>www.theguardian.com</description>
-<category>多源热议</category>
-<pubDate>Wed, 04 Nov 2026 15:21:22 +0000</pubDate>
 </item>
 </channel>
 </rss>

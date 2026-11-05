@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:18:30.682148Z",
+  "generated_at": "2026-11-05T11:19:27.865168Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -183,15 +183,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9112,
-      "importance": 0.9112,
-      "importance_score": 0.9112,
+      "score": 0.9053,
+      "importance": 0.9053,
+      "importance_score": 0.9053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7732,
+        "recency": 0.7403,
         "story_heat": 1.0
       },
       "category": "official",
@@ -219,30 +219,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
-      "story_id": "story_a1cac76551fa",
-      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "story_id": "story_e4f862191cfe",
+      "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "primary_url": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
+          "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "url": "https://huggingface.co/blog/phonon-tts",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z",
+          "published_at": "2026-11-05T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -253,33 +253,33 @@
       ],
       "items": [
         {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+          "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
+          "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "url": "https://huggingface.co/blog/phonon-tts",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z",
+          "published_at": "2026-11-05T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8114,
+        "ai_relevance": 0.98,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -288,17 +288,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T17:50:10Z",
-      "latest_at": "2026-11-04T17:50:10Z",
+      "earliest_at": "2026-11-05T00:00:00Z",
+      "latest_at": "2026-11-05T00:00:00Z",
       "primary_item": {
-        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
-        "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+        "title": "仔细观察声子 TTS。推出领先基准的高质量设备语音。 / A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "title_zh": "仔细观察声子 TTS。推出领先基准的高质量设备语音。",
+        "title_en": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "title_original": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "url": "https://huggingface.co/blog/phonon-tts",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -306,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -358,15 +358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8273,
+        "recency": 0.792,
         "story_heat": 0.0
       },
       "category": "official",
@@ -393,7 +393,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_44fc9c8ae05c",
+      "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "title_zh": "为负责任的人工智能基础设施设定新标准",
+          "title_en": "Setting a new standard for responsible AI infrastructure",
+          "title_original": "Setting a new standard for responsible AI infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T02:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "title_zh": "为负责任的人工智能基础设施设定新标准",
+          "title_en": "Setting a new standard for responsible AI infrastructure",
+          "title_original": "Setting a new standard for responsible AI infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T02:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.874,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T02:00:00Z",
+      "latest_at": "2026-11-05T02:00:00Z",
+      "primary_item": {
+        "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+        "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+        "title_zh": "为负责任的人工智能基础设施设定新标准",
+        "title_en": "Setting a new standard for responsible AI infrastructure",
+        "title_original": "Setting a new standard for responsible AI infrastructure",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_a1cac76551fa",
+      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T17:50:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T17:50:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7768,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T17:50:10Z",
+      "latest_at": "2026-11-04T17:50:10Z",
+      "primary_item": {
+        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+        "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -445,15 +619,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8381,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,7 +654,351 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_e4e99ccb9f67",
+      "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+      "url": "https://www.aibase.com/news/32125",
+      "primary_url": "https://www.aibase.com/news/32125",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_en": null,
+          "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "title_en": null,
+          "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T11:19:27.865168Z",
+      "latest_at": "2026-11-05T11:19:27.865168Z",
+      "primary_item": {
+        "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+        "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+        "title_zh": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+        "title_en": null,
+        "title_original": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32125",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_13b665bd92e7",
+      "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+      "url": "https://www.aibase.com/news/32123",
+      "primary_url": "https://www.aibase.com/news/32123",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_en": null,
+          "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32123",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "title_en": null,
+          "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32123",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T11:19:27.865168Z",
+      "latest_at": "2026-11-05T11:19:27.865168Z",
+      "primary_item": {
+        "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+        "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+        "title_zh": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+        "title_en": null,
+        "title_original": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32123",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_eec3f849fb91",
+      "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+      "url": "https://www.aibase.com/news/32124",
+      "primary_url": "https://www.aibase.com/news/32124",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
+          "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_en": null,
+          "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32124",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
+          "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "title_en": null,
+          "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32124",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T11:19:27.865168Z",
+      "latest_at": "2026-11-05T11:19:27.865168Z",
+      "primary_item": {
+        "id": "d6ad8346d332e7c1a569d4c4704a3df741c86539",
+        "title": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+        "title_zh": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+        "title_en": null,
+        "title_original": "Claude Code 造星操盘手被挖：OpenAI 拿下 Cat Wu",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32124",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_8a422e6ab426",
+      "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+      "url": "https://www.aibase.com/news/32122",
+      "primary_url": "https://www.aibase.com/news/32122",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e928f443b3e1f6ce1b1975e87393f53e1e1a7a2e",
+          "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+          "title_zh": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+          "title_en": null,
+          "title_original": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32122",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e928f443b3e1f6ce1b1975e87393f53e1e1a7a2e",
+          "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+          "title_zh": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+          "title_en": null,
+          "title_original": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32122",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T11:19:27.865168Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T11:19:27.865168Z",
+      "latest_at": "2026-11-05T11:19:27.865168Z",
+      "primary_item": {
+        "id": "e928f443b3e1f6ce1b1975e87393f53e1e1a7a2e",
+        "title": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+        "title_zh": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+        "title_en": null,
+        "title_original": "研发超级 AI 或判 20 年：美国民主党抛出最严封杀令",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32122",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -532,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,7 +1084,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -618,15 +1136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,351 +1170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_dce17d00d5c1",
-      "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-      "url": "https://www.aibase.com/news/32116",
-      "primary_url": "https://www.aibase.com/news/32116",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
-          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-          "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-          "title_en": null,
-          "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32116",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
-          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-          "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-          "title_en": null,
-          "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32116",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T08:18:30.682148Z",
-      "latest_at": "2026-11-05T08:18:30.682148Z",
-      "primary_item": {
-        "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
-        "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-        "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-        "title_en": null,
-        "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32116",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_ab6b782bbecd",
-      "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-      "url": "https://www.aibase.com/news/32115",
-      "primary_url": "https://www.aibase.com/news/32115",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
-          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_en": null,
-          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32115",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
-          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "title_en": null,
-          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32115",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T08:18:30.682148Z",
-      "latest_at": "2026-11-05T08:18:30.682148Z",
-      "primary_item": {
-        "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
-        "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-        "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-        "title_en": null,
-        "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32115",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_fdeec557c953",
-      "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-      "url": "https://www.aibase.com/news/32114",
-      "primary_url": "https://www.aibase.com/news/32114",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fd0450f3dbe4c3c836404431bd29eb8db15d8b25",
-          "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-          "title_zh": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-          "title_en": null,
-          "title_original": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32114",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fd0450f3dbe4c3c836404431bd29eb8db15d8b25",
-          "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-          "title_zh": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-          "title_en": null,
-          "title_original": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32114",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T08:18:30.682148Z",
-      "latest_at": "2026-11-05T08:18:30.682148Z",
-      "primary_item": {
-        "id": "fd0450f3dbe4c3c836404431bd29eb8db15d8b25",
-        "title": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-        "title_zh": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-        "title_en": null,
-        "title_original": "大模型实时交互遭遇滑铁卢！英伟达等机构抛出 Realtime-Bench：最强 GPT-6-Astra 成功率仅 44%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32114",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_0c6bd4e4ef6a",
-      "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-      "url": "https://www.aibase.com/news/32118",
-      "primary_url": "https://www.aibase.com/news/32118",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "24b9df4a87a2c0f9a66fd086fb17d025ec1c83ee",
-          "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-          "title_zh": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-          "title_en": null,
-          "title_original": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32118",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "24b9df4a87a2c0f9a66fd086fb17d025ec1c83ee",
-          "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-          "title_zh": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-          "title_en": null,
-          "title_original": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32118",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T08:18:30.682148Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T08:18:30.682148Z",
-      "latest_at": "2026-11-05T08:18:30.682148Z",
-      "primary_item": {
-        "id": "24b9df4a87a2c0f9a66fd086fb17d025ec1c83ee",
-        "title": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-        "title_zh": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-        "title_en": null,
-        "title_original": "百度开源2800亿参数文心5.5Flash Base，多项基准测试刷新同尺寸SOTA",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32118",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -1080,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5995,
-      "importance": 0.5995,
-      "importance_score": 0.5995,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8419,
+        "recency": 0.806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1113,7 +1287,211 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_184d05f7c423",
+      "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+      "url": "https://www.producthunt.com/products/livereacting",
+      "primary_url": "https://www.producthunt.com/products/livereacting",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "bb94602952308265fffac22b43a1f2841f163757",
+          "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+          "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
+          "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+          "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+          "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/livereacting",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-03T13:45:28Z",
+          "updated_at": "2026-11-05T10:06:28Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "36b63127413a489e7d0cf829bba8668a735b9716",
+          "title": "LiveReacting for ChatGPT",
+          "title_zh": null,
+          "title_en": "LiveReacting for ChatGPT",
+          "title_original": "LiveReacting for ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/livereacting",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T14:19:10.216000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "bb94602952308265fffac22b43a1f2841f163757",
+          "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+          "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
+          "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+          "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+          "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/livereacting",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-03T13:45:28Z",
+          "updated_at": "2026-11-05T10:06:28Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "36b63127413a489e7d0cf829bba8668a735b9716",
+          "title": "LiveReacting for ChatGPT",
+          "title_zh": null,
+          "title_en": "LiveReacting for ChatGPT",
+          "title_original": "LiveReacting for ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/livereacting",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T14:19:10.216000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5911,
+      "importance": 0.5911,
+      "importance_score": 0.5911,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T14:19:10.216000Z",
+      "latest_at": "2026-11-05T10:06:28Z",
+      "primary_item": {
+        "id": "bb94602952308265fffac22b43a1f2841f163757",
+        "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+        "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
+        "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+        "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
+        "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/livereacting",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
+      }
+    },
+    {
+      "story_id": "story_dce17d00d5c1",
+      "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+      "url": "https://www.aibase.com/news/32116",
+      "primary_url": "https://www.aibase.com/news/32116",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "title_en": null,
+          "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32116",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T08:18:30.682148Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "title_en": null,
+          "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32116",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T08:18:30.682148Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9574,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T08:18:30.682148Z",
+      "latest_at": "2026-11-05T08:18:30.682148Z",
+      "primary_item": {
+        "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+        "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+        "title_zh": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+        "title_en": null,
+        "title_original": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32116",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -1198,15 +1576,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5865,
+      "importance": 0.5865,
+      "importance_score": 0.5865,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9996,
+        "recency": 0.957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1231,26 +1609,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
-      "story_id": "story_8c1d4d056f7e",
-      "title": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
-      "url": "https://www.aibase.com/news/32117",
-      "primary_url": "https://www.aibase.com/news/32117",
+      "story_id": "story_ab6b782bbecd",
+      "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+      "url": "https://www.aibase.com/news/32115",
+      "primary_url": "https://www.aibase.com/news/32115",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8f1662335b6a82eab3b859feb0e9d2e048d32699",
-          "title": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
-          "title_zh": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
+          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "title_en": null,
-          "title_original": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
+          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32117",
+          "url": "https://www.aibase.com/news/32115",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1265,14 +1643,14 @@
       ],
       "items": [
         {
-          "id": "8f1662335b6a82eab3b859feb0e9d2e048d32699",
-          "title": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
-          "title_zh": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
+          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+          "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "title_en": null,
-          "title_original": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
+          "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32117",
+          "url": "https://www.aibase.com/news/32115",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1283,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1302,14 +1680,14 @@
       "earliest_at": "2026-11-05T08:18:30.682148Z",
       "latest_at": "2026-11-05T08:18:30.682148Z",
       "primary_item": {
-        "id": "8f1662335b6a82eab3b859feb0e9d2e048d32699",
-        "title": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
-        "title_zh": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
+        "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+        "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+        "title_zh": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
         "title_en": null,
-        "title_original": "砍额度不砍战略：苹果把内部 AI 开支拧进\"紧箍咒\"",
+        "title_original": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32117",
+        "url": "https://www.aibase.com/news/32115",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1317,125 +1695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_18d9cd84d7f4",
-      "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-      "url": "https://www.producthunt.com/products/krev",
-      "primary_url": "https://www.producthunt.com/products/krev",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
-          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
-          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
-          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
-          "summary": "An AI team that runs your ecommerce brand",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-01T22:23:58Z",
-          "updated_at": "2026-11-05T08:01:53Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
-          "title": "KREV AI",
-          "title_zh": null,
-          "title_en": "KREV AI",
-          "title_original": "KREV AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T14:19:10.216000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
-          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
-          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
-          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
-          "summary": "An AI team that runs your ecommerce brand",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-01T22:23:58Z",
-          "updated_at": "2026-11-05T08:01:53Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
-          "title": "KREV AI",
-          "title_zh": null,
-          "title_en": "KREV AI",
-          "title_original": "KREV AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/krev",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T14:19:10.216000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5935,
-      "importance": 0.5935,
-      "importance_score": 0.5935,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.996,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T14:19:10.216000Z",
-      "latest_at": "2026-11-05T08:01:53Z",
-      "primary_item": {
-        "id": "41c03947975f9d9fb16364db3371099868c34ae3",
-        "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
-        "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
-        "title_en": "KREV AI — An AI team that runs your ecommerce brand",
-        "title_original": "KREV AI — An AI team that runs your ecommerce brand",
-        "summary": "An AI team that runs your ecommerce brand",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/krev",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -1553,15 +1813,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
+      "score": 0.5475,
+      "importance": 0.5475,
+      "importance_score": 0.5475,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9096,
+        "recency": 0.8708,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1586,93 +1846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_0e8e5272f4db",
-      "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-      "url": "https://www.aibase.com/news/32108",
-      "primary_url": "https://www.aibase.com/news/32108",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "title_zh": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "title_en": null,
-          "title_original": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T05:18:26.576223Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "title_zh": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "title_en": null,
-          "title_original": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T05:18:26.576223Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T05:18:26.576223Z",
-      "latest_at": "2026-11-05T05:18:26.576223Z",
-      "primary_item": {
-        "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-        "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-        "title_zh": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-        "title_en": null,
-        "title_original": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32108",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -1790,15 +1964,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5416,
+      "importance": 0.5416,
+      "importance_score": 0.5416,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8752,
+        "recency": 0.8379,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1823,7 +1997,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     },
     {
@@ -1907,15 +2081,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7458,
+        "recency": 0.714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1940,309 +2114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_73761f466638",
-      "title": "人工智能正迫使我们偿还40年的技术债务",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "spectrum.ieee.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": null,
-          "title_original": "人工智能正迫使我们偿还40年的技术债务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": null,
-          "title_original": "人工智能正迫使我们偿还40年的技术债务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "title_zh": "人工智能正在迫使我们偿还 40 年的技术债务",
-          "title_en": "AI is forcing us to pay off 40 years of technical debt",
-          "title_original": "AI is forcing us to pay off 40 years of technical debt",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7829,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T11:52:17Z",
-      "latest_at": "2026-11-04T15:21:22.120000Z",
-      "primary_item": {
-        "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-        "title": "人工智能正迫使我们偿还40年的技术债务",
-        "title_zh": "人工智能正迫使我们偿还40年的技术债务",
-        "title_en": null,
-        "title_original": "人工智能正迫使我们偿还40年的技术债务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
-      }
-    },
-    {
-      "story_id": "story_c5e2969ff054",
-      "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "primary_url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": null,
-          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.116000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "47c081f5fea85988c698b7127053ced9b2d74489",
-          "title": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": null,
-          "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.116000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
-          "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "47c081f5fea85988c698b7127053ced9b2d74489",
-          "title": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好 / Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_zh": "杰弗里·辛顿（Geoffrey Hinton）：如果没有人工智能，我们可能会过得更好",
-          "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "title_original": "Geoffrey Hinton: it might turn out we were better off without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50363554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:23:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7829,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T10:23:34Z",
-      "latest_at": "2026-11-04T15:21:22.116000Z",
-      "primary_item": {
-        "id": "b61531a3c9ad67272d41d99122f6fca3fa90824f",
-        "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "title_en": null,
-        "title_original": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T08:19:39.796964Z"
+        "scored_at": "2026-11-05T11:20:30.779240Z"
       }
     }
   ]
