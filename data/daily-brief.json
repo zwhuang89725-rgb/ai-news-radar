@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:19:27.865168Z",
+  "generated_at": "2026-11-05T14:17:58.176647Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -183,15 +183,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9053,
-      "importance": 0.9053,
-      "importance_score": 0.9053,
+      "score": 0.8996,
+      "importance": 0.8996,
+      "importance_score": 0.8996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7403,
+        "recency": 0.7092,
         "story_heat": 1.0
       },
       "category": "official",
@@ -219,7 +219,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -271,15 +271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8491,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -358,15 +358,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.792,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -393,7 +393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -445,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.874,
+        "recency": 0.8373,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,7 +480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -532,15 +532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7768,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -567,7 +567,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -619,15 +619,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8024,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,7 +654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -706,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -740,7 +740,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -792,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -878,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -912,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -964,15 +964,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -1050,15 +1050,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1084,7 +1084,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -1136,15 +1136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1170,7 +1170,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
+      }
+    },
+    {
+      "story_id": "story_28945ffc3130",
+      "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+      "url": "https://www.producthunt.com/products/easy-peasy-ai",
+      "primary_url": "https://www.producthunt.com/products/easy-peasy-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
+          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
+          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "summary": "Hire an AI team that splits the work and asks before sending",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-04T06:19:49Z",
+          "updated_at": "2026-11-05T13:35:59Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "96e387c1f2671d95fefea702640de285e459a453",
+          "title": "AI Employees by Easy-Peasy.AI",
+          "title_zh": null,
+          "title_en": "AI Employees by Easy-Peasy.AI",
+          "title_original": "AI Employees by Easy-Peasy.AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T14:19:01.571000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
+          "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
+          "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+          "summary": "Hire an AI team that splits the work and asks before sending",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-04T06:19:49Z",
+          "updated_at": "2026-11-05T13:35:59Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "96e387c1f2671d95fefea702640de285e459a453",
+          "title": "AI Employees by Easy-Peasy.AI",
+          "title_zh": null,
+          "title_en": "AI Employees by Easy-Peasy.AI",
+          "title_original": "AI Employees by Easy-Peasy.AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/easy-peasy-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T14:19:01.571000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5924,
+      "importance": 0.5924,
+      "importance_score": 0.5924,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9899,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-05T13:35:59Z",
+      "latest_at": "2026-11-05T14:19:01.571000Z",
+      "primary_item": {
+        "id": "29520f3436ccd6951b5a3ba7f568983956bbcaf1",
+        "title": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问 / AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+        "title_zh": "Easy-Peasy.AI 的 AI 员工 — 雇用一个 AI 团队，分工并在发送前询问",
+        "title_en": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+        "title_original": "AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending",
+        "summary": "Hire an AI team that splits the work and asks before sending",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/easy-peasy-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -1254,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5869,
+      "importance": 0.5869,
+      "importance_score": 0.5869,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.806,
+        "recency": 0.7721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1287,125 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
-      }
-    },
-    {
-      "story_id": "story_184d05f7c423",
-      "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-      "url": "https://www.producthunt.com/products/livereacting",
-      "primary_url": "https://www.producthunt.com/products/livereacting",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "bb94602952308265fffac22b43a1f2841f163757",
-          "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
-          "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T13:45:28Z",
-          "updated_at": "2026-11-05T10:06:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "36b63127413a489e7d0cf829bba8668a735b9716",
-          "title": "LiveReacting for ChatGPT",
-          "title_zh": null,
-          "title_en": "LiveReacting for ChatGPT",
-          "title_original": "LiveReacting for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T14:19:10.216000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "bb94602952308265fffac22b43a1f2841f163757",
-          "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
-          "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T13:45:28Z",
-          "updated_at": "2026-11-05T10:06:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "36b63127413a489e7d0cf829bba8668a735b9716",
-          "title": "LiveReacting for ChatGPT",
-          "title_zh": null,
-          "title_en": "LiveReacting for ChatGPT",
-          "title_original": "LiveReacting for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T14:19:10.216000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5911,
-      "importance": 0.5911,
-      "importance_score": 0.5911,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9826,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T14:19:10.216000Z",
-      "latest_at": "2026-11-05T10:06:28Z",
-      "primary_item": {
-        "id": "bb94602952308265fffac22b43a1f2841f163757",
-        "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-        "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
-        "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-        "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-        "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/livereacting",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -1457,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1491,46 +1491,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
-      "story_id": "story_27e064849594",
-      "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
-      "primary_url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+      "story_id": "story_1d39612a56b8",
+      "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+      "url": "https://www.producthunt.com/products/stitch-ai",
+      "primary_url": "https://www.producthunt.com/products/stitch-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
-          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
-          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "summary": "Run your entire digital marketing stack via one unified MCP",
+          "id": "1f9f0a6f65c9b6eaa74539387711a149f5d6291f",
+          "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+          "title_zh": "Stitch.ai — 您的新工作区，内置邮件、日历和任务",
+          "title_en": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+          "title_original": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+          "summary": "Your new workspace with mail, calendar and tasks built in",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/stitch-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-07T09:59:12Z",
-          "updated_at": "2026-11-05T08:16:47Z",
+          "published_at": "2026-11-03T06:04:34Z",
+          "updated_at": "2026-11-05T11:20:02Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
-          "title": "Orphex MCP",
+          "id": "aaf5c4569f32084c9384c2ff955fccb69909923a",
+          "title": "Stitch.ai",
           "title_zh": null,
-          "title_en": "Orphex MCP",
-          "title_original": "Orphex MCP",
+          "title_en": "Stitch.ai",
+          "title_original": "Stitch.ai",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/stitch-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-04T14:19:10.216000Z",
+          "published_at": "2026-11-05T14:19:01.571000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1542,66 +1542,66 @@
       ],
       "items": [
         {
-          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
-          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
-          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-          "summary": "Run your entire digital marketing stack via one unified MCP",
+          "id": "1f9f0a6f65c9b6eaa74539387711a149f5d6291f",
+          "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+          "title_zh": "Stitch.ai — 您的新工作区，内置邮件、日历和任务",
+          "title_en": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+          "title_original": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+          "summary": "Your new workspace with mail, calendar and tasks built in",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/stitch-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-07T09:59:12Z",
-          "updated_at": "2026-11-05T08:16:47Z",
+          "published_at": "2026-11-03T06:04:34Z",
+          "updated_at": "2026-11-05T11:20:02Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
-          "title": "Orphex MCP",
+          "id": "aaf5c4569f32084c9384c2ff955fccb69909923a",
+          "title": "Stitch.ai",
           "title_zh": null,
-          "title_en": "Orphex MCP",
-          "title_original": "Orphex MCP",
+          "title_en": "Stitch.ai",
+          "title_original": "Stitch.ai",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "url": "https://www.producthunt.com/products/stitch-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-04T14:19:10.216000Z",
+          "published_at": "2026-11-05T14:19:01.571000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5865,
-      "importance": 0.5865,
-      "importance_score": 0.5865,
+      "score": 0.5867,
+      "importance": 0.5867,
+      "importance_score": 0.5867,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.957,
+        "recency": 0.9581,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-04T14:19:10.216000Z",
-      "latest_at": "2026-11-05T08:16:47Z",
+      "earliest_at": "2026-11-05T11:20:02Z",
+      "latest_at": "2026-11-05T14:19:01.571000Z",
       "primary_item": {
-        "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
-        "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-        "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
-        "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-        "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
-        "summary": "Run your entire digital marketing stack via one unified MCP",
+        "id": "1f9f0a6f65c9b6eaa74539387711a149f5d6291f",
+        "title": "Stitch.ai — 您的新工作区，内置邮件、日历和任务 / Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+        "title_zh": "Stitch.ai — 您的新工作区，内置邮件、日历和任务",
+        "title_en": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+        "title_original": "Stitch.ai — Your new workspace with mail, calendar and tasks built in",
+        "summary": "Your new workspace with mail, calendar and tasks built in",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+        "url": "https://www.producthunt.com/products/stitch-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1609,7 +1609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -1661,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1695,7 +1695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -1813,15 +1813,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5475,
-      "importance": 0.5475,
-      "importance_score": 0.5475,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8708,
+        "recency": 0.8342,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1846,7 +1846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
@@ -1964,15 +1964,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8379,
+        "recency": 0.8027,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1997,124 +1997,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     },
     {
-      "story_id": "story_a6e835e9b328",
-      "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_65eb7f420f21",
+      "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+      "primary_url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "id": "658868a7e5e366d848f991a2ea4e80505777a08c",
+          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
+          "title_en": "GPT-6 Astra covertly underperforms on safety research",
+          "title_original": "GPT-6 Astra covertly underperforms on safety research",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-04T12:00:00Z",
+          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-05T07:44:30Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
+          "id": "50d24487082a2689397959b0ea11db81af3d9fb4",
+          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
+          "title_en": "GPT-6 Astra covertly underperforms on safety research",
+          "title_original": "GPT-6 Astra covertly underperforms on safety research",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T12:00:00Z",
+          "url": "https://news.ycombinator.com/item?id=50376313",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T07:44:30Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+          "id": "658868a7e5e366d848f991a2ea4e80505777a08c",
+          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
+          "title_en": "GPT-6 Astra covertly underperforms on safety research",
+          "title_original": "GPT-6 Astra covertly underperforms on safety research",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-04T12:00:00Z",
+          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-05T07:44:30Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "40424c68d530dfbd06497a1f591e102c7a22ab50",
-          "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn’t figured out how to make AI pay like its search engine",
-          "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-          "title_en": "Google hasn’t figured out how to make AI pay like its search engine",
-          "title_original": "Google hasn’t figured out how to make AI pay like its search engine",
+          "id": "50d24487082a2689397959b0ea11db81af3d9fb4",
+          "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+          "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
+          "title_en": "GPT-6 Astra covertly underperforms on safety research",
+          "title_original": "GPT-6 Astra covertly underperforms on safety research",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-04T12:00:00Z",
+          "url": "https://news.ycombinator.com/item?id=50376313",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-05T07:44:30Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.564,
-      "importance": 0.564,
-      "importance_score": 0.564,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.714,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9096,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-04T12:00:00Z",
-      "latest_at": "2026-11-04T12:00:00Z",
+      "earliest_at": "2026-11-05T07:44:30Z",
+      "latest_at": "2026-11-05T07:44:30Z",
       "primary_item": {
-        "id": "cc883766d2ca494effc3c248f4efe7bc3519df9f",
-        "title": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费 / Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "title_zh": "谷歌还没有弄清楚如何让人工智能像其搜索引擎一样付费",
-        "title_en": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-        "title_original": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+        "id": "658868a7e5e366d848f991a2ea4e80505777a08c",
+        "title": "GPT-6 Astra 在安全研究方面表现不佳 / GPT-6 Astra covertly underperforms on safety research",
+        "title_zh": "GPT-6 Astra 在安全研究方面表现不佳",
+        "title_en": "GPT-6 Astra covertly underperforms on safety research",
+        "title_original": "GPT-6 Astra covertly underperforms on safety research",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-05T11:20:30.779240Z"
+        "scored_at": "2026-11-05T14:19:38.841065Z"
       }
     }
   ]
