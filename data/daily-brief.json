@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-06T20:18:06.068160Z",
+  "generated_at": "2026-11-06T23:17:44.667010Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_4eaa93f988d2",
+      "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "primary_url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
+          "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+          "title_zh": null,
+          "title_en": "Copilot impact dashboard adds chat and VS Code agent usage",
+          "title_original": "Copilot impact dashboard adds chat and VS Code agent usage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T22:17:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
+          "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+          "title_zh": null,
+          "title_en": "Copilot impact dashboard adds chat and VS Code agent usage",
+          "title_original": "Copilot impact dashboard adds chat and VS Code agent usage",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T22:17:28Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8494,
+      "importance": 0.8494,
+      "importance_score": 0.8494,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T22:17:28Z",
+      "latest_at": "2026-11-06T22:17:28Z",
+      "primary_item": {
+        "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
+        "title": "Copilot impact dashboard adds chat and VS Code agent usage",
+        "title_zh": null,
+        "title_en": "Copilot impact dashboard adds chat and VS Code agent usage",
+        "title_original": "Copilot impact dashboard adds chat and VS Code agent usage",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T23:28:47.163065Z"
+      }
+    },
     {
       "story_id": "story_c5b712bd0f19",
       "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +174,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
+      }
+    },
+    {
+      "story_id": "story_1d9bf5d54286",
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
+          "title": "Beyond code generation: A developer’s guide to agentic engineering",
+          "title_zh": null,
+          "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
+          "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T22:15:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
+          "title": "Beyond code generation: A developer’s guide to agentic engineering",
+          "title_zh": null,
+          "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
+          "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T22:15:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T22:15:59Z",
+      "latest_at": "2026-11-06T22:15:59Z",
+      "primary_item": {
+        "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
+        "title": "Beyond code generation: A developer’s guide to agentic engineering",
+        "title_zh": null,
+        "title_en": "Beyond code generation: A developer’s guide to agentic engineering",
+        "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -172,15 +346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.8018,
         "story_heat": 0.25
       },
       "category": "official",
@@ -208,7 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -260,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7459,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,94 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
-      }
-    },
-    {
-      "story_id": "story_ed0675af196e",
-      "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
-          "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-          "title_zh": "使用指标 API 添加了代码审查详细信息和解决率",
-          "title_en": "Usage metrics API adds code review details and addressed rate",
-          "title_original": "Usage metrics API adds code review details and addressed rate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:19:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
-          "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-          "title_zh": "使用指标 API 添加了代码审查详细信息和解决率",
-          "title_en": "Usage metrics API adds code review details and addressed rate",
-          "title_original": "Usage metrics API adds code review details and addressed rate",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:19:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7493,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T00:19:07Z",
-      "latest_at": "2026-11-06T00:19:07Z",
-      "primary_item": {
-        "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
-        "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-        "title_zh": "使用指标 API 添加了代码审查详细信息和解决率",
-        "title_en": "Usage metrics API adds code review details and addressed rate",
-        "title_original": "Usage metrics API adds code review details and addressed rate",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -434,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7459,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -521,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7459,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,30 +643,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
-      "story_id": "story_66e7edfe1c39",
-      "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
-      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "story_id": "story_ed0675af196e",
+      "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
+      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
-          "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-          "title_zh": "使用指标 API 标记遥测和版本差距",
-          "title_en": "Usage metrics API flags telemetry and version gaps",
-          "title_original": "Usage metrics API flags telemetry and version gaps",
+          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
+          "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
+          "title_zh": "使用指标 API 添加了代码审查详细信息和解决率",
+          "title_en": "Usage metrics API adds code review details and addressed rate",
+          "title_original": "Usage metrics API adds code review details and addressed rate",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T00:08:31Z",
+          "published_at": "2026-11-06T00:19:07Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -590,33 +677,33 @@
       ],
       "items": [
         {
-          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
-          "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-          "title_zh": "使用指标 API 标记遥测和版本差距",
-          "title_en": "Usage metrics API flags telemetry and version gaps",
-          "title_original": "Usage metrics API flags telemetry and version gaps",
+          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
+          "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
+          "title_zh": "使用指标 API 添加了代码审查详细信息和解决率",
+          "title_en": "Usage metrics API adds code review details and addressed rate",
+          "title_original": "Usage metrics API adds code review details and addressed rate",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T00:08:31Z",
+          "published_at": "2026-11-06T00:19:07Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7474,
+        "recency": 0.7176,
         "story_heat": 0.0
       },
       "category": "official",
@@ -625,17 +712,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T00:08:31Z",
-      "latest_at": "2026-11-06T00:08:31Z",
+      "earliest_at": "2026-11-06T00:19:07Z",
+      "latest_at": "2026-11-06T00:19:07Z",
       "primary_item": {
-        "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
-        "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-        "title_zh": "使用指标 API 标记遥测和版本差距",
-        "title_en": "Usage metrics API flags telemetry and version gaps",
-        "title_original": "Usage metrics API flags telemetry and version gaps",
+        "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
+        "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
+        "title_zh": "使用指标 API 添加了代码审查详细信息和解决率",
+        "title_en": "Usage metrics API adds code review details and addressed rate",
+        "title_original": "Usage metrics API adds code review details and addressed rate",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -643,7 +730,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -695,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8784,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,7 +815,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
+      }
+    },
+    {
+      "story_id": "story_66e7edfe1c39",
+      "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
+      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
+          "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
+          "title_zh": "使用指标 API 标记遥测和版本差距",
+          "title_en": "Usage metrics API flags telemetry and version gaps",
+          "title_original": "Usage metrics API flags telemetry and version gaps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:08:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
+          "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
+          "title_zh": "使用指标 API 标记遥测和版本差距",
+          "title_en": "Usage metrics API flags telemetry and version gaps",
+          "title_original": "Usage metrics API flags telemetry and version gaps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:08:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7158,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:08:31Z",
+      "latest_at": "2026-11-06T00:08:31Z",
+      "primary_item": {
+        "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
+        "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
+        "title_zh": "使用指标 API 标记遥测和版本差距",
+        "title_en": "Usage metrics API flags telemetry and version gaps",
+        "title_original": "Usage metrics API flags telemetry and version gaps",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -780,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8784,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,7 +987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -865,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8784,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -898,7 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -950,15 +1124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8784,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,7 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -1035,15 +1209,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 0.8054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -1152,15 +1326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.61,
-      "importance": 0.61,
-      "importance_score": 0.61,
+      "score": 0.6026,
+      "importance": 0.6026,
+      "importance_score": 0.6026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9697,
+        "recency": 0.9286,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1185,42 +1359,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
-      "story_id": "story_5a5004c3b546",
-      "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
-      "primary_url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "story_id": "story_9cc30fcc980d",
+      "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+      "url": "https://www.producthunt.com/products/cursor-craft",
+      "primary_url": "https://www.producthunt.com/products/cursor-craft",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
-          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
-          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "summary": "The ERP you never need to open",
+          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
+          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
+          "title_en": "Cursor Craft — Custom cursors for Mac",
+          "title_original": "Cursor Craft — Custom cursors for Mac",
+          "summary": "Custom cursors for Mac",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-09-26T23:03:55Z",
-          "updated_at": "2026-11-06T20:11:28Z",
+          "published_at": "2026-11-06T01:53:45Z",
+          "updated_at": "2026-11-06T23:14:27Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
-          "title": "DALI AI by SupplyzPro",
+          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
+          "title": "Cursor Craft",
           "title_zh": null,
-          "title_en": "DALI AI by SupplyzPro",
-          "title_original": "DALI AI by SupplyzPro",
+          "title_en": "Cursor Craft",
+          "title_original": "Cursor Craft",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1236,30 +1410,30 @@
       ],
       "items": [
         {
-          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
-          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
-          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "summary": "The ERP you never need to open",
+          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
+          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
+          "title_en": "Cursor Craft — Custom cursors for Mac",
+          "title_original": "Cursor Craft — Custom cursors for Mac",
+          "summary": "Custom cursors for Mac",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-09-26T23:03:55Z",
-          "updated_at": "2026-11-06T20:11:28Z",
+          "published_at": "2026-11-06T01:53:45Z",
+          "updated_at": "2026-11-06T23:14:27Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
-          "title": "DALI AI by SupplyzPro",
+          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
+          "title": "Cursor Craft",
           "title_zh": null,
-          "title_en": "DALI AI by SupplyzPro",
-          "title_original": "DALI AI by SupplyzPro",
+          "title_en": "Cursor Craft",
+          "title_original": "Cursor Craft",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1270,15 +1444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9984,
+        "recency": 0.9992,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1286,16 +1460,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-06T14:18:41.698000Z",
-      "latest_at": "2026-11-06T20:11:28Z",
+      "latest_at": "2026-11-06T23:14:27Z",
       "primary_item": {
-        "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
-        "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-        "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
-        "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
-        "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
-        "summary": "The ERP you never need to open",
+        "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
+        "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+        "title_zh": "Cursor Craft — Mac 的自定义Cursor",
+        "title_en": "Cursor Craft — Custom cursors for Mac",
+        "title_original": "Cursor Craft — Custom cursors for Mac",
+        "summary": "Custom cursors for Mac",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+        "url": "https://www.producthunt.com/products/cursor-craft",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1303,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
@@ -1355,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 0.8054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1388,265 +1562,364 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     },
     {
-      "story_id": "story_9cc30fcc980d",
-      "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-      "url": "https://www.producthunt.com/products/cursor-craft",
-      "primary_url": "https://www.producthunt.com/products/cursor-craft",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
-          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
-          "title_en": "Cursor Craft — Custom cursors for Mac",
-          "title_original": "Cursor Craft — Custom cursors for Mac",
-          "summary": "Custom cursors for Mac",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T01:53:45Z",
-          "updated_at": "2026-11-06T19:11:01Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
-          "title": "Cursor Craft",
-          "title_zh": null,
-          "title_en": "Cursor Craft",
-          "title_original": "Cursor Craft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T14:18:41.698000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
-          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
-          "title_en": "Cursor Craft — Custom cursors for Mac",
-          "title_original": "Cursor Craft — Custom cursors for Mac",
-          "summary": "Custom cursors for Mac",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T01:53:45Z",
-          "updated_at": "2026-11-06T19:11:01Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
-          "title": "Cursor Craft",
-          "title_zh": null,
-          "title_en": "Cursor Craft",
-          "title_original": "Cursor Craft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T14:18:41.698000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5913,
-      "importance": 0.5913,
-      "importance_score": 0.5913,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.984,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T14:18:41.698000Z",
-      "latest_at": "2026-11-06T19:11:01Z",
-      "primary_item": {
-        "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
-        "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-        "title_zh": "Cursor Craft — Mac 的自定义Cursor",
-        "title_en": "Cursor Craft — Custom cursors for Mac",
-        "title_original": "Cursor Craft — Custom cursors for Mac",
-        "summary": "Custom cursors for Mac",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/cursor-craft",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
-      }
-    },
-    {
-      "story_id": "story_8d3a217a7e3e",
-      "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-      "url": "https://www.aibase.com/news/32147",
-      "primary_url": "https://www.aibase.com/news/32147",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_en": null,
-          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_en": null,
-          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.841,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:18:26.023511Z",
-      "latest_at": "2026-11-06T08:18:26.023511Z",
-      "primary_item": {
-        "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-        "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "title_en": null,
-        "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32147",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
-      }
-    },
-    {
-      "story_id": "story_45e7f73f7975",
-      "title": "我很难相信人工智能的研发是独具匠心的",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "primary_url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "source": "www.lesswrong.com",
+      "story_id": "story_3924758a8e08",
+      "title": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
-          "title": "我很难相信人工智能的研发是独具匠心的",
-          "title_zh": "我很难相信人工智能的研发是独具匠心的",
+          "id": "f0256b4185024a78a8c7947d744ab5b62dc42f9d",
+          "title": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+          "title_zh": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
           "title_en": null,
-          "title_original": "我很难相信人工智能的研发是独具匠心的",
+          "title_original": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "www.lesswrong.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-06T10:52:42.861000Z",
+          "published_at": "2026-11-06T22:56:22.532000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "ebca00608954f11f69d95a820d4b72c7302346a1",
-          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
-          "title_zh": "我很难相信人工智能的研发是独具匠心的",
-          "title_en": "I struggle to believe that AI R&D is ingenious",
-          "title_original": "I struggle to believe that AI R&D is ingenious",
+          "id": "e58410bd6dad1a57c5e4cc877d7136cab25c1cf1",
+          "title": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元 / Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_zh": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+          "title_en": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_original": "Anthropic IPO buyers see valuation as low as $1.1T",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T05:19:04Z",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T16:54:36Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
-          "title": "我很难相信人工智能研发是巧妙的 / I struggle to believe that AI R&D is ingenious",
-          "title_zh": "我很难相信人工智能研发是巧妙的",
-          "title_en": "I struggle to believe that AI R&D is ingenious",
-          "title_original": "I struggle to believe that AI R&D is ingenious",
+          "id": "5d1372b474a7cba86100ed17e2299c842b0fc060",
+          "title": "Anthrotic IPO 买家认为估值低至 1.1T 美元 / Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_zh": "Anthrotic IPO 买家认为估值低至 1.1T 美元",
+          "title_en": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_original": "Anthropic IPO buyers see valuation as low as $1.1T",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50388513",
+          "url": "https://news.ycombinator.com/item?id=50394906",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T05:19:04Z",
+          "published_at": "2026-11-06T16:54:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "f0256b4185024a78a8c7947d744ab5b62dc42f9d",
+          "title": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+          "title_zh": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.532000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e58410bd6dad1a57c5e4cc877d7136cab25c1cf1",
+          "title": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元 / Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_zh": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+          "title_en": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_original": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T16:54:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5d1372b474a7cba86100ed17e2299c842b0fc060",
+          "title": "Anthrotic IPO 买家认为估值低至 1.1T 美元 / Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_zh": "Anthrotic IPO 买家认为估值低至 1.1T 美元",
+          "title_en": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "title_original": "Anthropic IPO buyers see valuation as low as $1.1T",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50394906",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T16:54:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T16:54:36Z",
+      "latest_at": "2026-11-06T22:56:22.532000Z",
+      "primary_item": {
+        "id": "f0256b4185024a78a8c7947d744ab5b62dc42f9d",
+        "title": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+        "title_zh": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+        "title_en": null,
+        "title_original": "Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T23:28:47.163065Z"
+      }
+    },
+    {
+      "story_id": "story_69f30db5a74d",
+      "title": "人工智能正在极大地加速人工智能研究",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "primary_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "www.planned-obsolescence.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "53a5769058469f2c5f75021643659032056787d7",
+          "title": "人工智能正在极大地加速人工智能研究",
+          "title_zh": "人工智能正在极大地加速人工智能研究",
+          "title_en": null,
+          "title_original": "人工智能正在极大地加速人工智能研究",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "www.planned-obsolescence.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:23.304000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "0ac70f26f68f853ed622c456a8c54eaeb37c43a2",
+          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
+          "title_zh": "人工智能正在极大地加速人工智能研究",
+          "title_en": "AI is dramatically accelerating AI research",
+          "title_original": "AI is dramatically accelerating AI research",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T20:27:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
+          "title": "AI is dramatically accelerating AI research",
+          "title_zh": null,
+          "title_en": "AI is dramatically accelerating AI research",
+          "title_original": "AI is dramatically accelerating AI research",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50397994",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T20:27:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.planned-obsolescence.org"
+      ],
+      "items": [
+        {
+          "id": "53a5769058469f2c5f75021643659032056787d7",
+          "title": "人工智能正在极大地加速人工智能研究",
+          "title_zh": "人工智能正在极大地加速人工智能研究",
+          "title_en": null,
+          "title_original": "人工智能正在极大地加速人工智能研究",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "www.planned-obsolescence.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:23.304000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "0ac70f26f68f853ed622c456a8c54eaeb37c43a2",
+          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
+          "title_zh": "人工智能正在极大地加速人工智能研究",
+          "title_en": "AI is dramatically accelerating AI research",
+          "title_original": "AI is dramatically accelerating AI research",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T20:27:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
+          "title": "AI is dramatically accelerating AI research",
+          "title_zh": null,
+          "title_en": "AI is dramatically accelerating AI research",
+          "title_original": "AI is dramatically accelerating AI research",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50397994",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T20:27:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T20:27:23Z",
+      "latest_at": "2026-11-06T22:56:23.304000Z",
+      "primary_item": {
+        "id": "53a5769058469f2c5f75021643659032056787d7",
+        "title": "人工智能正在极大地加速人工智能研究",
+        "title_zh": "人工智能正在极大地加速人工智能研究",
+        "title_en": null,
+        "title_original": "人工智能正在极大地加速人工智能研究",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "source": "www.planned-obsolescence.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-06T23:28:47.163065Z"
+      }
+    },
+    {
+      "story_id": "story_58dcf9e94315",
+      "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "primary_url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "source": "www.cbc.ca",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3aa34763702cd1594d06d66ff2d343f223d16a58",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "title_zh": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "title_en": null,
+          "title_original": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "source": "www.cbc.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.193000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d55a5e3791d75b31e0626117fdb713fb88bee8b3",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_zh": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "title_en": "University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_original": "University libraries are being swarmed by AI bots, putting public access at risk",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T14:13:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "0a115cd9e0633ab3c1c44fbfcfa096ee4f4f221c",
+          "title": "大学图书馆正被人工智能机器人淹没，公众访问面临风险 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_zh": "大学图书馆正被人工智能机器人淹没，公众访问面临风险",
+          "title_en": "University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_original": "University libraries are being swarmed by AI bots, putting public access at risk",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50392499",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T14:13:09Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1655,330 +1928,94 @@
       "source_names": [
         "Hacker News · 24h最热",
         "hackernews",
-        "www.lesswrong.com"
+        "www.cbc.ca"
       ],
       "items": [
         {
-          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
-          "title": "我很难相信人工智能的研发是独具匠心的",
-          "title_zh": "我很难相信人工智能的研发是独具匠心的",
+          "id": "3aa34763702cd1594d06d66ff2d343f223d16a58",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "title_zh": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
           "title_en": null,
-          "title_original": "我很难相信人工智能的研发是独具匠心的",
+          "title_original": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "www.lesswrong.com",
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "source": "www.cbc.ca",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-06T10:52:42.861000Z",
+          "published_at": "2026-11-06T22:56:22.193000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "ebca00608954f11f69d95a820d4b72c7302346a1",
-          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
-          "title_zh": "我很难相信人工智能的研发是独具匠心的",
-          "title_en": "I struggle to believe that AI R&D is ingenious",
-          "title_original": "I struggle to believe that AI R&D is ingenious",
+          "id": "d55a5e3791d75b31e0626117fdb713fb88bee8b3",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_zh": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "title_en": "University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_original": "University libraries are being swarmed by AI bots, putting public access at risk",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-06T05:19:04Z",
+          "published_at": "2026-11-06T14:13:09Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
-          "title": "我很难相信人工智能研发是巧妙的 / I struggle to believe that AI R&D is ingenious",
-          "title_zh": "我很难相信人工智能研发是巧妙的",
-          "title_en": "I struggle to believe that AI R&D is ingenious",
-          "title_original": "I struggle to believe that AI R&D is ingenious",
+          "id": "0a115cd9e0633ab3c1c44fbfcfa096ee4f4f221c",
+          "title": "大学图书馆正被人工智能机器人淹没，公众访问面临风险 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_zh": "大学图书馆正被人工智能机器人淹没，公众访问面临风险",
+          "title_en": "University libraries are being swarmed by AI bots, putting public access at risk",
+          "title_original": "University libraries are being swarmed by AI bots, putting public access at risk",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50388513",
+          "url": "https://news.ycombinator.com/item?id=50392499",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T05:19:04Z",
+          "published_at": "2026-11-06T14:13:09Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5479,
-      "importance": 0.5479,
-      "importance_score": 0.5479,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8728,
+        "recency": 0.9949,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-06T05:19:04Z",
-      "latest_at": "2026-11-06T10:52:42.861000Z",
+      "earliest_at": "2026-11-06T14:13:09Z",
+      "latest_at": "2026-11-06T22:56:22.193000Z",
       "primary_item": {
-        "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
-        "title": "我很难相信人工智能的研发是独具匠心的",
-        "title_zh": "我很难相信人工智能的研发是独具匠心的",
+        "id": "3aa34763702cd1594d06d66ff2d343f223d16a58",
+        "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+        "title_zh": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
         "title_en": null,
-        "title_original": "我很难相信人工智能的研发是独具匠心的",
+        "title_original": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-        "source": "www.lesswrong.com",
+        "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+        "source": "www.cbc.ca",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
-      }
-    },
-    {
-      "story_id": "story_d0e6c867ebef",
-      "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "primary_url": "https://arxiv.org/abs/2610.21375",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
-          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "备忘录：LLM的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T18:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
-          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "备忘录：LLM的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395919",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T18:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
-          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "备忘录：LLM的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T18:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
-          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "备忘录：LLM的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395919",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T18:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9681,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T18:03:33Z",
-      "latest_at": "2026-11-06T18:03:33Z",
-      "primary_item": {
-        "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
-        "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-        "title_zh": "备忘录：LLM的潜在语义记忆",
-        "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-        "title_original": "Memorilla: Latent Semantic Memory for LLMs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2610.21375",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
-      }
-    },
-    {
-      "story_id": "story_3ed9a0896b67",
-      "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-      "primary_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "277d37daf3540ad6476e3743b73a714b8044d7e6",
-          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2f65c6172047cfe51a0c3d587c8cd2388dc654ae",
-          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "277d37daf3540ad6476e3743b73a714b8044d7e6",
-          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2f65c6172047cfe51a0c3d587c8cd2388dc654ae",
-          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9683,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T18:04:06Z",
-      "latest_at": "2026-11-06T18:04:06Z",
-      "primary_item": {
-        "id": "277d37daf3540ad6476e3743b73a714b8044d7e6",
-        "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-        "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
-        "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-        "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-06T20:19:02.414764Z"
+        "scored_at": "2026-11-06T23:28:47.163065Z"
       }
     }
   ]

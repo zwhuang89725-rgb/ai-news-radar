@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:18:55.881036Z",
+  "generated_at": "2026-11-06T23:18:30.514876Z",
   "date": "2026-11-07",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T20:18:06.068160Z"
+      "observed_at": "2026-11-06T23:17:44.667010Z"
     },
     {
-      "id": "project_94b4fb19a6b7",
-      "project_name": "Cursor Craft",
-      "url": "https://www.producthunt.com/products/cursor-craft",
-      "summary": "Custom cursors for Mac",
+      "id": "project_541ef582e9ec",
+      "project_name": "SafeGrd",
+      "url": "https://www.producthunt.com/products/safegrd",
+      "summary": "Safae database backups that AI can restore but not delete",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Custom cursors for Mac」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Custom cursors for Mac\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T01:53:45Z",
-      "updated_at": "2026-11-06T19:11:01Z",
+      "recommend_reason_zh": "体验它主打的「Safae database backups that AI can restore but not delete」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Safae database backups that AI can restore but not delete\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T11:51:56Z",
+      "updated_at": "2026-11-06T19:21:03Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T20:18:45.746306Z"
+      "observed_at": "2026-11-06T23:18:20.246570Z"
     },
     {
       "id": "project_876f4401e17e",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T20:18:06.068160Z"
+      "observed_at": "2026-11-06T23:17:44.667010Z"
     },
     {
-      "id": "project_53c5ac171932",
-      "project_name": "Meshia",
-      "url": "https://www.producthunt.com/products/meshia",
-      "summary": "Your autonomous research lab",
+      "id": "project_69cd7835a89d",
+      "project_name": "Alysis Code",
+      "url": "https://www.producthunt.com/products/alysis-code",
+      "summary": "Open-source AI coding agent",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your autonomous research lab」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your autonomous research lab\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-09T03:42:27Z",
-      "updated_at": "2026-11-06T19:48:32Z",
+      "recommend_reason_zh": "体验它主打的「Open-source AI coding agent」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Open-source AI coding agent\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-03T12:47:30Z",
+      "updated_at": "2026-11-06T22:09:11Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T20:18:45.746306Z"
+      "observed_at": "2026-11-06T23:18:20.246570Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 18,
-      "duration_ms": 1724,
+      "item_count": 17,
+      "duration_ms": 1986,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 136,
+      "duration_ms": 190,
       "error": null
     }
   ]
