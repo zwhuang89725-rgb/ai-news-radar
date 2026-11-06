@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 11:19:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 14:17:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+<link>https://huggingface.co/blog/allenai/toyblocks</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/toyblocks</guid>
+<description>ToyBlocks: A controlled world for robot learning and evaluation (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
+</item>
 <item>
 <title>Codex CLI 0.167.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
@@ -16,12 +24,12 @@
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
-<link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-<guid isPermaLink="true">https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
-<description>Egyptian and Nigerian English join the Open ASR Leaderboard (Hugging Face Blog)</description>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</guid>
+<description>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips (Google AI Blog)</description>
 <category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 13:35:27 +0000</pubDate>
 </item>
 <item>
 <title>Cult.fit builds operational muscle with Codex</title>
@@ -40,20 +48,12 @@
 <pubDate>Fri, 06 Nov 2026 00:19:07 +0000</pubDate>
 </item>
 <item>
-<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</guid>
-<description>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips (Google AI Blog)</description>
+<title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
+<link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+<guid isPermaLink="true">https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
+<description>Egyptian and Nigerian English join the Open ASR Leaderboard (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-<link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
-<description>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Usage metrics API flags telemetry and version gaps</title>
@@ -78,6 +78,14 @@
 <description>13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 06 Nov 2026 11:19:25 +0000</pubDate>
+</item>
+<item>
+<title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
+<link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
+<description>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
 </item>
 <item>
 <title>Secret scanning upgrades detectors, adds SpaceX as partner</title>
@@ -136,6 +144,14 @@
 <pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
+<title>DALI AI by SupplyzPro — The ERP you never need to open</title>
+<link>https://www.producthunt.com/products/supplyzpro-the-conversational-erp</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/supplyzpro-the-conversational-erp</guid>
+<description>The ERP you never need to open (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 14:18:41 +0000</pubDate>
+</item>
+<item>
 <title>写 3 万行代码的不是他，是 AI：前谷歌工程师的"闲人"自白</title>
 <link>https://www.aibase.com/news/32147</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32147</guid>
@@ -144,28 +160,12 @@
 <pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
-<title>AI Employees by Easy-Peasy.AI — Hire an AI team that splits the work and asks before sending</title>
-<link>https://www.producthunt.com/products/easy-peasy-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/easy-peasy-ai</guid>
-<description>Hire an AI team that splits the work and asks before sending (Product Hunt)</description>
+<title>Cursor Craft — Custom cursors for Mac</title>
+<link>https://www.producthunt.com/products/cursor-craft</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/cursor-craft</guid>
+<description>Custom cursors for Mac (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 04:41:26 +0000</pubDate>
-</item>
-<item>
-<title>我很难相信人工智能的研发是独具匠心的</title>
-<link>https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</link>
-<guid isPermaLink="true">https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</guid>
-<description>我很难相信人工智能的研发是独具匠心的 (www.lesswrong.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 06 Nov 2026 10:52:42 +0000</pubDate>
-</item>
-<item>
-<title>张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑</title>
-<link>https://www.aibase.com/news/32150</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32150</guid>
-<description>张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 14:18:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
