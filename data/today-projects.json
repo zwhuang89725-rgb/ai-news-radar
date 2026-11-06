@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T14:18:57.960261Z",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-06T17:19:17.978298Z",
+  "date": "2026-11-07",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T14:17:45.908284Z"
+      "observed_at": "2026-11-06T17:18:26.005439Z"
     },
     {
-      "id": "project_dd6754595fb7",
-      "project_name": "Tobira Site Agent",
-      "url": "https://www.producthunt.com/products/tobira-ai",
-      "summary": "Turn your website into an AI agent that sells to AI agents",
+      "id": "project_b1e722e8b2d4",
+      "project_name": "DALI AI by SupplyzPro",
+      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "summary": "The ERP you never need to open",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn your website into an AI agent that sells to AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn your website into an AI agent that sells to AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-24T11:25:07Z",
-      "updated_at": "2026-11-06T14:14:21Z",
+      "recommend_reason_zh": "体验它主打的「The ERP you never need to open」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The ERP you never need to open\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-09-26T23:03:55Z",
+      "updated_at": "2026-11-06T17:11:18Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T14:18:43.996507Z"
+      "observed_at": "2026-11-06T17:19:07.535042Z"
     },
     {
       "id": "project_876f4401e17e",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-06T14:17:45.908284Z"
+      "observed_at": "2026-11-06T17:18:26.005439Z"
     },
     {
-      "id": "project_7ba633fcf56a",
-      "project_name": "Kivo",
-      "url": "https://www.producthunt.com/products/kivo-4",
-      "summary": "Free on device dictation for any Mac app and AI agent",
+      "id": "project_dd6754595fb7",
+      "project_name": "Tobira Site Agent",
+      "url": "https://www.producthunt.com/products/tobira-ai",
+      "summary": "Turn your website into an AI agent that sells to AI agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Free on device dictation for any Mac app and AI agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Free on device dictation for any Mac app and AI agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-05T17:51:26Z",
-      "updated_at": "2026-11-06T13:05:43Z",
+      "recommend_reason_zh": "体验它主打的「Turn your website into an AI agent that sells to AI agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Turn your website into an AI agent that sells to AI agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-24T11:25:07Z",
+      "updated_at": "2026-11-06T17:14:04Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-06T14:18:43.996507Z"
+      "observed_at": "2026-11-06T17:19:07.535042Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 18,
-      "duration_ms": 2171,
+      "duration_ms": 2042,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 120,
+      "duration_ms": 112,
       "error": null
     }
   ]
