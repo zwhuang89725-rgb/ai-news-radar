@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 17:18:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 20:18:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
@@ -16,20 +16,20 @@
 <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
 </item>
 <item>
+<title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+<link>https://openai.com/index/partnering-with-hacktron</link>
+<guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
+<description>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 06 Nov 2026 19:41:59 +0000</pubDate>
+</item>
+<item>
 <title>Codex CLI 0.167.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
 <description>Codex CLI 0.167.0 (OpenAI Codex Changelog)</description>
 <category>Official update</category>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Cult.fit builds operational muscle with Codex</title>
-<link>https://openai.com/index/cultfit-builds-with-codex</link>
-<guid isPermaLink="true">https://openai.com/index/cultfit-builds-with-codex</guid>
-<description>Cult.fit builds operational muscle with Codex (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 05 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Usage metrics API adds code review details and addressed rate</title>
@@ -48,6 +48,14 @@
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Measuring how AI agents handle everyday wet-lab science</title>
+<link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+<guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
+<description>Measuring how AI agents handle everyday wet-lab science (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Usage metrics API flags telemetry and version gaps</title>
 <link>https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</guid>
@@ -62,14 +70,6 @@
 <description>13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 06 Nov 2026 11:19:25 +0000</pubDate>
-</item>
-<item>
-<title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-<link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
-<description>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
 </item>
 <item>
 <title>6G 还没来，AI 已写进它的基因：高通瞄准 2029</title>
@@ -104,12 +104,20 @@
 <pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
-<title>Meta warns that election backlash against data centers could make AI expansion harder</title>
-<link>https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder</guid>
-<description>Meta warns that election backlash against data centers could make AI expansion harder (TechCrunch AI)</description>
-<category>Multi-source buzz</category>
-<pubDate>Thu, 05 Nov 2026 19:14:24 +0000</pubDate>
+<title>Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now</title>
+<link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
+<description>Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 18:10:10 +0000</pubDate>
+</item>
+<item>
+<title>DALI AI by SupplyzPro — The ERP you never need to open</title>
+<link>https://www.producthunt.com/products/supplyzpro-the-conversational-erp</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/supplyzpro-the-conversational-erp</guid>
+<description>The ERP you never need to open (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 20:11:28 +0000</pubDate>
 </item>
 <item>
 <title>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案</title>
@@ -120,12 +128,12 @@
 <pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
-<title>DALI AI by SupplyzPro — The ERP you never need to open</title>
-<link>https://www.producthunt.com/products/supplyzpro-the-conversational-erp</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/supplyzpro-the-conversational-erp</guid>
-<description>The ERP you never need to open (Product Hunt)</description>
+<title>Cursor Craft — Custom cursors for Mac</title>
+<link>https://www.producthunt.com/products/cursor-craft</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/cursor-craft</guid>
+<description>Custom cursors for Mac (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 17:11:18 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 19:11:01 +0000</pubDate>
 </item>
 <item>
 <title>写 3 万行代码的不是他，是 AI：前谷歌工程师的"闲人"自白</title>
@@ -136,14 +144,6 @@
 <pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
-<title>Cursor Craft — Custom cursors for Mac</title>
-<link>https://www.producthunt.com/products/cursor-craft</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/cursor-craft</guid>
-<description>Custom cursors for Mac (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 17:04:07 +0000</pubDate>
-</item>
-<item>
 <title>我很难相信人工智能的研发是独具匠心的</title>
 <link>https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</link>
 <guid isPermaLink="true">https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</guid>
@@ -152,20 +152,20 @@
 <pubDate>Fri, 06 Nov 2026 10:52:42 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents</title>
-<link>https://github.com/zalando-incubator/agentic-identity-broker</link>
-<guid isPermaLink="true">https://github.com/zalando-incubator/agentic-identity-broker</guid>
-<description>Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents</description>
+<title>Memorilla: Latent Semantic Memory for LLMs</title>
+<link>https://arxiv.org/abs/2610.21375</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.21375</guid>
+<description>Memorilla: Latent Semantic Memory for LLMs</description>
 <category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 15:07:47 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 18:03:33 +0000</pubDate>
 </item>
 <item>
-<title>古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元</title>
-<link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
-<guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</guid>
-<description>古巴人：Facebook明知故犯地发布AI深度伪造诈骗广告；文件显示其诈骗收入达160亿美元 (finance.yahoo.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 06 Nov 2026 02:25:57 +0000</pubDate>
+<title>Microsoft is winding down Oracle deal to rent AI cloud capacity</title>
+<link>https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06</link>
+<guid isPermaLink="true">https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06</guid>
+<description>Microsoft is winding down Oracle deal to rent AI cloud capacity</description>
+<category>Worth watching</category>
+<pubDate>Fri, 06 Nov 2026 18:04:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
