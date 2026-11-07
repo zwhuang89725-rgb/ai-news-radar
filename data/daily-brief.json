@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:18:34.266342Z",
+  "generated_at": "2026-11-07T05:19:31.157610Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.8472,
-      "importance_score": 0.8472,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9736,
+        "recency": 0.9321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8373,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9433,
+        "recency": 0.9031,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -346,15 +346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7677,
+        "recency": 0.735,
         "story_heat": 0.25
       },
       "category": "official",
@@ -382,7 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -434,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9436,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9263,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -608,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9198,
+        "recency": 0.8806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -695,15 +695,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,7 +728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -780,15 +780,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,7 +813,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -865,15 +865,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -898,7 +898,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -950,15 +950,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -1035,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,7 +1068,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
+      }
+    },
+    {
+      "story_id": "story_5a5004c3b546",
+      "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "primary_url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
+          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
+          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "summary": "The ERP you never need to open",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-09-26T23:03:55Z",
+          "updated_at": "2026-11-07T04:58:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
+          "title": "DALI AI by SupplyzPro",
+          "title_zh": null,
+          "title_en": "DALI AI by SupplyzPro",
+          "title_original": "DALI AI by SupplyzPro",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T14:18:41.698000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
+          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
+          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
+          "summary": "The ERP you never need to open",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-09-26T23:03:55Z",
+          "updated_at": "2026-11-07T04:58:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
+          "title": "DALI AI by SupplyzPro",
+          "title_zh": null,
+          "title_en": "DALI AI by SupplyzPro",
+          "title_original": "DALI AI by SupplyzPro",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T14:18:41.698000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T14:18:41.698000Z",
+      "latest_at": "2026-11-07T04:58:16Z",
+      "primary_item": {
+        "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
+        "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
+        "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
+        "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
+        "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
+        "summary": "The ERP you never need to open",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -1152,15 +1270,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5955,
-      "importance": 0.5955,
-      "importance_score": 0.5955,
+      "score": 0.5887,
+      "importance": 0.5887,
+      "importance_score": 0.5887,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8891,
+        "recency": 0.8512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1185,125 +1303,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
-      }
-    },
-    {
-      "story_id": "story_9cc30fcc980d",
-      "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-      "url": "https://www.producthunt.com/products/cursor-craft",
-      "primary_url": "https://www.producthunt.com/products/cursor-craft",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
-          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
-          "title_en": "Cursor Craft — Custom cursors for Mac",
-          "title_original": "Cursor Craft — Custom cursors for Mac",
-          "summary": "Custom cursors for Mac",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T01:53:45Z",
-          "updated_at": "2026-11-07T02:18:41Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
-          "title": "Cursor Craft",
-          "title_zh": null,
-          "title_en": "Cursor Craft",
-          "title_original": "Cursor Craft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T14:18:41.698000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
-          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
-          "title_en": "Cursor Craft — Custom cursors for Mac",
-          "title_original": "Cursor Craft — Custom cursors for Mac",
-          "summary": "Custom cursors for Mac",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T01:53:45Z",
-          "updated_at": "2026-11-07T02:18:41Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
-          "title": "Cursor Craft",
-          "title_zh": null,
-          "title_en": "Cursor Craft",
-          "title_original": "Cursor Craft",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/cursor-craft",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T14:18:41.698000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T14:18:41.698000Z",
-      "latest_at": "2026-11-07T02:18:41Z",
-      "primary_item": {
-        "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
-        "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
-        "title_zh": "Cursor Craft — Mac 的自定义Cursor",
-        "title_en": "Cursor Craft — Custom cursors for Mac",
-        "title_original": "Cursor Craft — Custom cursors for Mac",
-        "summary": "Custom cursors for Mac",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/cursor-craft",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -1355,15 +1355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1388,42 +1388,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
-      "story_id": "story_5a5004c3b546",
-      "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-      "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
-      "primary_url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+      "story_id": "story_9cc30fcc980d",
+      "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+      "url": "https://www.producthunt.com/products/cursor-craft",
+      "primary_url": "https://www.producthunt.com/products/cursor-craft",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
-          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
-          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "summary": "The ERP you never need to open",
+          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
+          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
+          "title_en": "Cursor Craft — Custom cursors for Mac",
+          "title_original": "Cursor Craft — Custom cursors for Mac",
+          "summary": "Custom cursors for Mac",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-09-26T23:03:55Z",
-          "updated_at": "2026-11-07T02:18:41Z",
+          "published_at": "2026-11-06T01:53:45Z",
+          "updated_at": "2026-11-07T04:14:18Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
-          "title": "DALI AI by SupplyzPro",
+          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
+          "title": "Cursor Craft",
           "title_zh": null,
-          "title_en": "DALI AI by SupplyzPro",
-          "title_original": "DALI AI by SupplyzPro",
+          "title_en": "Cursor Craft",
+          "title_original": "Cursor Craft",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1439,30 +1439,30 @@
       ],
       "items": [
         {
-          "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
-          "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
-          "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
-          "summary": "The ERP you never need to open",
+          "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
+          "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+          "title_zh": "Cursor Craft — Mac 的自定义Cursor",
+          "title_en": "Cursor Craft — Custom cursors for Mac",
+          "title_original": "Cursor Craft — Custom cursors for Mac",
+          "summary": "Custom cursors for Mac",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-09-26T23:03:55Z",
-          "updated_at": "2026-11-07T02:18:41Z",
+          "published_at": "2026-11-06T01:53:45Z",
+          "updated_at": "2026-11-07T04:14:18Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "355cb5847f0bfdfa6090afd1036adf7f1d41d524",
-          "title": "DALI AI by SupplyzPro",
+          "id": "54fb6cf1738f7f45ace12412a77eb1b6f4c024b4",
+          "title": "Cursor Craft",
           "title_zh": null,
-          "title_en": "DALI AI by SupplyzPro",
-          "title_original": "DALI AI by SupplyzPro",
+          "title_en": "Cursor Craft",
+          "title_original": "Cursor Craft",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+          "url": "https://www.producthunt.com/products/cursor-craft",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1473,15 +1473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5914,
+      "importance": 0.5914,
+      "importance_score": 0.5914,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1489,16 +1489,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-06T14:18:41.698000Z",
-      "latest_at": "2026-11-07T02:18:41Z",
+      "latest_at": "2026-11-07T04:14:18Z",
       "primary_item": {
-        "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
-        "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
-        "title_zh": "SupplyzPro 的 DALI AI — 您无需打开的 ERP",
-        "title_en": "DALI AI by SupplyzPro — The ERP you never need to open",
-        "title_original": "DALI AI by SupplyzPro — The ERP you never need to open",
-        "summary": "The ERP you never need to open",
+        "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
+        "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
+        "title_zh": "Cursor Craft — Mac 的自定义Cursor",
+        "title_en": "Cursor Craft — Custom cursors for Mac",
+        "title_original": "Cursor Craft — Custom cursors for Mac",
+        "summary": "Custom cursors for Mac",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/supplyzpro-the-conversational-erp",
+        "url": "https://www.producthunt.com/products/cursor-craft",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1506,7 +1506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -1624,15 +1624,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5623,
-      "importance": 0.5623,
-      "importance_score": 0.5623,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9525,
+        "recency": 0.9119,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1657,7 +1657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -1775,15 +1775,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5623,
-      "importance": 0.5623,
-      "importance_score": 0.5623,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9525,
+        "recency": 0.9119,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1808,7 +1808,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -1926,15 +1926,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5623,
-      "importance": 0.5623,
-      "importance_score": 0.5623,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9525,
+        "recency": 0.9119,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1959,7 +1959,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     },
     {
@@ -2011,15 +2011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2044,7 +2044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T02:19:26.326287Z"
+        "scored_at": "2026-11-07T05:21:07.172057Z"
       }
     }
   ]

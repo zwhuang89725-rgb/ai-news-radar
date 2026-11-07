@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:19:20.242976Z",
+  "generated_at": "2026-11-07T05:20:46.613210Z",
   "date": "2026-11-07",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T02:18:34.266342Z"
+      "observed_at": "2026-11-07T05:19:31.157610Z"
     },
     {
-      "id": "project_69cd7835a89d",
-      "project_name": "Alysis Code",
-      "url": "https://www.producthunt.com/products/alysis-code",
-      "summary": "Open-source AI coding agent",
+      "id": "project_2889d024038a",
+      "project_name": "crystl",
+      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "summary": "multitasking terminal for AI coding agents, built for macOS",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open-source AI coding agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open-source AI coding agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T12:47:30Z",
-      "updated_at": "2026-11-06T22:09:11Z",
+      "recommend_reason_zh": "体验它主打的「multitasking terminal for AI coding agents, built for macOS」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"multitasking terminal for AI coding agents, built for macOS\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-06T02:44:33Z",
+      "updated_at": "2026-11-07T05:01:35Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T02:19:11.326880Z"
+      "observed_at": "2026-11-07T05:20:26.086193Z"
     },
     {
       "id": "project_876f4401e17e",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T02:18:34.266342Z"
+      "observed_at": "2026-11-07T05:19:31.157610Z"
     },
     {
-      "id": "project_3dd0e8ed9c79",
-      "project_name": "Make0 Brain OSS",
-      "url": "https://www.producthunt.com/products/make0-brain",
-      "summary": "Sync context across all your agents",
+      "id": "project_2fa2a5eab3a7",
+      "project_name": "Rankfender v3.0",
+      "url": "https://www.producthunt.com/products/rankfender",
+      "summary": "The SEO/GEO operating system, built for people and AI agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Sync context across all your agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Sync context across all your agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-29T15:42:42Z",
-      "updated_at": "2026-11-07T02:18:42Z",
+      "recommend_reason_zh": "体验它主打的「The SEO/GEO operating system, built for people and AI agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The SEO/GEO operating system, built for people and AI agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T14:05:15Z",
+      "updated_at": "2026-11-07T05:17:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T02:19:11.326880Z"
+      "observed_at": "2026-11-07T05:20:26.086193Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 17,
-      "duration_ms": 1639,
+      "item_count": 18,
+      "duration_ms": 2133,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 84,
+      "duration_ms": 303,
       "error": null
     }
   ]
