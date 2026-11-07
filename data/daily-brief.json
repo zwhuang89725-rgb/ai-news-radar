@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:19:31.157610Z",
+  "generated_at": "2026-11-07T08:18:26.455426Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9321,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8016,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9031,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,128 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
-      }
-    },
-    {
-      "story_id": "story_988830a31ba1",
-      "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "primary_url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bfdd449e721860870ae75fc4a660e548af4d3290",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:41:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bfdd449e721860870ae75fc4a660e548af4d3290",
-          "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI / Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 – OpenAI",
-          "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:41:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.735,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T08:00:00Z",
-      "latest_at": "2026-11-06T19:41:59Z",
-      "primary_item": {
-        "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-        "title": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-        "title_zh": "与 Hacktron 合作寻找 OpenAI 系统中的漏洞",
-        "title_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-        "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/partnering-with-hacktron",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -434,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9034,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -521,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8868,
+        "recency": 0.8494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -608,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8806,
+        "recency": 0.8435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -695,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -780,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -865,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -898,7 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -950,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,92 +862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
-      }
-    },
-    {
-      "story_id": "story_1f214e02bb3b",
-      "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-      "url": "https://www.aibase.com/news/32148",
-      "primary_url": "https://www.aibase.com/news/32148",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_en": null,
-          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32148",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-          "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "title_en": null,
-          "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32148",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7382,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:18:26.023511Z",
-      "latest_at": "2026-11-06T08:18:26.023511Z",
-      "primary_item": {
-        "id": "c13e8fb6cbc24b54f60ce05b9bbba8846e353e8a",
-        "title": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-        "title_zh": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-        "title_en": null,
-        "title_original": "4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32148",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -1092,7 +886,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-09-26T23:03:55Z",
-          "updated_at": "2026-11-07T04:58:16Z",
+          "updated_at": "2026-11-07T07:49:42Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1131,7 +925,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-09-26T23:03:55Z",
-          "updated_at": "2026-11-07T04:58:16Z",
+          "updated_at": "2026-11-07T07:49:42Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1153,15 +947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5933,
-      "importance": 0.5933,
-      "importance_score": 0.5933,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9949,
+        "recency": 0.9931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1169,7 +963,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-06T14:18:41.698000Z",
-      "latest_at": "2026-11-07T04:58:16Z",
+      "latest_at": "2026-11-07T07:49:42Z",
       "primary_item": {
         "id": "3c6e48dc03feed89883efaa960d6f7ceb1ed280e",
         "title": "SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open",
@@ -1186,7 +980,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -1270,15 +1064,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5887,
-      "importance": 0.5887,
-      "importance_score": 0.5887,
+      "score": 0.5822,
+      "importance": 0.5822,
+      "importance_score": 0.5822,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8512,
+        "recency": 0.8153,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1303,92 +1097,158 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
-      "story_id": "story_55769fea568e",
-      "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-      "url": "https://www.aibase.com/news/32152",
-      "primary_url": "https://www.aibase.com/news/32152",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_d0e6c867ebef",
+      "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "primary_url": "https://arxiv.org/abs/2610.21375",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
-          "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-          "title_zh": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
           "title_en": null,
-          "title_original": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "title_original": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T05:22:36.632000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
+          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T18:03:33Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
+          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "title_zh": "备忘录：LLM的潜在语义记忆",
+          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
+          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50395919",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T18:03:33Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "arxiv.org",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
-          "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-          "title_zh": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
           "title_en": null,
-          "title_original": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+          "title_original": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T05:22:36.632000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
+          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T18:03:33Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
+          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "title_zh": "备忘录：LLM的潜在语义记忆",
+          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
+          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50395919",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T18:03:33Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5633,
+      "importance": 0.5633,
+      "importance_score": 0.5633,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7382,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9586,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-06T08:18:26.023511Z",
-      "latest_at": "2026-11-06T08:18:26.023511Z",
+      "earliest_at": "2026-11-06T18:03:33Z",
+      "latest_at": "2026-11-07T05:22:36.632000Z",
       "primary_item": {
-        "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
-        "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-        "title_zh": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+        "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
+        "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+        "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
         "title_en": null,
-        "title_original": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
+        "title_original": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32152",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://arxiv.org/abs/2610.21375",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -1412,7 +1272,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-06T01:53:45Z",
-          "updated_at": "2026-11-07T04:14:18Z",
+          "updated_at": "2026-11-07T07:24:57Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1451,7 +1311,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-06T01:53:45Z",
-          "updated_at": "2026-11-07T04:14:18Z",
+          "updated_at": "2026-11-07T07:24:57Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1473,15 +1333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5914,
-      "importance": 0.5914,
-      "importance_score": 0.5914,
+      "score": 0.5919,
+      "importance": 0.5919,
+      "importance_score": 0.5919,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9844,
+        "recency": 0.9872,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1489,7 +1349,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-06T14:18:41.698000Z",
-      "latest_at": "2026-11-07T04:14:18Z",
+      "latest_at": "2026-11-07T07:24:57Z",
       "primary_item": {
         "id": "527cf3152ec36bb35f1182eff2a06fa36b31d500",
         "title": "Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac",
@@ -1506,7 +1366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -1624,15 +1484,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5549,
-      "importance": 0.5549,
-      "importance_score": 0.5549,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9119,
+        "recency": 0.8735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1657,7 +1517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -1775,15 +1635,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5549,
-      "importance": 0.5549,
-      "importance_score": 0.5549,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9119,
+        "recency": 0.8735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1808,7 +1668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
@@ -1926,15 +1786,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5549,
-      "importance": 0.5549,
-      "importance_score": 0.5549,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9119,
+        "recency": 0.8735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1959,92 +1819,361 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     },
     {
-      "story_id": "story_8d3a217a7e3e",
-      "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-      "url": "https://www.aibase.com/news/32147",
-      "primary_url": "https://www.aibase.com/news/32147",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c459429fd25e",
+      "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "primary_url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_en": null,
-          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
+          "id": "f809e80f08b0a26e6b59af4306d575f05d0b2071",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "title_zh": "人工智能抛售与众所周知的股市崩盘相比",
+          "title_en": "The AI sell-off compared to well-known stock market crashes",
+          "title_original": "The AI sell-off compared to well-known stock market crashes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
+          "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T02:20:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "58da6ebc0c98d7b659293c7c33b7e38219b880df",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "title_zh": "人工智能抛售与众所周知的股市崩盘相比",
+          "title_en": "The AI sell-off compared to well-known stock market crashes",
+          "title_original": "The AI sell-off compared to well-known stock market crashes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50401029",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T02:20:06Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "title_en": null,
-          "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
+          "id": "f809e80f08b0a26e6b59af4306d575f05d0b2071",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "title_zh": "人工智能抛售与众所周知的股市崩盘相比",
+          "title_en": "The AI sell-off compared to well-known stock market crashes",
+          "title_original": "The AI sell-off compared to well-known stock market crashes",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:18:26.023511Z",
+          "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T02:20:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "58da6ebc0c98d7b659293c7c33b7e38219b880df",
+          "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+          "title_zh": "人工智能抛售与众所周知的股市崩盘相比",
+          "title_en": "The AI sell-off compared to well-known stock market crashes",
+          "title_original": "The AI sell-off compared to well-known stock market crashes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50401029",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T02:20:06Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7382,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9174,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-06T08:18:26.023511Z",
-      "latest_at": "2026-11-06T08:18:26.023511Z",
+      "earliest_at": "2026-11-07T02:20:06Z",
+      "latest_at": "2026-11-07T02:20:06Z",
       "primary_item": {
-        "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-        "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "title_zh": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "title_en": null,
-        "title_original": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
+        "id": "f809e80f08b0a26e6b59af4306d575f05d0b2071",
+        "title": "人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes",
+        "title_zh": "人工智能抛售与众所周知的股市崩盘相比",
+        "title_en": "The AI sell-off compared to well-known stock market crashes",
+        "title_original": "The AI sell-off compared to well-known stock market crashes",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32147",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T05:21:07.172057Z"
+        "scored_at": "2026-11-07T08:19:20.187802Z"
+      }
+    },
+    {
+      "story_id": "story_1b4ade85b2b5",
+      "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "primary_url": "https://pwn.ai/blog/firecracker-escape",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "title_en": null,
+          "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.798000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "78a9d556ef891cc8b888a849f06377f1f33d827d",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
+          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "title_en": "Firecracker VM Escape: PwnEscape Part 2",
+          "title_original": "Firecracker VM Escape: PwnEscape Part 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T19:33:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "title_en": null,
+          "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.798000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "78a9d556ef891cc8b888a849f06377f1f33d827d",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
+          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "title_en": "Firecracker VM Escape: PwnEscape Part 2",
+          "title_original": "Firecracker VM Escape: PwnEscape Part 2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T19:33:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8735,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T19:33:38Z",
+      "latest_at": "2026-11-06T22:56:22.798000Z",
+      "primary_item": {
+        "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
+        "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
+        "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
+        "title_en": null,
+        "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://pwn.ai/blog/firecracker-escape",
+        "source": "pwn.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-07T08:19:20.187802Z"
+      }
+    },
+    {
+      "story_id": "story_af4a60e49fe8",
+      "title": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡 / ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "primary_url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "6f99e1ecdad77173f8d3e2555940ac5b975ff906",
+          "title": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡 / ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_zh": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡",
+          "title_en": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_original": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T22:50:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "61959d1b576e484e04936111294de0b103cd9b0f",
+          "title": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡 / ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_zh": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡",
+          "title_en": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_original": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50399569",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T22:50:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6f99e1ecdad77173f8d3e2555940ac5b975ff906",
+          "title": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡 / ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_zh": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡",
+          "title_en": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_original": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T22:50:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "61959d1b576e484e04936111294de0b103cd9b0f",
+          "title": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡 / ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_zh": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡",
+          "title_en": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "title_original": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50399569",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T22:50:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8723,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T22:50:43Z",
+      "latest_at": "2026-11-06T22:50:43Z",
+      "primary_item": {
+        "id": "6f99e1ecdad77173f8d3e2555940ac5b975ff906",
+        "title": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡 / ChatGPT silently passes data between connectors and the bounty wants an ID card",
+        "title_zh": "ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡",
+        "title_en": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+        "title_original": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-07T08:19:20.187802Z"
       }
     }
   ]

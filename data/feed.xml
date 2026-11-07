@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 05:19:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 08:18:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates</title>
@@ -30,14 +30,6 @@
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Fri, 06 Nov 2026 22:15:59 +0000</pubDate>
-</item>
-<item>
-<title>与 Hacktron 合作寻找 OpenAI 系统中的漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
-<link>https://openai.com/index/partnering-with-hacktron</link>
-<guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 06 Nov 2026 19:41:59 +0000</pubDate>
 </item>
 <item>
 <title>Copilot 影响仪表板添加了聊天和 VS Code 代理使用情况 / Copilot impact dashboard adds chat and VS Code agent usage</title>
@@ -96,20 +88,12 @@
 <pubDate>Fri, 06 Nov 2026 11:19:25 +0000</pubDate>
 </item>
 <item>
-<title>4.7 万条假名人内容被清：网信办给 AI 换脸带货踩刹车</title>
-<link>https://www.aibase.com/news/32148</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32148</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
-</item>
-<item>
 <title>SupplyzPro 的 DALI AI — 您无需打开的 ERP / DALI AI by SupplyzPro — The ERP you never need to open</title>
 <link>https://www.producthunt.com/products/supplyzpro-the-conversational-erp</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/supplyzpro-the-conversational-erp</guid>
 <description>The ERP you never need to open（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sat, 07 Nov 2026 04:58:16 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 07:49:42 +0000</pubDate>
 </item>
 <item>
 <title>Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now</title>
@@ -120,12 +104,12 @@
 <pubDate>Fri, 06 Nov 2026 18:10:10 +0000</pubDate>
 </item>
 <item>
-<title>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案</title>
-<link>https://www.aibase.com/news/32152</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32152</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
+<title>Memorilla：面向大型语言模型（LLM）的潜在语义记忆</title>
+<link>https://arxiv.org/abs/2610.21375</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.21375</guid>
+<description>arxiv.org</description>
+<category>多源热议</category>
+<pubDate>Sat, 07 Nov 2026 05:22:36 +0000</pubDate>
 </item>
 <item>
 <title>Cursor Craft — Mac 的自定义Cursor / Cursor Craft — Custom cursors for Mac</title>
@@ -133,7 +117,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/cursor-craft</guid>
 <description>Custom cursors for Mac（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sat, 07 Nov 2026 04:14:18 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 07:24:57 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元</title>
@@ -160,12 +144,28 @@
 <pubDate>Fri, 06 Nov 2026 22:56:22 +0000</pubDate>
 </item>
 <item>
-<title>写 3 万行代码的不是他，是 AI：前谷歌工程师的"闲人"自白</title>
-<link>https://www.aibase.com/news/32147</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32147</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
+<title>人工智能抛售与众所周知的股市崩盘相比 / The AI sell-off compared to well-known stock market crashes</title>
+<link>https://www.kadoa.com/companies/insights/ai-selloff-perspective</link>
+<guid isPermaLink="true">https://www.kadoa.com/companies/insights/ai-selloff-perspective</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 07 Nov 2026 02:20:06 +0000</pubDate>
+</item>
+<item>
+<title>Firecracker VM 逃脱：PwnEscape 第二部分</title>
+<link>https://pwn.ai/blog/firecracker-escape</link>
+<guid isPermaLink="true">https://pwn.ai/blog/firecracker-escape</guid>
+<description>pwn.ai</description>
+<category>值得关注</category>
+<pubDate>Fri, 06 Nov 2026 22:56:22 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT 在连接器之间默默地传递数据，赏金者需要 ID 卡 / ChatGPT silently passes data between connectors and the bounty wants an ID card</title>
+<link>https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</link>
+<guid isPermaLink="true">https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Fri, 06 Nov 2026 22:50:43 +0000</pubDate>
 </item>
 </channel>
 </rss>

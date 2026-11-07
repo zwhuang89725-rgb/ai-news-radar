@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:20:46.613210Z",
+  "generated_at": "2026-11-07T08:19:09.621234Z",
   "date": "2026-11-07",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T05:19:31.157610Z"
+      "observed_at": "2026-11-07T08:18:26.455426Z"
     },
     {
-      "id": "project_2889d024038a",
-      "project_name": "crystl",
-      "url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
-      "summary": "multitasking terminal for AI coding agents, built for macOS",
+      "id": "project_c354691ede7f",
+      "project_name": "Quest",
+      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
+      "summary": "Your personal AI advisor for a more intentional life",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「multitasking terminal for AI coding agents, built for macOS」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"multitasking terminal for AI coding agents, built for macOS\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T02:44:33Z",
-      "updated_at": "2026-11-07T05:01:35Z",
+      "recommend_reason_zh": "体验它主打的「Your personal AI advisor for a more intentional life」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your personal AI advisor for a more intentional life\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T15:22:29Z",
+      "updated_at": "2026-11-07T08:18:35Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T05:20:26.086193Z"
+      "observed_at": "2026-11-07T08:19:00.297530Z"
     },
     {
       "id": "project_876f4401e17e",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T05:19:31.157610Z"
+      "observed_at": "2026-11-07T08:18:26.455426Z"
     },
     {
-      "id": "project_2fa2a5eab3a7",
-      "project_name": "Rankfender v3.0",
-      "url": "https://www.producthunt.com/products/rankfender",
-      "summary": "The SEO/GEO operating system, built for people and AI agents",
+      "id": "project_f6f0b21aa3e6",
+      "project_name": "ChatGPT Images 2.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "Create, edit, and animate images with AI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The SEO/GEO operating system, built for people and AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The SEO/GEO operating system, built for people and AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-05T14:05:15Z",
-      "updated_at": "2026-11-07T05:17:28Z",
+      "recommend_reason_zh": "体验它主打的「Create, edit, and animate images with AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Create, edit, and animate images with AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T16:20:03Z",
+      "updated_at": "2026-11-07T08:18:24Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T05:20:26.086193Z"
+      "observed_at": "2026-11-07T08:19:00.297530Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 18,
-      "duration_ms": 2133,
+      "duration_ms": 335,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 303,
+      "duration_ms": 63,
       "error": null
     }
   ]
