@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T14:18:58.213889Z",
-  "date": "2026-11-07",
+  "generated_at": "2026-11-07T17:19:11.688858Z",
+  "date": "2026-11-08",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T14:17:45.190335Z"
+      "observed_at": "2026-11-07T17:18:24.082768Z"
     },
     {
-      "id": "project_4756513f9598",
-      "project_name": "ClarifierAI for Chrome",
-      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
-      "summary": "Use AI for writing & translating in your Chrome",
+      "id": "project_f6f0b21aa3e6",
+      "project_name": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "OpenAI’s cyber model, with vetted access for defenders",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Use AI for writing & translating in your Chrome」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Use AI for writing & translating in your Chrome\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T10:38:44Z",
-      "updated_at": "2026-11-07T13:29:45Z",
+      "recommend_reason_zh": "体验它主打的「OpenAI’s cyber model, with vetted access for defenders」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"OpenAI’s cyber model, with vetted access for defenders\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T17:12:40Z",
+      "updated_at": "2026-11-07T17:13:46Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T14:18:46.788730Z"
+      "observed_at": "2026-11-07T17:18:59.787627Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T14:17:45.190335Z"
+      "observed_at": "2026-11-07T17:18:24.082768Z"
     },
     {
-      "id": "project_c354691ede7f",
-      "project_name": "Quest",
-      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
-      "summary": "Your personal AI advisor for a more intentional life",
+      "id": "project_c52162924199",
+      "project_name": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
+      "summary": "Instagram's free desktop video editor with AI agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your personal AI advisor for a more intentional life」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your personal AI advisor for a more intentional life\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-21T15:22:29Z",
-      "updated_at": "2026-11-07T14:16:10Z",
+      "recommend_reason_zh": "用一段自己的素材试试 AI 视频剪辑，看看能否减少手工操作。",
+      "recommend_reason_en": "Try its AI video editing on your own footage and see whether it cuts down manual work.",
+      "published_at": "2026-11-06T00:46:05Z",
+      "updated_at": "2026-11-07T16:04:17Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T14:18:46.788730Z"
+      "observed_at": "2026-11-07T17:18:59.787627Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 411,
+      "duration_ms": 1418,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 182,
+      "duration_ms": 145,
       "error": null
     }
   ]
