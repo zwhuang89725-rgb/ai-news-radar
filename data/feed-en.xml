@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 17:18:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 20:17:57 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Copilot code review: API management and review overview updates</title>
@@ -56,28 +56,20 @@
 <pubDate>Sat, 07 Nov 2026 14:18:46 +0000</pubDate>
 </item>
 <item>
+<title>微软研究院“AI Frontiers”团队的解散</title>
+<link>https://hunch.net/?p=13764006</link>
+<guid isPermaLink="true">https://hunch.net/?p=13764006</guid>
+<description>微软研究院“AI Frontiers”团队的解散 (hunch.net)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sat, 07 Nov 2026 19:40:52 +0000</pubDate>
+</item>
+<item>
 <title>dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</title>
 <link>https://github.com/dsx-ai-factory/nvke</link>
 <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
 <description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Sat, 07 Nov 2026 11:20:08 +0000</pubDate>
-</item>
-<item>
-<title>Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now</title>
-<link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</guid>
-<description>Meta&amp;#8217;s Muse AI can create custom &amp;#8216;spaces&amp;#8217; for the version of the app you need right now (The Verge)</description>
-<category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 18:10:10 +0000</pubDate>
-</item>
-<item>
-<title>微软正逐步终止与甲骨文的AI云算力租赁协议</title>
-<link>https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06</link>
-<guid isPermaLink="true">https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06</guid>
-<description>微软正逐步终止与甲骨文的AI云算力租赁协议 (www.reuters.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 07 Nov 2026 12:45:48 +0000</pubDate>
 </item>
 <item>
 <title>代理记忆的组成部分</title>
@@ -88,12 +80,12 @@
 <pubDate>Sat, 07 Nov 2026 16:12:43 +0000</pubDate>
 </item>
 <item>
-<title>Memorilla：面向大型语言模型（LLM）的潜在语义记忆</title>
-<link>https://arxiv.org/abs/2610.21375</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.21375</guid>
-<description>Memorilla：面向大型语言模型（LLM）的潜在语义记忆 (arxiv.org)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 07 Nov 2026 05:22:36 +0000</pubDate>
+<title>Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8</title>
+<link>https://github.com/Video-Rebirth/hyperflow-h3-flash</link>
+<guid isPermaLink="true">https://github.com/Video-Rebirth/hyperflow-h3-flash</guid>
+<description>Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8</description>
+<category>Worth watching</category>
+<pubDate>Sat, 07 Nov 2026 15:16:01 +0000</pubDate>
 </item>
 <item>
 <title>每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器</title>
@@ -120,28 +112,12 @@
 <pubDate>Sat, 07 Nov 2026 02:20:06 +0000</pubDate>
 </item>
 <item>
-<title>Firecracker VM 逃脱：PwnEscape 第二部分</title>
-<link>https://pwn.ai/blog/firecracker-escape</link>
-<guid isPermaLink="true">https://pwn.ai/blog/firecracker-escape</guid>
-<description>Firecracker VM 逃脱：PwnEscape 第二部分 (pwn.ai)</description>
-<category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 22:56:22 +0000</pubDate>
-</item>
-<item>
 <title>ChatGPT silently passes data between connectors and the bounty wants an ID card</title>
 <link>https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</link>
 <guid isPermaLink="true">https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053</guid>
 <description>ChatGPT silently passes data between connectors and the bounty wants an ID card</description>
 <category>Worth watching</category>
 <pubDate>Fri, 06 Nov 2026 22:50:43 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity launches AI agents for work</title>
-<link>https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
-<guid isPermaLink="true">https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</guid>
-<description>Perplexity launches AI agents for work</description>
-<category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
 </item>
 </channel>
 </rss>

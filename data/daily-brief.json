@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T17:18:24.082768Z",
+  "generated_at": "2026-11-07T20:17:57.149785Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_255b7fbabd28",
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.784,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7596,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7599,
+        "recency": 0.7277,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7459,
+        "recency": 0.7144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7407,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -552,15 +552,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6115,
-      "importance": 0.6115,
-      "importance_score": 0.6115,
+      "score": 0.6042,
+      "importance": 0.6042,
+      "importance_score": 0.6042,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9572,
+        "recency": 0.9167,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -585,7 +585,191 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
+      }
+    },
+    {
+      "story_id": "story_cc07ee07893a",
+      "title": "微软研究院“AI Frontiers”团队的解散",
+      "url": "https://hunch.net/?p=13764006",
+      "primary_url": "https://hunch.net/?p=13764006",
+      "source": "hunch.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+          "title": "微软研究院“AI Frontiers”团队的解散",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": null,
+          "title_original": "微软研究院“AI Frontiers”团队的解散",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "hunch.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T19:40:52.028000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The End of AI Frontiers",
+          "title_original": "The End of AI Frontiers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T18:04:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T18:02:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
+          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院人工智能前沿小组的终结",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50406563",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T18:02:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "hunch.net"
+      ],
+      "items": [
+        {
+          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+          "title": "微软研究院“AI Frontiers”团队的解散",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": null,
+          "title_original": "微软研究院“AI Frontiers”团队的解散",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "hunch.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T19:40:52.028000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The End of AI Frontiers",
+          "title_original": "The End of AI Frontiers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T18:04:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
+          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院“AI Frontiers”团队的解散",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hunch.net/?p=13764006",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T18:02:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
+          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
+          "title_zh": "微软研究院人工智能前沿小组的终结",
+          "title_en": "The end of Microsoft Research's AI Frontiers group",
+          "title_original": "The end of Microsoft Research's AI Frontiers group",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50406563",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T18:02:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9911,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T18:02:17Z",
+      "latest_at": "2026-11-07T19:40:52.028000Z",
+      "primary_item": {
+        "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
+        "title": "微软研究院“AI Frontiers”团队的解散",
+        "title_zh": "微软研究院“AI Frontiers”团队的解散",
+        "title_en": null,
+        "title_original": "微软研究院“AI Frontiers”团队的解散",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hunch.net/?p=13764006",
+        "source": "hunch.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -670,15 +854,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5793,
-      "importance": 0.5793,
-      "importance_score": 0.5793,
+      "score": 0.5723,
+      "importance": 0.5723,
+      "importance_score": 0.5723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9172,
+        "recency": 0.8784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,275 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
-      }
-    },
-    {
-      "story_id": "story_e826acba9e82",
-      "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "primary_url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b11483a3cf8a1467162ddb565e4965805e41f34b",
-          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-          "title_zh": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
-          "title_en": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-          "title_original": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-06T18:10:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0a640d0412560f1f9868bacd221052c7a6adaaa6",
-          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "title_zh": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
-          "title_en": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "title_original": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-06T18:10:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "b11483a3cf8a1467162ddb565e4965805e41f34b",
-          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-          "title_zh": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
-          "title_en": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-          "title_original": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-06T18:10:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0a640d0412560f1f9868bacd221052c7a6adaaa6",
-          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "title_zh": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
-          "title_en": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "title_original": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-06T18:10:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.716,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T18:10:10Z",
-      "latest_at": "2026-11-06T18:10:10Z",
-      "primary_item": {
-        "id": "b11483a3cf8a1467162ddb565e4965805e41f34b",
-        "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-        "title_zh": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间”",
-        "title_en": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-        "title_original": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
-      }
-    },
-    {
-      "story_id": "story_3ed9a0896b67",
-      "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-      "primary_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1dfd86a0ead0d615d086e8d70c5af436b480aea3",
-          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "title_zh": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "title_en": null,
-          "title_original": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T12:45:48.287000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "277d37daf3540ad6476e3743b73a714b8044d7e6",
-          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2f65c6172047cfe51a0c3d587c8cd2388dc654ae",
-          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "1dfd86a0ead0d615d086e8d70c5af436b480aea3",
-          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "title_zh": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "title_en": null,
-          "title_original": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T12:45:48.287000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "277d37daf3540ad6476e3743b73a714b8044d7e6",
-          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2f65c6172047cfe51a0c3d587c8cd2388dc654ae",
-          "title": "微软正在终止甲骨文租赁人工智能云容量的交易 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_zh": "微软正在终止甲骨文租赁人工智能云容量的交易",
-          "title_en": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "title_original": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T18:04:06Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9365,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T18:04:06Z",
-      "latest_at": "2026-11-07T12:45:48.287000Z",
-      "primary_item": {
-        "id": "1dfd86a0ead0d615d086e8d70c5af436b480aea3",
-        "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-        "title_zh": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-        "title_en": null,
-        "title_original": "微软正逐步终止与甲骨文的AI云算力租赁协议",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -1056,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9843,
+        "recency": 0.9427,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,158 +1005,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
-      "story_id": "story_d0e6c867ebef",
-      "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "primary_url": "https://arxiv.org/abs/2610.21375",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_d600757765e9",
+      "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "primary_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
-          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-          "title_en": null,
-          "title_original": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
+          "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T05:22:36.632000Z",
+          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T15:16:01Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "f0d123d72648d498d3702c6cfe6aea658b009822",
-          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
+          "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T18:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
-          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "备忘录：LLM的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395919",
+          "url": "https://news.ycombinator.com/item?id=50405263",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T18:03:33Z",
+          "published_at": "2026-11-07T15:16:01Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
-          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-          "title_en": null,
-          "title_original": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
+          "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T05:22:36.632000Z",
+          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T15:16:01Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "f0d123d72648d498d3702c6cfe6aea658b009822",
-          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
+          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
+          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
+          "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.21375",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T18:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
-          "title": "备忘录：LLM的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
-          "title_zh": "备忘录：LLM的潜在语义记忆",
-          "title_en": "Memorilla: Latent Semantic Memory for LLMs",
-          "title_original": "Memorilla: Latent Semantic Memory for LLMs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395919",
+          "url": "https://news.ycombinator.com/item?id=50405263",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-06T18:03:33Z",
+          "published_at": "2026-11-07T15:16:01Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8417,
-        "story_heat": 0.5
+        "recency": 0.9299,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-06T18:03:33Z",
-      "latest_at": "2026-11-07T05:22:36.632000Z",
+      "earliest_at": "2026-11-07T15:16:01Z",
+      "latest_at": "2026-11-07T15:16:01Z",
       "primary_item": {
-        "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
-        "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-        "title_zh": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
-        "title_en": null,
-        "title_original": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+        "id": "8471286aa152fe12fa5fd1a5c09e81563c12b77f",
+        "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+        "title_zh": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8",
+        "title_en": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+        "title_original": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2610.21375",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
+        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -1325,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9258,
+        "recency": 0.8866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,7 +1241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -1476,15 +1359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.767,
+        "recency": 0.7346,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1509,7 +1392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -1594,15 +1477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8056,
+        "recency": 0.7715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1627,125 +1510,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
-      }
-    },
-    {
-      "story_id": "story_1b4ade85b2b5",
-      "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "primary_url": "https://pwn.ai/blog/firecracker-escape",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": null,
-          "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:22.798000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "78a9d556ef891cc8b888a849f06377f1f33d827d",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": "Firecracker VM Escape: PwnEscape Part 2",
-          "title_original": "Firecracker VM Escape: PwnEscape Part 2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:33:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": null,
-          "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T22:56:22.798000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "78a9d556ef891cc8b888a849f06377f1f33d827d",
-          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
-          "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-          "title_en": "Firecracker VM Escape: PwnEscape Part 2",
-          "title_original": "Firecracker VM Escape: PwnEscape Part 2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T19:33:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5039,
-      "importance": 0.5039,
-      "importance_score": 0.5039,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.767,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T19:33:38Z",
-      "latest_at": "2026-11-06T22:56:22.798000Z",
-      "primary_item": {
-        "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
-        "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
-        "title_zh": "Firecracker VM 逃脱：PwnEscape 第二部分",
-        "title_en": null,
-        "title_original": "Firecracker VM 逃脱：PwnEscape 第二部分",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://pwn.ai/blog/firecracker-escape",
-        "source": "pwn.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     },
     {
@@ -1830,15 +1595,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.766,
+        "recency": 0.7336,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1860,128 +1625,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
-      }
-    },
-    {
-      "story_id": "story_d55c48bb67c5",
-      "title": "Perplexity 推出人工智能工作代理 / Perplexity launches AI agents for work",
-      "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "primary_url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "02bf9cf1989100e98cf44c2e5b0519c4ce2a7290",
-          "title": "Perplexity 推出人工智能工作代理 / Perplexity launches AI agents for work",
-          "title_zh": "Perplexity 推出人工智能工作代理",
-          "title_en": "Perplexity launches AI agents for work",
-          "title_original": "Perplexity launches AI agents for work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T17:59:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bdb9ebbfd57c64462244b3e551bfe789d4ac9fce",
-          "title": "Perplexity 推出人工智能工作代理 / Perplexity launches AI agents for work",
-          "title_zh": "Perplexity 推出人工智能工作代理",
-          "title_en": "Perplexity launches AI agents for work",
-          "title_original": "Perplexity launches AI agents for work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395866",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T17:59:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "02bf9cf1989100e98cf44c2e5b0519c4ce2a7290",
-          "title": "Perplexity 推出人工智能工作代理 / Perplexity launches AI agents for work",
-          "title_zh": "Perplexity 推出人工智能工作代理",
-          "title_en": "Perplexity launches AI agents for work",
-          "title_original": "Perplexity launches AI agents for work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T17:59:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "bdb9ebbfd57c64462244b3e551bfe789d4ac9fce",
-          "title": "Perplexity 推出人工智能工作代理 / Perplexity launches AI agents for work",
-          "title_zh": "Perplexity 推出人工智能工作代理",
-          "title_en": "Perplexity launches AI agents for work",
-          "title_original": "Perplexity launches AI agents for work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50395866",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T17:59:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7142,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T17:59:41Z",
-      "latest_at": "2026-11-06T17:59:41Z",
-      "primary_item": {
-        "id": "02bf9cf1989100e98cf44c2e5b0519c4ce2a7290",
-        "title": "Perplexity 推出人工智能工作代理 / Perplexity launches AI agents for work",
-        "title_zh": "Perplexity 推出人工智能工作代理",
-        "title_en": "Perplexity launches AI agents for work",
-        "title_original": "Perplexity launches AI agents for work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-07T17:19:17.371203Z"
+        "scored_at": "2026-11-07T20:19:00.132614Z"
       }
     }
   ]
