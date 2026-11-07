@@ -5,15 +5,15 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 23:17:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 02:18:34 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>Copilot impact dashboard adds chat and VS Code agent usage</title>
-<link>https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage</guid>
-<description>Copilot impact dashboard adds chat and VS Code agent usage (GitHub Changelog)</description>
+<title>Copilot code review: API management and review overview updates</title>
+<link>https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates</guid>
+<description>Copilot code review: API management and review overview updates (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 22:17:28 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 00:27:19 +0000</pubDate>
 </item>
 <item>
 <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
@@ -40,36 +40,28 @@
 <pubDate>Fri, 06 Nov 2026 19:41:59 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.167.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>Codex CLI 0.167.0 (OpenAI Codex Changelog)</description>
+<title>Copilot impact dashboard adds chat and VS Code agent usage</title>
+<link>https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage</guid>
+<description>Copilot impact dashboard adds chat and VS Code agent usage (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 22:17:28 +0000</pubDate>
 </item>
 <item>
-<title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
-<link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-<guid isPermaLink="true">https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
-<description>Egyptian and Nigerian English join the Open ASR Leaderboard (Hugging Face Blog)</description>
+<title>GitHub Copilot weekly releases — November 2</title>
+<link>https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2</guid>
+<description>GitHub Copilot weekly releases — November 2 (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 21:00:26 +0000</pubDate>
 </item>
 <item>
-<title>Measuring how AI agents handle everyday wet-lab science</title>
-<link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-<guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
-<description>Measuring how AI agents handle everyday wet-lab science (OpenAI News)</description>
+<title>@GitHub in Slack and Teams is generally available and more</title>
+<link>https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available</guid>
+<description>@GitHub in Slack and Teams is generally available and more (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Usage metrics API adds code review details and addressed rate</title>
-<link>https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate</guid>
-<description>Usage metrics API adds code review details and addressed rate (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 00:19:07 +0000</pubDate>
+<pubDate>Fri, 06 Nov 2026 20:31:08 +0000</pubDate>
 </item>
 <item>
 <title>13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google</title>
@@ -78,14 +70,6 @@
 <description>13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 06 Nov 2026 11:19:25 +0000</pubDate>
-</item>
-<item>
-<title>Usage metrics API flags telemetry and version gaps</title>
-<link>https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps</guid>
-<description>Usage metrics API flags telemetry and version gaps (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 06 Nov 2026 00:08:31 +0000</pubDate>
 </item>
 <item>
 <title>6G 还没来，AI 已写进它的基因：高通瞄准 2029</title>
@@ -133,7 +117,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/cursor-craft</guid>
 <description>Custom cursors for Mac (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 06 Nov 2026 23:14:27 +0000</pubDate>
+<pubDate>Sat, 07 Nov 2026 02:18:41 +0000</pubDate>
 </item>
 <item>
 <title>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案</title>
@@ -142,6 +126,14 @@
 <description>Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
+</item>
+<item>
+<title>DALI AI by SupplyzPro — The ERP you never need to open</title>
+<link>https://www.producthunt.com/products/supplyzpro-the-conversational-erp</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/supplyzpro-the-conversational-erp</guid>
+<description>The ERP you never need to open (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 07 Nov 2026 02:18:41 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic首次公开募股（IPO）的认购方认为其估值低至1.1万亿美元</title>
@@ -166,6 +158,14 @@
 <description>大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁 (www.cbc.ca)</description>
 <category>Multi-source buzz</category>
 <pubDate>Fri, 06 Nov 2026 22:56:22 +0000</pubDate>
+</item>
+<item>
+<title>写 3 万行代码的不是他，是 AI：前谷歌工程师的"闲人"自白</title>
+<link>https://www.aibase.com/news/32147</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32147</guid>
+<description>写 3 万行代码的不是他，是 AI：前谷歌工程师的"闲人"自白 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 06 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
