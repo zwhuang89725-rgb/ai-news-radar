@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:18:53.268684Z",
+  "generated_at": "2026-11-07T23:19:22.400722Z",
   "date": "2026-11-08",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T20:17:57.149785Z"
+      "observed_at": "2026-11-07T23:18:44.862945Z"
     },
     {
-      "id": "project_f3bc89ac70fa",
-      "project_name": "Deal Pilot",
-      "url": "https://www.producthunt.com/products/deal-pilot",
-      "summary": "AI SDR that books meetings in Japan, the US & SE Asia",
+      "id": "project_825d055021b1",
+      "project_name": "Switchy",
+      "url": "https://www.producthunt.com/products/switchy",
+      "summary": "Mac controls, deploys, 2FA & AI limits in your menu bar",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI SDR that books meetings in Japan, the US & SE Asia」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI SDR that books meetings in Japan, the US & SE Asia\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T00:27:34Z",
-      "updated_at": "2026-11-07T19:30:42Z",
+      "recommend_reason_zh": "体验它主打的「Mac controls, deploys, 2FA & AI limits in your menu bar」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Mac controls, deploys, 2FA & AI limits in your menu bar\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-06T11:24:14Z",
+      "updated_at": "2026-11-07T21:36:34Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T20:18:44.154992Z"
+      "observed_at": "2026-11-07T23:19:10.999970Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T20:17:57.149785Z"
+      "observed_at": "2026-11-07T23:18:44.862945Z"
     },
     {
-      "id": "project_825d055021b1",
-      "project_name": "Switchy",
-      "url": "https://www.producthunt.com/products/switchy",
-      "summary": "Mac controls, deploys, 2FA & AI limits in your menu bar",
+      "id": "project_c354691ede7f",
+      "project_name": "Quest",
+      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
+      "summary": "Your personal AI advisor for a more intentional life",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Mac controls, deploys, 2FA & AI limits in your menu bar」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Mac controls, deploys, 2FA & AI limits in your menu bar\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T11:24:14Z",
-      "updated_at": "2026-11-07T20:17:12Z",
+      "recommend_reason_zh": "体验它主打的「Your personal AI advisor for a more intentional life」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your personal AI advisor for a more intentional life\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T15:22:29Z",
+      "updated_at": "2026-11-07T22:25:23Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T20:18:44.154992Z"
+      "observed_at": "2026-11-07T23:19:10.999970Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1671,
+      "duration_ms": 342,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 153,
+      "duration_ms": 186,
       "error": null
     }
   ]
