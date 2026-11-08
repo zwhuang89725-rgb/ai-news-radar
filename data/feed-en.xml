@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 14:19:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 17:19:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界</title>
@@ -32,12 +32,20 @@
 <pubDate>Sat, 07 Nov 2026 19:40:52 +0000</pubDate>
 </item>
 <item>
-<title>I will not be using LLMs in my coding</title>
-<link>https://www.polso.info/why-i-will-not-be-using-llms-coding</link>
-<guid isPermaLink="true">https://www.polso.info/why-i-will-not-be-using-llms-coding</guid>
-<description>I will not be using LLMs in my coding</description>
+<title>Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy</title>
+<link>https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</link>
+<guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</guid>
+<description>Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy</description>
 <category>Worth watching</category>
-<pubDate>Sun, 08 Nov 2026 12:14:10 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 15:19:51 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI raises $11B at a $1.25T valuation</title>
+<link>https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought</link>
+<guid isPermaLink="true">https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought</guid>
+<description>OpenAI raises $11B at a $1.25T valuation</description>
+<category>Worth watching</category>
+<pubDate>Sun, 08 Nov 2026 14:49:23 +0000</pubDate>
 </item>
 <item>
 <title>克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码</title>
@@ -48,6 +56,14 @@
 <pubDate>Sun, 08 Nov 2026 00:06:44 +0000</pubDate>
 </item>
 <item>
+<title>I will not be using LLMs in my coding</title>
+<link>https://www.polso.info/why-i-will-not-be-using-llms-coding</link>
+<guid isPermaLink="true">https://www.polso.info/why-i-will-not-be-using-llms-coding</guid>
+<description>I will not be using LLMs in my coding</description>
+<category>Worth watching</category>
+<pubDate>Sun, 08 Nov 2026 12:14:10 +0000</pubDate>
+</item>
+<item>
 <title>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
 <link>https://github.com/synchopate/llama-modchip</link>
 <guid isPermaLink="true">https://github.com/synchopate/llama-modchip</guid>
@@ -56,28 +72,12 @@
 <pubDate>Sun, 08 Nov 2026 10:22:04 +0000</pubDate>
 </item>
 <item>
-<title>MaxxBench – “DeepSWE 得分不错。但这是真的吗？”</title>
-<link>https://maxxbench.unlap.ai/research/why-maxxbench</link>
-<guid isPermaLink="true">https://maxxbench.unlap.ai/research/why-maxxbench</guid>
-<description>MaxxBench – “DeepSWE 得分不错。但这是真的吗？” (maxxbench.unlap.ai)</description>
-<category>Worth watching</category>
-<pubDate>Sat, 07 Nov 2026 20:43:55 +0000</pubDate>
-</item>
-<item>
-<title>Goodbye Claude, Hello Pi</title>
+<title>Goodbye Claude, hello Pi</title>
 <link>https://caleb.software/posts/claude-to-pi.html</link>
 <guid isPermaLink="true">https://caleb.software/posts/claude-to-pi.html</guid>
-<description>Goodbye Claude, Hello Pi</description>
+<description>Goodbye Claude, hello Pi</description>
 <category>Worth watching</category>
 <pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8</title>
-<link>https://github.com/Video-Rebirth/hyperflow-h3-flash</link>
-<guid isPermaLink="true">https://github.com/Video-Rebirth/hyperflow-h3-flash</guid>
-<description>Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8</description>
-<category>Worth watching</category>
-<pubDate>Sat, 07 Nov 2026 15:16:01 +0000</pubDate>
 </item>
 </channel>
 </rss>
