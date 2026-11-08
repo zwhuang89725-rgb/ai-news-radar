@@ -5,15 +5,23 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 11:18:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 14:19:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>ChatGPT Images 2.6 — Create, edit, and animate images with AI</title>
-<link>https://www.producthunt.com/products/openai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
-<description>Create, edit, and animate images with AI (Product Hunt)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 07 Nov 2026 14:18:46 +0000</pubDate>
+<title>何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界</title>
+<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45</link>
+<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45</guid>
+<description>何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界 (Daily Digest)</description>
+<category>Industry news</category>
+<pubDate>Sun, 08 Nov 2026 11:34:35 +0000</pubDate>
+</item>
+<item>
+<title>anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</title>
+<link>https://github.com/anthropics/claude-quickstarts</link>
+<guid isPermaLink="true">https://github.com/anthropics/claude-quickstarts</guid>
+<description>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API (GitHub Trending)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 08 Nov 2026 14:19:27 +0000</pubDate>
 </item>
 <item>
 <title>微软研究院“AI Frontiers”团队的解散</title>
@@ -24,6 +32,14 @@
 <pubDate>Sat, 07 Nov 2026 19:40:52 +0000</pubDate>
 </item>
 <item>
+<title>I will not be using LLMs in my coding</title>
+<link>https://www.polso.info/why-i-will-not-be-using-llms-coding</link>
+<guid isPermaLink="true">https://www.polso.info/why-i-will-not-be-using-llms-coding</guid>
+<description>I will not be using LLMs in my coding</description>
+<category>Worth watching</category>
+<pubDate>Sun, 08 Nov 2026 12:14:10 +0000</pubDate>
+</item>
+<item>
 <title>克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码</title>
 <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
 <guid isPermaLink="true">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</guid>
@@ -32,20 +48,12 @@
 <pubDate>Sun, 08 Nov 2026 00:06:44 +0000</pubDate>
 </item>
 <item>
-<title>dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</title>
-<link>https://github.com/dsx-ai-factory/nvke</link>
-<guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
-<description>NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. (GitHub Trending)</description>
+<title>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</title>
+<link>https://github.com/synchopate/llama-modchip</link>
+<guid isPermaLink="true">https://github.com/synchopate/llama-modchip</guid>
+<description>Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU</description>
 <category>Worth watching</category>
-<pubDate>Sat, 07 Nov 2026 11:20:08 +0000</pubDate>
-</item>
-<item>
-<title>Goodbye Claude, Hello Pi</title>
-<link>https://caleb.software/posts/claude-to-pi.html</link>
-<guid isPermaLink="true">https://caleb.software/posts/claude-to-pi.html</guid>
-<description>Goodbye Claude, Hello Pi</description>
-<category>Worth watching</category>
-<pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
+<pubDate>Sun, 08 Nov 2026 10:22:04 +0000</pubDate>
 </item>
 <item>
 <title>MaxxBench – “DeepSWE 得分不错。但这是真的吗？”</title>
@@ -54,6 +62,14 @@
 <description>MaxxBench – “DeepSWE 得分不错。但这是真的吗？” (maxxbench.unlap.ai)</description>
 <category>Worth watching</category>
 <pubDate>Sat, 07 Nov 2026 20:43:55 +0000</pubDate>
+</item>
+<item>
+<title>Goodbye Claude, Hello Pi</title>
+<link>https://caleb.software/posts/claude-to-pi.html</link>
+<guid isPermaLink="true">https://caleb.software/posts/claude-to-pi.html</guid>
+<description>Goodbye Claude, Hello Pi</description>
+<category>Worth watching</category>
+<pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
 </item>
 <item>
 <title>Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8</title>
