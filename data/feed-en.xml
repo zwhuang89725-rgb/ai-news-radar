@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 02:17:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 05:18:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>ChatGPT Images 2.6 — Create, edit, and animate images with AI</title>
@@ -40,6 +40,14 @@
 <pubDate>Sat, 07 Nov 2026 11:20:08 +0000</pubDate>
 </item>
 <item>
+<title>Goodbye Claude, Hello Pi</title>
+<link>https://caleb.software/posts/claude-to-pi.html</link>
+<guid isPermaLink="true">https://caleb.software/posts/claude-to-pi.html</guid>
+<description>Goodbye Claude, Hello Pi</description>
+<category>Worth watching</category>
+<pubDate>Sun, 08 Nov 2026 03:11:48 +0000</pubDate>
+</item>
+<item>
 <title>MaxxBench – “DeepSWE 得分不错。但这是真的吗？”</title>
 <link>https://maxxbench.unlap.ai/research/why-maxxbench</link>
 <guid isPermaLink="true">https://maxxbench.unlap.ai/research/why-maxxbench</guid>
@@ -70,14 +78,6 @@
 <description>每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器 (8rank.ai)</description>
 <category>Worth watching</category>
 <pubDate>Sat, 07 Nov 2026 11:57:50 +0000</pubDate>
-</item>
-<item>
-<title>The AI sell-off compared to well-known stock market crashes</title>
-<link>https://www.kadoa.com/companies/insights/ai-selloff-perspective</link>
-<guid isPermaLink="true">https://www.kadoa.com/companies/insights/ai-selloff-perspective</guid>
-<description>The AI sell-off compared to well-known stock market crashes</description>
-<category>Worth watching</category>
-<pubDate>Sat, 07 Nov 2026 02:20:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
