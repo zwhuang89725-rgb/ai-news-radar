@@ -5,16 +5,8 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 23:18:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 02:17:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
-<item>
-<title>Copilot code review: API management and review overview updates</title>
-<link>https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates</guid>
-<description>Copilot code review: API management and review overview updates (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Sat, 07 Nov 2026 00:27:19 +0000</pubDate>
-</item>
 <item>
 <title>ChatGPT Images 2.6 — Create, edit, and animate images with AI</title>
 <link>https://www.producthunt.com/products/openai</link>
@@ -30,6 +22,14 @@
 <description>微软研究院“AI Frontiers”团队的解散 (hunch.net)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sat, 07 Nov 2026 19:40:52 +0000</pubDate>
+</item>
+<item>
+<title>克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码</title>
+<link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
+<guid isPermaLink="true">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</guid>
+<description>克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 (apiiro.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Sun, 08 Nov 2026 00:06:44 +0000</pubDate>
 </item>
 <item>
 <title>dsx-ai-factory/nvke — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.</title>

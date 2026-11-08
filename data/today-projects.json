@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:19:22.400722Z",
+  "generated_at": "2026-11-08T02:18:08.099833Z",
   "date": "2026-11-08",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T23:18:44.862945Z"
+      "observed_at": "2026-11-08T02:17:24.534421Z"
     },
     {
-      "id": "project_825d055021b1",
-      "project_name": "Switchy",
-      "url": "https://www.producthunt.com/products/switchy",
-      "summary": "Mac controls, deploys, 2FA & AI limits in your menu bar",
+      "id": "project_f6f0b21aa3e6",
+      "project_name": "GPT‑6 Cyber",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "OpenAI’s cyber model, with vetted access for defenders",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Mac controls, deploys, 2FA & AI limits in your menu bar」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Mac controls, deploys, 2FA & AI limits in your menu bar\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T11:24:14Z",
-      "updated_at": "2026-11-07T21:36:34Z",
+      "recommend_reason_zh": "体验它主打的「OpenAI’s cyber model, with vetted access for defenders」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"OpenAI’s cyber model, with vetted access for defenders\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T17:12:40Z",
+      "updated_at": "2026-11-08T02:16:58Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T23:19:10.999970Z"
+      "observed_at": "2026-11-08T02:17:58.916320Z"
     },
     {
       "id": "project_6426decba2ef",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-07T23:18:44.862945Z"
+      "observed_at": "2026-11-08T02:17:24.534421Z"
     },
     {
-      "id": "project_c354691ede7f",
-      "project_name": "Quest",
-      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
-      "summary": "Your personal AI advisor for a more intentional life",
+      "id": "project_c52162924199",
+      "project_name": "Instagram Edits for Desktop",
+      "url": "https://www.producthunt.com/products/instagram",
+      "summary": "Instagram's free desktop video editor with AI agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your personal AI advisor for a more intentional life」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your personal AI advisor for a more intentional life\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-21T15:22:29Z",
-      "updated_at": "2026-11-07T22:25:23Z",
+      "recommend_reason_zh": "用一段自己的素材试试 AI 视频剪辑，看看能否减少手工操作。",
+      "recommend_reason_en": "Try its AI video editing on your own footage and see whether it cuts down manual work.",
+      "published_at": "2026-11-06T00:46:05Z",
+      "updated_at": "2026-11-08T01:50:34Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-07T23:19:10.999970Z"
+      "observed_at": "2026-11-08T02:17:58.916320Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 342,
+      "duration_ms": 281,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 186,
+      "duration_ms": 117,
       "error": null
     }
   ]
