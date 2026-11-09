@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:18:03.882616Z",
+  "generated_at": "2026-11-09T23:17:46.806242Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.857,
-      "importance": 0.857,
-      "importance_score": 0.857,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9276,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,12 +87,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
       "story_id": "story_90c2f4d19eb5",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "source": "OpenAI News",
@@ -100,8 +100,8 @@
       "sources": [
         {
           "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
-          "title_zh": null,
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
           "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
           "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
           "summary": null,
@@ -122,8 +122,8 @@
       "items": [
         {
           "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise now available in AWS Marketplace",
-          "title_zh": null,
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
           "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
           "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
           "summary": null,
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9814,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "official",
@@ -160,8 +160,8 @@
       "latest_at": "2026-11-09T19:00:00Z",
       "primary_item": {
         "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-        "title": "ChatGPT Enterprise now available in AWS Marketplace",
-        "title_zh": null,
+        "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+        "title_zh": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供",
         "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
         "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
         "summary": null,
@@ -174,7 +174,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
+      }
+    },
+    {
+      "story_id": "story_2b2aad2325b1",
+      "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
+          "title_en": "Claude Fable 5.2 in GitHub Copilot",
+          "title_original": "Claude Fable 5.2 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+          "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
+          "title_en": "Claude Fable 5.2 in GitHub Copilot",
+          "title_original": "Claude Fable 5.2 in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T16:46:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9102,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T16:46:43Z",
+      "latest_at": "2026-11-09T16:46:43Z",
+      "primary_item": {
+        "id": "2b16a7a9f935eae9e71325c01e46eed898720acf",
+        "title": "GitHub Copilot 中的Claude寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
+        "title_zh": "GitHub Copilot 中的Claude寓言 5.2",
+        "title_en": "Claude Fable 5.2 in GitHub Copilot",
+        "title_original": "Claude Fable 5.2 in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -226,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8944,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,26 +348,200 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
-      "story_id": "story_e554b8286c64",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "primary_url": "https://openai.com/index/kuken",
+      "story_id": "story_81c2a687b5a2",
+      "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "primary_url": "https://openai.com/index/control-room",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": null,
-          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_zh": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载",
+          "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_original": "Control Room: A central system to track and stop model workloads across our research infrastructure",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/kuken",
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+          "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_zh": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载",
+          "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "title_original": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/control-room",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8618,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T13:00:00Z",
+      "latest_at": "2026-11-09T13:00:00Z",
+      "primary_item": {
+        "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
+        "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "title_zh": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载",
+        "title_en": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "title_original": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/control-room",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T23:19:07.293451Z"
+      }
+    },
+    {
+      "story_id": "story_545a875aa516",
+      "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "primary_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_zh": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密",
+          "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+          "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_zh": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密",
+          "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T09:01:37Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8138,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T09:01:37Z",
+      "latest_at": "2026-11-09T09:01:37Z",
+      "primary_item": {
+        "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
+        "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
+        "title_zh": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密",
+        "title_en": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "title_original": "Secret scanning detects secrets in GitHub Actions workflow logs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T23:19:07.293451Z"
+      }
+    },
+    {
+      "story_id": "story_df14dd6e528b",
+      "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "primary_url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
+          "title_zh": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍",
+          "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+          "title_original": "CodeRabbit scales agentic software development and ships 20x more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -295,14 +556,14 @@
       ],
       "items": [
         {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": null,
-          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+          "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
+          "title_zh": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍",
+          "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+          "title_original": "CodeRabbit scales agentic software development and ships 20x more",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/kuken",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -313,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.8018,
         "story_heat": 0.0
       },
       "category": "official",
@@ -333,14 +594,14 @@
       "earliest_at": "2026-11-09T08:00:00Z",
       "latest_at": "2026-11-09T08:00:00Z",
       "primary_item": {
-        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-        "title": "Kuken Industries searches 70 years of drawings in minutes",
-        "title_zh": null,
-        "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-        "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+        "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
+        "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
+        "title_zh": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍",
+        "title_en": "CodeRabbit scales agentic software development and ships 20x more",
+        "title_original": "CodeRabbit scales agentic software development and ships 20x more",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/kuken",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -348,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -400,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -433,7 +694,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
+      }
+    },
+    {
+      "story_id": "story_e554b8286c64",
+      "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "primary_url": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
+          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
+          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8018,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T08:00:00Z",
+      "latest_at": "2026-11-09T08:00:00Z",
+      "primary_item": {
+        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+        "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
+        "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
+        "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+        "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/kuken",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -485,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -518,7 +866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -570,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -603,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -655,15 +1003,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,7 +1036,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
+      }
+    },
+    {
+      "story_id": "story_c3edcb8060b0",
+      "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+          "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_zh": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号",
+          "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_original": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6368c442f9eb199789fa6f050f3f95e690522575",
+          "title": "Anthropic 推出新的Claude寓言和神话 5.2 型号 / Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_zh": "Anthropic 推出新的Claude寓言和神话 5.2 型号",
+          "title_en": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_original": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T20:20:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+          "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_zh": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号",
+          "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "title_original": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-09T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6368c442f9eb199789fa6f050f3f95e690522575",
+          "title": "Anthropic 推出新的Claude寓言和神话 5.2 型号 / Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_zh": "Anthropic 推出新的Claude寓言和神话 5.2 型号",
+          "title_en": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "title_original": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-09T20:20:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6296,
+      "importance": 0.6296,
+      "importance_score": 0.6296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9398,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T19:00:00Z",
+      "latest_at": "2026-11-09T20:20:00Z",
+      "primary_item": {
+        "id": "a7d690b83b2245ec3a2c2af68bb917303d806900",
+        "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号 / Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "title_zh": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型号",
+        "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "title_original": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -740,15 +1206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,42 +1239,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
-      "story_id": "story_ee5d1c1a5ef9",
-      "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "primary_url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "story_id": "story_3c15da69a72a",
+      "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "primary_url": "https://www.producthunt.com/products/arcjet",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
-          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
-          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "summary": "See why AI recommends your competitors instead of you",
+          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
+          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
+          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "summary": "A family of custom-trained security models for coding agents",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "url": "https://www.producthunt.com/products/arcjet",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-03T10:49:37Z",
-          "updated_at": "2026-11-09T20:14:35Z",
+          "published_at": "2026-11-06T15:23:25Z",
+          "updated_at": "2026-11-09T23:16:59Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
-          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
-          "title_zh": "达吉诺人工智能2.0",
-          "title_en": "Dageno AI 2.0",
-          "title_original": "Dageno AI 2.0",
+          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
+          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
+          "title_zh": "Arcjet AI 安全模型",
+          "title_en": "Arcjet AI security models",
+          "title_original": "Arcjet AI security models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "url": "https://www.producthunt.com/products/arcjet",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -824,30 +1290,30 @@
       ],
       "items": [
         {
-          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
-          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
-          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "summary": "See why AI recommends your competitors instead of you",
+          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
+          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
+          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "summary": "A family of custom-trained security models for coding agents",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "url": "https://www.producthunt.com/products/arcjet",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-03T10:49:37Z",
-          "updated_at": "2026-11-09T20:14:35Z",
+          "published_at": "2026-11-06T15:23:25Z",
+          "updated_at": "2026-11-09T23:16:59Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
-          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
-          "title_zh": "达吉诺人工智能2.0",
-          "title_en": "Dageno AI 2.0",
-          "title_original": "Dageno AI 2.0",
+          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
+          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
+          "title_zh": "Arcjet AI 安全模型",
+          "title_en": "Arcjet AI security models",
+          "title_original": "Arcjet AI security models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "url": "https://www.producthunt.com/products/arcjet",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -858,15 +1324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9992,
+        "recency": 0.9998,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -874,16 +1340,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-09T20:14:35Z",
+      "latest_at": "2026-11-09T23:16:59Z",
       "primary_item": {
-        "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
-        "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-        "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
-        "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-        "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-        "summary": "See why AI recommends your competitors instead of you",
+        "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
+        "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+        "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
+        "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+        "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+        "summary": "A family of custom-trained security models for coding agents",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+        "url": "https://www.producthunt.com/products/arcjet",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -891,7 +1357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -943,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 0.8054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -976,7 +1442,309 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
+      }
+    },
+    {
+      "story_id": "story_1dd063f5f1d1",
+      "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source": "artificialanalysis.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": null,
+          "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:56:55.597000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T20:04:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "artificialanalysis.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": null,
+          "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:56:55.597000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
+          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T20:04:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
+          "title": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_zh": "Claude寓言 5.2人工分析得分 65 分，迄今为止最高",
+          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50431144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T20:04:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9807,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T20:04:55Z",
+      "latest_at": "2026-11-09T21:56:55.597000Z",
+      "primary_item": {
+        "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
+        "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+        "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+        "title_en": null,
+        "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "source": "artificialanalysis.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T23:19:07.293451Z"
+      }
+    },
+    {
+      "story_id": "story_84cc18b39198",
+      "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+      "url": "https://github.com/thisisme6598/gemini_files",
+      "primary_url": "https://github.com/thisisme6598/gemini_files",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": null,
+          "title_original": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:40:44.132000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "661bc25e602941c9789c15aac139b88ddcd1cdf0",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T18:24:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50429426",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T18:24:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": null,
+          "title_original": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T21:40:44.132000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "661bc25e602941c9789c15aac139b88ddcd1cdf0",
+          "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thisisme6598/gemini_files",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T18:24:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "92b735d384a29f773d538722cfa1458e34b61468",
+          "title": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者 / Google Gemini routes personal Drive files and emails to human annotators",
+          "title_zh": "Google Gemini 将个人云端硬盘文件和电子邮件路由给人工注释者",
+          "title_en": "Google Gemini routes personal Drive files and emails to human annotators",
+          "title_original": "Google Gemini routes personal Drive files and emails to human annotators",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50429426",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T18:24:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9769,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T18:24:38Z",
+      "latest_at": "2026-11-09T21:40:44.132000Z",
+      "primary_item": {
+        "id": "5f10c344602b99ba35e8d8a4c3184bc45e92bda5",
+        "title": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+        "title_zh": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+        "title_en": null,
+        "title_original": "谷歌Gemini将个人Drive文件和电子邮件转发给人工标注员",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/thisisme6598/gemini_files",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
@@ -1061,15 +1829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5723,
-      "importance": 0.5723,
-      "importance_score": 0.5723,
+      "score": 0.5656,
+      "importance": 0.5656,
+      "importance_score": 0.5656,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8782,
+        "recency": 0.841,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1094,42 +1862,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     },
     {
-      "story_id": "story_bd0f1ad2779e",
-      "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
-      "url": "https://www.producthunt.com/products/pawse-ai",
-      "primary_url": "https://www.producthunt.com/products/pawse-ai",
+      "story_id": "story_ee5d1c1a5ef9",
+      "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "primary_url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "065ab81c45fa89b3058d97c8435d28c8d5e24da7",
-          "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
-          "title_zh": "Pawse.ai——为狗而非人类设计的声音",
-          "title_en": "Pawse.ai — Sound engineered for dogs, not humans",
-          "title_original": "Pawse.ai — Sound engineered for dogs, not humans",
-          "summary": "Sound engineered for dogs, not humans",
+          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "summary": "See why AI recommends your competitors instead of you",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/pawse-ai",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-02T11:48:42Z",
-          "updated_at": "2026-11-09T20:12:38Z",
+          "published_at": "2026-11-03T10:49:37Z",
+          "updated_at": "2026-11-09T23:16:59Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "b0c9778296f8299731b7510d40631cd0e79bd1da",
-          "title": "Pawse.ai",
-          "title_zh": null,
-          "title_en": "Pawse.ai",
-          "title_original": "Pawse.ai",
+          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
+          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
+          "title_zh": "达吉诺人工智能2.0",
+          "title_en": "Dageno AI 2.0",
+          "title_original": "Dageno AI 2.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/pawse-ai",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1145,30 +1913,30 @@
       ],
       "items": [
         {
-          "id": "065ab81c45fa89b3058d97c8435d28c8d5e24da7",
-          "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
-          "title_zh": "Pawse.ai——为狗而非人类设计的声音",
-          "title_en": "Pawse.ai — Sound engineered for dogs, not humans",
-          "title_original": "Pawse.ai — Sound engineered for dogs, not humans",
-          "summary": "Sound engineered for dogs, not humans",
+          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "summary": "See why AI recommends your competitors instead of you",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/pawse-ai",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-02T11:48:42Z",
-          "updated_at": "2026-11-09T20:12:38Z",
+          "published_at": "2026-11-03T10:49:37Z",
+          "updated_at": "2026-11-09T23:16:59Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "b0c9778296f8299731b7510d40631cd0e79bd1da",
-          "title": "Pawse.ai",
-          "title_zh": null,
-          "title_en": "Pawse.ai",
-          "title_original": "Pawse.ai",
+          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
+          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
+          "title_zh": "达吉诺人工智能2.0",
+          "title_en": "Dageno AI 2.0",
+          "title_original": "Dageno AI 2.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/pawse-ai",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1179,15 +1947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9998,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1195,16 +1963,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-09T20:12:38Z",
+      "latest_at": "2026-11-09T23:16:59Z",
       "primary_item": {
-        "id": "065ab81c45fa89b3058d97c8435d28c8d5e24da7",
-        "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
-        "title_zh": "Pawse.ai——为狗而非人类设计的声音",
-        "title_en": "Pawse.ai — Sound engineered for dogs, not humans",
-        "title_original": "Pawse.ai — Sound engineered for dogs, not humans",
-        "summary": "Sound engineered for dogs, not humans",
+        "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+        "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+        "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "summary": "See why AI recommends your competitors instead of you",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/pawse-ai",
+        "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1212,833 +1980,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
-      }
-    },
-    {
-      "story_id": "story_9eed38dc8eb1",
-      "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-      "url": "https://www.aibase.com/news/32180",
-      "primary_url": "https://www.aibase.com/news/32180",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "title_zh": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "title_en": null,
-          "title_original": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T08:18:26.051599Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "title_zh": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "title_en": null,
-          "title_original": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T08:18:26.051599Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.841,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T08:18:26.051599Z",
-      "latest_at": "2026-11-09T08:18:26.051599Z",
-      "primary_item": {
-        "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-        "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-        "title_zh": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-        "title_en": null,
-        "title_original": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32180",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
-      }
-    },
-    {
-      "story_id": "story_69d30144a8ef",
-      "title": "我们体积最小、效率最高的机型：Muse Ember",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "primary_url": "https://research.meta.ai/blog/muse-ember",
-      "source": "research.meta.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
-          "title": "我们体积最小、效率最高的机型：Muse Ember",
-          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
-          "title_en": null,
-          "title_original": "我们体积最小、效率最高的机型：Muse Ember",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-ember",
-          "source": "research.meta.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T20:05:58.280000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "87a6f460d6ea0188cc1f0034a8d3ceb29f3f3659",
-          "title": "我们体积最小、效率最高的机型：Muse Ember / Our Smallest, Most Efficient Model: Muse Ember",
-          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
-          "title_en": "Our Smallest, Most Efficient Model: Muse Ember",
-          "title_original": "Our Smallest, Most Efficient Model: Muse Ember",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-ember",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T17:58:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "research.meta.ai"
-      ],
-      "items": [
-        {
-          "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
-          "title": "我们体积最小、效率最高的机型：Muse Ember",
-          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
-          "title_en": null,
-          "title_original": "我们体积最小、效率最高的机型：Muse Ember",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-ember",
-          "source": "research.meta.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T20:05:58.280000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "87a6f460d6ea0188cc1f0034a8d3ceb29f3f3659",
-          "title": "我们体积最小、效率最高的机型：Muse Ember / Our Smallest, Most Efficient Model: Muse Ember",
-          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
-          "title_en": "Our Smallest, Most Efficient Model: Muse Ember",
-          "title_original": "Our Smallest, Most Efficient Model: Muse Ember",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://research.meta.ai/blog/muse-ember",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T17:58:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9971,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T17:58:46Z",
-      "latest_at": "2026-11-09T20:05:58.280000Z",
-      "primary_item": {
-        "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
-        "title": "我们体积最小、效率最高的机型：Muse Ember",
-        "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
-        "title_en": null,
-        "title_original": "我们体积最小、效率最高的机型：Muse Ember",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://research.meta.ai/blog/muse-ember",
-        "source": "research.meta.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
-      }
-    },
-    {
-      "story_id": "story_5adadb88e003",
-      "title": "Claude Fable 5.2 和 Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
-          "title": "Claude Fable 5.2 和 Mythos 5.2",
-          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 和 Mythos 5.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T19:17:55.414000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e26debecfcda3df32734bd047767c875f7f583aa",
-          "title": "Claude Fable 5.2 和 Mythos 5.2 / Claude Fable 5.2 and Mythos 5.2",
-          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
-          "title_en": "Claude Fable 5.2 and Mythos 5.2",
-          "title_original": "Claude Fable 5.2 and Mythos 5.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T18:56:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
-          "title": "Claude Fable 5.2 和 Mythos 5.2",
-          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 和 Mythos 5.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T19:17:55.414000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e26debecfcda3df32734bd047767c875f7f583aa",
-          "title": "Claude Fable 5.2 和 Mythos 5.2 / Claude Fable 5.2 and Mythos 5.2",
-          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
-          "title_en": "Claude Fable 5.2 and Mythos 5.2",
-          "title_original": "Claude Fable 5.2 and Mythos 5.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T18:56:29Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9856,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T18:56:29Z",
-      "latest_at": "2026-11-09T19:17:55.414000Z",
-      "primary_item": {
-        "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
-        "title": "Claude Fable 5.2 和 Mythos 5.2",
-        "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
-        "title_en": null,
-        "title_original": "Claude Fable 5.2 和 Mythos 5.2",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
-      }
-    },
-    {
-      "story_id": "story_3cd5631c8eff",
-      "title": "我不认为存在所谓的“AI泡沫”",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
-      "primary_url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
-      "source": "matteoraso.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0558a9862cd340a5f5d190f77f77960f88a611c3",
-          "title": "我不认为存在所谓的“AI泡沫”",
-          "title_zh": "我不认为存在所谓的“AI泡沫”",
-          "title_en": null,
-          "title_original": "我不认为存在所谓的“AI泡沫”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
-          "source": "matteoraso.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T04:57:56.129000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e5f5aa6122235afde943e7844caf1df146314d36",
-          "title": "我不认为存在所谓的“AI泡沫” / I'm not convinced the AI bubble exists",
-          "title_zh": "我不认为存在所谓的“AI泡沫”",
-          "title_en": "I'm not convinced the AI bubble exists",
-          "title_original": "I'm not convinced the AI bubble exists",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T23:44:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9a4ffcb3c98410bf777e3ac4f335cfe214945645",
-          "title": "我不相信人工智能泡沫存在 / I'm not convinced the AI bubble exists",
-          "title_zh": "我不相信人工智能泡沫存在",
-          "title_en": "I'm not convinced the AI bubble exists",
-          "title_original": "I'm not convinced the AI bubble exists",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50418975",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T23:44:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "matteoraso.github.io"
-      ],
-      "items": [
-        {
-          "id": "0558a9862cd340a5f5d190f77f77960f88a611c3",
-          "title": "我不认为存在所谓的“AI泡沫”",
-          "title_zh": "我不认为存在所谓的“AI泡沫”",
-          "title_en": null,
-          "title_original": "我不认为存在所谓的“AI泡沫”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
-          "source": "matteoraso.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T04:57:56.129000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e5f5aa6122235afde943e7844caf1df146314d36",
-          "title": "我不认为存在所谓的“AI泡沫” / I'm not convinced the AI bubble exists",
-          "title_zh": "我不认为存在所谓的“AI泡沫”",
-          "title_en": "I'm not convinced the AI bubble exists",
-          "title_original": "I'm not convinced the AI bubble exists",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T23:44:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9a4ffcb3c98410bf777e3ac4f335cfe214945645",
-          "title": "我不相信人工智能泡沫存在 / I'm not convinced the AI bubble exists",
-          "title_zh": "我不相信人工智能泡沫存在",
-          "title_en": "I'm not convinced the AI bubble exists",
-          "title_original": "I'm not convinced the AI bubble exists",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50418975",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T23:44:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8014,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T23:44:36Z",
-      "latest_at": "2026-11-09T04:57:56.129000Z",
-      "primary_item": {
-        "id": "0558a9862cd340a5f5d190f77f77960f88a611c3",
-        "title": "我不认为存在所谓的“AI泡沫”",
-        "title_zh": "我不认为存在所谓的“AI泡沫”",
-        "title_en": null,
-        "title_original": "我不认为存在所谓的“AI泡沫”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
-        "source": "matteoraso.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
-      }
-    },
-    {
-      "story_id": "story_5984262843ef",
-      "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-      "url": "https://www.producthunt.com/products/producthunt",
-      "primary_url": "https://www.producthunt.com/products/producthunt",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
-          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
-          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
-          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
-          "summary": "The community you trust in the assistant you use",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T21:39:54Z",
-          "updated_at": "2026-11-09T20:12:09Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
-          "title": "Product Hunt MCP",
-          "title_zh": null,
-          "title_en": "Product Hunt MCP",
-          "title_original": "Product Hunt MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
-          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
-          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
-          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
-          "summary": "The community you trust in the assistant you use",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T21:39:54Z",
-          "updated_at": "2026-11-09T20:12:09Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
-          "title": "Product Hunt MCP",
-          "title_zh": null,
-          "title_en": "Product Hunt MCP",
-          "title_original": "Product Hunt MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9986,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-09T20:12:09Z",
-      "primary_item": {
-        "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
-        "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-        "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
-        "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
-        "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
-        "summary": "The community you trust in the assistant you use",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/producthunt",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
-      }
-    },
-    {
-      "story_id": "story_4abedad85259",
-      "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-      "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-      "primary_url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-      "source": "www.stork.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5c1d388099b8b3163f42f4dae883f09e4fa04be9",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "title_en": null,
-          "title_original": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "www.stork.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T15:18:41.370000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7179578806334294bd3cadc16bb72c0a77e316a0",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元 / Apple capped engineers at a $200 daily AI budget",
-          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "title_en": "Apple capped engineers at a $200 daily AI budget",
-          "title_original": "Apple capped engineers at a $200 daily AI budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T05:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.stork.ai"
-      ],
-      "items": [
-        {
-          "id": "5c1d388099b8b3163f42f4dae883f09e4fa04be9",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "title_en": null,
-          "title_original": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "www.stork.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T15:18:41.370000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7179578806334294bd3cadc16bb72c0a77e316a0",
-          "title": "苹果将工程师的每日人工智能预算上限设定为200美元 / Apple capped engineers at a $200 daily AI budget",
-          "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
-          "title_en": "Apple capped engineers at a $200 daily AI budget",
-          "title_original": "Apple capped engineers at a $200 daily AI budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T05:30:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9305,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T05:30:11Z",
-      "latest_at": "2026-11-09T15:18:41.370000Z",
-      "primary_item": {
-        "id": "5c1d388099b8b3163f42f4dae883f09e4fa04be9",
-        "title": "苹果将工程师的每日人工智能预算上限设定为200美元",
-        "title_zh": "苹果将工程师的每日人工智能预算上限设定为200美元",
-        "title_en": null,
-        "title_original": "苹果将工程师的每日人工智能预算上限设定为200美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
-        "source": "www.stork.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
-      }
-    },
-    {
-      "story_id": "story_3861a4134a57",
-      "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "primary_url": "https://news.ycombinator.com/item?id=50422628",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": null,
-          "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T14:46:44.465000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4c64eec1eb7478061428b15d3f5722b60c0ddedd",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器 / ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_original": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T08:17:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": null,
-          "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T14:46:44.465000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4c64eec1eb7478061428b15d3f5722b60c0ddedd",
-          "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器 / ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-          "title_en": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "title_original": "ChatGPT Desktop forwards your SSH agent to remote machines",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422628",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T08:17:49Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9234,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T08:17:49Z",
-      "latest_at": "2026-11-09T14:46:44.465000Z",
-      "primary_item": {
-        "id": "e2e3e9486213268f50aab7f02f8c8aa847814bcc",
-        "title": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-        "title_zh": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-        "title_en": null,
-        "title_original": "ChatGPT Desktop 将您的 SSH 代理转发到远程机器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50422628",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T20:35:14.369716Z"
+        "scored_at": "2026-11-09T23:19:07.293451Z"
       }
     }
   ]
