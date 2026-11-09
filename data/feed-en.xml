@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 11:18:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 14:18:20 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
+<link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+<guid isPermaLink="true">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
+<description>Your Experts Have Partners. There's HOPE for Keeping Them Together (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
+</item>
 <item>
 <title>免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元</title>
 <link>https://www.aibase.com/news/32187</link>
@@ -64,6 +72,14 @@
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
+<title>Arcjet AI security models — A family of custom-trained security models for coding agents</title>
+<link>https://www.producthunt.com/products/arcjet</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/arcjet</guid>
+<description>A family of custom-trained security models for coding agents (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 09 Nov 2026 14:18:49 +0000</pubDate>
+</item>
+<item>
 <title>homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</title>
 <link>https://github.com/homeassistant-ai/ha-mcp</link>
 <guid isPermaLink="true">https://github.com/homeassistant-ai/ha-mcp</guid>
@@ -78,6 +94,14 @@
 <description>实验室里的独角兽要出 App 了：Sakana AI 转向消费端 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
+</item>
+<item>
+<title>MCP1 — One URL for every MCP server.</title>
+<link>https://www.producthunt.com/products/appwrite</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/appwrite</guid>
+<description>One URL for every MCP server. (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 09 Nov 2026 14:18:49 +0000</pubDate>
 </item>
 <item>
 <title>我不认为存在所谓的“AI泡沫”</title>
@@ -96,20 +120,36 @@
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
+<title>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
+<link>https://github.com/samir-sarwar/samir-vllm</link>
+<guid isPermaLink="true">https://github.com/samir-sarwar/samir-vllm</guid>
+<description>6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</description>
+<category>Worth watching</category>
+<pubDate>Mon, 09 Nov 2026 11:36:55 +0000</pubDate>
+</item>
+<item>
+<title>Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering</title>
+<link>https://zenodo.org/records/23682548</link>
+<guid isPermaLink="true">https://zenodo.org/records/23682548</guid>
+<description>Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering</description>
+<category>Worth watching</category>
+<pubDate>Mon, 09 Nov 2026 11:30:27 +0000</pubDate>
+</item>
+<item>
+<title>Product Hunt MCP — The community you trust in the assistant you use</title>
+<link>https://www.producthunt.com/products/producthunt</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/producthunt</guid>
+<description>The community you trust in the assistant you use (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 09 Nov 2026 14:18:49 +0000</pubDate>
+</item>
+<item>
 <title>我如何对抗AI脑力透支</title>
 <link>https://sergeykuhne.com/blog/fighting-ai-brain-fry</link>
 <guid isPermaLink="true">https://sergeykuhne.com/blog/fighting-ai-brain-fry</guid>
 <description>我如何对抗AI脑力透支 (sergeykuhne.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Sun, 08 Nov 2026 22:19:44 +0000</pubDate>
-</item>
-<item>
-<title>为什么我不会在编程中使用大型语言模型</title>
-<link>https://www.polso.info/why-i-will-not-be-using-llms-coding</link>
-<guid isPermaLink="true">https://www.polso.info/why-i-will-not-be-using-llms-coding</guid>
-<description>为什么我不会在编程中使用大型语言模型 (www.polso.info)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 08 Nov 2026 21:47:44 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI以1.25万亿美元估值融资110亿美元</title>
@@ -120,52 +160,12 @@
 <pubDate>Sun, 08 Nov 2026 20:56:03 +0000</pubDate>
 </item>
 <item>
-<title>370 Books in 20 months: South African author defends her use of AI</title>
-<link>https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai</link>
-<guid isPermaLink="true">https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai</guid>
-<description>370 Books in 20 months: South African author defends her use of AI</description>
-<category>Worth watching</category>
-<pubDate>Mon, 09 Nov 2026 07:21:33 +0000</pubDate>
-</item>
-<item>
 <title>英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作</title>
 <link>https://www.aibase.com/news/32179</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32179</guid>
 <description>英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
-</item>
-<item>
-<title>anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</title>
-<link>https://github.com/anthropics/claude-quickstarts</link>
-<guid isPermaLink="true">https://github.com/anthropics/claude-quickstarts</guid>
-<description>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 08 Nov 2026 14:19:27 +0000</pubDate>
-</item>
-<item>
-<title>Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It</title>
-<link>https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</link>
-<guid isPermaLink="true">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</guid>
-<description>Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It</description>
-<category>Worth watching</category>
-<pubDate>Sun, 08 Nov 2026 18:43:07 +0000</pubDate>
-</item>
-<item>
-<title>阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元</title>
-<link>https://www.aibase.com/news/32177</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32177</guid>
-<description>阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
-</item>
-<item>
-<title>Goldman Sachs is pulling Claude Code from its bankers and traders</title>
-<link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-<guid isPermaLink="true">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</guid>
-<description>Goldman Sachs is pulling Claude Code from its bankers and traders</description>
-<category>Worth watching</category>
-<pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
 </item>
 </channel>
 </rss>

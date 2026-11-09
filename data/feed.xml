@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 09 Nov 2026 11:18:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 14:18:20 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
+<link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+<guid isPermaLink="true">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
+</item>
 <item>
 <title>免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元</title>
 <link>https://www.aibase.com/news/32187</link>
@@ -64,6 +72,14 @@
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
+<title>Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents</title>
+<link>https://www.producthunt.com/products/arcjet</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/arcjet</guid>
+<description>A family of custom-trained security models for coding agents（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Mon, 09 Nov 2026 14:18:49 +0000</pubDate>
+</item>
+<item>
 <title>homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。 / homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</title>
 <link>https://github.com/homeassistant-ai/ha-mcp</link>
 <guid isPermaLink="true">https://github.com/homeassistant-ai/ha-mcp</guid>
@@ -78,6 +94,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
+</item>
+<item>
+<title>MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.</title>
+<link>https://www.producthunt.com/products/appwrite</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/appwrite</guid>
+<description>One URL for every MCP server.（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Mon, 09 Nov 2026 14:18:49 +0000</pubDate>
 </item>
 <item>
 <title>我不认为存在所谓的“AI泡沫”</title>
@@ -96,20 +120,36 @@
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
+<title>6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
+<link>https://github.com/samir-sarwar/samir-vllm</link>
+<guid isPermaLink="true">https://github.com/samir-sarwar/samir-vllm</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Mon, 09 Nov 2026 11:36:55 +0000</pubDate>
+</item>
+<item>
+<title>Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering</title>
+<link>https://zenodo.org/records/23682548</link>
+<guid isPermaLink="true">https://zenodo.org/records/23682548</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Mon, 09 Nov 2026 11:30:27 +0000</pubDate>
+</item>
+<item>
+<title>Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use</title>
+<link>https://www.producthunt.com/products/producthunt</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/producthunt</guid>
+<description>The community you trust in the assistant you use（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Mon, 09 Nov 2026 14:18:49 +0000</pubDate>
+</item>
+<item>
 <title>我如何对抗AI脑力透支</title>
 <link>https://sergeykuhne.com/blog/fighting-ai-brain-fry</link>
 <guid isPermaLink="true">https://sergeykuhne.com/blog/fighting-ai-brain-fry</guid>
 <description>sergeykuhne.com</description>
 <category>多源热议</category>
 <pubDate>Sun, 08 Nov 2026 22:19:44 +0000</pubDate>
-</item>
-<item>
-<title>为什么我不会在编程中使用大型语言模型</title>
-<link>https://www.polso.info/why-i-will-not-be-using-llms-coding</link>
-<guid isPermaLink="true">https://www.polso.info/why-i-will-not-be-using-llms-coding</guid>
-<description>www.polso.info</description>
-<category>多源热议</category>
-<pubDate>Sun, 08 Nov 2026 21:47:44 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI以1.25万亿美元估值融资110亿美元</title>
@@ -120,52 +160,12 @@
 <pubDate>Sun, 08 Nov 2026 20:56:03 +0000</pubDate>
 </item>
 <item>
-<title>20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护 / 370 Books in 20 months: South African author defends her use of AI</title>
-<link>https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai</link>
-<guid isPermaLink="true">https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 09 Nov 2026 07:21:33 +0000</pubDate>
-</item>
-<item>
 <title>英伟达首尔 AI Day 全面出击：携手韩国政府及三星、LG、现代等巨头达成多项重磅合作</title>
 <link>https://www.aibase.com/news/32179</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32179</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
-</item>
-<item>
-<title>anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合 / anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</title>
-<link>https://github.com/anthropics/claude-quickstarts</link>
-<guid isPermaLink="true">https://github.com/anthropics/claude-quickstarts</guid>
-<description>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API（GitHub Trending）</description>
-<category>值得关注</category>
-<pubDate>Sun, 08 Nov 2026 14:19:27 +0000</pubDate>
-</item>
-<item>
-<title>硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It</title>
-<link>https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</link>
-<guid isPermaLink="true">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Sun, 08 Nov 2026 18:43:07 +0000</pubDate>
-</item>
-<item>
-<title>阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元</title>
-<link>https://www.aibase.com/news/32177</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32177</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 09 Nov 2026 08:18:26 +0000</pubDate>
-</item>
-<item>
-<title>高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders</title>
-<link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-<guid isPermaLink="true">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
 </item>
 </channel>
 </rss>

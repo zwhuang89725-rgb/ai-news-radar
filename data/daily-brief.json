@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-09T11:18:26.007284Z",
+  "generated_at": "2026-11-09T14:18:20.393950Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3631798e1948",
+      "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "primary_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+          "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_zh": "您的专家有合作伙伴。让他们在一起是有希望的",
+          "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_original": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T12:34:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+          "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_zh": "您的专家有合作伙伴。让他们在一起是有希望的",
+          "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "title_original": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T12:34:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8556,
+      "importance": 0.8556,
+      "importance_score": 0.8556,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9753,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T12:34:29Z",
+      "latest_at": "2026-11-09T12:34:29Z",
+      "primary_item": {
+        "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
+        "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "title_zh": "您的专家有合作伙伴。让他们在一起是有希望的",
+        "title_en": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "title_original": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T14:19:10.277458Z"
+      }
+    },
     {
       "story_id": "story_2c09fe85f3a9",
       "title": "免费时代要结束？三星 Galaxy AI 准备收每月 4.99 美元",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -86,7 +173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -138,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -172,7 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -224,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -258,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -310,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -344,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -396,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -430,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -515,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.629,
-      "importance": 0.629,
-      "importance_score": 0.629,
+      "score": 0.6227,
+      "importance": 0.6227,
+      "importance_score": 0.6227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5544,
         "source_tier": 0.62,
         "ai_relevance": 0.77,
-        "recency": 0.818,
+        "recency": 0.7833,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,7 +635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -600,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,7 +721,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
+      }
+    },
+    {
+      "story_id": "story_610abd9bca77",
+      "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "primary_url": "https://www.producthunt.com/products/arcjet",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
+          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
+          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "summary": "A family of custom-trained security models for coding agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/arcjet",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T15:23:25Z",
+          "updated_at": "2026-11-09T14:17:32Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
+          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
+          "title_zh": "Arcjet AI 安全模型",
+          "title_en": "Arcjet AI security models",
+          "title_original": "Arcjet AI security models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/arcjet",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
+          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
+          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+          "summary": "A family of custom-trained security models for coding agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/arcjet",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T15:23:25Z",
+          "updated_at": "2026-11-09T14:17:32Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
+          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
+          "title_zh": "Arcjet AI 安全模型",
+          "title_en": "Arcjet AI security models",
+          "title_original": "Arcjet AI security models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/arcjet",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9998,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T14:17:32Z",
+      "latest_at": "2026-11-09T14:18:49.865000Z",
+      "primary_item": {
+        "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
+        "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
+        "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
+        "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+        "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
+        "summary": "A family of custom-trained security models for coding agents",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/arcjet",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -719,15 +924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -752,7 +957,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -804,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,7 +1043,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
+      }
+    },
+    {
+      "story_id": "story_18835c1148df",
+      "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
+      "url": "https://www.producthunt.com/products/appwrite",
+      "primary_url": "https://www.producthunt.com/products/appwrite",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "48fbd0ed2607947fb9d4d692454d100b0895ffd3",
+          "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
+          "title_zh": "MCP1 — 每个 MCP 服务器都有一个 URL。",
+          "title_en": "MCP1 — One URL for every MCP server.",
+          "title_original": "MCP1 — One URL for every MCP server.",
+          "summary": "One URL for every MCP server.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/appwrite",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T13:13:56Z",
+          "updated_at": "2026-11-09T14:17:14Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "bc50c63c2253f372b29cd5d636ed59336c1d12f7",
+          "title": "MCP1",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "MCP1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/appwrite",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "48fbd0ed2607947fb9d4d692454d100b0895ffd3",
+          "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
+          "title_zh": "MCP1 — 每个 MCP 服务器都有一个 URL。",
+          "title_en": "MCP1 — One URL for every MCP server.",
+          "title_original": "MCP1 — One URL for every MCP server.",
+          "summary": "One URL for every MCP server.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/appwrite",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T13:13:56Z",
+          "updated_at": "2026-11-09T14:17:14Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "bc50c63c2253f372b29cd5d636ed59336c1d12f7",
+          "title": "MCP1",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "MCP1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/appwrite",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9997,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T14:17:14Z",
+      "latest_at": "2026-11-09T14:18:49.865000Z",
+      "primary_item": {
+        "id": "48fbd0ed2607947fb9d4d692454d100b0895ffd3",
+        "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
+        "title_zh": "MCP1 — 每个 MCP 服务器都有一个 URL。",
+        "title_en": "MCP1 — One URL for every MCP server.",
+        "title_original": "MCP1 — One URL for every MCP server.",
+        "summary": "One URL for every MCP server.",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/appwrite",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -956,15 +1279,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
+      "score": 0.5481,
+      "importance": 0.5481,
+      "importance_score": 0.5481,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9125,
+        "recency": 0.8738,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -989,7 +1312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -1041,15 +1364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1398,361 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
+      }
+    },
+    {
+      "story_id": "story_c843a49a9ec3",
+      "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "primary_url": "https://github.com/samir-sarwar/samir-vllm",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1a5d07aa1dc9ddaadb19d4302a6f721b38bf7300",
+          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
+          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/samir-sarwar/samir-vllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T11:36:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "68e367c2becebc4c062fa9bac20392564566a9f1",
+          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
+          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50424199",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T11:36:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1a5d07aa1dc9ddaadb19d4302a6f721b38bf7300",
+          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
+          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/samir-sarwar/samir-vllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T11:36:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "68e367c2becebc4c062fa9bac20392564566a9f1",
+          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
+          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50424199",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T11:36:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9619,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T11:36:55Z",
+      "latest_at": "2026-11-09T11:36:55Z",
+      "primary_item": {
+        "id": "1a5d07aa1dc9ddaadb19d4302a6f721b38bf7300",
+        "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
+        "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/samir-sarwar/samir-vllm",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T14:19:10.277458Z"
+      }
+    },
+    {
+      "story_id": "story_2b0b444e04ba",
+      "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+      "url": "https://zenodo.org/records/23682548",
+      "primary_url": "https://zenodo.org/records/23682548",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7cdde22a0f3fca44e4c2406a376f64f46971dc41",
+          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
+          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://zenodo.org/records/23682548",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-09T11:30:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "708067ca3aead865f9ea6c49c7336472df76c571",
+          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
+          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50424147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T11:30:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7cdde22a0f3fca44e4c2406a376f64f46971dc41",
+          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
+          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://zenodo.org/records/23682548",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-09T11:30:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "708067ca3aead865f9ea6c49c7336472df76c571",
+          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
+          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50424147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T11:30:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9604,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T11:30:27Z",
+      "latest_at": "2026-11-09T11:30:27Z",
+      "primary_item": {
+        "id": "7cdde22a0f3fca44e4c2406a376f64f46971dc41",
+        "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+        "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
+        "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+        "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://zenodo.org/records/23682548",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T14:19:10.277458Z"
+      }
+    },
+    {
+      "story_id": "story_dfa8cf00047d",
+      "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "primary_url": "https://www.producthunt.com/products/producthunt",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
+          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
+          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
+          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
+          "summary": "The community you trust in the assistant you use",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T21:39:54Z",
+          "updated_at": "2026-11-09T14:17:50Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
+          "title": "Product Hunt MCP",
+          "title_zh": null,
+          "title_en": "Product Hunt MCP",
+          "title_original": "Product Hunt MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
+          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
+          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
+          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
+          "summary": "The community you trust in the assistant you use",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T21:39:54Z",
+          "updated_at": "2026-11-09T14:17:50Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
+          "title": "Product Hunt MCP",
+          "title_zh": null,
+          "title_en": "Product Hunt MCP",
+          "title_original": "Product Hunt MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T14:17:50Z",
+      "latest_at": "2026-11-09T14:18:49.865000Z",
+      "primary_item": {
+        "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
+        "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+        "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
+        "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
+        "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
+        "summary": "The community you trust in the assistant you use",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/producthunt",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -1193,15 +1870,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8291,
+        "recency": 0.794,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1226,158 +1903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
-      }
-    },
-    {
-      "story_id": "story_44b10c0b36c9",
-      "title": "为什么我不会在编程中使用大型语言模型",
-      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-      "source": "www.polso.info",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2704834de82acc4f58d1989254432d7e63eef624",
-          "title": "为什么我不会在编程中使用大型语言模型",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": null,
-          "title_original": "为什么我不会在编程中使用大型语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "www.polso.info",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T21:47:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
-          "title": "为什么我不会在编程中使用大型语言模型 / I will not be using LLMs in my coding",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
-          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-          "title_zh": "我不会在我的编码中使用LLM",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50412591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T12:14:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.polso.info"
-      ],
-      "items": [
-        {
-          "id": "2704834de82acc4f58d1989254432d7e63eef624",
-          "title": "为什么我不会在编程中使用大型语言模型",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": null,
-          "title_original": "为什么我不会在编程中使用大型语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "www.polso.info",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T21:47:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
-          "title": "为什么我不会在编程中使用大型语言模型 / I will not be using LLMs in my coding",
-          "title_zh": "为什么我不会在编程中使用大型语言模型",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T12:14:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "26b1400c69f444daae639cd3c9d6336d88831910",
-          "title": "我不会在我的编码中使用LLM / I will not be using LLMs in my coding",
-          "title_zh": "我不会在我的编码中使用LLM",
-          "title_en": "I will not be using LLMs in my coding",
-          "title_original": "I will not be using LLMs in my coding",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50412591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T12:14:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8227,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T12:14:10Z",
-      "latest_at": "2026-11-08T21:47:44Z",
-      "primary_item": {
-        "id": "2704834de82acc4f58d1989254432d7e63eef624",
-        "title": "为什么我不会在编程中使用大型语言模型",
-        "title_zh": "为什么我不会在编程中使用大型语言模型",
-        "title_en": null,
-        "title_original": "为什么我不会在编程中使用大型语言模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
-        "source": "www.polso.info",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -1495,15 +2021,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8126,
+        "recency": 0.7781,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1528,125 +2054,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
-      }
-    },
-    {
-      "story_id": "story_f7cc8fd7a777",
-      "title": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护 / 370 Books in 20 months: South African author defends her use of AI",
-      "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-      "primary_url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "6e243d9aba1566f1af01d332773deb7073fa74f9",
-          "title": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护 / 370 Books in 20 months: South African author defends her use of AI",
-          "title_zh": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护",
-          "title_en": "370 Books in 20 months: South African author defends her use of AI",
-          "title_original": "370 Books in 20 months: South African author defends her use of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T07:21:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b7bf3102ee8267a5555155a7ec0c519ca62d7408",
-          "title": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护 / 370 Books in 20 months: South African author defends her use of AI",
-          "title_zh": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护",
-          "title_en": "370 Books in 20 months: South African author defends her use of AI",
-          "title_original": "370 Books in 20 months: South African author defends her use of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422181",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T07:21:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6e243d9aba1566f1af01d332773deb7073fa74f9",
-          "title": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护 / 370 Books in 20 months: South African author defends her use of AI",
-          "title_zh": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护",
-          "title_en": "370 Books in 20 months: South African author defends her use of AI",
-          "title_original": "370 Books in 20 months: South African author defends her use of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T07:21:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b7bf3102ee8267a5555155a7ec0c519ca62d7408",
-          "title": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护 / 370 Books in 20 months: South African author defends her use of AI",
-          "title_zh": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护",
-          "title_en": "370 Books in 20 months: South African author defends her use of AI",
-          "title_original": "370 Books in 20 months: South African author defends her use of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50422181",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T07:21:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9446,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T07:21:33Z",
-      "latest_at": "2026-11-09T07:21:33Z",
-      "primary_item": {
-        "id": "6e243d9aba1566f1af01d332773deb7073fa74f9",
-        "title": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护 / 370 Books in 20 months: South African author defends her use of AI",
-        "title_zh": "20 个月内出版 370 本书：南非作家为自己对人工智能的使用辩护",
-        "title_en": "370 Books in 20 months: South African author defends her use of AI",
-        "title_original": "370 Books in 20 months: South African author defends her use of AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     },
     {
@@ -1698,15 +2106,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1732,447 +2140,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
-      }
-    },
-    {
-      "story_id": "story_1aa565e216d9",
-      "title": "anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合 / anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "primary_url": "https://github.com/anthropics/claude-quickstarts",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "c631a56d6581dc0151cae52a8c43fed3b25dccf4",
-          "title": "anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合 / anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "title_zh": "anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合",
-          "title_en": "anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "title_original": "anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
-          "title": "人类学 / Claude快速入门 / anthropics /      claude-quickstarts",
-          "title_zh": "人类学 / Claude快速入门",
-          "title_en": "anthropics /      claude-quickstarts",
-          "title_original": "anthropics /      claude-quickstarts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:06:15.354000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "c631a56d6581dc0151cae52a8c43fed3b25dccf4",
-          "title": "anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合 / anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "title_zh": "anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合",
-          "title_en": "anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "title_original": "anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
-          "title": "人类学 / Claude快速入门 / anthropics /      claude-quickstarts",
-          "title_zh": "人类学 / Claude快速入门",
-          "title_en": "anthropics /      claude-quickstarts",
-          "title_original": "anthropics /      claude-quickstarts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/anthropics/claude-quickstarts",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:06:15.354000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5471,
-      "importance": 0.5471,
-      "importance_score": 0.5471,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7386,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T14:06:15.354000Z",
-      "latest_at": "2026-11-08T14:19:27.608940Z",
-      "primary_item": {
-        "id": "c631a56d6581dc0151cae52a8c43fed3b25dccf4",
-        "title": "anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合 / anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "title_zh": "anthropics/claude-quickstarts — 旨在帮助开发人员快速开始使用 Claude API 构建可部署应用程序的项目集合",
-        "title_en": "anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "title_original": "anthropics/claude-quickstarts — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/anthropics/claude-quickstarts",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
-      }
-    },
-    {
-      "story_id": "story_4d98b6f490bc",
-      "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "primary_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "21e91d9625453e22380024ca7fc94a93dc75def8",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_zh": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账",
-          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T18:43:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_zh": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账",
-          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50415817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:43:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "21e91d9625453e22380024ca7fc94a93dc75def8",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_zh": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账",
-          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T18:43:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_zh": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账",
-          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50415817",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:43:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.787,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T18:43:07Z",
-      "latest_at": "2026-11-08T18:43:07Z",
-      "primary_item": {
-        "id": "21e91d9625453e22380024ca7fc94a93dc75def8",
-        "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "title_zh": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账",
-        "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
-      }
-    },
-    {
-      "story_id": "story_9d9fb2de63a0",
-      "title": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-      "url": "https://www.aibase.com/news/32177",
-      "primary_url": "https://www.aibase.com/news/32177",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a1f1e2f8fc9a8c59a5146315c8ea937b2d305664",
-          "title": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-          "title_zh": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-          "title_en": null,
-          "title_original": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T08:18:26.051599Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a1f1e2f8fc9a8c59a5146315c8ea937b2d305664",
-          "title": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-          "title_zh": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-          "title_en": null,
-          "title_original": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T08:18:26.051599Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T08:18:26.051599Z",
-      "latest_at": "2026-11-09T08:18:26.051599Z",
-      "primary_item": {
-        "id": "a1f1e2f8fc9a8c59a5146315c8ea937b2d305664",
-        "title": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-        "title_zh": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-        "title_en": null,
-        "title_original": "阿里云Token Plan全面提额:Pro档直降187元，Lite入门仅19.5元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32177",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
-      }
-    },
-    {
-      "story_id": "story_90bf1aae532f",
-      "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_zh": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code)",
-          "title_en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_original": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T18:16:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_zh": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code)",
-          "title_en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_original": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50415628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:16:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_zh": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code)",
-          "title_en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_original": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T18:16:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_zh": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code)",
-          "title_en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "title_original": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50415628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:16:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7819,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T18:16:07Z",
-      "latest_at": "2026-11-08T18:16:07Z",
-      "primary_item": {
-        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-        "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "title_zh": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回Claude·科德 (Claude Code)",
-        "title_en": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "title_original": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T11:19:17.435493Z"
+        "scored_at": "2026-11-09T14:19:10.277458Z"
       }
     }
   ]

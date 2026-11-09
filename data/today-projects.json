@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:19:10.821882Z",
+  "generated_at": "2026-11-09T14:19:04.067675Z",
   "date": "2026-11-09",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-09T11:18:26.007284Z"
+      "observed_at": "2026-11-09T14:18:20.393950Z"
     },
     {
-      "id": "project_9cfe66ec8d39",
-      "project_name": "Arcjet AI security models",
-      "url": "https://www.producthunt.com/products/arcjet",
-      "summary": "A family of custom-trained security models for coding agents",
+      "id": "project_1074ee5e2dfd",
+      "project_name": "ProtoMap",
+      "url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+      "summary": "Stop wasting AI tokens rediscovering dependencies",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A family of custom-trained security models for coding agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A family of custom-trained security models for coding agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T15:23:25Z",
-      "updated_at": "2026-11-09T11:18:05Z",
+      "recommend_reason_zh": "体验它主打的「Stop wasting AI tokens rediscovering dependencies」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Stop wasting AI tokens rediscovering dependencies\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T18:27:44Z",
+      "updated_at": "2026-11-09T14:17:36Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-09T11:18:57.261264Z"
+      "observed_at": "2026-11-09T14:18:51.690726Z"
     },
     {
       "id": "project_26b52d229f33",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-09T11:18:26.007284Z"
+      "observed_at": "2026-11-09T14:18:20.393950Z"
     },
     {
-      "id": "project_a01404a27778",
-      "project_name": "Watchflows",
-      "url": "https://www.producthunt.com/products/watchflows",
-      "summary": "Visual automation for your Mac, with AI built in",
+      "id": "project_cab433b7ceaa",
+      "project_name": "Pawse.ai",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "summary": "Sound engineered for dogs, not humans",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Visual automation for your Mac, with AI built in」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Visual automation for your Mac, with AI built in\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T04:13:10Z",
-      "updated_at": "2026-11-09T11:17:57Z",
+      "recommend_reason_zh": "体验它主打的「Sound engineered for dogs, not humans」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Sound engineered for dogs, not humans\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T11:48:42Z",
+      "updated_at": "2026-11-09T13:47:29Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-09T11:18:57.261264Z"
+      "observed_at": "2026-11-09T14:18:51.690726Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1438,
+      "duration_ms": 1676,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 48,
-      "duration_ms": 116,
+      "item_count": 46,
+      "duration_ms": 117,
       "error": null
     }
   ]
