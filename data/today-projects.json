@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:20:08.209424Z",
+  "generated_at": "2026-11-09T20:18:55.085849Z",
   "date": "2026-11-10",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-09T17:19:27.926230Z"
+      "observed_at": "2026-11-09T20:18:03.882616Z"
     },
     {
-      "id": "project_661a8188e396",
-      "project_name": "Dageno AI 2.0",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "summary": "See why AI recommends your competitors instead of you",
+      "id": "project_ede6cfec682a",
+      "project_name": "Voyager",
+      "url": "https://www.producthunt.com/products/vygr",
+      "summary": "✴️ An agentic file browser to navigate your work context",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「See why AI recommends your competitors instead of you」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"See why AI recommends your competitors instead of you\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T10:49:37Z",
-      "updated_at": "2026-11-09T17:18:42Z",
+      "recommend_reason_zh": "体验它主打的「✴️ An agentic file browser to navigate your work context」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"✴️ An agentic file browser to navigate your work context\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-01T07:18:43Z",
+      "updated_at": "2026-11-09T20:17:37Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-09T17:19:56.211181Z"
+      "observed_at": "2026-11-09T20:18:44.420738Z"
     },
     {
       "id": "project_26b52d229f33",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-09T17:19:27.926230Z"
+      "observed_at": "2026-11-09T20:18:03.882616Z"
     },
     {
-      "id": "project_9cfe66ec8d39",
-      "project_name": "Arcjet AI security models",
-      "url": "https://www.producthunt.com/products/arcjet",
-      "summary": "A family of custom-trained security models for coding agents",
+      "id": "project_64dc25ca4653",
+      "project_name": "ClipsPal",
+      "url": "https://www.producthunt.com/products/clipspal",
+      "summary": "AI video editor that edits your talking-head videos",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A family of custom-trained security models for coding agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A family of custom-trained security models for coding agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T15:23:25Z",
-      "updated_at": "2026-11-09T17:18:42Z",
+      "recommend_reason_zh": "用一段自己的素材试试 AI 视频剪辑，看看能否减少手工操作。",
+      "recommend_reason_en": "Try its AI video editing on your own footage and see whether it cuts down manual work.",
+      "published_at": "2026-11-08T13:34:07Z",
+      "updated_at": "2026-11-09T19:39:03Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-09T17:19:56.211181Z"
+      "observed_at": "2026-11-09T20:18:44.420738Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 291,
+      "duration_ms": 1362,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 47,
-      "duration_ms": 101,
+      "duration_ms": 124,
       "error": null
     }
   ]

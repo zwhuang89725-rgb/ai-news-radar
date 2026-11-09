@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:19:27.926230Z",
+  "generated_at": "2026-11-09T20:18:03.882616Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8643,
-      "importance": 0.8643,
-      "importance_score": 0.8643,
+      "score": 0.857,
+      "importance": 0.857,
+      "importance_score": 0.857,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
+        "recency": 0.9276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
+      }
+    },
+    {
+      "story_id": "story_90c2f4d19eb5",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": null,
+          "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+          "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise now available in AWS Marketplace",
+          "title_zh": null,
+          "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+          "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8566,
+      "importance": 0.8566,
+      "importance_score": 0.8566,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9814,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T19:00:00Z",
+      "latest_at": "2026-11-09T19:00:00Z",
+      "primary_item": {
+        "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "title_zh": null,
+        "title_en": "ChatGPT Enterprise now available in AWS Marketplace",
+        "title_original": "ChatGPT Enterprise now available in AWS Marketplace",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9337,
+        "recency": 0.8944,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +261,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
+      }
+    },
+    {
+      "story_id": "story_e554b8286c64",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "primary_url": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": null,
+          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_zh": null,
+          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/kuken",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8372,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T08:00:00Z",
+      "latest_at": "2026-11-09T08:00:00Z",
+      "primary_item": {
+        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "title_zh": null,
+        "title_en": "Kuken Industries searches 70 years of drawings in minutes",
+        "title_original": "Kuken Industries searches 70 years of drawings in minutes",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/kuken",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -226,21 +400,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T11:18:26.007284Z",
       "latest_at": "2026-11-09T11:18:26.007284Z",
@@ -260,7 +433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -312,21 +485,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T11:18:26.007284Z",
       "latest_at": "2026-11-09T11:18:26.007284Z",
@@ -346,7 +518,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -398,21 +570,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T11:18:26.007284Z",
       "latest_at": "2026-11-09T11:18:26.007284Z",
@@ -432,7 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -484,21 +655,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T11:18:26.007284Z",
       "latest_at": "2026-11-09T11:18:26.007284Z",
@@ -518,7 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -570,21 +740,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-09T11:18:26.007284Z",
       "latest_at": "2026-11-09T11:18:26.007284Z",
@@ -604,125 +773,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
-      "story_id": "story_9a69fc205c58",
-      "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-      "primary_url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-      "source": "Follow Builders · Podcast · Latent Space",
-      "source_name": "Follow Builders",
+      "story_id": "story_ee5d1c1a5ef9",
+      "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "primary_url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-          "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "title_zh": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥",
-          "title_en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "title_original": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "summary": null,
+          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "summary": "See why AI recommends your competitors instead of you",
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-          "source": "Follow Builders · Podcast · Latent Space",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-11-08T21:23:29Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-03T10:49:37Z",
+          "updated_at": "2026-11-09T20:14:35Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "273fd0254d684b08c284e786fc0c5b64fd2cc69f",
-          "title": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频] / Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-          "title_zh": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频]",
-          "title_en": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-          "title_original": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
+          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
+          "title_zh": "达吉诺人工智能2.0",
+          "title_en": "Dageno AI 2.0",
+          "title_original": "Dageno AI 2.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T19:14:41Z",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Follow Builders · Podcast · Latent Space",
-        "Hacker News · 24h最热"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-          "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "title_zh": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥",
-          "title_en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "title_original": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-          "summary": null,
+          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "summary": "See why AI recommends your competitors instead of you",
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-          "source": "Follow Builders · Podcast · Latent Space",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-11-08T21:23:29Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-03T10:49:37Z",
+          "updated_at": "2026-11-09T20:14:35Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "273fd0254d684b08c284e786fc0c5b64fd2cc69f",
-          "title": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频] / Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-          "title_zh": "Etsy 更改了条款，在您的创作上训练人工智能，同时阻止您这样做 [视频]",
-          "title_en": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
-          "title_original": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
+          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
+          "title_zh": "达吉诺人工智能2.0",
+          "title_en": "Dageno AI 2.0",
+          "title_original": "Dageno AI 2.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T19:14:41Z",
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6167,
-      "importance": 0.6167,
-      "importance_score": 0.6167,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5544,
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.7499,
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9992,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T19:14:41Z",
-      "latest_at": "2026-11-08T21:23:29Z",
+      "earliest_at": "2026-11-09T14:18:49.865000Z",
+      "latest_at": "2026-11-09T20:14:35Z",
       "primary_item": {
-        "id": "84a9e83b89a29349ba27459332c9a0f38255ca5d",
-        "title": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥 / [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-        "title_zh": "[百万人工智能工程师特别] 斯坦福大学如何教授人工智能原生工程 — Mihail Eric，摩纳哥",
-        "title_en": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-        "title_original": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-        "summary": null,
+        "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+        "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+        "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "summary": "See why AI recommends your competitors instead of you",
         "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=dpY7YzZo4kE",
-        "source": "Follow Builders · Podcast · Latent Space",
-        "source_name": "Follow Builders"
+        "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -774,15 +943,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -807,125 +976,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
-      }
-    },
-    {
-      "story_id": "story_3c15da69a72a",
-      "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-      "url": "https://www.producthunt.com/products/arcjet",
-      "primary_url": "https://www.producthunt.com/products/arcjet",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
-          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
-          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "summary": "A family of custom-trained security models for coding agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T15:23:25Z",
-          "updated_at": "2026-11-09T17:18:42Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
-          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
-          "title_zh": "Arcjet AI 安全模型",
-          "title_en": "Arcjet AI security models",
-          "title_original": "Arcjet AI security models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
-          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
-          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "summary": "A family of custom-trained security models for coding agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T15:23:25Z",
-          "updated_at": "2026-11-09T17:18:42Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
-          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
-          "title_zh": "Arcjet AI 安全模型",
-          "title_en": "Arcjet AI security models",
-          "title_original": "Arcjet AI security models",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9998,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-09T17:18:42Z",
-      "primary_item": {
-        "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
-        "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-        "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
-        "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-        "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-        "summary": "A family of custom-trained security models for coding agents",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/arcjet",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -1010,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5792,
-      "importance": 0.5792,
-      "importance_score": 0.5792,
+      "score": 0.5723,
+      "importance": 0.5723,
+      "importance_score": 0.5723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9168,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1043,7 +1094,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
+      }
+    },
+    {
+      "story_id": "story_bd0f1ad2779e",
+      "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
+      "url": "https://www.producthunt.com/products/pawse-ai",
+      "primary_url": "https://www.producthunt.com/products/pawse-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "065ab81c45fa89b3058d97c8435d28c8d5e24da7",
+          "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
+          "title_zh": "Pawse.ai——为狗而非人类设计的声音",
+          "title_en": "Pawse.ai — Sound engineered for dogs, not humans",
+          "title_original": "Pawse.ai — Sound engineered for dogs, not humans",
+          "summary": "Sound engineered for dogs, not humans",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/pawse-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-02T11:48:42Z",
+          "updated_at": "2026-11-09T20:12:38Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b0c9778296f8299731b7510d40631cd0e79bd1da",
+          "title": "Pawse.ai",
+          "title_zh": null,
+          "title_en": "Pawse.ai",
+          "title_original": "Pawse.ai",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/pawse-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "065ab81c45fa89b3058d97c8435d28c8d5e24da7",
+          "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
+          "title_zh": "Pawse.ai——为狗而非人类设计的声音",
+          "title_en": "Pawse.ai — Sound engineered for dogs, not humans",
+          "title_original": "Pawse.ai — Sound engineered for dogs, not humans",
+          "summary": "Sound engineered for dogs, not humans",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/pawse-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-02T11:48:42Z",
+          "updated_at": "2026-11-09T20:12:38Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b0c9778296f8299731b7510d40631cd0e79bd1da",
+          "title": "Pawse.ai",
+          "title_zh": null,
+          "title_en": "Pawse.ai",
+          "title_original": "Pawse.ai",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/pawse-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T14:18:49.865000Z",
+      "latest_at": "2026-11-09T20:12:38Z",
+      "primary_item": {
+        "id": "065ab81c45fa89b3058d97c8435d28c8d5e24da7",
+        "title": "Pawse.ai——为狗而非人类设计的声音 / Pawse.ai — Sound engineered for dogs, not humans",
+        "title_zh": "Pawse.ai——为狗而非人类设计的声音",
+        "title_en": "Pawse.ai — Sound engineered for dogs, not humans",
+        "title_original": "Pawse.ai — Sound engineered for dogs, not humans",
+        "summary": "Sound engineered for dogs, not humans",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/pawse-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -1095,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1128,125 +1297,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
-      "story_id": "story_ee5d1c1a5ef9",
-      "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "primary_url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_69d30144a8ef",
+      "title": "我们体积最小、效率最高的机型：Muse Ember",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "primary_url": "https://research.meta.ai/blog/muse-ember",
+      "source": "research.meta.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
-          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
-          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "summary": "See why AI recommends your competitors instead of you",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T10:49:37Z",
-          "updated_at": "2026-11-09T17:18:42Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
-          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
-          "title_zh": "达吉诺人工智能2.0",
-          "title_en": "Dageno AI 2.0",
-          "title_original": "Dageno AI 2.0",
+          "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
+          "title": "我们体积最小、效率最高的机型：Muse Ember",
+          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
+          "title_en": null,
+          "title_original": "我们体积最小、效率最高的机型：Muse Ember",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
+          "url": "https://research.meta.ai/blog/muse-ember",
+          "source": "research.meta.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T20:05:58.280000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "87a6f460d6ea0188cc1f0034a8d3ceb29f3f3659",
+          "title": "我们体积最小、效率最高的机型：Muse Ember / Our Smallest, Most Efficient Model: Muse Ember",
+          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
+          "title_en": "Our Smallest, Most Efficient Model: Muse Ember",
+          "title_original": "Our Smallest, Most Efficient Model: Muse Ember",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://research.meta.ai/blog/muse-ember",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T17:58:46Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "research.meta.ai"
       ],
       "items": [
         {
-          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
-          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
-          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-          "summary": "See why AI recommends your competitors instead of you",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-03T10:49:37Z",
-          "updated_at": "2026-11-09T17:18:42Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
-          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
-          "title_zh": "达吉诺人工智能2.0",
-          "title_en": "Dageno AI 2.0",
-          "title_original": "Dageno AI 2.0",
+          "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
+          "title": "我们体积最小、效率最高的机型：Muse Ember",
+          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
+          "title_en": null,
+          "title_original": "我们体积最小、效率最高的机型：Muse Ember",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
+          "url": "https://research.meta.ai/blog/muse-ember",
+          "source": "research.meta.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T20:05:58.280000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "87a6f460d6ea0188cc1f0034a8d3ceb29f3f3659",
+          "title": "我们体积最小、效率最高的机型：Muse Ember / Our Smallest, Most Efficient Model: Muse Ember",
+          "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
+          "title_en": "Our Smallest, Most Efficient Model: Muse Ember",
+          "title_original": "Our Smallest, Most Efficient Model: Muse Ember",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://research.meta.ai/blog/muse-ember",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T17:58:46Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9998,
+        "recency": 0.9971,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-09T17:18:42Z",
+      "earliest_at": "2026-11-09T17:58:46Z",
+      "latest_at": "2026-11-09T20:05:58.280000Z",
       "primary_item": {
-        "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
-        "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-        "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
-        "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-        "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
-        "summary": "See why AI recommends your competitors instead of you",
+        "id": "1ea1460f8cc2051b63d4dbb0bf0e1f0c57b6d4dd",
+        "title": "我们体积最小、效率最高的机型：Muse Ember",
+        "title_zh": "我们体积最小、效率最高的机型：Muse Ember",
+        "title_en": null,
+        "title_original": "我们体积最小、效率最高的机型：Muse Ember",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://research.meta.ai/blog/muse-ember",
+        "source": "research.meta.ai",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
+      }
+    },
+    {
+      "story_id": "story_5adadb88e003",
+      "title": "Claude Fable 5.2 和 Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
+          "title": "Claude Fable 5.2 和 Mythos 5.2",
+          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
+          "title_en": null,
+          "title_original": "Claude Fable 5.2 和 Mythos 5.2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T19:17:55.414000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e26debecfcda3df32734bd047767c875f7f583aa",
+          "title": "Claude Fable 5.2 和 Mythos 5.2 / Claude Fable 5.2 and Mythos 5.2",
+          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
+          "title_en": "Claude Fable 5.2 and Mythos 5.2",
+          "title_original": "Claude Fable 5.2 and Mythos 5.2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T18:56:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
+          "title": "Claude Fable 5.2 和 Mythos 5.2",
+          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
+          "title_en": null,
+          "title_original": "Claude Fable 5.2 和 Mythos 5.2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-09T19:17:55.414000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e26debecfcda3df32734bd047767c875f7f583aa",
+          "title": "Claude Fable 5.2 和 Mythos 5.2 / Claude Fable 5.2 and Mythos 5.2",
+          "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
+          "title_en": "Claude Fable 5.2 and Mythos 5.2",
+          "title_original": "Claude Fable 5.2 and Mythos 5.2",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-09T18:56:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9856,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T18:56:29Z",
+      "latest_at": "2026-11-09T19:17:55.414000Z",
+      "primary_item": {
+        "id": "c7b965ae8a6ebdfffd4e5b102c4bb132d1573e58",
+        "title": "Claude Fable 5.2 和 Mythos 5.2",
+        "title_zh": "Claude Fable 5.2 和 Mythos 5.2",
+        "title_en": null,
+        "title_original": "Claude Fable 5.2 和 Mythos 5.2",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -1364,15 +1651,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8366,
+        "recency": 0.8014,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1397,7 +1684,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
+      }
+    },
+    {
+      "story_id": "story_5984262843ef",
+      "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "primary_url": "https://www.producthunt.com/products/producthunt",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
+          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
+          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
+          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
+          "summary": "The community you trust in the assistant you use",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T21:39:54Z",
+          "updated_at": "2026-11-09T20:12:09Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
+          "title": "Product Hunt MCP",
+          "title_zh": null,
+          "title_en": "Product Hunt MCP",
+          "title_original": "Product Hunt MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
+          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
+          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
+          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
+          "summary": "The community you trust in the assistant you use",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-06T21:39:54Z",
+          "updated_at": "2026-11-09T20:12:09Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
+          "title": "Product Hunt MCP",
+          "title_zh": null,
+          "title_en": "Product Hunt MCP",
+          "title_original": "Product Hunt MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/producthunt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9986,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T14:18:49.865000Z",
+      "latest_at": "2026-11-09T20:12:09Z",
+      "primary_item": {
+        "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
+        "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
+        "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
+        "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
+        "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
+        "summary": "The community you trust in the assistant you use",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/producthunt",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -1482,15 +1887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9714,
+        "recency": 0.9305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,7 +1920,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     },
     {
@@ -1600,15 +2005,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9639,
+        "recency": 0.9234,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1633,446 +2038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
-      }
-    },
-    {
-      "story_id": "story_11bf36fea7a6",
-      "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-      "url": "https://www.aibase.com/news/32181",
-      "primary_url": "https://www.aibase.com/news/32181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "title_zh": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "title_en": null,
-          "title_original": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T08:18:26.051599Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "title_zh": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "title_en": null,
-          "title_original": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T08:18:26.051599Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8779,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T08:18:26.051599Z",
-      "latest_at": "2026-11-09T08:18:26.051599Z",
-      "primary_item": {
-        "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-        "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-        "title_zh": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-        "title_en": null,
-        "title_original": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32181",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
-      }
-    },
-    {
-      "story_id": "story_5f85212fd962",
-      "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
-      "url": "https://www.producthunt.com/products/appwrite",
-      "primary_url": "https://www.producthunt.com/products/appwrite",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "48fbd0ed2607947fb9d4d692454d100b0895ffd3",
-          "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
-          "title_zh": "MCP1 — 每个 MCP 服务器都有一个 URL。",
-          "title_en": "MCP1 — One URL for every MCP server.",
-          "title_original": "MCP1 — One URL for every MCP server.",
-          "summary": "One URL for every MCP server.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/appwrite",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T13:13:56Z",
-          "updated_at": "2026-11-09T17:18:45Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "bc50c63c2253f372b29cd5d636ed59336c1d12f7",
-          "title": "MCP1",
-          "title_zh": null,
-          "title_en": null,
-          "title_original": "MCP1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/appwrite",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "48fbd0ed2607947fb9d4d692454d100b0895ffd3",
-          "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
-          "title_zh": "MCP1 — 每个 MCP 服务器都有一个 URL。",
-          "title_en": "MCP1 — One URL for every MCP server.",
-          "title_original": "MCP1 — One URL for every MCP server.",
-          "summary": "One URL for every MCP server.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/appwrite",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T13:13:56Z",
-          "updated_at": "2026-11-09T17:18:45Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "bc50c63c2253f372b29cd5d636ed59336c1d12f7",
-          "title": "MCP1",
-          "title_zh": null,
-          "title_en": null,
-          "title_original": "MCP1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/appwrite",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9998,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-09T17:18:45Z",
-      "primary_item": {
-        "id": "48fbd0ed2607947fb9d4d692454d100b0895ffd3",
-        "title": "MCP1 — 每个 MCP 服务器都有一个 URL。 / MCP1 — One URL for every MCP server.",
-        "title_zh": "MCP1 — 每个 MCP 服务器都有一个 URL。",
-        "title_en": "MCP1 — One URL for every MCP server.",
-        "title_original": "MCP1 — One URL for every MCP server.",
-        "summary": "One URL for every MCP server.",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/appwrite",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
-      }
-    },
-    {
-      "story_id": "story_c843a49a9ec3",
-      "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-      "url": "https://github.com/samir-sarwar/samir-vllm",
-      "primary_url": "https://github.com/samir-sarwar/samir-vllm",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1a5d07aa1dc9ddaadb19d4302a6f721b38bf7300",
-          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
-          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/samir-sarwar/samir-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T11:36:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "68e367c2becebc4c062fa9bac20392564566a9f1",
-          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
-          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50424199",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T11:36:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1a5d07aa1dc9ddaadb19d4302a6f721b38bf7300",
-          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
-          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/samir-sarwar/samir-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T11:36:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "68e367c2becebc4c062fa9bac20392564566a9f1",
-          "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
-          "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50424199",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T11:36:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9209,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T11:36:55Z",
-      "latest_at": "2026-11-09T11:36:55Z",
-      "primary_item": {
-        "id": "1a5d07aa1dc9ddaadb19d4302a6f721b38bf7300",
-        "title": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始 / 6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-        "title_zh": "6 小时的 YouTube 和 85 页关于 LLM Inference 的手写笔记 – 从这里开始",
-        "title_en": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-        "title_original": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/samir-sarwar/samir-vllm",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
-      }
-    },
-    {
-      "story_id": "story_2b0b444e04ba",
-      "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-      "url": "https://zenodo.org/records/23682548",
-      "primary_url": "https://zenodo.org/records/23682548",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7cdde22a0f3fca44e4c2406a376f64f46971dc41",
-          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
-          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://zenodo.org/records/23682548",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T11:30:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "708067ca3aead865f9ea6c49c7336472df76c571",
-          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
-          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50424147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T11:30:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7cdde22a0f3fca44e4c2406a376f64f46971dc41",
-          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
-          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://zenodo.org/records/23682548",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-09T11:30:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "708067ca3aead865f9ea6c49c7336472df76c571",
-          "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
-          "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50424147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T11:30:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9194,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T11:30:27Z",
-      "latest_at": "2026-11-09T11:30:27Z",
-      "primary_item": {
-        "id": "7cdde22a0f3fca44e4c2406a376f64f46971dc41",
-        "title": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造 / Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-        "title_zh": "Ginux：运行 Linux 用户空间的新内核，通过人为指导的人工智能工程制造",
-        "title_en": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-        "title_original": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://zenodo.org/records/23682548",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-09T17:20:15.139044Z"
+        "scored_at": "2026-11-09T20:35:14.369716Z"
       }
     }
   ]
