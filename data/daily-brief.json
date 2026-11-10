@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:18:26.595586Z",
+  "generated_at": "2026-11-10T23:19:25.938521Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -44,7 +44,7 @@
           "recency_basis": null
         },
         {
-          "id": "d259a4f419f2ada5208bba086a182e97e105107b",
+          "id": "f8ac75e611e348292be3ad5a75535b726f0a2ff4",
           "title": "Gemini 4 Carbon 现已上市 / Gemini 4 Carbon is now available",
           "title_zh": "Gemini 4 Carbon 现已上市",
           "title_en": "Gemini 4 Carbon is now available",
@@ -52,9 +52,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-10T16:07:15Z",
           "updated_at": null,
           "recency_basis": null
@@ -79,7 +79,7 @@
       "source_count": 4,
       "source_names": [
         "Google DeepMind",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.google",
         "hackernews"
       ],
@@ -117,7 +117,7 @@
           "recency_basis": null
         },
         {
-          "id": "d259a4f419f2ada5208bba086a182e97e105107b",
+          "id": "f8ac75e611e348292be3ad5a75535b726f0a2ff4",
           "title": "Gemini 4 Carbon 现已上市 / Gemini 4 Carbon is now available",
           "title_zh": "Gemini 4 Carbon 现已上市",
           "title_en": "Gemini 4 Carbon is now available",
@@ -125,9 +125,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-10T16:07:15Z",
           "updated_at": null,
           "recency_basis": null
@@ -151,15 +151,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9163,
-      "importance": 0.9163,
-      "importance_score": 0.9163,
+      "score": 0.9091,
+      "importance": 0.9091,
+      "importance_score": 0.9091,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9405,
+        "recency": 0.9005,
         "story_heat": 0.75
       },
       "category": "official",
@@ -187,7 +187,215 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
+      }
+    },
+    {
+      "story_id": "story_c9b05eb43caa",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+          "title": "Introducing Businesses in ChatGPT",
+          "title_zh": null,
+          "title_en": "Introducing Businesses in ChatGPT",
+          "title_original": "Introducing Businesses in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 中的企业 – OpenAI / Businesses in ChatGPT – OpenAI",
+          "title_zh": "ChatGPT 中的企业 – OpenAI",
+          "title_en": "Businesses in ChatGPT – OpenAI",
+          "title_original": "Businesses in ChatGPT – OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+          "title": "Introducing Businesses in ChatGPT",
+          "title_zh": null,
+          "title_en": "Introducing Businesses in ChatGPT",
+          "title_original": "Introducing Businesses in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 中的企业 – OpenAI / Businesses in ChatGPT – OpenAI",
+          "title_zh": "ChatGPT 中的企业 – OpenAI",
+          "title_en": "Businesses in ChatGPT – OpenAI",
+          "title_original": "Businesses in ChatGPT – OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8535,
+      "importance": 0.8535,
+      "importance_score": 0.8535,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.825,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T10:00:00Z",
+      "latest_at": "2026-11-10T18:10:40Z",
+      "primary_item": {
+        "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+        "title": "Introducing Businesses in ChatGPT",
+        "title_zh": null,
+        "title_en": "Introducing Businesses in ChatGPT",
+        "title_original": "Introducing Businesses in ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-businesses-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T23:20:17.572929Z"
+      }
+    },
+    {
+      "story_id": "story_4fe19f6777ba",
+      "title": "Gemini 4 Carbon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Carbon in GitHub Copilot",
+          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:26:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Carbon in GitHub Copilot",
+          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:26:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9456,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:26:51Z",
+      "latest_at": "2026-11-10T19:26:51Z",
+      "primary_item": {
+        "id": "1bd788375c49e28109adc857f73168083f54024c",
+        "title": "Gemini 4 Carbon in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Carbon in GitHub Copilot",
+        "title_original": "Gemini 4 Carbon in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -239,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9813,
+        "recency": 0.9395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -274,7 +482,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
+      }
+    },
+    {
+      "story_id": "story_3e2e04bf0301",
+      "title": "Codex CLI 0.167.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+          "title": "Codex CLI 0.167.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.167.1",
+          "title_original": "Codex CLI 0.167.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+          "title": "Codex CLI 0.167.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.167.1",
+          "title_original": "Codex CLI 0.167.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.714,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T00:00:00Z",
+      "latest_at": "2026-11-10T00:00:00Z",
+      "primary_item": {
+        "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+        "title": "Codex CLI 0.167.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.167.1",
+        "title_original": "Codex CLI 0.167.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T23:20:17.572929Z"
+      }
+    },
+    {
+      "story_id": "story_49af9c684130",
+      "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "primary_url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+          "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
+          "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+          "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
+          "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.714,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T00:00:00Z",
+      "latest_at": "2026-11-10T00:00:00Z",
+      "primary_item": {
+        "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+        "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
+        "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
+        "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
+        "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -359,15 +741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8252,
+        "recency": 0.79,
         "story_heat": 0.25
       },
       "category": "official",
@@ -395,181 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
-      }
-    },
-    {
-      "story_id": "story_a195268bb47c",
-      "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "primary_url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-          "title_en": "C++ language server now auto-configures MSBuild builds",
-          "title_original": "C++ language server now auto-configures MSBuild builds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T17:04:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-          "title_en": "C++ language server now auto-configures MSBuild builds",
-          "title_original": "C++ language server now auto-configures MSBuild builds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T17:04:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9543,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T17:04:10Z",
-      "latest_at": "2026-11-10T17:04:10Z",
-      "primary_item": {
-        "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-        "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
-        "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
-        "title_en": "C++ language server now auto-configures MSBuild builds",
-        "title_original": "C++ language server now auto-configures MSBuild builds",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
-      }
-    },
-    {
-      "story_id": "story_49af9c684130",
-      "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "primary_url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
-          "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
-          "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7458,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
-      "primary_item": {
-        "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-        "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-        "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
-        "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
-        "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -621,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8999,
+        "recency": 0.8615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -656,117 +864,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
-      "story_id": "story_c9b05eb43caa",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "Introducing Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Introducing Businesses in ChatGPT",
-          "title_original": "Introducing Businesses in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "Introducing Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Introducing Businesses in ChatGPT",
-          "title_original": "Introducing Businesses in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8617,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:00:00Z",
-      "latest_at": "2026-11-10T10:00:00Z",
-      "primary_item": {
-        "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-        "title": "Introducing Businesses in ChatGPT",
-        "title_zh": null,
-        "title_en": "Introducing Businesses in ChatGPT",
-        "title_original": "Introducing Businesses in ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-businesses-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
-      }
-    },
-    {
-      "story_id": "story_85ca9aabc1af",
-      "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "story_id": "story_a195268bb47c",
+      "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+      "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+      "primary_url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-          "title_en": "Dependabot alerts will pause on inactive repositories",
-          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+          "title_en": "C++ language server now auto-configures MSBuild builds",
+          "title_original": "C++ language server now auto-configures MSBuild builds",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z",
+          "published_at": "2026-11-10T17:04:10Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -777,33 +898,33 @@
       ],
       "items": [
         {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-          "title_en": "Dependabot alerts will pause on inactive repositories",
-          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+          "title_en": "C++ language server now auto-configures MSBuild builds",
+          "title_original": "C++ language server now auto-configures MSBuild builds",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z",
+          "published_at": "2026-11-10T17:04:10Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9174,
+        "recency": 0.9136,
         "story_heat": 0.0
       },
       "category": "official",
@@ -812,17 +933,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T14:20:05Z",
-      "latest_at": "2026-11-10T14:20:05Z",
+      "earliest_at": "2026-11-10T17:04:10Z",
+      "latest_at": "2026-11-10T17:04:10Z",
       "primary_item": {
-        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-        "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-        "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-        "title_en": "Dependabot alerts will pause on inactive repositories",
-        "title_original": "Dependabot alerts will pause on inactive repositories",
+        "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
+        "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+        "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
+        "title_en": "C++ language server now auto-configures MSBuild builds",
+        "title_original": "C++ language server now auto-configures MSBuild builds",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -830,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -882,15 +1003,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8875,
+        "recency": 0.8497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -917,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -969,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7458,
+        "recency": 0.714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,7 +1125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -1056,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.887,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1091,7 +1212,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
+      }
+    },
+    {
+      "story_id": "story_85ca9aabc1af",
+      "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8783,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:20:05Z",
+      "latest_at": "2026-11-10T14:20:05Z",
+      "primary_item": {
+        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+        "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+        "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+        "title_en": "Dependabot alerts will pause on inactive repositories",
+        "title_original": "Dependabot alerts will pause on inactive repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -1143,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9129,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1178,94 +1386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
-      }
-    },
-    {
-      "story_id": "story_c32b15c99510",
-      "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "title_zh": "信息更丰富的 GitHub 仪表板",
-          "title_en": "A more informative GitHub dashboard",
-          "title_original": "A more informative GitHub dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "title_zh": "信息更丰富的 GitHub 仪表板",
-          "title_en": "A more informative GitHub dashboard",
-          "title_original": "A more informative GitHub dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8689,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:34:35Z",
-      "latest_at": "2026-11-10T10:34:35Z",
-      "primary_item": {
-        "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-        "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-        "title_zh": "信息更丰富的 GitHub 仪表板",
-        "title_en": "A more informative GitHub dashboard",
-        "title_original": "A more informative GitHub dashboard",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -1317,15 +1438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1350,7 +1471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -1402,15 +1523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8493,
+        "recency": 0.8131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1437,30 +1558,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
-      "story_id": "story_0d33e0222f17",
-      "title": "Gemini 4 Carbon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+      "story_id": "story_c32b15c99510",
+      "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9bef9bf30f7090d83bd98d8cf0ec885fbaa0138d",
-          "title": "Gemini 4 Carbon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Carbon in GitHub Copilot",
-          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+          "title_zh": "信息更丰富的 GitHub 仪表板",
+          "title_en": "A more informative GitHub dashboard",
+          "title_original": "A more informative GitHub dashboard",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T02:26:51Z",
+          "published_at": "2026-11-10T10:34:35Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1471,33 +1592,33 @@
       ],
       "items": [
         {
-          "id": "9bef9bf30f7090d83bd98d8cf0ec885fbaa0138d",
-          "title": "Gemini 4 Carbon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Carbon in GitHub Copilot",
-          "title_original": "Gemini 4 Carbon in GitHub Copilot",
+          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+          "title_zh": "信息更丰富的 GitHub 仪表板",
+          "title_en": "A more informative GitHub dashboard",
+          "title_original": "A more informative GitHub dashboard",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T02:26:51Z",
+          "published_at": "2026-11-10T10:34:35Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7727,
+        "ai_relevance": 0.87,
+        "recency": 0.8319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1506,17 +1627,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:26:51Z",
-      "latest_at": "2026-11-10T02:26:51Z",
+      "earliest_at": "2026-11-10T10:34:35Z",
+      "latest_at": "2026-11-10T10:34:35Z",
       "primary_item": {
-        "id": "9bef9bf30f7090d83bd98d8cf0ec885fbaa0138d",
-        "title": "Gemini 4 Carbon in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 4 Carbon in GitHub Copilot",
-        "title_original": "Gemini 4 Carbon in GitHub Copilot",
+        "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
+        "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
+        "title_zh": "信息更丰富的 GitHub 仪表板",
+        "title_en": "A more informative GitHub dashboard",
+        "title_original": "A more informative GitHub dashboard",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1524,7 +1645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -1576,15 +1697,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1609,7 +1730,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -1661,15 +1782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1694,7 +1815,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     },
     {
@@ -1746,15 +1867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1779,92 +1900,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
-      }
-    },
-    {
-      "story_id": "story_72387562b8c9",
-      "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-      "url": "https://www.aibase.com/news/32215",
-      "primary_url": "https://www.aibase.com/news/32215",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_zh": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_en": null,
-          "title_original": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_zh": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "title_en": null,
-          "title_original": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T11:18:25.370851Z",
-      "latest_at": "2026-11-10T11:18:25.370851Z",
-      "primary_item": {
-        "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-        "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-        "title_zh": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-        "title_en": null,
-        "title_original": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32215",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T20:19:24.806807Z"
+        "scored_at": "2026-11-10T23:20:17.572929Z"
       }
     }
   ]
