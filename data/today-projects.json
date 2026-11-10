@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:19:23.334065Z",
+  "generated_at": "2026-11-10T08:19:15.397178Z",
   "date": "2026-11-10",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T05:18:27.531628Z"
+      "observed_at": "2026-11-10T08:18:28.701269Z"
     },
     {
-      "id": "project_661a8188e396",
-      "project_name": "Dageno AI 2.0",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "summary": "See why AI recommends your competitors instead of you",
+      "id": "project_ae4fb86c61b1",
+      "project_name": "Maxma",
+      "url": "https://www.producthunt.com/products/maxma-2",
+      "summary": "The 24/7 AI teammate that scales your paid ad performance",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「See why AI recommends your competitors instead of you」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"See why AI recommends your competitors instead of you\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T10:49:37Z",
-      "updated_at": "2026-11-10T05:17:55Z",
+      "recommend_reason_zh": "体验它主打的「The 24/7 AI teammate that scales your paid ad performance」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The 24/7 AI teammate that scales your paid ad performance\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-24T00:59:22Z",
+      "updated_at": "2026-11-10T08:18:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T05:19:09.956797Z"
+      "observed_at": "2026-11-10T08:19:03.138003Z"
     },
     {
       "id": "project_26b52d229f33",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T05:18:27.531628Z"
+      "observed_at": "2026-11-10T08:18:28.701269Z"
     },
     {
-      "id": "project_9cfe66ec8d39",
-      "project_name": "Arcjet AI security models",
-      "url": "https://www.producthunt.com/products/arcjet",
-      "summary": "A family of custom-trained security models for coding agents",
+      "id": "project_ad2c5f57d0cb",
+      "project_name": "ZUS",
+      "url": "https://www.producthunt.com/products/zus-2",
+      "summary": "AI-native IDE: agents code with human review",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A family of custom-trained security models for coding agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A family of custom-trained security models for coding agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-06T15:23:25Z",
-      "updated_at": "2026-11-10T05:07:02Z",
+      "recommend_reason_zh": "体验它主打的「AI-native IDE: agents code with human review」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI-native IDE: agents code with human review\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-09T17:01:49Z",
+      "updated_at": "2026-11-10T08:18:23Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T05:19:09.956797Z"
+      "observed_at": "2026-11-10T08:19:03.138003Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1396,
+      "duration_ms": 1644,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 48,
-      "duration_ms": 184,
+      "item_count": 50,
+      "duration_ms": 104,
       "error": null
     }
   ]

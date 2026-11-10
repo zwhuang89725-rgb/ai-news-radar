@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:18:27.531628Z",
+  "generated_at": "2026-11-10T08:18:28.701269Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8145,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8617,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8345,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7853,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7902,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
+      }
+    },
+    {
+      "story_id": "story_133dd0f5d805",
+      "title": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+      "url": "https://www.aibase.com/news/32205",
+      "primary_url": "https://www.aibase.com/news/32205",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5811eb8a316de1bf310c9602e7bd5910ed19ae30",
+          "title": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+          "title_zh": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+          "title_en": null,
+          "title_original": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T08:18:28.701269Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5811eb8a316de1bf310c9602e7bd5910ed19ae30",
+          "title": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+          "title_zh": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+          "title_en": null,
+          "title_original": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T08:18:28.701269Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
+      "primary_item": {
+        "id": "5811eb8a316de1bf310c9602e7bd5910ed19ae30",
+        "title": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+        "title_zh": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+        "title_en": null,
+        "title_original": "Anthropic 重夺\"全球最强\"：Claude Fable 5.2 登顶，还让千个智能体造了系统",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32205",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -487,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7461,
+        "recency": 0.7145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,30 +608,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
-      "story_id": "story_862d52364a56",
-      "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
-      "url": "https://www.aibase.com/news/32204",
-      "primary_url": "https://www.aibase.com/news/32204",
+      "story_id": "story_490a83abeb34",
+      "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
+      "url": "https://www.aibase.com/news/32207",
+      "primary_url": "https://www.aibase.com/news/32207",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b444b4e95f62d7119cd09f1aa3773b74a13adeff",
-          "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
-          "title_zh": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+          "id": "17c6c9252c5df5ac69d5c1599efc5e1744183941",
+          "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
+          "title_zh": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
           "title_en": null,
-          "title_original": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+          "title_original": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32204",
+          "url": "https://www.aibase.com/news/32207",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -556,18 +642,18 @@
       ],
       "items": [
         {
-          "id": "b444b4e95f62d7119cd09f1aa3773b74a13adeff",
-          "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
-          "title_zh": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+          "id": "17c6c9252c5df5ac69d5c1599efc5e1744183941",
+          "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
+          "title_zh": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
           "title_en": null,
-          "title_original": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+          "title_original": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32204",
+          "url": "https://www.aibase.com/news/32207",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -590,17 +676,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T05:18:27.531628Z",
-      "latest_at": "2026-11-10T05:18:27.531628Z",
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
       "primary_item": {
-        "id": "b444b4e95f62d7119cd09f1aa3773b74a13adeff",
-        "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
-        "title_zh": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+        "id": "17c6c9252c5df5ac69d5c1599efc5e1744183941",
+        "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
+        "title_zh": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
         "title_en": null,
-        "title_original": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+        "title_original": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32204",
+        "url": "https://www.aibase.com/news/32207",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -608,117 +694,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
-      "story_id": "story_df14dd6e528b",
-      "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "primary_url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
-          "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-          "title_zh": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍",
-          "title_en": "CodeRabbit scales agentic software development and ships 20x more",
-          "title_original": "CodeRabbit scales agentic software development and ships 20x more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/coderabbit-codex-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
-          "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-          "title_zh": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍",
-          "title_en": "CodeRabbit scales agentic software development and ships 20x more",
-          "title_original": "CodeRabbit scales agentic software development and ships 20x more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/coderabbit-codex-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7351,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T08:00:00Z",
-      "latest_at": "2026-11-09T08:00:00Z",
-      "primary_item": {
-        "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
-        "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-        "title_zh": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍",
-        "title_en": "CodeRabbit scales agentic software development and ships 20x more",
-        "title_original": "CodeRabbit scales agentic software development and ships 20x more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
-      }
-    },
-    {
-      "story_id": "story_898692b6d143",
-      "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
-      "url": "https://www.aibase.com/news/32201",
-      "primary_url": "https://www.aibase.com/news/32201",
+      "story_id": "story_0ba5e0ab65bb",
+      "title": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
+      "url": "https://www.aibase.com/news/32208",
+      "primary_url": "https://www.aibase.com/news/32208",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f22e1492eb4a7e589d2454a9322cb11d008c84a5",
-          "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
-          "title_zh": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+          "id": "a5d4f87d465f6835a52c4b49accef844fa63934e",
+          "title": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
+          "title_zh": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
           "title_en": null,
-          "title_original": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+          "title_original": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32201",
+          "url": "https://www.aibase.com/news/32208",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,18 +728,18 @@
       ],
       "items": [
         {
-          "id": "f22e1492eb4a7e589d2454a9322cb11d008c84a5",
-          "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
-          "title_zh": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+          "id": "a5d4f87d465f6835a52c4b49accef844fa63934e",
+          "title": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
+          "title_zh": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
           "title_en": null,
-          "title_original": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+          "title_original": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32201",
+          "url": "https://www.aibase.com/news/32208",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -763,17 +762,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T05:18:27.531628Z",
-      "latest_at": "2026-11-10T05:18:27.531628Z",
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
       "primary_item": {
-        "id": "f22e1492eb4a7e589d2454a9322cb11d008c84a5",
-        "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
-        "title_zh": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+        "id": "a5d4f87d465f6835a52c4b49accef844fa63934e",
+        "title": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
+        "title_zh": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
         "title_en": null,
-        "title_original": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+        "title_original": "北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32201",
+        "url": "https://www.aibase.com/news/32208",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -781,117 +780,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
-      "story_id": "story_e554b8286c64",
-      "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "primary_url": "https://openai.com/index/kuken",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
-          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/kuken",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-          "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
-          "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-          "title_original": "Kuken Industries searches 70 years of drawings in minutes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/kuken",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7351,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T08:00:00Z",
-      "latest_at": "2026-11-09T08:00:00Z",
-      "primary_item": {
-        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-        "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-        "title_zh": "Kuken Industries 在几分钟内搜索 70 年的图纸",
-        "title_en": "Kuken Industries searches 70 years of drawings in minutes",
-        "title_original": "Kuken Industries searches 70 years of drawings in minutes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/kuken",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
-      }
-    },
-    {
-      "story_id": "story_b4f30776c2c6",
-      "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
-      "url": "https://www.aibase.com/news/32202",
-      "primary_url": "https://www.aibase.com/news/32202",
+      "story_id": "story_48d2297e9c50",
+      "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
+      "url": "https://www.aibase.com/news/32212",
+      "primary_url": "https://www.aibase.com/news/32212",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b5f47dd6ba1c22c8d656c8f185b7f9bdd9a471a",
-          "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
-          "title_zh": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+          "id": "e8e838ceaf6c7bbc10dc93654291a56170a9144a",
+          "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
+          "title_zh": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
           "title_en": null,
-          "title_original": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+          "title_original": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32202",
+          "url": "https://www.aibase.com/news/32212",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -902,18 +814,18 @@
       ],
       "items": [
         {
-          "id": "4b5f47dd6ba1c22c8d656c8f185b7f9bdd9a471a",
-          "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
-          "title_zh": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+          "id": "e8e838ceaf6c7bbc10dc93654291a56170a9144a",
+          "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
+          "title_zh": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
           "title_en": null,
-          "title_original": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+          "title_original": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32202",
+          "url": "https://www.aibase.com/news/32212",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -936,17 +848,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T05:18:27.531628Z",
-      "latest_at": "2026-11-10T05:18:27.531628Z",
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
       "primary_item": {
-        "id": "4b5f47dd6ba1c22c8d656c8f185b7f9bdd9a471a",
-        "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
-        "title_zh": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+        "id": "e8e838ceaf6c7bbc10dc93654291a56170a9144a",
+        "title": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
+        "title_zh": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
         "title_en": null,
-        "title_original": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+        "title_original": "原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32202",
+        "url": "https://www.aibase.com/news/32212",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -954,30 +866,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
-      "story_id": "story_d048da7a8b2b",
-      "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-      "url": "https://www.aibase.com/news/32203",
-      "primary_url": "https://www.aibase.com/news/32203",
+      "story_id": "story_27c82b0e3db7",
+      "title": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
+      "url": "https://www.aibase.com/news/32209",
+      "primary_url": "https://www.aibase.com/news/32209",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
-          "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-          "title_zh": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+          "id": "e06e9cfd66d91bfb2ea96045630da15a45a7ac77",
+          "title": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
+          "title_zh": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
           "title_en": null,
-          "title_original": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+          "title_original": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32203",
+          "url": "https://www.aibase.com/news/32209",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -988,18 +900,18 @@
       ],
       "items": [
         {
-          "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
-          "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-          "title_zh": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+          "id": "e06e9cfd66d91bfb2ea96045630da15a45a7ac77",
+          "title": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
+          "title_zh": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
           "title_en": null,
-          "title_original": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+          "title_original": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32203",
+          "url": "https://www.aibase.com/news/32209",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T05:18:27.531628Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1022,17 +934,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T05:18:27.531628Z",
-      "latest_at": "2026-11-10T05:18:27.531628Z",
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
       "primary_item": {
-        "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
-        "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-        "title_zh": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+        "id": "e06e9cfd66d91bfb2ea96045630da15a45a7ac77",
+        "title": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
+        "title_zh": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
         "title_en": null,
-        "title_original": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+        "title_original": "史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32203",
+        "url": "https://www.aibase.com/news/32209",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1040,30 +952,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
-      "story_id": "story_0c517d217bb3",
-      "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-      "url": "https://www.aibase.com/news/32190",
-      "primary_url": "https://www.aibase.com/news/32190",
+      "story_id": "story_a3162ac30937",
+      "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
+      "url": "https://www.aibase.com/news/32210",
+      "primary_url": "https://www.aibase.com/news/32210",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
+          "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
+          "title_zh": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
           "title_en": null,
-          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_original": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32190",
+          "url": "https://www.aibase.com/news/32210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1074,33 +986,33 @@
       ],
       "items": [
         {
-          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
+          "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
+          "title_zh": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
           "title_en": null,
-          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_original": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32190",
+          "url": "https://www.aibase.com/news/32210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,17 +1020,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:18:30.535632Z",
-      "latest_at": "2026-11-10T02:18:30.535632Z",
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
       "primary_item": {
-        "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-        "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-        "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
+        "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
+        "title_zh": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
         "title_en": null,
-        "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "title_original": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32190",
+        "url": "https://www.aibase.com/news/32210",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1126,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -1211,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6155,
-      "importance": 0.6155,
-      "importance_score": 0.6155,
+      "score": 0.609,
+      "importance": 0.609,
+      "importance_score": 0.609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8617,
+        "recency": 0.8252,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,30 +1156,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
-      "story_id": "story_d0aa7a131ccd",
-      "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-      "url": "https://www.aibase.com/news/32193",
-      "primary_url": "https://www.aibase.com/news/32193",
+      "story_id": "story_2c2a3cee5578",
+      "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+      "url": "https://www.aibase.com/news/32206",
+      "primary_url": "https://www.aibase.com/news/32206",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
+          "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+          "title_zh": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
           "title_en": null,
-          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_original": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32193",
+          "url": "https://www.aibase.com/news/32206",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1278,33 +1190,33 @@
       ],
       "items": [
         {
-          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
+          "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+          "title_zh": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
           "title_en": null,
-          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_original": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32193",
+          "url": "https://www.aibase.com/news/32206",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1312,17 +1224,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:18:30.535632Z",
-      "latest_at": "2026-11-10T02:18:30.535632Z",
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
       "primary_item": {
-        "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-        "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-        "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
+        "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
+        "title_zh": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
         "title_en": null,
-        "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "title_original": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32193",
+        "url": "https://www.aibase.com/news/32206",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1330,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -1415,15 +1327,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,30 +1360,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
-      "story_id": "story_7f5e33ee2307",
-      "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-      "url": "https://www.aibase.com/news/32188",
-      "primary_url": "https://www.aibase.com/news/32188",
+      "story_id": "story_c869b754b004",
+      "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source": "www.cnbc.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
+          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "title_en": null,
+          "title_original": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-10T06:58:50.689000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6dfc43d849be8628e06743e4965c845f547a3e77",
+          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16% / CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-10T03:20:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f5fb61091a926ffd6345e016e005682dde81a8f1",
+          "title": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16% / CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_zh": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%",
+          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50435660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-10T03:20:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.cnbc.com"
+      ],
+      "items": [
+        {
+          "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
+          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "title_en": null,
+          "title_original": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-10T06:58:50.689000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6dfc43d849be8628e06743e4965c845f547a3e77",
+          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16% / CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-10T03:20:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f5fb61091a926ffd6345e016e005682dde81a8f1",
+          "title": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16% / CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_zh": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16%",
+          "title_en": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "title_original": "CoreWeave bond yield tops 16% as AI credit stress rises",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50435660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-10T03:20:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5674,
+      "importance": 0.5674,
+      "importance_score": 0.5674,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.981,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-10T03:20:06Z",
+      "latest_at": "2026-11-10T06:58:50.689000Z",
+      "primary_item": {
+        "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
+        "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+        "title_zh": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+        "title_en": null,
+        "title_original": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "source": "www.cnbc.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T08:19:35.429077Z"
+      }
+    },
+    {
+      "story_id": "story_d5b798fe7c2c",
+      "title": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
+      "url": "https://www.aibase.com/news/32211",
+      "primary_url": "https://www.aibase.com/news/32211",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "id": "13e5479f293ca5687fb7e6c9360003c7c429c5bd",
+          "title": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
+          "title_zh": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
           "title_en": null,
-          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_original": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32188",
+          "url": "https://www.aibase.com/news/32211",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1482,33 +1545,33 @@
       ],
       "items": [
         {
-          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "id": "13e5479f293ca5687fb7e6c9360003c7c429c5bd",
+          "title": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
+          "title_zh": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
           "title_en": null,
-          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_original": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32188",
+          "url": "https://www.aibase.com/news/32211",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T08:18:28.701269Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1516,17 +1579,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:18:30.535632Z",
-      "latest_at": "2026-11-10T02:18:30.535632Z",
+      "earliest_at": "2026-11-10T08:18:28.701269Z",
+      "latest_at": "2026-11-10T08:18:28.701269Z",
       "primary_item": {
-        "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-        "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-        "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "id": "13e5479f293ca5687fb7e6c9360003c7c429c5bd",
+        "title": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
+        "title_zh": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
         "title_en": null,
-        "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "title_original": "苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32188",
+        "url": "https://www.aibase.com/news/32211",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1534,7 +1597,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -1619,15 +1682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5865,
+      "importance": 0.5865,
+      "importance_score": 0.5865,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1652,7 +1715,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -1770,15 +1833,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5609,
-      "importance": 0.5609,
-      "importance_score": 0.5609,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9452,
+        "recency": 0.9051,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1803,7 +1866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     },
     {
@@ -1888,15 +1951,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.553,
-      "importance": 0.553,
-      "importance_score": 0.553,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.7384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1921,7 +1984,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T05:27:02.042847Z"
+        "scored_at": "2026-11-10T08:19:35.429077Z"
       }
     }
   ]
