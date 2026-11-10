@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 08:18:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 11:18:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Closing the AI guidance gap in education</title>
+<link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+<guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
+<description>Closing the AI guidance gap in education (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
 <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
@@ -14,14 +22,6 @@
 <description>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT Enterprise now available in AWS Marketplace</title>
-<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-<description>ChatGPT Enterprise now available in AWS Marketplace (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Claude Fable 5.2 in GitHub Copilot</title>
@@ -32,12 +32,28 @@
 <pubDate>Mon, 09 Nov 2026 16:46:43 +0000</pubDate>
 </item>
 <item>
+<title>ChatGPT Enterprise now available in AWS Marketplace</title>
+<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+<description>ChatGPT Enterprise now available in AWS Marketplace (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
 <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
 <guid isPermaLink="true">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
 <description>Your Experts Have Partners. There's HOPE for Keeping Them Together (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
+</item>
+<item>
+<title>iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场</title>
+<link>https://www.aibase.com/news/32219</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32219</guid>
+<description>iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
 <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
@@ -48,58 +64,42 @@
 <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
+<title>基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测</title>
+<link>https://www.aibase.com/news/32218</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32218</guid>
+<description>基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
+<title>字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级</title>
+<link>https://www.aibase.com/news/32217</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32217</guid>
+<description>字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
+<title>肯德基在日本翻车：AI 画的商品图，连冰块都"染了色"</title>
+<link>https://www.aibase.com/news/32216</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32216</guid>
+<description>肯德基在日本翻车：AI 画的商品图，连冰块都"染了色" (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
+<title>谷歌给 Gemini 装"删除键"：AI 记住的隐私，现在你能看能改能删</title>
+<link>https://www.aibase.com/news/32215</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32215</guid>
+<description>谷歌给 Gemini 装"删除键"：AI 记住的隐私，现在你能看能改能删 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 重夺"全球最强"：Claude Fable 5.2 登顶，还让千个智能体造了系统</title>
 <link>https://www.aibase.com/news/32205</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32205</guid>
 <description>Anthropic 重夺"全球最强"：Claude Fable 5.2 登顶，还让千个智能体造了系统 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
-</item>
-<item>
-<title>Secret scanning detects secrets in GitHub Actions workflow logs</title>
-<link>https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs</guid>
-<description>Secret scanning detects secrets in GitHub Actions workflow logs (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 09:01:37 +0000</pubDate>
-</item>
-<item>
-<title>个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核</title>
-<link>https://www.aibase.com/news/32207</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32207</guid>
-<description>个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
-</item>
-<item>
-<title>北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形</title>
-<link>https://www.aibase.com/news/32208</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32208</guid>
-<description>北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
-</item>
-<item>
-<title>原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业</title>
-<link>https://www.aibase.com/news/32212</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32212</guid>
-<description>原今日头条 CEO 陈林正式官宣离职：携手“小鹿爱学”投身 AI 教育创业 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
-</item>
-<item>
-<title>史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务</title>
-<link>https://www.aibase.com/news/32209</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32209</guid>
-<description>史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
-</item>
-<item>
-<title>影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元</title>
-<link>https://www.aibase.com/news/32210</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32210</guid>
-<description>影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
 </item>
@@ -112,10 +112,10 @@
 <pubDate>Mon, 09 Nov 2026 20:20:00 +0000</pubDate>
 </item>
 <item>
-<title>美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%</title>
-<link>https://www.aibase.com/news/32206</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32206</guid>
-<description>美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86% (AIbase)</description>
+<title>个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核</title>
+<link>https://www.aibase.com/news/32207</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32207</guid>
+<description>个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
 </item>
@@ -136,10 +136,10 @@
 <pubDate>Tue, 10 Nov 2026 06:58:50 +0000</pubDate>
 </item>
 <item>
-<title>苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地</title>
-<link>https://www.aibase.com/news/32211</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32211</guid>
-<description>苹果 Siri AI 隐藏调度规则曝光：Skimmer 前置拦截，2% 英文高频请求悄悄走本地 (AIbase)</description>
+<title>北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形</title>
+<link>https://www.aibase.com/news/32208</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32208</guid>
+<description>北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
 </item>
@@ -160,12 +160,12 @@
 <pubDate>Tue, 10 Nov 2026 01:24:06 +0000</pubDate>
 </item>
 <item>
-<title>homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.</title>
-<link>https://github.com/homeassistant-ai/ha-mcp</link>
-<guid isPermaLink="true">https://github.com/homeassistant-ai/ha-mcp</guid>
-<description>Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. (GitHub Trending)</description>
+<title>Meet the Sad Wives of AI</title>
+<link>https://www.wired.com/story/meet-the-sad-wives-of-ai</link>
+<guid isPermaLink="true">https://www.wired.com/story/meet-the-sad-wives-of-ai</guid>
+<description>Meet the Sad Wives of AI</description>
 <category>Worth watching</category>
-<pubDate>Mon, 09 Nov 2026 11:18:55 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 10:40:51 +0000</pubDate>
 </item>
 </channel>
 </rss>

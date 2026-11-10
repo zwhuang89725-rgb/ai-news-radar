@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:19:15.397178Z",
+  "generated_at": "2026-11-10T11:19:19.407642Z",
   "date": "2026-11-10",
   "total_items": 4,
   "items": [
@@ -15,49 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T08:18:28.701269Z"
+      "observed_at": "2026-11-10T11:18:25.370851Z"
     },
     {
-      "id": "project_ae4fb86c61b1",
-      "project_name": "Maxma",
-      "url": "https://www.producthunt.com/products/maxma-2",
-      "summary": "The 24/7 AI teammate that scales your paid ad performance",
+      "id": "project_f5d6dfe905a6",
+      "project_name": "Kumiko",
+      "url": "https://www.producthunt.com/products/kumiko-2",
+      "summary": "AI window manager for ultrawide and big-screen Macs",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The 24/7 AI teammate that scales your paid ad performance」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The 24/7 AI teammate that scales your paid ad performance\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-24T00:59:22Z",
-      "updated_at": "2026-11-10T08:18:25Z",
+      "recommend_reason_zh": "体验它主打的「AI window manager for ultrawide and big-screen Macs」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI window manager for ultrawide and big-screen Macs\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-09T21:40:59Z",
+      "updated_at": "2026-11-10T11:18:40Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T08:19:03.138003Z"
+      "observed_at": "2026-11-10T11:19:06.639311Z"
     },
     {
-      "id": "project_26b52d229f33",
-      "project_name": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "summary": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "id": "project_2e74d0228d63",
+      "project_name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "看看这个开源项目的「Production-grade engineering skills for AI coding agents」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Production-grade engineering skills for AI coding agents\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T08:18:28.701269Z"
+      "observed_at": "2026-11-10T11:18:25.370851Z"
     },
     {
-      "id": "project_ad2c5f57d0cb",
-      "project_name": "ZUS",
-      "url": "https://www.producthunt.com/products/zus-2",
-      "summary": "AI-native IDE: agents code with human review",
+      "id": "project_988c935ffb68",
+      "project_name": "Gesso",
+      "url": "https://www.producthunt.com/products/gesso-2",
+      "summary": "Ask ChatGPT or Claude to design, then edit every layer",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI-native IDE: agents code with human review」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI-native IDE: agents code with human review\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-09T17:01:49Z",
-      "updated_at": "2026-11-10T08:18:23Z",
+      "recommend_reason_zh": "体验它主打的「Ask ChatGPT or Claude to design, then edit every layer」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Ask ChatGPT or Claude to design, then edit every layer\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-04T05:47:42Z",
+      "updated_at": "2026-11-10T11:18:40Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T08:19:03.138003Z"
+      "observed_at": "2026-11-10T11:19:06.639311Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 11,
-      "duration_ms": 1644,
+      "item_count": 12,
+      "duration_ms": 1186,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 104,
+      "duration_ms": 109,
       "error": null
     }
   ]
