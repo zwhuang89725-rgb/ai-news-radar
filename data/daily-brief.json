@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:18:30.535632Z",
+  "generated_at": "2026-11-10T05:18:27.531628Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8506,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8998,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8714,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8201,
+        "recency": 0.7853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8252,
+        "recency": 0.7902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7791,
+        "recency": 0.7461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,30 +522,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_0c517d217bb3",
-      "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-      "url": "https://www.aibase.com/news/32190",
-      "primary_url": "https://www.aibase.com/news/32190",
+      "story_id": "story_862d52364a56",
+      "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+      "url": "https://www.aibase.com/news/32204",
+      "primary_url": "https://www.aibase.com/news/32204",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "id": "b444b4e95f62d7119cd09f1aa3773b74a13adeff",
+          "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+          "title_zh": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
           "title_en": null,
-          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_original": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32190",
+          "url": "https://www.aibase.com/news/32204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -556,18 +556,18 @@
       ],
       "items": [
         {
-          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "id": "b444b4e95f62d7119cd09f1aa3773b74a13adeff",
+          "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+          "title_zh": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
           "title_en": null,
-          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_original": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32190",
+          "url": "https://www.aibase.com/news/32204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -590,17 +590,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:18:30.535632Z",
-      "latest_at": "2026-11-10T02:18:30.535632Z",
+      "earliest_at": "2026-11-10T05:18:27.531628Z",
+      "latest_at": "2026-11-10T05:18:27.531628Z",
       "primary_item": {
-        "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
-        "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
-        "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "id": "b444b4e95f62d7119cd09f1aa3773b74a13adeff",
+        "title": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
+        "title_zh": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
         "title_en": null,
-        "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "title_original": "Meta 抛出\"小钢炮\"Muse Ember：跑分追上 Haiku，成本只要三分之一",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32190",
+        "url": "https://www.aibase.com/news/32204",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -660,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7677,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -695,30 +695,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_d0aa7a131ccd",
-      "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-      "url": "https://www.aibase.com/news/32193",
-      "primary_url": "https://www.aibase.com/news/32193",
+      "story_id": "story_898692b6d143",
+      "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+      "url": "https://www.aibase.com/news/32201",
+      "primary_url": "https://www.aibase.com/news/32201",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "id": "f22e1492eb4a7e589d2454a9322cb11d008c84a5",
+          "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+          "title_zh": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
           "title_en": null,
-          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_original": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32193",
+          "url": "https://www.aibase.com/news/32201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,18 +729,18 @@
       ],
       "items": [
         {
-          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "id": "f22e1492eb4a7e589d2454a9322cb11d008c84a5",
+          "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+          "title_zh": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
           "title_en": null,
-          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_original": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32193",
+          "url": "https://www.aibase.com/news/32201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -763,17 +763,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:18:30.535632Z",
-      "latest_at": "2026-11-10T02:18:30.535632Z",
+      "earliest_at": "2026-11-10T05:18:27.531628Z",
+      "latest_at": "2026-11-10T05:18:27.531628Z",
       "primary_item": {
-        "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-        "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-        "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "id": "f22e1492eb4a7e589d2454a9322cb11d008c84a5",
+        "title": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
+        "title_zh": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
         "title_en": null,
-        "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "title_original": "给失控 AI 智能体装\"急刹车\"：OpenAI 35 秒熔断机制上线",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32193",
+        "url": "https://www.aibase.com/news/32201",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -781,7 +781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -833,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7677,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -868,30 +868,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_7f5e33ee2307",
-      "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-      "url": "https://www.aibase.com/news/32188",
-      "primary_url": "https://www.aibase.com/news/32188",
+      "story_id": "story_b4f30776c2c6",
+      "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+      "url": "https://www.aibase.com/news/32202",
+      "primary_url": "https://www.aibase.com/news/32202",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "id": "4b5f47dd6ba1c22c8d656c8f185b7f9bdd9a471a",
+          "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+          "title_zh": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
           "title_en": null,
-          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_original": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32188",
+          "url": "https://www.aibase.com/news/32202",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -902,18 +902,18 @@
       ],
       "items": [
         {
-          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "id": "4b5f47dd6ba1c22c8d656c8f185b7f9bdd9a471a",
+          "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+          "title_zh": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
           "title_en": null,
-          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_original": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32188",
+          "url": "https://www.aibase.com/news/32202",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -936,17 +936,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:18:30.535632Z",
-      "latest_at": "2026-11-10T02:18:30.535632Z",
+      "earliest_at": "2026-11-10T05:18:27.531628Z",
+      "latest_at": "2026-11-10T05:18:27.531628Z",
       "primary_item": {
-        "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
-        "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
-        "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "id": "4b5f47dd6ba1c22c8d656c8f185b7f9bdd9a471a",
+        "title": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
+        "title_zh": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
         "title_en": null,
-        "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "title_original": "腾讯首款专属 AI 游戏陪伴\"鹅次元\"内测：让 AI 钻进游戏画面陪你开黑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32188",
+        "url": "https://www.aibase.com/news/32202",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -954,30 +954,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_314909b45180",
-      "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-      "url": "https://www.aibase.com/news/32194",
-      "primary_url": "https://www.aibase.com/news/32194",
+      "story_id": "story_d048da7a8b2b",
+      "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+      "url": "https://www.aibase.com/news/32203",
+      "primary_url": "https://www.aibase.com/news/32203",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
-          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-          "title_zh": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
+          "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+          "title_zh": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
           "title_en": null,
-          "title_original": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "title_original": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32194",
+          "url": "https://www.aibase.com/news/32203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -988,18 +988,18 @@
       ],
       "items": [
         {
-          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
-          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-          "title_zh": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
+          "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+          "title_zh": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
           "title_en": null,
-          "title_original": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+          "title_original": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32194",
+          "url": "https://www.aibase.com/news/32203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T02:18:30.535632Z",
+          "published_at": "2026-11-10T05:18:27.531628Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1022,17 +1022,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T02:18:30.535632Z",
-      "latest_at": "2026-11-10T02:18:30.535632Z",
+      "earliest_at": "2026-11-10T05:18:27.531628Z",
+      "latest_at": "2026-11-10T05:18:27.531628Z",
       "primary_item": {
-        "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
-        "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-        "title_zh": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+        "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
+        "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
+        "title_zh": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
         "title_en": null,
-        "title_original": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
+        "title_original": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32194",
+        "url": "https://www.aibase.com/news/32203",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1040,26 +1040,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_c74b4d985673",
-      "title": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
-      "url": "https://www.aibase.com/news/32192",
-      "primary_url": "https://www.aibase.com/news/32192",
+      "story_id": "story_0c517d217bb3",
+      "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+      "url": "https://www.aibase.com/news/32190",
+      "primary_url": "https://www.aibase.com/news/32190",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "16f59e17bd6608c55aa7a51acb380f82a62ef273",
-          "title": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
-          "title_zh": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "title_en": null,
-          "title_original": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
+          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32192",
+          "url": "https://www.aibase.com/news/32190",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1074,14 +1074,14 @@
       ],
       "items": [
         {
-          "id": "16f59e17bd6608c55aa7a51acb380f82a62ef273",
-          "title": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
-          "title_zh": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
+          "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+          "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+          "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "title_en": null,
-          "title_original": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
+          "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32192",
+          "url": "https://www.aibase.com/news/32190",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1092,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,14 +1111,14 @@
       "earliest_at": "2026-11-10T02:18:30.535632Z",
       "latest_at": "2026-11-10T02:18:30.535632Z",
       "primary_item": {
-        "id": "16f59e17bd6608c55aa7a51acb380f82a62ef273",
-        "title": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
-        "title_zh": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
+        "id": "9302925ee315c6e5b64eac0ff8ec7d869432c040",
+        "title": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
+        "title_zh": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
         "title_en": null,
-        "title_original": "Meta发布Muse Ember:以极致性价比切入智能体重复性工作",
+        "title_original": "Anthropic 发布 Claude Fable5.2与 Mythos5.2:1000个子智能体8天写出可启动操作系统",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32192",
+        "url": "https://www.aibase.com/news/32190",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1126,7 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -1211,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6224,
-      "importance": 0.6224,
-      "importance_score": 0.6224,
+      "score": 0.6155,
+      "importance": 0.6155,
+      "importance_score": 0.6155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8998,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,26 +1244,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_c837bf0ab0f5",
-      "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
-      "url": "https://www.aibase.com/news/32197",
-      "primary_url": "https://www.aibase.com/news/32197",
+      "story_id": "story_d0aa7a131ccd",
+      "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+      "url": "https://www.aibase.com/news/32193",
+      "primary_url": "https://www.aibase.com/news/32193",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1cbf0062e56fd9d0fff6f04e9c769128ef5f6ba9",
-          "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
-          "title_zh": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
           "title_en": null,
-          "title_original": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32197",
+          "url": "https://www.aibase.com/news/32193",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1278,14 +1278,14 @@
       ],
       "items": [
         {
-          "id": "1cbf0062e56fd9d0fff6f04e9c769128ef5f6ba9",
-          "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
-          "title_zh": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+          "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
           "title_en": null,
-          "title_original": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+          "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32197",
+          "url": "https://www.aibase.com/news/32193",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1296,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,14 +1315,14 @@
       "earliest_at": "2026-11-10T02:18:30.535632Z",
       "latest_at": "2026-11-10T02:18:30.535632Z",
       "primary_item": {
-        "id": "1cbf0062e56fd9d0fff6f04e9c769128ef5f6ba9",
-        "title": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
-        "title_zh": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+        "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
+        "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
+        "title_zh": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
         "title_en": null,
-        "title_original": "MiniMax 加码大模型产业：珠海横琴新设科技公司，注册资本 500 万",
+        "title_original": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32197",
+        "url": "https://www.aibase.com/news/32193",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1330,42 +1330,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_3c15da69a72a",
-      "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-      "url": "https://www.producthunt.com/products/arcjet",
-      "primary_url": "https://www.producthunt.com/products/arcjet",
+      "story_id": "story_4549a49c3246",
+      "title": "Cardboard AI — 使用 AI 编辑视频的最佳方式 / Cardboard AI — Best way to edit videos with AI",
+      "url": "https://www.producthunt.com/products/cardboard-3",
+      "primary_url": "https://www.producthunt.com/products/cardboard-3",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
-          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
-          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "summary": "A family of custom-trained security models for coding agents",
+          "id": "2534d9fa2d8737dc125d0d1124b8bf340cb18063",
+          "title": "Cardboard AI — 使用 AI 编辑视频的最佳方式 / Cardboard AI — Best way to edit videos with AI",
+          "title_zh": "Cardboard AI — 使用 AI 编辑视频的最佳方式",
+          "title_en": "Cardboard AI — Best way to edit videos with AI",
+          "title_original": "Cardboard AI — Best way to edit videos with AI",
+          "summary": "Best way to edit videos with AI",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
+          "url": "https://www.producthunt.com/products/cardboard-3",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-06T15:23:25Z",
-          "updated_at": "2026-11-10T02:18:12Z",
+          "published_at": "2026-11-05T15:56:52Z",
+          "updated_at": "2026-11-10T05:18:13Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
-          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
-          "title_zh": "Arcjet AI 安全模型",
-          "title_en": "Arcjet AI security models",
-          "title_original": "Arcjet AI security models",
+          "id": "5fc5a38e39d9bf31942c74a39e9b37e62b4b5f5d",
+          "title": "Cardboard AI",
+          "title_zh": null,
+          "title_en": "Cardboard AI",
+          "title_original": "Cardboard AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
+          "url": "https://www.producthunt.com/products/cardboard-3",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1381,30 +1381,30 @@
       ],
       "items": [
         {
-          "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
-          "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
-          "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-          "summary": "A family of custom-trained security models for coding agents",
+          "id": "2534d9fa2d8737dc125d0d1124b8bf340cb18063",
+          "title": "Cardboard AI — 使用 AI 编辑视频的最佳方式 / Cardboard AI — Best way to edit videos with AI",
+          "title_zh": "Cardboard AI — 使用 AI 编辑视频的最佳方式",
+          "title_en": "Cardboard AI — Best way to edit videos with AI",
+          "title_original": "Cardboard AI — Best way to edit videos with AI",
+          "summary": "Best way to edit videos with AI",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
+          "url": "https://www.producthunt.com/products/cardboard-3",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-06T15:23:25Z",
-          "updated_at": "2026-11-10T02:18:12Z",
+          "published_at": "2026-11-05T15:56:52Z",
+          "updated_at": "2026-11-10T05:18:13Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "d1255dba52c03c3400491f81f1006ea67e065108",
-          "title": "Arcjet AI 安全模型 / Arcjet AI security models",
-          "title_zh": "Arcjet AI 安全模型",
-          "title_en": "Arcjet AI security models",
-          "title_original": "Arcjet AI security models",
+          "id": "5fc5a38e39d9bf31942c74a39e9b37e62b4b5f5d",
+          "title": "Cardboard AI",
+          "title_zh": null,
+          "title_en": "Cardboard AI",
+          "title_original": "Cardboard AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/arcjet",
+          "url": "https://www.producthunt.com/products/cardboard-3",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1431,16 +1431,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-10T02:18:12Z",
+      "latest_at": "2026-11-10T05:18:13Z",
       "primary_item": {
-        "id": "6cb90f4dbcf46510e6c6f9745b34a647b6aaffe3",
-        "title": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型 / Arcjet AI security models — A family of custom-trained security models for coding agents",
-        "title_zh": "Arcjet AI 安全模型 — 一系列针对编码代理的定制训练安全模型",
-        "title_en": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-        "title_original": "Arcjet AI security models — A family of custom-trained security models for coding agents",
-        "summary": "A family of custom-trained security models for coding agents",
+        "id": "2534d9fa2d8737dc125d0d1124b8bf340cb18063",
+        "title": "Cardboard AI — 使用 AI 编辑视频的最佳方式 / Cardboard AI — Best way to edit videos with AI",
+        "title_zh": "Cardboard AI — 使用 AI 编辑视频的最佳方式",
+        "title_en": "Cardboard AI — Best way to edit videos with AI",
+        "title_original": "Cardboard AI — Best way to edit videos with AI",
+        "summary": "Best way to edit videos with AI",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/arcjet",
+        "url": "https://www.producthunt.com/products/cardboard-3",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1448,26 +1448,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_f0dfa69d0496",
-      "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
-      "url": "https://www.aibase.com/news/32189",
-      "primary_url": "https://www.aibase.com/news/32189",
+      "story_id": "story_7f5e33ee2307",
+      "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+      "url": "https://www.aibase.com/news/32188",
+      "primary_url": "https://www.aibase.com/news/32188",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cb8e3f8bfe6c6dd1ac46244777eea2aeb36a7f8e",
-          "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
-          "title_zh": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
           "title_en": null,
-          "title_original": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32189",
+          "url": "https://www.aibase.com/news/32188",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1482,14 +1482,14 @@
       ],
       "items": [
         {
-          "id": "cb8e3f8bfe6c6dd1ac46244777eea2aeb36a7f8e",
-          "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
-          "title_zh": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+          "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+          "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+          "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
           "title_en": null,
-          "title_original": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+          "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32189",
+          "url": "https://www.aibase.com/news/32188",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1500,15 +1500,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1519,14 +1519,14 @@
       "earliest_at": "2026-11-10T02:18:30.535632Z",
       "latest_at": "2026-11-10T02:18:30.535632Z",
       "primary_item": {
-        "id": "cb8e3f8bfe6c6dd1ac46244777eea2aeb36a7f8e",
-        "title": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
-        "title_zh": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+        "id": "c7563e2a10608c181468b59f98c560dba5a989c8",
+        "title": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
+        "title_zh": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
         "title_en": null,
-        "title_original": "OpenAI 构建中央控制室：实时追踪模型工作负载，确保异常干预后 35 秒内秒级叫停",
+        "title_original": "Medium 推出全新 AI 写作辅助应用 TK，将大模型深度融入创作流程",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32189",
+        "url": "https://www.aibase.com/news/32188",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1534,7 +1534,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
+      }
+    },
+    {
+      "story_id": "story_ee5d1c1a5ef9",
+      "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "primary_url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "summary": "See why AI recommends your competitors instead of you",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-03T10:49:37Z",
+          "updated_at": "2026-11-10T05:17:55Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
+          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
+          "title_zh": "达吉诺人工智能2.0",
+          "title_en": "Dageno AI 2.0",
+          "title_original": "Dageno AI 2.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+          "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+          "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+          "summary": "See why AI recommends your competitors instead of you",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-03T10:49:37Z",
+          "updated_at": "2026-11-10T05:17:55Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "998eea1bc623f8a107e2f87a2d8a806ec2ec4aab",
+          "title": "达吉诺人工智能2.0 / Dageno AI 2.0",
+          "title_zh": "达吉诺人工智能2.0",
+          "title_en": "Dageno AI 2.0",
+          "title_original": "Dageno AI 2.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-09T14:18:49.865000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-09T14:18:49.865000Z",
+      "latest_at": "2026-11-10T05:17:55Z",
+      "primary_item": {
+        "id": "bf2c1786e07ac17b264119be307b5592eb8fd3f5",
+        "title": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您 / Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "title_zh": "Dageno AI 2.0 — 了解为什么 AI 会推荐您的竞争对手而不是您",
+        "title_en": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "title_original": "Dageno AI 2.0 — See why AI recommends your competitors instead of you",
+        "summary": "See why AI recommends your competitors instead of you",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
@@ -1652,15 +1770,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5685,
-      "importance": 0.5685,
-      "importance_score": 0.5685,
+      "score": 0.5609,
+      "importance": 0.5609,
+      "importance_score": 0.5609,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.987,
+        "recency": 0.9452,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1685,276 +1803,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     },
     {
-      "story_id": "story_5984262843ef",
-      "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-      "url": "https://www.producthunt.com/products/producthunt",
-      "primary_url": "https://www.producthunt.com/products/producthunt",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_53022cf20de4",
+      "title": "homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。 / homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "primary_url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
       "sources": [
         {
-          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
-          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
-          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
-          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
-          "summary": "The community you trust in the assistant you use",
+          "id": "eb6c1cc024853db198c539bc9e206f03d9b1eb9d",
+          "title": "homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。 / homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "title_zh": "homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。",
+          "title_en": "homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "title_original": "homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T21:39:54Z",
-          "updated_at": "2026-11-10T02:18:06Z",
-          "recency_basis": "updated_at"
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
         },
         {
-          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
-          "title": "Product Hunt MCP",
-          "title_zh": null,
-          "title_en": "Product Hunt MCP",
-          "title_original": "Product Hunt MCP",
+          "id": "7ba2210bce0fcbf2d4df27a5861bc040546362ce",
+          "title": "家庭助理-ai / ha-mcp / homeassistant-ai /      ha-mcp",
+          "title_zh": "家庭助理-ai / ha-mcp",
+          "title_en": "homeassistant-ai /      ha-mcp",
+          "title_original": "homeassistant-ai /      ha-mcp",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "producthunt",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
+          "published_at": "2026-11-09T11:18:55.689000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "GitHub Trending",
+        "github"
       ],
       "items": [
         {
-          "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
-          "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-          "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
-          "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
-          "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
-          "summary": "The community you trust in the assistant you use",
+          "id": "eb6c1cc024853db198c539bc9e206f03d9b1eb9d",
+          "title": "homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。 / homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "title_zh": "homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。",
+          "title_en": "homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "title_original": "homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+          "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-06T21:39:54Z",
-          "updated_at": "2026-11-10T02:18:06Z",
-          "recency_basis": "updated_at"
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
         },
         {
-          "id": "d2b0d38604c9a3c1046394fef7b79f8931d23717",
-          "title": "Product Hunt MCP",
-          "title_zh": null,
-          "title_en": "Product Hunt MCP",
-          "title_original": "Product Hunt MCP",
+          "id": "7ba2210bce0fcbf2d4df27a5861bc040546362ce",
+          "title": "家庭助理-ai / ha-mcp / homeassistant-ai /      ha-mcp",
+          "title_zh": "家庭助理-ai / ha-mcp",
+          "title_en": "homeassistant-ai /      ha-mcp",
+          "title_original": "homeassistant-ai /      ha-mcp",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/producthunt",
-          "source": "producthunt",
+          "url": "https://github.com/homeassistant-ai/ha-mcp",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-09T14:18:49.865000Z",
+          "published_at": "2026-11-09T11:18:55.689000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-09T14:18:49.865000Z",
-      "latest_at": "2026-11-10T02:18:06Z",
+      "earliest_at": "2026-11-09T11:18:26.007284Z",
+      "latest_at": "2026-11-09T11:18:55.689000Z",
       "primary_item": {
-        "id": "b740b8e55fc0f56d3006c2d5671a55a7d2c81d50",
-        "title": "Product Hunt MCP - 您信任您使用的助手的社区 / Product Hunt MCP — The community you trust in the assistant you use",
-        "title_zh": "Product Hunt MCP - 您信任您使用的助手的社区",
-        "title_en": "Product Hunt MCP — The community you trust in the assistant you use",
-        "title_original": "Product Hunt MCP — The community you trust in the assistant you use",
-        "summary": "The community you trust in the assistant you use",
+        "id": "eb6c1cc024853db198c539bc9e206f03d9b1eb9d",
+        "title": "homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。 / homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "title_zh": "homeassistant-ai/ha-mcp — 使用 Claude、ChatGPT 和其他 AI 助手配置和自动化 Home Assistant。",
+        "title_en": "homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "title_original": "homeassistant-ai/ha-mcp — Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/producthunt",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://github.com/homeassistant-ai/ha-mcp",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
-      }
-    },
-    {
-      "story_id": "story_1dd063f5f1d1",
-      "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "primary_url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
-          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T21:56:55.597000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
-          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T20:04:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
-          "title": "Claude寓言 5.2人工分析得分 65，迄今为止最高 / Claude Fable 5.2 scores 65 on artificial analysis, highest so far",
-          "title_zh": "Claude寓言 5.2人工分析得分 65，迄今为止最高",
-          "title_en": "Claude Fable 5.2 scores 65 on artificial analysis, highest so far",
-          "title_original": "Claude Fable 5.2 scores 65 on artificial analysis, highest so far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50431144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T20:04:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "artificialanalysis.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
-          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-09T21:56:55.597000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d8294c1520c70f73d6787a5d10d1c760876d876f",
-          "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分 / Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-          "title_en": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "title_original": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-09T20:04:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cb684e1db49924718fb72f8f829b305a3af9b33d",
-          "title": "Claude寓言 5.2人工分析得分 65，迄今为止最高 / Claude Fable 5.2 scores 65 on artificial analysis, highest so far",
-          "title_zh": "Claude寓言 5.2人工分析得分 65，迄今为止最高",
-          "title_en": "Claude Fable 5.2 scores 65 on artificial analysis, highest so far",
-          "title_original": "Claude Fable 5.2 scores 65 on artificial analysis, highest so far",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50431144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-09T20:04:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5598,
-      "importance": 0.5598,
-      "importance_score": 0.5598,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.939,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T20:04:55Z",
-      "latest_at": "2026-11-09T21:56:55.597000Z",
-      "primary_item": {
-        "id": "ce253f458a3bf647c6ca500a993d11ced75204cf",
-        "title": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-        "title_zh": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-        "title_en": null,
-        "title_original": "Claude Fable 5.2 在人工分析中获得65分，创下迄今为止的最高分",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T02:19:25.191065Z"
+        "scored_at": "2026-11-10T05:27:02.042847Z"
       }
     }
   ]
