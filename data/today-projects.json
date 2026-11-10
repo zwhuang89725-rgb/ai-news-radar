@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T11:19:19.407642Z",
+  "generated_at": "2026-11-10T14:19:38.855829Z",
   "date": "2026-11-10",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T11:18:25.370851Z"
+      "observed_at": "2026-11-10T14:18:30.196638Z"
     },
     {
-      "id": "project_f5d6dfe905a6",
-      "project_name": "Kumiko",
-      "url": "https://www.producthunt.com/products/kumiko-2",
-      "summary": "AI window manager for ultrawide and big-screen Macs",
+      "id": "project_6305294f969c",
+      "project_name": "AppuBot",
+      "url": "https://www.producthunt.com/products/appubot",
+      "summary": "Grok Bot alternative that runs on your AI, completely free",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI window manager for ultrawide and big-screen Macs」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI window manager for ultrawide and big-screen Macs\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-09T21:40:59Z",
-      "updated_at": "2026-11-10T11:18:40Z",
+      "recommend_reason_zh": "体验它主打的「Grok Bot alternative that runs on your AI, completely free」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Grok Bot alternative that runs on your AI, completely free\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-10T04:16:01Z",
+      "updated_at": "2026-11-10T14:14:09Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T11:19:06.639311Z"
+      "observed_at": "2026-11-10T14:19:26.737919Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T11:18:25.370851Z"
+      "observed_at": "2026-11-10T14:18:30.196638Z"
     },
     {
-      "id": "project_988c935ffb68",
-      "project_name": "Gesso",
-      "url": "https://www.producthunt.com/products/gesso-2",
-      "summary": "Ask ChatGPT or Claude to design, then edit every layer",
+      "id": "project_a5c8f8b21a08",
+      "project_name": "Rodeo",
+      "url": "https://www.producthunt.com/products/rodeo-7",
+      "summary": "A Notion alternative with AI meeting notes on the free plan",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Ask ChatGPT or Claude to design, then edit every layer」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Ask ChatGPT or Claude to design, then edit every layer\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-04T05:47:42Z",
-      "updated_at": "2026-11-10T11:18:40Z",
+      "recommend_reason_zh": "体验它主打的「A Notion alternative with AI meeting notes on the free plan」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A Notion alternative with AI meeting notes on the free plan\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-05T10:22:01Z",
+      "updated_at": "2026-11-10T14:11:31Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T11:19:06.639311Z"
+      "observed_at": "2026-11-10T14:19:26.737919Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1186,
+      "duration_ms": 374,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 109,
+      "duration_ms": 142,
       "error": null
     }
   ]

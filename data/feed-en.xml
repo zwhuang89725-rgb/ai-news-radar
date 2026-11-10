@@ -5,15 +5,31 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 11:18:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 14:18:30 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>Closing the AI guidance gap in education</title>
-<link>https://openai.com/index/closing-ai-guidance-gap-education</link>
-<guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
-<description>Closing the AI guidance gap in education (OpenAI News)</description>
+<title>Google Cloud launches Gemini for healthcare.</title>
+<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare</guid>
+<description>Google Cloud launches Gemini for healthcare. (Google AI Blog)</description>
 <category>Official update</category>
-<pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Helping caregivers use AI in everyday life</title>
+<link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+<guid isPermaLink="true">https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
+<description>Helping caregivers use AI in everyday life (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
+<link>https://deepmind.google/blog/introducing-alphaproof-code</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-alphaproof-code</guid>
+<description>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 12:02:28 +0000</pubDate>
 </item>
 <item>
 <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
@@ -24,6 +40,14 @@
 <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
 </item>
 <item>
+<title>We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.</title>
+<link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration</link>
+<guid isPermaLink="true">https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration</guid>
+<description>We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps. (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Claude Fable 5.2 in GitHub Copilot</title>
 <link>https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</guid>
@@ -32,20 +56,12 @@
 <pubDate>Mon, 09 Nov 2026 16:46:43 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT Enterprise now available in AWS Marketplace</title>
-<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-<description>ChatGPT Enterprise now available in AWS Marketplace (OpenAI News)</description>
+<title>Closing the AI guidance gap in education</title>
+<link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+<guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
+<description>Closing the AI guidance gap in education (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
-<link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
-<guid isPermaLink="true">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
-<description>Your Experts Have Partners. There's HOPE for Keeping Them Together (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
 <title>iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场</title>
@@ -56,12 +72,12 @@
 <pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
-<title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
-<link>https://openai.com/index/control-room</link>
-<guid isPermaLink="true">https://openai.com/index/control-room</guid>
-<description>Control Room: A central system to track and stop model workloads across our research infrastructure (OpenAI News)</description>
+<title>ChatGPT Enterprise now available in AWS Marketplace</title>
+<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+<description>ChatGPT Enterprise now available in AWS Marketplace (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测</title>
@@ -112,6 +128,14 @@
 <pubDate>Mon, 09 Nov 2026 20:20:00 +0000</pubDate>
 </item>
 <item>
+<title>Latch.ai — Automate complex accounting work without a single prompt</title>
+<link>https://www.producthunt.com/products/latch-ai-2</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/latch-ai-2</guid>
+<description>Automate complex accounting work without a single prompt (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 10 Nov 2026 14:19:26 +0000</pubDate>
+</item>
+<item>
 <title>个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核</title>
 <link>https://www.aibase.com/news/32207</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32207</guid>
@@ -120,12 +144,12 @@
 <pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
 </item>
 <item>
-<title>Cardboard AI — Best way to edit videos with AI</title>
-<link>https://www.producthunt.com/products/cardboard-3</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/cardboard-3</guid>
-<description>Best way to edit videos with AI (Product Hunt)</description>
+<title>Lottie AI — Editable vector animations from a text prompt</title>
+<link>https://www.producthunt.com/products/lottiefiles</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/lottiefiles</guid>
+<description>Editable vector animations from a text prompt (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Tue, 10 Nov 2026 05:18:13 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 14:19:26 +0000</pubDate>
 </item>
 <item>
 <title>随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%</title>
@@ -136,36 +160,12 @@
 <pubDate>Tue, 10 Nov 2026 06:58:50 +0000</pubDate>
 </item>
 <item>
-<title>北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形</title>
-<link>https://www.aibase.com/news/32208</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32208</guid>
-<description>北京副中心首届 OPC 嘉年华宋庄季闭幕：AIGC 创作与版权闭环全面成形 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
-</item>
-<item>
-<title>Dageno AI 2.0 — See why AI recommends your competitors instead of you</title>
-<link>https://www.producthunt.com/products/agent-powered-geo-by-dageno</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/agent-powered-geo-by-dageno</guid>
-<description>See why AI recommends your competitors instead of you (Product Hunt)</description>
+<title>Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM</title>
+<link>https://neuracryption.com/research</link>
+<guid isPermaLink="true">https://neuracryption.com/research</guid>
+<description>Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM</description>
 <category>Worth watching</category>
-<pubDate>Tue, 10 Nov 2026 05:17:55 +0000</pubDate>
-</item>
-<item>
-<title>在强制实施100% AI政策一年后，没人能看懂我们的代码了</title>
-<link>https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody</link>
-<guid isPermaLink="true">https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody</guid>
-<description>在强制实施100% AI政策一年后，没人能看懂我们的代码了 (www.reddit.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Tue, 10 Nov 2026 01:24:06 +0000</pubDate>
-</item>
-<item>
-<title>Meet the Sad Wives of AI</title>
-<link>https://www.wired.com/story/meet-the-sad-wives-of-ai</link>
-<guid isPermaLink="true">https://www.wired.com/story/meet-the-sad-wives-of-ai</guid>
-<description>Meet the Sad Wives of AI</description>
-<category>Worth watching</category>
-<pubDate>Tue, 10 Nov 2026 10:40:51 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 13:51:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
