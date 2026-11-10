@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 10 Nov 2026 14:18:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 17:18:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Gemini 4 Carbon is now available</title>
+<link>https://deepmind.google/blog/gemini-4-carbon-is-now-available</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-is-now-available</guid>
+<description>Gemini 4 Carbon is now available (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 16:49:50 +0000</pubDate>
+</item>
 <item>
 <title>Google Cloud launches Gemini for healthcare.</title>
 <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare</link>
@@ -24,20 +32,20 @@
 <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
-<link>https://deepmind.google/blog/introducing-alphaproof-code</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-alphaproof-code</guid>
-<description>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth (Google DeepMind)</description>
+<title>Dependabot alerts will pause on inactive repositories</title>
+<link>https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories</guid>
+<description>Dependabot alerts will pause on inactive repositories (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 10 Nov 2026 12:02:28 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 14:20:05 +0000</pubDate>
 </item>
 <item>
-<title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
-<link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
-<description>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context (Hugging Face Blog)</description>
+<title>Pay for Hugging Face Hub with your Google Cloud Account</title>
+<link>https://huggingface.co/blog/hub-gcp-marketplace</link>
+<guid isPermaLink="true">https://huggingface.co/blog/hub-gcp-marketplace</guid>
+<description>Pay for Hugging Face Hub with your Google Cloud Account (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.</title>
@@ -48,20 +56,44 @@
 <pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude Fable 5.2 in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot</guid>
-<description>Claude Fable 5.2 in GitHub Copilot (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 16:46:43 +0000</pubDate>
-</item>
-<item>
 <title>Closing the AI guidance gap in education</title>
 <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
 <guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
 <description>Closing the AI guidance gap in education (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
+<link>https://deepmind.google/blog/introducing-alphaproof-code</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-alphaproof-code</guid>
+<description>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 12:02:28 +0000</pubDate>
+</item>
+<item>
+<title>Decision Models in Hugging Face</title>
+<link>https://huggingface.co/blog/decision</link>
+<guid isPermaLink="true">https://huggingface.co/blog/decision</guid>
+<description>Decision Models in Hugging Face (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Work at the Frontier: AI’s effect on freelance work</title>
+<link>https://openai.com/index/ai-effect-on-freelance-work</link>
+<guid isPermaLink="true">https://openai.com/index/ai-effect-on-freelance-work</guid>
+<description>Work at the Frontier: AI’s effect on freelance work (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
+<link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence</guid>
+<description>Gemini Robotics 2.5 accelerates real-world general dexterity (Google DeepMind)</description>
+<category>Official update</category>
+<pubDate>Mon, 09 Nov 2026 19:51:47 +0000</pubDate>
 </item>
 <item>
 <title>iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场</title>
@@ -72,20 +104,20 @@
 <pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT Enterprise now available in AWS Marketplace</title>
-<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-<description>ChatGPT Enterprise now available in AWS Marketplace (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
 <title>基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测</title>
 <link>https://www.aibase.com/news/32218</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32218</guid>
 <description>基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 10 Nov 2026 11:18:25 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT Enterprise now available in AWS Marketplace</title>
+<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+<description>ChatGPT Enterprise now available in AWS Marketplace (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
 </item>
 <item>
 <title>字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级</title>
@@ -120,52 +152,20 @@
 <pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
 </item>
 <item>
+<title>Latch.ai — Automate complex accounting work without a single prompt</title>
+<link>https://www.producthunt.com/products/latch-ai-2</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/latch-ai-2</guid>
+<description>Automate complex accounting work without a single prompt (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 10 Nov 2026 17:17:42 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic launches new Claude Fable and Mythos 5.2 models</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2</guid>
 <description>Anthropic launches new Claude Fable and Mythos 5.2 models (The Verge)</description>
 <category>Worth watching</category>
 <pubDate>Mon, 09 Nov 2026 20:20:00 +0000</pubDate>
-</item>
-<item>
-<title>Latch.ai — Automate complex accounting work without a single prompt</title>
-<link>https://www.producthunt.com/products/latch-ai-2</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/latch-ai-2</guid>
-<description>Automate complex accounting work without a single prompt (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 10 Nov 2026 14:19:26 +0000</pubDate>
-</item>
-<item>
-<title>个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核</title>
-<link>https://www.aibase.com/news/32207</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32207</guid>
-<description>个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 10 Nov 2026 08:18:28 +0000</pubDate>
-</item>
-<item>
-<title>Lottie AI — Editable vector animations from a text prompt</title>
-<link>https://www.producthunt.com/products/lottiefiles</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/lottiefiles</guid>
-<description>Editable vector animations from a text prompt (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 10 Nov 2026 14:19:26 +0000</pubDate>
-</item>
-<item>
-<title>随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%</title>
-<link>https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html</link>
-<guid isPermaLink="true">https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html</guid>
-<description>随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16% (www.cnbc.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Tue, 10 Nov 2026 06:58:50 +0000</pubDate>
-</item>
-<item>
-<title>Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM</title>
-<link>https://neuracryption.com/research</link>
-<guid isPermaLink="true">https://neuracryption.com/research</guid>
-<description>Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM</description>
-<category>Worth watching</category>
-<pubDate>Tue, 10 Nov 2026 13:51:51 +0000</pubDate>
 </item>
 </channel>
 </rss>
