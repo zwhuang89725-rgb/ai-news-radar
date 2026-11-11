@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T05:19:13.366001Z",
+  "generated_at": "2026-11-11T08:20:13.214267Z",
   "date": "2026-11-11",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-11T05:18:26.798071Z"
+      "observed_at": "2026-11-11T08:19:25.260307Z"
     },
     {
-      "id": "project_ad2c5f57d0cb",
-      "project_name": "ZUS",
-      "url": "https://www.producthunt.com/products/zus-2",
-      "summary": "AI-native IDE: agents code with human review",
+      "id": "project_355e9592018d",
+      "project_name": "RigSpark",
+      "url": "https://www.producthunt.com/products/rigspark",
+      "summary": "Know which AI to run on your own computer",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI-native IDE: agents code with human review」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI-native IDE: agents code with human review\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-09T17:01:49Z",
-      "updated_at": "2026-11-11T03:17:32Z",
+      "recommend_reason_zh": "体验它主打的「Know which AI to run on your own computer」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Know which AI to run on your own computer\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-11T01:26:24Z",
+      "updated_at": "2026-11-11T08:18:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-11T05:19:03.074391Z"
+      "observed_at": "2026-11-11T08:19:57.651015Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-11T05:18:26.798071Z"
+      "observed_at": "2026-11-11T08:19:25.260307Z"
     },
     {
-      "id": "project_9de95cb5fb07",
-      "project_name": "Alsona",
-      "url": "https://www.producthunt.com/products/alsona",
-      "summary": "AI agents that turn buying signals into booked sales calls",
+      "id": "project_eb94db6e4b40",
+      "project_name": "Relay",
+      "url": "https://www.producthunt.com/products/relaytoai",
+      "summary": "DocSend for AI agents: send and receive docs with context",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI agents that turn buying signals into booked sales calls」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI agents that turn buying signals into booked sales calls\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-21T15:41:38Z",
-      "updated_at": "2026-11-11T05:14:25Z",
+      "recommend_reason_zh": "体验它主打的「DocSend for AI agents: send and receive docs with context」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"DocSend for AI agents: send and receive docs with context\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-04T01:29:16Z",
+      "updated_at": "2026-11-11T08:18:56Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-11T05:19:03.074391Z"
+      "observed_at": "2026-11-11T08:19:57.651015Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 1348,
+      "duration_ms": 1463,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 216,
+      "duration_ms": 114,
       "error": null
     }
   ]
