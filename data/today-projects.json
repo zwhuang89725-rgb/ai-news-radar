@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:20:00.948696Z",
+  "generated_at": "2026-11-11T05:19:13.366001Z",
   "date": "2026-11-11",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-11T02:19:13.180611Z"
+      "observed_at": "2026-11-11T05:18:26.798071Z"
     },
     {
-      "id": "project_13fbf044c6aa",
-      "project_name": "Operum",
-      "url": "https://www.producthunt.com/products/operum",
-      "summary": "Your AI product team, with expert workflows built in",
+      "id": "project_ad2c5f57d0cb",
+      "project_name": "ZUS",
+      "url": "https://www.producthunt.com/products/zus-2",
+      "summary": "AI-native IDE: agents code with human review",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your AI product team, with expert workflows built in」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your AI product team, with expert workflows built in\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-11T03:07:59Z",
-      "updated_at": "2026-11-11T02:03:14Z",
+      "recommend_reason_zh": "体验它主打的「AI-native IDE: agents code with human review」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI-native IDE: agents code with human review\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-09T17:01:49Z",
+      "updated_at": "2026-11-11T03:17:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-11T02:19:48.690605Z"
+      "observed_at": "2026-11-11T05:19:03.074391Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-11T02:19:13.180611Z"
+      "observed_at": "2026-11-11T05:18:26.798071Z"
     },
     {
-      "id": "project_17e93750a7a9",
-      "project_name": "OpenVibe",
-      "url": "https://www.producthunt.com/products/openvibe-2",
-      "summary": "A canvas of real terminals for your AI coding agents",
+      "id": "project_9de95cb5fb07",
+      "project_name": "Alsona",
+      "url": "https://www.producthunt.com/products/alsona",
+      "summary": "AI agents that turn buying signals into booked sales calls",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A canvas of real terminals for your AI coding agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A canvas of real terminals for your AI coding agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-09T17:34:57Z",
-      "updated_at": "2026-11-11T02:02:56Z",
+      "recommend_reason_zh": "体验它主打的「AI agents that turn buying signals into booked sales calls」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI agents that turn buying signals into booked sales calls\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-21T15:41:38Z",
+      "updated_at": "2026-11-11T05:14:25Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-11T02:19:48.690605Z"
+      "observed_at": "2026-11-11T05:19:03.074391Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 255,
+      "duration_ms": 1348,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 101,
+      "duration_ms": 216,
       "error": null
     }
   ]
