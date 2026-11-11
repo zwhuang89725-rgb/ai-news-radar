@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:18:27.232150Z",
+  "generated_at": "2026-11-11T14:19:27.200809Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8833,
-      "importance": 0.8833,
-      "importance_score": 0.8833,
+      "score": 0.8775,
+      "importance": 0.8775,
+      "importance_score": 0.8775,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7574,
+        "recency": 0.7251,
         "story_heat": 0.75
       },
       "category": "official",
@@ -187,7 +187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -256,8 +256,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T11:18:27.232150Z",
-      "latest_at": "2026-11-11T11:18:27.232150Z",
+      "earliest_at": "2026-11-11T14:19:27.200809Z",
+      "latest_at": "2026-11-11T14:19:27.200809Z",
       "primary_item": {
         "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
         "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
@@ -274,7 +274,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9132,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -413,15 +413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9672,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,7 +448,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -500,15 +500,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8515,
+        "recency": 0.8152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -535,7 +535,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -587,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8516,
-      "importance": 0.8516,
-      "importance_score": 0.8516,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9534,
+        "recency": 0.9127,
         "story_heat": 0.0
       },
       "category": "official",
@@ -622,7 +622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -674,15 +674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7953,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -709,7 +709,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -761,15 +761,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7902,
+        "recency": 0.7565,
         "story_heat": 0.0
       },
       "category": "official",
@@ -796,7 +796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -848,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -882,181 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
-      }
-    },
-    {
-      "story_id": "story_2e54774fc9b4",
-      "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7146,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:02:28Z",
-      "latest_at": "2026-11-10T12:02:28Z",
-      "primary_item": {
-        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-        "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-        "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
-      }
-    },
-    {
-      "story_id": "story_0faab021d272",
-      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7246,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T13:00:00Z",
-      "latest_at": "2026-11-10T13:00:00Z",
-      "primary_item": {
-        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-        "title_en": "Google Cloud launches Gemini for healthcare.",
-        "title_original": "Google Cloud launches Gemini for healthcare.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -1108,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7685,
+        "recency": 0.7357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1143,94 +969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
-      }
-    },
-    {
-      "story_id": "story_3f106a4856f1",
-      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:00:00Z",
-      "latest_at": "2026-11-10T12:00:00Z",
-      "primary_item": {
-        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-        "title_zh": "帮助护理人员在日常生活中使用人工智能",
-        "title_en": "Helping caregivers use AI in everyday life",
-        "title_original": "Helping caregivers use AI in everyday life",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -1282,15 +1021,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1316,93 +1055,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
-      }
-    },
-    {
-      "story_id": "story_59804e5b79d9",
-      "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-      "url": "https://www.aibase.com/news/32254",
-      "primary_url": "https://www.aibase.com/news/32254",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
-          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "title_en": null,
-          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32254",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T11:18:27.232150Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
-          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "title_en": null,
-          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32254",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T11:18:27.232150Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T11:18:27.232150Z",
-      "latest_at": "2026-11-11T11:18:27.232150Z",
-      "primary_item": {
-        "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
-        "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-        "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-        "title_en": null,
-        "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32254",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -1454,15 +1107,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7387,
+        "recency": 0.7072,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1489,94 +1142,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
-      "story_id": "story_37612d93c538",
-      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_59804e5b79d9",
+      "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+      "url": "https://www.aibase.com/news/32254",
+      "primary_url": "https://www.aibase.com/news/32254",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
+          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_en": null,
+          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z",
+          "url": "https://www.aibase.com/news/32254",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
+          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_en": null,
+          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z",
+          "url": "https://www.aibase.com/news/32254",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
-      "importance_label": "官方更新",
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7351,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T14:00:00Z",
-      "latest_at": "2026-11-10T14:00:00Z",
+      "earliest_at": "2026-11-11T11:18:27.232150Z",
+      "latest_at": "2026-11-11T11:18:27.232150Z",
       "primary_item": {
-        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-        "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
+        "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+        "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+        "title_en": null,
+        "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32254",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -1628,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1662,7 +1314,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -1714,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1748,7 +1400,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     },
     {
@@ -1800,15 +1452,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1834,7 +1486,480 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T11:19:29.112857Z"
+        "scored_at": "2026-11-11T14:20:22.644256Z"
+      }
+    },
+    {
+      "story_id": "story_29170198c43b",
+      "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "primary_url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "e775771086f3ab9f8d30408c53e49b2b05a8dd90",
+          "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+          "title_zh": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算",
+          "title_en": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+          "title_original": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+          "summary": "AI ad fraud detection that protects your marketing budget",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-19T08:11:42Z",
+          "updated_at": "2026-11-11T14:19:05Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "8b51f3ad6700e1fb6d4b641886046596688b2106",
+          "title": "财奴青蛙人工智能 / ScroogeFrog AI",
+          "title_zh": "财奴青蛙人工智能",
+          "title_en": "ScroogeFrog AI",
+          "title_original": "ScroogeFrog AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T14:05:23.968000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "e775771086f3ab9f8d30408c53e49b2b05a8dd90",
+          "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+          "title_zh": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算",
+          "title_en": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+          "title_original": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+          "summary": "AI ad fraud detection that protects your marketing budget",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-19T08:11:42Z",
+          "updated_at": "2026-11-11T14:19:05Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "8b51f3ad6700e1fb6d4b641886046596688b2106",
+          "title": "财奴青蛙人工智能 / ScroogeFrog AI",
+          "title_zh": "财奴青蛙人工智能",
+          "title_en": "ScroogeFrog AI",
+          "title_original": "ScroogeFrog AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T14:05:23.968000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-11T14:05:23.968000Z",
+      "latest_at": "2026-11-11T14:19:05Z",
+      "primary_item": {
+        "id": "e775771086f3ab9f8d30408c53e49b2b05a8dd90",
+        "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+        "title_zh": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算",
+        "title_en": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+        "title_original": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
+        "summary": "AI ad fraud detection that protects your marketing budget",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T14:20:22.644256Z"
+      }
+    },
+    {
+      "story_id": "story_4722c71842e9",
+      "title": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "primary_url": "https://github.com/openai/codex-security",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "5bcf18eff636eeadd0d8600fd2257d544e89fc77",
+          "title": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "title_zh": null,
+          "title_en": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "title_original": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex-security",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fc4409e9f70421ff0b96d49e20710ae9e1802bcb",
+          "title": "openai /      codex-security",
+          "title_zh": null,
+          "title_en": "openai /      codex-security",
+          "title_original": "openai /      codex-security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex-security",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T11:01:28.645000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "5bcf18eff636eeadd0d8600fd2257d544e89fc77",
+          "title": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "title_zh": null,
+          "title_en": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "title_original": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex-security",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fc4409e9f70421ff0b96d49e20710ae9e1802bcb",
+          "title": "openai /      codex-security",
+          "title_zh": null,
+          "title_en": "openai /      codex-security",
+          "title_original": "openai /      codex-security",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex-security",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T11:01:28.645000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5865,
+      "importance": 0.5865,
+      "importance_score": 0.5865,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9574,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-11T11:01:28.645000Z",
+      "latest_at": "2026-11-11T11:18:27.232150Z",
+      "primary_item": {
+        "id": "5bcf18eff636eeadd0d8600fd2257d544e89fc77",
+        "title": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "title_zh": null,
+        "title_en": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "title_original": "openai/codex-security — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/openai/codex-security",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T14:20:22.644256Z"
+      }
+    },
+    {
+      "story_id": "story_40e95f8f5b4f",
+      "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+      "url": "https://www.aibase.com/news/32249",
+      "primary_url": "https://www.aibase.com/news/32249",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
+          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "title_zh": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "title_en": null,
+          "title_original": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T08:19:25.260307Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
+          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "title_zh": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "title_en": null,
+          "title_original": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T08:19:25.260307Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T08:19:25.260307Z",
+      "latest_at": "2026-11-11T08:19:25.260307Z",
+      "primary_item": {
+        "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
+        "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+        "title_zh": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+        "title_en": null,
+        "title_original": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32249",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T14:20:22.644256Z"
+      }
+    },
+    {
+      "story_id": "story_3c08245a36e3",
+      "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+      "primary_url": "https://pietromiotti.com/latest/maya-site/?maya=",
+      "source": "pietromiotti.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "88599ce2438ae36c412e9e1b5696135589718490",
+          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_en": null,
+          "title_original": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+          "source": "pietromiotti.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T13:34:43.874000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "aec4662b2a3d46b5fdf9ee00fc27cc151e688c48",
+          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-11T12:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "c7454bd258c5c8faa968ca75c8ee2bfafec29ad4",
+          "title": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_zh": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔",
+          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50452455",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T12:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "pietromiotti.com"
+      ],
+      "items": [
+        {
+          "id": "88599ce2438ae36c412e9e1b5696135589718490",
+          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_en": null,
+          "title_original": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+          "source": "pietromiotti.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T13:34:43.874000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "aec4662b2a3d46b5fdf9ee00fc27cc151e688c48",
+          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-11T12:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "c7454bd258c5c8faa968ca75c8ee2bfafec29ad4",
+          "title": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_zh": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔",
+          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50452455",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T12:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9893,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-11T12:05:22Z",
+      "latest_at": "2026-11-11T13:34:43.874000Z",
+      "primary_item": {
+        "id": "88599ce2438ae36c412e9e1b5696135589718490",
+        "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+        "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+        "title_en": null,
+        "title_original": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+        "source": "pietromiotti.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T14:20:22.644256Z"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T11:19:10.324460Z",
+  "generated_at": "2026-11-11T14:20:13.703925Z",
   "date": "2026-11-11",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-11T11:18:27.232150Z"
+      "observed_at": "2026-11-11T14:19:27.200809Z"
     },
     {
-      "id": "project_a549ed7a0366",
-      "project_name": "Stiro",
-      "url": "https://www.producthunt.com/products/stiro",
-      "summary": "AI onboarding and customer success agent for SaaS",
+      "id": "project_eb94db6e4b40",
+      "project_name": "Relay",
+      "url": "https://www.producthunt.com/products/relaytoai",
+      "summary": "DocSend for AI agents: send and receive docs with context",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI onboarding and customer success agent for SaaS」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI onboarding and customer success agent for SaaS\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-07T13:33:58Z",
-      "updated_at": "2026-11-11T11:18:12Z",
+      "recommend_reason_zh": "体验它主打的「DocSend for AI agents: send and receive docs with context」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"DocSend for AI agents: send and receive docs with context\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-04T01:29:16Z",
+      "updated_at": "2026-11-11T14:07:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-11T11:18:59.806873Z"
+      "observed_at": "2026-11-11T14:20:05.165106Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-11T11:18:27.232150Z"
+      "observed_at": "2026-11-11T14:19:27.200809Z"
     },
     {
-      "id": "project_a947672393e4",
-      "project_name": "Mister Blocks",
-      "url": "https://www.producthunt.com/products/mister-blocks",
-      "summary": "Make a picture of LEGO bricks and get AI suggest you a build",
+      "id": "project_7756d07327ae",
+      "project_name": "ScroogeFrog AI",
+      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "summary": "AI ad fraud detection that protects your marketing budget",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Make a picture of LEGO bricks and get AI suggest you a build」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Make a picture of LEGO bricks and get AI suggest you a build\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-11T03:26:18Z",
-      "updated_at": "2026-11-11T11:18:07Z",
+      "recommend_reason_zh": "体验它主打的「AI ad fraud detection that protects your marketing budget」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI ad fraud detection that protects your marketing budget\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-19T08:11:42Z",
+      "updated_at": "2026-11-11T14:19:05Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-11T11:18:59.806873Z"
+      "observed_at": "2026-11-11T14:20:05.165106Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1301,
+      "duration_ms": 4978,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 107,
+      "duration_ms": 85,
       "error": null
     }
   ]
