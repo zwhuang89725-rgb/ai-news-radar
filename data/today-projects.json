@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:20:07.073392Z",
+  "generated_at": "2026-11-11T02:20:00.948696Z",
   "date": "2026-11-11",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T23:19:25.938521Z"
+      "observed_at": "2026-11-11T02:19:13.180611Z"
     },
     {
-      "id": "project_e3234f5b48d7",
-      "project_name": "Quillo",
-      "url": "https://www.producthunt.com/products/quillo-2",
-      "summary": "Listen to any PDF in a natural voice, then ask Quillo Ai",
+      "id": "project_13fbf044c6aa",
+      "project_name": "Operum",
+      "url": "https://www.producthunt.com/products/operum",
+      "summary": "Your AI product team, with expert workflows built in",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Listen to any PDF in a natural voice, then ask Quillo Ai」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Listen to any PDF in a natural voice, then ask Quillo Ai\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-05T15:57:02Z",
-      "updated_at": "2026-11-10T20:37:13Z",
+      "recommend_reason_zh": "体验它主打的「Your AI product team, with expert workflows built in」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your AI product team, with expert workflows built in\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-11T03:07:59Z",
+      "updated_at": "2026-11-11T02:03:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T23:19:58.646060Z"
+      "observed_at": "2026-11-11T02:19:48.690605Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-10T23:19:25.938521Z"
+      "observed_at": "2026-11-11T02:19:13.180611Z"
     },
     {
-      "id": "project_8a51199ce8a5",
-      "project_name": "Latch.ai",
-      "url": "https://www.producthunt.com/products/latch-ai-2",
-      "summary": "Automate complex accounting work without a single prompt",
+      "id": "project_17e93750a7a9",
+      "project_name": "OpenVibe",
+      "url": "https://www.producthunt.com/products/openvibe-2",
+      "summary": "A canvas of real terminals for your AI coding agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Automate complex accounting work without a single prompt」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Automate complex accounting work without a single prompt\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T20:19:05Z",
-      "updated_at": "2026-11-10T23:15:23Z",
+      "recommend_reason_zh": "体验它主打的「A canvas of real terminals for your AI coding agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"A canvas of real terminals for your AI coding agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-09T17:34:57Z",
+      "updated_at": "2026-11-11T02:02:56Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-10T23:19:58.646060Z"
+      "observed_at": "2026-11-11T02:19:48.690605Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 295,
+      "duration_ms": 255,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 146,
+      "duration_ms": 101,
       "error": null
     }
   ]

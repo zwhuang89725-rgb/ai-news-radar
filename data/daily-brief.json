@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:19:25.938521Z",
+  "generated_at": "2026-11-11T02:19:13.180611Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9091,
-      "importance": 0.9091,
-      "importance_score": 0.9091,
+      "score": 0.9022,
+      "importance": 0.9022,
+      "importance_score": 0.9022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9005,
+        "recency": 0.8623,
         "story_heat": 0.75
       },
       "category": "official",
@@ -187,7 +187,268 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
+      }
+    },
+    {
+      "story_id": "story_8f1b2af00c00",
+      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
+          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
+          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T02:19:13.180611Z",
+      "latest_at": "2026-11-11T02:19:13.180611Z",
+      "primary_item": {
+        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+        "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
+        "title_en": "Gilbert + Tobin rethinks the business of law with AI",
+        "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T02:20:11.037491Z"
+      }
+    },
+    {
+      "story_id": "story_5a2a32fd903d",
+      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9695,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T00:10:31Z",
+      "latest_at": "2026-11-11T00:10:31Z",
+      "primary_item": {
+        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+        "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+        "title_en": "GitHub App support for Enterprise Copilot seat management",
+        "title_original": "GitHub App support for Enterprise Copilot seat management",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T02:20:11.037491Z"
+      }
+    },
+    {
+      "story_id": "story_14497aca7fb0",
+      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T19:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8997,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:00:00Z",
+      "latest_at": "2026-11-10T19:00:00Z",
+      "primary_item": {
+        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+        "title_en": "Gemini Intelligence: New features, on more devices",
+        "title_original": "Gemini Intelligence: New features, on more devices",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
@@ -272,15 +533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8535,
-      "importance": 0.8535,
-      "importance_score": 0.8535,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.825,
+        "recency": 0.79,
         "story_heat": 0.25
       },
       "category": "official",
@@ -308,7 +569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
@@ -360,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9456,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,30 +656,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
-      "story_id": "story_14497aca7fb0",
-      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "story_id": "story_0faab021d272",
+      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z",
+          "published_at": "2026-11-10T13:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -429,33 +690,33 @@
       ],
       "items": [
         {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z",
+          "published_at": "2026-11-10T13:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9395,
+        "ai_relevance": 0.94,
+        "recency": 0.825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -464,17 +725,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T19:00:00Z",
-      "latest_at": "2026-11-10T19:00:00Z",
+      "earliest_at": "2026-11-10T13:00:00Z",
+      "latest_at": "2026-11-10T13:00:00Z",
       "primary_item": {
-        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-        "title_en": "Gemini Intelligence: New features, on more devices",
-        "title_original": "Gemini Intelligence: New features, on more devices",
+        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+        "title_en": "Google Cloud launches Gemini for healthcare.",
+        "title_original": "Google Cloud launches Gemini for healthcare.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
@@ -482,67 +743,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
-      "story_id": "story_3e2e04bf0301",
-      "title": "Codex CLI 0.167.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_2e54774fc9b4",
+      "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
-          "title": "Codex CLI 0.167.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.167.1",
-          "title_original": "Codex CLI 0.167.1",
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
+          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
+          "published_at": "2026-11-10T12:02:28Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
-          "title": "Codex CLI 0.167.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.167.1",
-          "title_original": "Codex CLI 0.167.1",
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
+          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
+          "published_at": "2026-11-10T12:02:28Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.714,
+        "ai_relevance": 0.87,
+        "recency": 0.8137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -551,112 +812,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
+      "earliest_at": "2026-11-10T12:02:28Z",
+      "latest_at": "2026-11-10T12:02:28Z",
       "primary_item": {
-        "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
-        "title": "Codex CLI 0.167.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.167.1",
-        "title_original": "Codex CLI 0.167.1",
+        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+        "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
+        "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
-      }
-    },
-    {
-      "story_id": "story_49af9c684130",
-      "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "primary_url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
-          "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
-          "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
-      "primary_item": {
-        "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-        "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-        "title_zh": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用",
-        "title_en": "Pay for Hugging Face Hub with your Google Cloud Account",
-        "title_original": "Pay for Hugging Face Hub with your Google Cloud Account",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
@@ -741,15 +915,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.79,
+        "recency": 0.7565,
         "story_heat": 0.25
       },
       "category": "official",
@@ -777,94 +951,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
-      "story_id": "story_0faab021d272",
-      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_8b22e2860bcf",
+      "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+      "url": "https://www.aibase.com/news/32228",
+      "primary_url": "https://www.aibase.com/news/32228",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "id": "8587610275eead9f4aa8ecf5d54daa5976d16c21",
+          "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "title_zh": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "title_en": null,
+          "title_original": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z",
+          "url": "https://www.aibase.com/news/32228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "id": "8587610275eead9f4aa8ecf5d54daa5976d16c21",
+          "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "title_zh": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "title_en": null,
+          "title_original": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z",
+          "url": "https://www.aibase.com/news/32228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8615,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T13:00:00Z",
-      "latest_at": "2026-11-10T13:00:00Z",
+      "earliest_at": "2026-11-11T02:19:13.180611Z",
+      "latest_at": "2026-11-11T02:19:13.180611Z",
       "primary_item": {
-        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-        "title_en": "Google Cloud launches Gemini for healthcare.",
-        "title_original": "Google Cloud launches Gemini for healthcare.",
+        "id": "8587610275eead9f4aa8ecf5d54daa5976d16c21",
+        "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+        "title_zh": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+        "title_en": null,
+        "title_original": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32228",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
@@ -916,15 +1089,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9136,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "official",
@@ -951,355 +1124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
-      }
-    },
-    {
-      "story_id": "story_2e54774fc9b4",
-      "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-          "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-          "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:02:28Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:02:28Z",
-      "latest_at": "2026-11-10T12:02:28Z",
-      "primary_item": {
-        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
-        "title": "AlphaProof Code 简介：深度验证复杂软件的突破 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "title_zh": "AlphaProof Code 简介：深度验证复杂软件的突破",
-        "title_en": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "title_original": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
-      }
-    },
-    {
-      "story_id": "story_bb4a3375cbda",
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "primary_url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2aa75c357740c94768091126824fe0a964128bf5",
-          "title": "Decision Models in Hugging Face",
-          "title_zh": null,
-          "title_en": "Decision Models in Hugging Face",
-          "title_original": "Decision Models in Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/decision",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2aa75c357740c94768091126824fe0a964128bf5",
-          "title": "Decision Models in Hugging Face",
-          "title_zh": null,
-          "title_en": "Decision Models in Hugging Face",
-          "title_original": "Decision Models in Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/decision",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
-      "primary_item": {
-        "id": "2aa75c357740c94768091126824fe0a964128bf5",
-        "title": "Decision Models in Hugging Face",
-        "title_zh": null,
-        "title_en": "Decision Models in Hugging Face",
-        "title_original": "Decision Models in Hugging Face",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/decision",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
-      }
-    },
-    {
-      "story_id": "story_3f106a4856f1",
-      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-          "title_zh": "帮助护理人员在日常生活中使用人工智能",
-          "title_en": "Helping caregivers use AI in everyday life",
-          "title_original": "Helping caregivers use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8491,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T12:00:00Z",
-      "latest_at": "2026-11-10T12:00:00Z",
-      "primary_item": {
-        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
-        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
-        "title_zh": "帮助护理人员在日常生活中使用人工智能",
-        "title_en": "Helping caregivers use AI in everyday life",
-        "title_original": "Helping caregivers use AI in everyday life",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
-      }
-    },
-    {
-      "story_id": "story_85ca9aabc1af",
-      "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-          "title_en": "Dependabot alerts will pause on inactive repositories",
-          "title_original": "Dependabot alerts will pause on inactive repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-          "title_en": "Dependabot alerts will pause on inactive repositories",
-          "title_original": "Dependabot alerts will pause on inactive repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:20:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8783,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T14:20:05Z",
-      "latest_at": "2026-11-10T14:20:05Z",
-      "primary_item": {
-        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
-        "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
-        "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
-        "title_en": "Dependabot alerts will pause on inactive repositories",
-        "title_original": "Dependabot alerts will pause on inactive repositories",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
@@ -1351,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.874,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1386,30 +1211,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
-      "story_id": "story_6db52dd49110",
-      "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-      "url": "https://www.aibase.com/news/32219",
-      "primary_url": "https://www.aibase.com/news/32219",
+      "story_id": "story_2c8abefda229",
+      "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+      "url": "https://www.aibase.com/news/32226",
+      "primary_url": "https://www.aibase.com/news/32226",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f8a947b7993728e743ba6c4c108130bf5132dc6c",
-          "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-          "title_zh": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "id": "5d74a9f1673d041591a10921025bdefe50b68b97",
+          "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+          "title_zh": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
           "title_en": null,
-          "title_original": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "title_original": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32219",
+          "url": "https://www.aibase.com/news/32226",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1420,50 +1245,51 @@
       ],
       "items": [
         {
-          "id": "f8a947b7993728e743ba6c4c108130bf5132dc6c",
-          "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-          "title_zh": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "id": "5d74a9f1673d041591a10921025bdefe50b68b97",
+          "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+          "title_zh": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
           "title_en": null,
-          "title_original": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+          "title_original": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32219",
+          "url": "https://www.aibase.com/news/32226",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8407,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-10T11:18:25.370851Z",
-      "latest_at": "2026-11-10T11:18:25.370851Z",
+      "earliest_at": "2026-11-11T02:19:13.180611Z",
+      "latest_at": "2026-11-11T02:19:13.180611Z",
       "primary_item": {
-        "id": "f8a947b7993728e743ba6c4c108130bf5132dc6c",
-        "title": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
-        "title_zh": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+        "id": "5d74a9f1673d041591a10921025bdefe50b68b97",
+        "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+        "title_zh": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
         "title_en": null,
-        "title_original": "iPhone Duo 开卖两周：DeepSeek、B 站补位，苹果搬出 10 万适配 App 撑场",
+        "title_original": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32219",
+        "url": "https://www.aibase.com/news/32226",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1471,7 +1297,267 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
+      }
+    },
+    {
+      "story_id": "story_3f106a4856f1",
+      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "title_zh": "帮助护理人员在日常生活中使用人工智能",
+          "title_en": "Helping caregivers use AI in everyday life",
+          "title_original": "Helping caregivers use AI in everyday life",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "title_zh": "帮助护理人员在日常生活中使用人工智能",
+          "title_en": "Helping caregivers use AI in everyday life",
+          "title_original": "Helping caregivers use AI in everyday life",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8132,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T12:00:00Z",
+      "latest_at": "2026-11-10T12:00:00Z",
+      "primary_item": {
+        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+        "title_zh": "帮助护理人员在日常生活中使用人工智能",
+        "title_en": "Helping caregivers use AI in everyday life",
+        "title_original": "Helping caregivers use AI in everyday life",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T02:20:11.037491Z"
+      }
+    },
+    {
+      "story_id": "story_85ca9aabc1af",
+      "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+          "title_en": "Dependabot alerts will pause on inactive repositories",
+          "title_original": "Dependabot alerts will pause on inactive repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8411,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:20:05Z",
+      "latest_at": "2026-11-10T14:20:05Z",
+      "primary_item": {
+        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+        "title": "Dependabot 警报将在不活动的代码仓库上暂停 / Dependabot alerts will pause on inactive repositories",
+        "title_zh": "Dependabot 警报将在不活动的代码仓库上暂停",
+        "title_en": "Dependabot alerts will pause on inactive repositories",
+        "title_original": "Dependabot alerts will pause on inactive repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T02:20:11.037491Z"
+      }
+    },
+    {
+      "story_id": "story_2bcb916a4843",
+      "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+      "url": "https://www.aibase.com/news/32234",
+      "primary_url": "https://www.aibase.com/news/32234",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
+          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "title_zh": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "title_en": null,
+          "title_original": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T02:19:13.180611Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
+          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "title_zh": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "title_en": null,
+          "title_original": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T02:19:13.180611Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T02:19:13.180611Z",
+      "latest_at": "2026-11-11T02:19:13.180611Z",
+      "primary_item": {
+        "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
+        "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+        "title_zh": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+        "title_en": null,
+        "title_original": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32234",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
@@ -1523,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8131,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1558,7 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
@@ -1610,15 +1696,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8319,
+        "recency": 0.7966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1645,30 +1731,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
-      "story_id": "story_6667c1eed7dc",
-      "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-      "url": "https://www.aibase.com/news/32218",
-      "primary_url": "https://www.aibase.com/news/32218",
+      "story_id": "story_f80fa3b57944",
+      "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+      "url": "https://www.aibase.com/news/32221",
+      "primary_url": "https://www.aibase.com/news/32221",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9d341a3080c6d38305ebcb6b4933fb2ff3395b87",
-          "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "title_zh": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
+          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
           "title_en": null,
-          "title_original": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
+          "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32218",
+          "url": "https://www.aibase.com/news/32221",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1679,50 +1765,51 @@
       ],
       "items": [
         {
-          "id": "9d341a3080c6d38305ebcb6b4933fb2ff3395b87",
-          "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-          "title_zh": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
+          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
           "title_en": null,
-          "title_original": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
+          "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32218",
+          "url": "https://www.aibase.com/news/32221",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8407,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-10T11:18:25.370851Z",
-      "latest_at": "2026-11-10T11:18:25.370851Z",
+      "earliest_at": "2026-11-11T02:19:13.180611Z",
+      "latest_at": "2026-11-11T02:19:13.180611Z",
       "primary_item": {
-        "id": "9d341a3080c6d38305ebcb6b4933fb2ff3395b87",
-        "title": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
-        "title_zh": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
+        "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+        "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+        "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
         "title_en": null,
-        "title_original": "基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测",
+        "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32218",
+        "url": "https://www.aibase.com/news/32221",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1730,30 +1817,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     },
     {
-      "story_id": "story_c94b7c1340c5",
-      "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-      "url": "https://www.aibase.com/news/32217",
-      "primary_url": "https://www.aibase.com/news/32217",
+      "story_id": "story_7d5d6eef9ad5",
+      "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
+      "url": "https://www.aibase.com/news/32231",
+      "primary_url": "https://www.aibase.com/news/32231",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "778401b5ce808cdea00bb0fbe502a3dcb03b5ca6",
-          "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-          "title_zh": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
+          "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
+          "title_zh": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
           "title_en": null,
-          "title_original": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "title_original": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32217",
+          "url": "https://www.aibase.com/news/32231",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1764,50 +1851,51 @@
       ],
       "items": [
         {
-          "id": "778401b5ce808cdea00bb0fbe502a3dcb03b5ca6",
-          "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-          "title_zh": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
+          "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
+          "title_zh": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
           "title_en": null,
-          "title_original": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+          "title_original": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32217",
+          "url": "https://www.aibase.com/news/32231",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
+          "published_at": "2026-11-11T02:19:13.180611Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8407,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-10T11:18:25.370851Z",
-      "latest_at": "2026-11-10T11:18:25.370851Z",
+      "earliest_at": "2026-11-11T02:19:13.180611Z",
+      "latest_at": "2026-11-11T02:19:13.180611Z",
       "primary_item": {
-        "id": "778401b5ce808cdea00bb0fbe502a3dcb03b5ca6",
-        "title": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
-        "title_zh": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+        "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
+        "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
+        "title_zh": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
         "title_en": null,
-        "title_original": "字节跳动 Seedream 5.5 正式登陆豆包：图片设计能力迎全方位升级",
+        "title_original": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32217",
+        "url": "https://www.aibase.com/news/32231",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1815,92 +1903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
-      }
-    },
-    {
-      "story_id": "story_4d9c583c0950",
-      "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-      "url": "https://www.aibase.com/news/32216",
-      "primary_url": "https://www.aibase.com/news/32216",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6077482c0237ea60e4f10b1fca4eb941a66210f6",
-          "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "title_zh": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "title_en": null,
-          "title_original": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6077482c0237ea60e4f10b1fca4eb941a66210f6",
-          "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "title_zh": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "title_en": null,
-          "title_original": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T11:18:25.370851Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8407,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T11:18:25.370851Z",
-      "latest_at": "2026-11-10T11:18:25.370851Z",
-      "primary_item": {
-        "id": "6077482c0237ea60e4f10b1fca4eb941a66210f6",
-        "title": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-        "title_zh": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-        "title_en": null,
-        "title_original": "肯德基在日本翻车：AI 画的商品图，连冰块都\"染了色\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32216",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-10T23:20:17.572929Z"
+        "scored_at": "2026-11-11T02:20:11.037491Z"
       }
     }
   ]
