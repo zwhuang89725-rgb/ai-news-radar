@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:19:25.260307Z",
+  "generated_at": "2026-11-11T11:18:27.232150Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8893,
-      "importance": 0.8893,
-      "importance_score": 0.8893,
+      "score": 0.8833,
+      "importance": 0.8833,
+      "importance_score": 0.8833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7907,
+        "recency": 0.7574,
         "story_heat": 0.75
       },
       "category": "official",
@@ -187,268 +187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_3712fd9f7ee1",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-          "title": "ChatGPT Plus for veterans and servicemembers",
-          "title_zh": null,
-          "title_en": "ChatGPT Plus for veterans and servicemembers",
-          "title_original": "ChatGPT Plus for veterans and servicemembers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-          "title": "ChatGPT Plus for veterans and servicemembers",
-          "title_zh": null,
-          "title_en": "ChatGPT Plus for veterans and servicemembers",
-          "title_original": "ChatGPT Plus for veterans and servicemembers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8592,
-      "importance": 0.8592,
-      "importance_score": 0.8592,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9953,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T08:00:00Z",
-      "latest_at": "2026-11-11T08:00:00Z",
-      "primary_item": {
-        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-        "title": "ChatGPT Plus for veterans and servicemembers",
-        "title_zh": null,
-        "title_en": "ChatGPT Plus for veterans and servicemembers",
-        "title_original": "ChatGPT Plus for veterans and servicemembers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_3f407db2138d",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": null,
-          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": null,
-          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8516,
-      "importance": 0.8516,
-      "importance_score": 0.8516,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9534,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T05:01:16Z",
-      "latest_at": "2026-11-11T05:01:16Z",
-      "primary_item": {
-        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "title_zh": null,
-        "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/qvac/botpsy",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_5a2a32fd903d",
-      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.889,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:10:31Z",
-      "latest_at": "2026-11-11T00:10:31Z",
-      "primary_item": {
-        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-        "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-        "title_en": "GitHub App support for Enterprise Copilot seat management",
-        "title_original": "GitHub App support for Enterprise Copilot seat management",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
@@ -517,8 +256,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T08:19:25.260307Z",
-      "latest_at": "2026-11-11T08:19:25.260307Z",
+      "earliest_at": "2026-11-11T11:18:27.232150Z",
+      "latest_at": "2026-11-11T11:18:27.232150Z",
       "primary_item": {
         "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
         "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
@@ -535,30 +274,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
-      "story_id": "story_14497aca7fb0",
-      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "story_id": "story_3f407db2138d",
+      "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
+          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
+          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9132,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T05:01:16Z",
+      "latest_at": "2026-11-11T05:01:16Z",
+      "primary_item": {
+        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+        "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
+        "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_90b08b2467a3",
+      "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "primary_url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
+          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+          "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+          "title_zh": "体验 Esther Mahlangu 博士的艺术和遗产",
+          "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "title_original": "Experience the art and legacy of Dr. Esther Mahlangu",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z",
+          "published_at": "2026-11-11T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -569,33 +395,33 @@
       ],
       "items": [
         {
-          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-          "title_en": "Gemini Intelligence: New features, on more devices",
-          "title_original": "Gemini Intelligence: New features, on more devices",
+          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+          "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+          "title_zh": "体验 Esther Mahlangu 博士的艺术和遗产",
+          "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "title_original": "Experience the art and legacy of Dr. Esther Mahlangu",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:00:00Z",
+          "published_at": "2026-11-11T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8381,
+      "importance": 0.8381,
+      "importance_score": 0.8381,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.825,
+        "ai_relevance": 0.87,
+        "recency": 0.9672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -604,17 +430,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T19:00:00Z",
-      "latest_at": "2026-11-10T19:00:00Z",
+      "earliest_at": "2026-11-11T09:00:00Z",
+      "latest_at": "2026-11-11T09:00:00Z",
       "primary_item": {
-        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
-        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
-        "title_en": "Gemini Intelligence: New features, on more devices",
-        "title_original": "Gemini Intelligence: New features, on more devices",
+        "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+        "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
+        "title_zh": "体验 Esther Mahlangu 博士的艺术和遗产",
+        "title_en": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "title_original": "Experience the art and legacy of Dr. Esther Mahlangu",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
@@ -622,7 +448,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_5a2a32fd903d",
+      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8515,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T00:10:31Z",
+      "latest_at": "2026-11-11T00:10:31Z",
+      "primary_item": {
+        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+        "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+        "title_en": "GitHub App support for Enterprise Copilot seat management",
+        "title_original": "GitHub App support for Enterprise Copilot seat management",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_3712fd9f7ee1",
+      "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+          "title_en": "ChatGPT Plus for veterans and servicemembers",
+          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+          "title_en": "ChatGPT Plus for veterans and servicemembers",
+          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8516,
+      "importance": 0.8516,
+      "importance_score": 0.8516,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9534,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T08:00:00Z",
+      "latest_at": "2026-11-11T08:00:00Z",
+      "primary_item": {
+        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+        "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+        "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+        "title_en": "ChatGPT Plus for veterans and servicemembers",
+        "title_original": "ChatGPT Plus for veterans and servicemembers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
@@ -674,15 +674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8303,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "official",
@@ -709,30 +709,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
-      "story_id": "story_0faab021d272",
-      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "story_id": "story_14497aca7fb0",
+      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z",
+          "published_at": "2026-11-10T19:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -743,18 +743,18 @@
       ],
       "items": [
         {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-          "title_en": "Google Cloud launches Gemini for healthcare.",
-          "title_original": "Google Cloud launches Gemini for healthcare.",
+          "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+          "title_en": "Gemini Intelligence: New features, on more devices",
+          "title_original": "Gemini Intelligence: New features, on more devices",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z",
+          "published_at": "2026-11-10T19:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -768,8 +768,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7565,
+        "ai_relevance": 0.91,
+        "recency": 0.7902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -778,17 +778,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T13:00:00Z",
-      "latest_at": "2026-11-10T13:00:00Z",
+      "earliest_at": "2026-11-10T19:00:00Z",
+      "latest_at": "2026-11-10T19:00:00Z",
       "primary_item": {
-        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
-        "title_en": "Google Cloud launches Gemini for healthcare.",
-        "title_original": "Google Cloud launches Gemini for healthcare.",
+        "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
+        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
+        "title_en": "Gemini Intelligence: New features, on more devices",
+        "title_original": "Gemini Intelligence: New features, on more devices",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
@@ -796,128 +796,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
-      "story_id": "story_c9b05eb43caa",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_df7fb060f2e6",
+      "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+      "url": "https://www.aibase.com/news/32253",
+      "primary_url": "https://www.aibase.com/news/32253",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "Introducing Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Introducing Businesses in ChatGPT",
-          "title_original": "Introducing Businesses in ChatGPT",
+          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
+          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "title_zh": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "title_en": null,
+          "title_original": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "17515df339b0007fe180b131a39f23e42fe67482",
-          "title": "ChatGPT 中的企业 – OpenAI / Businesses in ChatGPT – OpenAI",
-          "title_zh": "ChatGPT 中的企业 – OpenAI",
-          "title_en": "Businesses in ChatGPT – OpenAI",
-          "title_original": "Businesses in ChatGPT – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:10:40Z",
+          "url": "https://www.aibase.com/news/32253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "Introducing Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Introducing Businesses in ChatGPT",
-          "title_original": "Introducing Businesses in ChatGPT",
+          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
+          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "title_zh": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "title_en": null,
+          "title_original": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "17515df339b0007fe180b131a39f23e42fe67482",
-          "title": "ChatGPT 中的企业 – OpenAI / Businesses in ChatGPT – OpenAI",
-          "title_zh": "ChatGPT 中的企业 – OpenAI",
-          "title_en": "Businesses in ChatGPT – OpenAI",
-          "title_original": "Businesses in ChatGPT – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:10:40Z",
+          "url": "https://www.aibase.com/news/32253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
-      "importance_label": "官方更新",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7244,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T10:00:00Z",
-      "latest_at": "2026-11-10T18:10:40Z",
+      "earliest_at": "2026-11-11T11:18:27.232150Z",
+      "latest_at": "2026-11-11T11:18:27.232150Z",
       "primary_item": {
-        "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-        "title": "Introducing Businesses in ChatGPT",
-        "title_zh": null,
-        "title_en": "Introducing Businesses in ChatGPT",
-        "title_original": "Introducing Businesses in ChatGPT",
+        "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
+        "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+        "title_zh": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+        "title_en": null,
+        "title_original": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-businesses-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32253",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
@@ -969,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7461,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,93 +969,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
-      "story_id": "story_ad7ce3b5bad5",
-      "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-      "url": "https://www.aibase.com/news/32242",
-      "primary_url": "https://www.aibase.com/news/32242",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0faab021d272",
+      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
-          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-          "title_en": null,
-          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32242",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T08:19:25.260307Z",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
-          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-          "title_en": null,
-          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+          "title_en": "Google Cloud launches Gemini for healthcare.",
+          "title_original": "Google Cloud launches Gemini for healthcare.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32242",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T08:19:25.260307Z",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7246,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T08:19:25.260307Z",
-      "latest_at": "2026-11-11T08:19:25.260307Z",
+      "earliest_at": "2026-11-10T13:00:00Z",
+      "latest_at": "2026-11-10T13:00:00Z",
       "primary_item": {
-        "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
-        "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-        "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-        "title_en": null,
-        "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+        "title_zh": "Google Cloud 推出用于医疗保健的 Gemini。",
+        "title_en": "Google Cloud launches Gemini for healthcare.",
+        "title_original": "Google Cloud launches Gemini for healthcare.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32242",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
@@ -1142,15 +1108,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8023,
+        "recency": 0.7685,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1177,180 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_37612d93c538",
-      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7675,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T14:00:00Z",
-      "latest_at": "2026-11-10T14:00:00Z",
-      "primary_item": {
-        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
-        "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_140bcdf11c76",
-      "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-      "url": "https://www.aibase.com/news/32244",
-      "primary_url": "https://www.aibase.com/news/32244",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "148b27c223e615de5112499a12f3af2a553332c4",
-          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "title_en": null,
-          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32244",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T08:19:25.260307Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "148b27c223e615de5112499a12f3af2a553332c4",
-          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "title_en": null,
-          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32244",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T08:19:25.260307Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T08:19:25.260307Z",
-      "latest_at": "2026-11-11T08:19:25.260307Z",
-      "primary_item": {
-        "id": "148b27c223e615de5112499a12f3af2a553332c4",
-        "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-        "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-        "title_en": null,
-        "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32244",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
@@ -1402,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7457,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1437,7 +1230,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_2a09cb6260c3",
+      "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+      "url": "https://www.aibase.com/news/32251",
+      "primary_url": "https://www.aibase.com/news/32251",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
+          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "title_zh": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "title_en": null,
+          "title_original": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32251",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
+          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "title_zh": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "title_en": null,
+          "title_original": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32251",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T11:18:27.232150Z",
+      "latest_at": "2026-11-11T11:18:27.232150Z",
+      "primary_item": {
+        "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
+        "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+        "title_zh": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+        "title_en": null,
+        "title_original": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32251",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_59804e5b79d9",
+      "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+      "url": "https://www.aibase.com/news/32254",
+      "primary_url": "https://www.aibase.com/news/32254",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
+          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_en": null,
+          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32254",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
+          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_en": null,
+          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32254",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T11:18:27.232150Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T11:18:27.232150Z",
+      "latest_at": "2026-11-11T11:18:27.232150Z",
+      "primary_item": {
+        "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
+        "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+        "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+        "title_en": null,
+        "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32254",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
@@ -1489,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7712,
+        "recency": 0.7387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1524,7 +1489,266 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_37612d93c538",
+      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
+          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
+          "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7351,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:00:00Z",
+      "latest_at": "2026-11-10T14:00:00Z",
+      "primary_item": {
+        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "title_zh": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。",
+        "title_en": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "title_original": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_ad7ce3b5bad5",
+      "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+      "url": "https://www.aibase.com/news/32242",
+      "primary_url": "https://www.aibase.com/news/32242",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_en": null,
+          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32242",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T08:19:25.260307Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_en": null,
+          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32242",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T08:19:25.260307Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9578,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T08:19:25.260307Z",
+      "latest_at": "2026-11-11T08:19:25.260307Z",
+      "primary_item": {
+        "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+        "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "title_en": null,
+        "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32242",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
+      }
+    },
+    {
+      "story_id": "story_140bcdf11c76",
+      "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+      "url": "https://www.aibase.com/news/32244",
+      "primary_url": "https://www.aibase.com/news/32244",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "148b27c223e615de5112499a12f3af2a553332c4",
+          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_en": null,
+          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32244",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T08:19:25.260307Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "148b27c223e615de5112499a12f3af2a553332c4",
+          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_en": null,
+          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32244",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T08:19:25.260307Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9578,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T08:19:25.260307Z",
+      "latest_at": "2026-11-11T08:19:25.260307Z",
+      "primary_item": {
+        "id": "148b27c223e615de5112499a12f3af2a553332c4",
+        "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "title_en": null,
+        "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32244",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     },
     {
@@ -1576,15 +1800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9578,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1610,267 +1834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_49d62ed9dc89",
-      "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "title_zh": "缩小人工智能在教育指导方面的差距",
-          "title_en": "Closing the AI guidance gap in education",
-          "title_original": "Closing the AI guidance gap in education",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-          "title_zh": "缩小人工智能在教育指导方面的差距",
-          "title_en": "Closing the AI guidance gap in education",
-          "title_original": "Closing the AI guidance gap in education",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T09:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T09:00:00Z",
-      "latest_at": "2026-11-10T09:00:00Z",
-      "primary_item": {
-        "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
-        "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
-        "title_zh": "缩小人工智能在教育指导方面的差距",
-        "title_en": "Closing the AI guidance gap in education",
-        "title_original": "Closing the AI guidance gap in education",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_40e95f8f5b4f",
-      "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-      "url": "https://www.aibase.com/news/32249",
-      "primary_url": "https://www.aibase.com/news/32249",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
-          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "title_zh": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "title_en": null,
-          "title_original": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32249",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T08:19:25.260307Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
-          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "title_zh": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "title_en": null,
-          "title_original": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32249",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T08:19:25.260307Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T08:19:25.260307Z",
-      "latest_at": "2026-11-11T08:19:25.260307Z",
-      "primary_item": {
-        "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
-        "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-        "title_zh": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-        "title_en": null,
-        "title_original": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32249",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
-      }
-    },
-    {
-      "story_id": "story_c32b15c99510",
-      "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-      "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "title_zh": "信息更丰富的 GitHub 仪表板",
-          "title_en": "A more informative GitHub dashboard",
-          "title_original": "A more informative GitHub dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-          "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-          "title_zh": "信息更丰富的 GitHub 仪表板",
-          "title_en": "A more informative GitHub dashboard",
-          "title_original": "A more informative GitHub dashboard",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:34:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7305,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:34:35Z",
-      "latest_at": "2026-11-10T10:34:35Z",
-      "primary_item": {
-        "id": "74cc6970e11c0c61c9d9d233fcc3a29da697787e",
-        "title": "信息更丰富的 GitHub 仪表板 / A more informative GitHub dashboard",
-        "title_zh": "信息更丰富的 GitHub 仪表板",
-        "title_en": "A more informative GitHub dashboard",
-        "title_original": "A more informative GitHub dashboard",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T08:40:44.382445Z"
+        "scored_at": "2026-11-11T11:19:29.112857Z"
       }
     }
   ]
