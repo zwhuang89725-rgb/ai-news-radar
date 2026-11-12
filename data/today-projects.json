@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:18:17.429073Z",
+  "generated_at": "2026-11-12T23:18:55.801827Z",
   "date": "2026-11-13",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-12T20:17:30.356689Z"
+      "observed_at": "2026-11-12T23:18:02.718613Z"
     },
     {
       "id": "project_e595cfbe7a1e",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Give your AI agents a place to build, run, and ship」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Give your AI agents a place to build, run, and ship\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-09T22:40:16Z",
-      "updated_at": "2026-11-12T20:13:49Z",
+      "updated_at": "2026-11-12T23:17:59Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-12T20:18:06.703045Z"
+      "observed_at": "2026-11-12T23:18:45.367605Z"
     },
     {
       "id": "project_5ad23f0e2e10",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-12T20:17:30.356689Z"
+      "observed_at": "2026-11-12T23:18:02.718613Z"
     },
     {
-      "id": "project_86dfdb9feb61",
-      "project_name": "Insight7 Voice AI Agents",
-      "url": "https://www.producthunt.com/products/insight7",
-      "summary": "AI voice agents that call your customers for you",
+      "id": "project_5124bd5bb866",
+      "project_name": "YouArt Desktop App",
+      "url": "https://www.producthunt.com/products/youart",
+      "summary": "Codex for creative team",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI voice agents that call your customers for you」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI voice agents that call your customers for you\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-11T13:19:50Z",
-      "updated_at": "2026-11-12T20:01:55Z",
+      "recommend_reason_zh": "体验它主打的「Codex for creative team」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Codex for creative team\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-08T02:11:55Z",
+      "updated_at": "2026-11-12T23:17:50Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-12T20:18:06.703045Z"
+      "observed_at": "2026-11-12T23:18:45.367605Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1608,
+      "duration_ms": 1523,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 135,
+      "duration_ms": 116,
       "error": null
     }
   ]
