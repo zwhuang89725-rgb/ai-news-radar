@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 12 Nov 2026 14:18:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 17:17:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex</title>
@@ -24,20 +24,12 @@
 <pubDate>Wed, 11 Nov 2026 21:32:55 +0000</pubDate>
 </item>
 <item>
-<title>问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts</title>
-<link>https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts</guid>
-<description>GitHub Changelog</description>
+<title>3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+<link>https://huggingface.co/blog/3d-lora-finetuning</link>
+<guid isPermaLink="true">https://huggingface.co/blog/3d-lora-finetuning</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 17:16:46 +0000</pubDate>
-</item>
-<item>
-<title>AlphaGenome 2：破译细胞如何读取 DNA 以更好地了解疾病 / AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
-<link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</link>
-<guid isPermaLink="true">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI</title>
@@ -46,14 +38,6 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录</title>
@@ -117,7 +101,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/adobe-ai-assistant</guid>
 <description>Create and edit faster with AI across Adobe apps（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 14:19:03 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 17:15:46 +0000</pubDate>
 </item>
 <item>
 <title>Alishahryar1/free-claude-code — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</title>
@@ -136,12 +120,12 @@
 <pubDate>Thu, 12 Nov 2026 08:17:26 +0000</pubDate>
 </item>
 <item>
-<title>Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team</title>
-<link>https://www.producthunt.com/products/grok</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/grok</guid>
-<description>Bots work together alongside your team（Product Hunt）</description>
+<title>Didit MCP — 用于身份验证和欺诈检查的 MCP 服务器 / Didit MCP — The MCP server for identity verification and fraud checks</title>
+<link>https://www.producthunt.com/products/didit-3</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/didit-3</guid>
+<description>The MCP server for identity verification and fraud checks（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 14:19:03 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 17:14:55 +0000</pubDate>
 </item>
 <item>
 <title>联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers</title>
@@ -150,6 +134,14 @@
 <description>Slashdot</description>
 <category>多源热议</category>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>我正在让LLM在小型和旧设备上工作 / I'm making LLMs work on small and old devices</title>
+<link>https://github.com/hyperionaidev/smolmaxxing</link>
+<guid isPermaLink="true">https://github.com/hyperionaidev/smolmaxxing</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Thu, 12 Nov 2026 15:23:10 +0000</pubDate>
 </item>
 <item>
 <title>国产地震大模型“谛听”亮相：汇聚 2000 万数据集，让 AI 听懂地球“心跳”</title>
@@ -166,6 +158,14 @@
 <description>ipo.anthropic.com</description>
 <category>值得关注</category>
 <pubDate>Thu, 12 Nov 2026 12:55:42 +0000</pubDate>
+</item>
+<item>
+<title>Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team</title>
+<link>https://www.producthunt.com/products/grok</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/grok</guid>
+<description>Bots work together alongside your team（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Thu, 12 Nov 2026 16:36:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
