@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:19:20.305780Z",
+  "generated_at": "2026-11-12T08:18:30.505281Z",
   "date": "2026-11-12",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-12T05:18:28.291894Z"
+      "observed_at": "2026-11-12T08:17:26.541781Z"
     },
     {
-      "id": "project_f6d66354def7",
-      "project_name": "bonds chat",
-      "url": "https://www.producthunt.com/products/bonds-2",
-      "summary": "Multiplayer AI that dies if you and your friends flake",
+      "id": "project_0faca23dae5d",
+      "project_name": "Didit MCP",
+      "url": "https://www.producthunt.com/products/didit-3",
+      "summary": "The MCP server for identity verification and fraud checks",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Multiplayer AI that dies if you and your friends flake」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Multiplayer AI that dies if you and your friends flake\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-11T05:07:26Z",
-      "updated_at": "2026-11-12T05:18:17Z",
+      "recommend_reason_zh": "体验它主打的「The MCP server for identity verification and fraud checks」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The MCP server for identity verification and fraud checks\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T07:50:55Z",
+      "updated_at": "2026-11-12T08:17:18Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-12T05:19:08.428968Z"
+      "observed_at": "2026-11-12T08:17:58.838867Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-12T05:18:28.291894Z"
+      "observed_at": "2026-11-12T08:17:26.541781Z"
     },
     {
-      "id": "project_a947672393e4",
-      "project_name": "Mister Blocks",
-      "url": "https://www.producthunt.com/products/mister-blocks",
-      "summary": "Take a picture of your LEGO and AI will make a build",
+      "id": "project_7a57d9ea0601",
+      "project_name": "Grok Bot 1.0",
+      "url": "https://www.producthunt.com/products/grok",
+      "summary": "Bots work together alongside your team",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Take a picture of your LEGO and AI will make a build」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Take a picture of your LEGO and AI will make a build\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-11T03:26:18Z",
-      "updated_at": "2026-11-12T05:18:14Z",
+      "recommend_reason_zh": "体验它主打的「Bots work together alongside your team」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Bots work together alongside your team\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-11T19:38:45Z",
+      "updated_at": "2026-11-12T08:17:00Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-12T05:19:08.428968Z"
+      "observed_at": "2026-11-12T08:17:58.838867Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1361,
+      "duration_ms": 331,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 187,
+      "duration_ms": 142,
       "error": null
     }
   ]
