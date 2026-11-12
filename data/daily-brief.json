@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:18:27.210092Z",
+  "generated_at": "2026-11-12T14:18:29.041275Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8554,
-      "importance": 0.8554,
-      "importance_score": 0.8554,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9742,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -172,15 +172,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7789,
+        "recency": 0.7458,
         "story_heat": 0.25
       },
       "category": "official",
@@ -208,7 +208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -260,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7708,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,7 +295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -347,15 +347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7459,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,7 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -434,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8493,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7567,
+        "recency": 0.7246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -608,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,7 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -694,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8493,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -781,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -815,7 +815,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -867,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,7 +901,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -953,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -987,7 +987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -1039,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -1125,15 +1125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,7 +1159,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
+      }
+    },
+    {
+      "story_id": "story_1ab7a6d33c34",
+      "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "primary_url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-12T14:14:01Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T14:19:03.195000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-12T14:14:01Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T14:19:03.195000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9989,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T14:14:01Z",
+      "latest_at": "2026-11-12T14:19:03.195000Z",
+      "primary_item": {
+        "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+        "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+        "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "summary": "Create and edit faster with AI across Adobe apps",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -1244,15 +1362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,125 +1395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
-      }
-    },
-    {
-      "story_id": "story_c8ae76cc6311",
-      "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
-      "url": "https://www.producthunt.com/products/kippy-ai",
-      "primary_url": "https://www.producthunt.com/products/kippy-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "4b3f9e9a4c47953c72fcafc35276bc2c6b520088",
-          "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
-          "title_zh": "Kippy AI——边玩边学语言！",
-          "title_en": "Kippy AI — Learn languages while having fun!",
-          "title_original": "Kippy AI — Learn languages while having fun!",
-          "summary": "Learn languages while having fun!",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/kippy-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-08T11:17:04Z",
-          "updated_at": "2026-11-12T10:05:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "7137532095a3029f63e5f9b2969689ff7a49efe5",
-          "title": "Kippy AI",
-          "title_zh": null,
-          "title_en": "Kippy AI",
-          "title_original": "Kippy AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/kippy-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T14:05:23.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "4b3f9e9a4c47953c72fcafc35276bc2c6b520088",
-          "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
-          "title_zh": "Kippy AI——边玩边学语言！",
-          "title_en": "Kippy AI — Learn languages while having fun!",
-          "title_original": "Kippy AI — Learn languages while having fun!",
-          "summary": "Learn languages while having fun!",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/kippy-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-08T11:17:04Z",
-          "updated_at": "2026-11-12T10:05:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "7137532095a3029f63e5f9b2969689ff7a49efe5",
-          "title": "Kippy AI",
-          "title_zh": null,
-          "title_en": "Kippy AI",
-          "title_original": "Kippy AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/kippy-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T14:05:23.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5911,
-      "importance": 0.5911,
-      "importance_score": 0.5911,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9826,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-11T14:05:23.968000Z",
-      "latest_at": "2026-11-12T10:05:22Z",
-      "primary_item": {
-        "id": "4b3f9e9a4c47953c72fcafc35276bc2c6b520088",
-        "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
-        "title_zh": "Kippy AI——边玩边学语言！",
-        "title_en": "Kippy AI — Learn languages while having fun!",
-        "title_original": "Kippy AI — Learn languages while having fun!",
-        "summary": "Learn languages while having fun!",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/kippy-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -1447,15 +1447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1481,7 +1481,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
+      }
+    },
+    {
+      "story_id": "story_20f0cad424bf",
+      "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+      "url": "https://www.producthunt.com/products/grok",
+      "primary_url": "https://www.producthunt.com/products/grok",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+          "summary": "Bots work together alongside your team",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/grok",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-11T19:38:45Z",
+          "updated_at": "2026-11-12T14:13:33Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
+          "title": "Grok Bot 1.0",
+          "title_zh": null,
+          "title_en": "Grok Bot 1.0",
+          "title_original": "Grok Bot 1.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/grok",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T14:19:03.195000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+          "summary": "Bots work together alongside your team",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/grok",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-11T19:38:45Z",
+          "updated_at": "2026-11-12T14:13:33Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
+          "title": "Grok Bot 1.0",
+          "title_zh": null,
+          "title_en": "Grok Bot 1.0",
+          "title_original": "Grok Bot 1.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/grok",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T14:19:03.195000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9988,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T14:13:33Z",
+      "latest_at": "2026-11-12T14:19:03.195000Z",
+      "primary_item": {
+        "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+        "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+        "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+        "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+        "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+        "summary": "Bots work together alongside your team",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/grok",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -1632,15 +1750,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5687,
-      "importance": 0.5687,
-      "importance_score": 0.5687,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8493,
+        "recency": 0.8133,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1665,125 +1783,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
-      }
-    },
-    {
-      "story_id": "story_241864bbafb3",
-      "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-      "url": "https://www.producthunt.com/products/mitra-5",
-      "primary_url": "https://www.producthunt.com/products/mitra-5",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
-          "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
-          "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "summary": "Give your AI agents access to your personal phone line",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-10T18:52:46Z",
-          "updated_at": "2026-11-12T10:05:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5930f3fad0009c1ffade979520e6c76ff4c815ba",
-          "title": "Mitra MCP",
-          "title_zh": null,
-          "title_en": "Mitra MCP",
-          "title_original": "Mitra MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T14:05:23.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
-          "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
-          "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "summary": "Give your AI agents access to your personal phone line",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-10T18:52:46Z",
-          "updated_at": "2026-11-12T10:05:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5930f3fad0009c1ffade979520e6c76ff4c815ba",
-          "title": "Mitra MCP",
-          "title_zh": null,
-          "title_en": "Mitra MCP",
-          "title_original": "Mitra MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T14:05:23.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5911,
-      "importance": 0.5911,
-      "importance_score": 0.5911,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9826,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-11T14:05:23.968000Z",
-      "latest_at": "2026-11-12T10:05:22Z",
-      "primary_item": {
-        "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
-        "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-        "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
-        "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
-        "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
-        "summary": "Give your AI agents access to your personal phone line",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/mitra-5",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
@@ -1835,15 +1835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1869,190 +1869,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     },
     {
-      "story_id": "story_3c08245a36e3",
-      "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-      "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-      "primary_url": "https://pietromiotti.com/latest/maya-site/?maya=",
-      "source": "pietromiotti.com",
+      "story_id": "story_a23e6f687dd6",
+      "title": "Anthropic首次公开募股",
+      "url": "https://ipo.anthropic.com/us",
+      "primary_url": "https://ipo.anthropic.com/us",
+      "source": "ipo.anthropic.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "88599ce2438ae36c412e9e1b5696135589718490",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "id": "a364efd31da809754b674e98c294f70aff7aa3c8",
+          "title": "Anthropic首次公开募股",
+          "title_zh": "Anthropic首次公开募股",
           "title_en": null,
-          "title_original": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_original": "Anthropic首次公开募股",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-          "source": "pietromiotti.com",
+          "url": "https://ipo.anthropic.com/us",
+          "source": "ipo.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-11T13:34:43.874000Z",
+          "published_at": "2026-11-12T12:55:42.773000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "aec4662b2a3d46b5fdf9ee00fc27cc151e688c48",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "id": "ee0cf1b1544787ed0f419351b761bb399c3d24c9",
+          "title": "Anthropic首次公开募股 / Anthropic IPO",
+          "title_zh": "Anthropic首次公开募股",
+          "title_en": "Anthropic IPO",
+          "title_original": "Anthropic IPO",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+          "url": "https://ipo.anthropic.com/us",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-11T12:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c7454bd258c5c8faa968ca75c8ee2bfafec29ad4",
-          "title": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_zh": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔",
-          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d751d09673e9e4956dea3fc095e833eaa4d37d1f",
-          "title": "我的 AI 代理发现了一个未映射的 Maya 站点 / My AI agents found an unmapped Maya site",
-          "title_zh": "我的 AI 代理发现了一个未映射的 Maya 站点",
-          "title_en": "My AI agents found an unmapped Maya site",
-          "title_original": "My AI agents found an unmapped Maya site",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z",
+          "published_at": "2026-11-12T11:46:41Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "pietromiotti.com"
+        "ipo.anthropic.com"
       ],
       "items": [
         {
-          "id": "88599ce2438ae36c412e9e1b5696135589718490",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "id": "a364efd31da809754b674e98c294f70aff7aa3c8",
+          "title": "Anthropic首次公开募股",
+          "title_zh": "Anthropic首次公开募股",
           "title_en": null,
-          "title_original": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+          "title_original": "Anthropic首次公开募股",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-          "source": "pietromiotti.com",
+          "url": "https://ipo.anthropic.com/us",
+          "source": "ipo.anthropic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-11T13:34:43.874000Z",
+          "published_at": "2026-11-12T12:55:42.773000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "aec4662b2a3d46b5fdf9ee00fc27cc151e688c48",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "id": "ee0cf1b1544787ed0f419351b761bb399c3d24c9",
+          "title": "Anthropic首次公开募股 / Anthropic IPO",
+          "title_zh": "Anthropic首次公开募股",
+          "title_en": "Anthropic IPO",
+          "title_original": "Anthropic IPO",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
+          "url": "https://ipo.anthropic.com/us",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-11T12:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c7454bd258c5c8faa968ca75c8ee2bfafec29ad4",
-          "title": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_zh": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔",
-          "title_en": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "title_original": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d751d09673e9e4956dea3fc095e833eaa4d37d1f",
-          "title": "我的 AI 代理发现了一个未映射的 Maya 站点 / My AI agents found an unmapped Maya site",
-          "title_zh": "我的 AI 代理发现了一个未映射的 Maya 站点",
-          "title_en": "My AI agents found an unmapped Maya site",
-          "title_original": "My AI agents found an unmapped Maya site",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z",
+          "published_at": "2026-11-12T11:46:41Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5473,
-      "importance": 0.5473,
-      "importance_score": 0.5473,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7307,
-        "story_heat": 0.75
+        "recency": 0.9803,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-11T12:05:22Z",
-      "latest_at": "2026-11-11T13:34:43.874000Z",
+      "earliest_at": "2026-11-12T11:46:41Z",
+      "latest_at": "2026-11-12T12:55:42.773000Z",
       "primary_item": {
-        "id": "88599ce2438ae36c412e9e1b5696135589718490",
-        "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-        "title_zh": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+        "id": "a364efd31da809754b674e98c294f70aff7aa3c8",
+        "title": "Anthropic首次公开募股",
+        "title_zh": "Anthropic首次公开募股",
         "title_en": null,
-        "title_original": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
+        "title_original": "Anthropic首次公开募股",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-        "source": "pietromiotti.com",
+        "url": "https://ipo.anthropic.com/us",
+        "source": "ipo.anthropic.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T11:19:19.421447Z"
+        "scored_at": "2026-11-12T14:19:24.915146Z"
       }
     }
   ]
