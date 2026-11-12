@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:19:10.751337Z",
+  "generated_at": "2026-11-12T05:19:20.305780Z",
   "date": "2026-11-12",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-12T02:18:25.393312Z"
+      "observed_at": "2026-11-12T05:18:28.291894Z"
     },
     {
       "id": "project_f6d66354def7",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Multiplayer AI that dies if you and your friends flake」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Multiplayer AI that dies if you and your friends flake\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-11T05:07:26Z",
-      "updated_at": "2026-11-11T23:50:20Z",
+      "updated_at": "2026-11-12T05:18:17Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-12T02:18:59.314397Z"
+      "observed_at": "2026-11-12T05:19:08.428968Z"
     },
     {
       "id": "project_2e74d0228d63",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-12T02:18:25.393312Z"
+      "observed_at": "2026-11-12T05:18:28.291894Z"
     },
     {
-      "id": "project_7756d07327ae",
-      "project_name": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "summary": "AI ad fraud detection that protects your marketing budget",
+      "id": "project_a947672393e4",
+      "project_name": "Mister Blocks",
+      "url": "https://www.producthunt.com/products/mister-blocks",
+      "summary": "Take a picture of your LEGO and AI will make a build",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI ad fraud detection that protects your marketing budget」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI ad fraud detection that protects your marketing budget\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T08:11:42Z",
-      "updated_at": "2026-11-12T02:17:47Z",
+      "recommend_reason_zh": "体验它主打的「Take a picture of your LEGO and AI will make a build」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Take a picture of your LEGO and AI will make a build\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-11T03:26:18Z",
+      "updated_at": "2026-11-12T05:18:14Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-12T02:18:59.314397Z"
+      "observed_at": "2026-11-12T05:19:08.428968Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1297,
+      "duration_ms": 1361,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 98,
+      "duration_ms": 187,
       "error": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T02:18:25.393312Z",
+  "generated_at": "2026-11-12T05:18:28.291894Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8567,
-      "importance": 0.8567,
-      "importance_score": 0.8567,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.887,
+        "recency": 0.8493,
         "story_heat": 0.25
       },
       "category": "official",
@@ -121,7 +121,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -173,15 +173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9672,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,7 +208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -260,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8778,
+        "recency": 0.8406,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,7 +295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -347,15 +347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8494,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,94 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
-      }
-    },
-    {
-      "story_id": "story_3f407db2138d",
-      "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
-          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
-          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7354,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T05:01:16Z",
-      "latest_at": "2026-11-11T05:01:16Z",
-      "primary_item": {
-        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-        "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
-        "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/qvac/botpsy",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -521,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8617,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -608,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7677,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,30 +556,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_c3fcc69c43e8",
-      "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-      "url": "https://www.aibase.com/news/32263",
-      "primary_url": "https://www.aibase.com/news/32263",
+      "story_id": "story_59ef3274551b",
+      "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+      "url": "https://www.aibase.com/news/32266",
+      "primary_url": "https://www.aibase.com/news/32266",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
           "title_en": null,
-          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32263",
+          "url": "https://www.aibase.com/news/32266",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -677,18 +590,18 @@
       ],
       "items": [
         {
-          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
           "title_en": null,
-          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32263",
+          "url": "https://www.aibase.com/news/32266",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -711,17 +624,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T02:18:25.393312Z",
-      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "earliest_at": "2026-11-12T05:18:28.291894Z",
+      "latest_at": "2026-11-12T05:18:28.291894Z",
       "primary_item": {
-        "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-        "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-        "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+        "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+        "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
         "title_en": null,
-        "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32263",
+        "url": "https://www.aibase.com/news/32266",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -729,7 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -781,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7789,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -816,30 +729,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_4b7ec03ba0be",
-      "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-      "url": "https://www.aibase.com/news/32258",
-      "primary_url": "https://www.aibase.com/news/32258",
+      "story_id": "story_c2e0bd64e927",
+      "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+      "url": "https://www.aibase.com/news/32270",
+      "primary_url": "https://www.aibase.com/news/32270",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
-          "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "title_zh": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "title_en": null,
-          "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+          "title_original": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32258",
+          "url": "https://www.aibase.com/news/32270",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -850,18 +763,18 @@
       ],
       "items": [
         {
-          "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
-          "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-          "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "title_zh": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "title_en": null,
-          "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+          "title_original": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32258",
+          "url": "https://www.aibase.com/news/32270",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -884,17 +797,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T02:18:25.393312Z",
-      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "earliest_at": "2026-11-12T05:18:28.291894Z",
+      "latest_at": "2026-11-12T05:18:28.291894Z",
       "primary_item": {
-        "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
-        "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
-        "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+        "id": "a4477ec6492087718782506ce434cdc928a45a72",
+        "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+        "title_zh": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
         "title_en": null,
-        "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+        "title_original": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32258",
+        "url": "https://www.aibase.com/news/32270",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -902,30 +815,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_03424947e690",
-      "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-      "url": "https://www.aibase.com/news/32262",
-      "primary_url": "https://www.aibase.com/news/32262",
+      "story_id": "story_41fbf5ea9b00",
+      "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+      "url": "https://www.aibase.com/news/32271",
+      "primary_url": "https://www.aibase.com/news/32271",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "38fee6133505854eaebd12829a0a47d242614cf6",
-          "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+          "id": "75f583f0962d81a5e2214c6f189ca9da1b44e97b",
+          "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+          "title_zh": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "title_en": null,
-          "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+          "title_original": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32262",
+          "url": "https://www.aibase.com/news/32271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -936,18 +849,18 @@
       ],
       "items": [
         {
-          "id": "38fee6133505854eaebd12829a0a47d242614cf6",
-          "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-          "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+          "id": "75f583f0962d81a5e2214c6f189ca9da1b44e97b",
+          "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+          "title_zh": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "title_en": null,
-          "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+          "title_original": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32262",
+          "url": "https://www.aibase.com/news/32271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -970,17 +883,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T02:18:25.393312Z",
-      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "earliest_at": "2026-11-12T05:18:28.291894Z",
+      "latest_at": "2026-11-12T05:18:28.291894Z",
       "primary_item": {
-        "id": "38fee6133505854eaebd12829a0a47d242614cf6",
-        "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
-        "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+        "id": "75f583f0962d81a5e2214c6f189ca9da1b44e97b",
+        "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+        "title_zh": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
         "title_en": null,
-        "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+        "title_original": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32262",
+        "url": "https://www.aibase.com/news/32271",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -988,30 +901,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_f86d86d4a200",
-      "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-      "url": "https://www.aibase.com/news/32259",
-      "primary_url": "https://www.aibase.com/news/32259",
+      "story_id": "story_870fd07b8f75",
+      "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+      "url": "https://www.aibase.com/news/32267",
+      "primary_url": "https://www.aibase.com/news/32267",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a63a2806cb54f0488899842909c84c5a27412928",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "title_zh": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "title_en": null,
-          "title_original": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32259",
+          "url": "https://www.aibase.com/news/32267",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1022,18 +935,18 @@
       ],
       "items": [
         {
-          "id": "a63a2806cb54f0488899842909c84c5a27412928",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "title_zh": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "title_en": null,
-          "title_original": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32259",
+          "url": "https://www.aibase.com/news/32267",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1056,17 +969,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T02:18:25.393312Z",
-      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "earliest_at": "2026-11-12T05:18:28.291894Z",
+      "latest_at": "2026-11-12T05:18:28.291894Z",
       "primary_item": {
-        "id": "a63a2806cb54f0488899842909c84c5a27412928",
-        "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-        "title_zh": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+        "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+        "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+        "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
         "title_en": null,
-        "title_original": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+        "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32259",
+        "url": "https://www.aibase.com/news/32267",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1074,30 +987,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_ae92b5f25cb6",
-      "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-      "url": "https://www.aibase.com/news/32261",
-      "primary_url": "https://www.aibase.com/news/32261",
+      "story_id": "story_18f0a002922c",
+      "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+      "url": "https://www.aibase.com/news/32265",
+      "primary_url": "https://www.aibase.com/news/32265",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "264cf989d10b6029c6638437f37f972480ae7613",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "title_zh": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
+          "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
           "title_en": null,
-          "title_original": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32261",
+          "url": "https://www.aibase.com/news/32265",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1108,18 +1021,18 @@
       ],
       "items": [
         {
-          "id": "264cf989d10b6029c6638437f37f972480ae7613",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "title_zh": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
+          "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
           "title_en": null,
-          "title_original": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32261",
+          "url": "https://www.aibase.com/news/32265",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1142,17 +1055,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T02:18:25.393312Z",
-      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "earliest_at": "2026-11-12T05:18:28.291894Z",
+      "latest_at": "2026-11-12T05:18:28.291894Z",
       "primary_item": {
-        "id": "264cf989d10b6029c6638437f37f972480ae7613",
-        "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-        "title_zh": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+        "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
+        "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+        "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
         "title_en": null,
-        "title_original": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+        "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32261",
+        "url": "https://www.aibase.com/news/32265",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1160,30 +1073,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_e74ea6eb9374",
-      "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-      "url": "https://www.aibase.com/news/32255",
-      "primary_url": "https://www.aibase.com/news/32255",
+      "story_id": "story_6eadfa26abee",
+      "title": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
+      "url": "https://www.aibase.com/news/32268",
+      "primary_url": "https://www.aibase.com/news/32268",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "title_zh": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "id": "72eaaae66dbbe3686559513071ec07e7db8e58d3",
+          "title": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
+          "title_zh": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
           "title_en": null,
-          "title_original": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "title_original": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32255",
+          "url": "https://www.aibase.com/news/32268",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1194,18 +1107,18 @@
       ],
       "items": [
         {
-          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "title_zh": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "id": "72eaaae66dbbe3686559513071ec07e7db8e58d3",
+          "title": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
+          "title_zh": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
           "title_en": null,
-          "title_original": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "title_original": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32255",
+          "url": "https://www.aibase.com/news/32268",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "published_at": "2026-11-12T05:18:28.291894Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1228,17 +1141,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T02:18:25.393312Z",
-      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "earliest_at": "2026-11-12T05:18:28.291894Z",
+      "latest_at": "2026-11-12T05:18:28.291894Z",
       "primary_item": {
-        "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-        "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-        "title_zh": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+        "id": "72eaaae66dbbe3686559513071ec07e7db8e58d3",
+        "title": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
+        "title_zh": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
         "title_en": null,
-        "title_original": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+        "title_original": "李彦宏:AI变革不只是技术革命，企业需要围绕智能体重构组织",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32255",
+        "url": "https://www.aibase.com/news/32268",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1246,42 +1159,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_29170198c43b",
-      "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "primary_url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "story_id": "story_c8ae76cc6311",
+      "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
+      "url": "https://www.producthunt.com/products/kippy-ai",
+      "primary_url": "https://www.producthunt.com/products/kippy-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "e775771086f3ab9f8d30408c53e49b2b05a8dd90",
-          "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-          "title_zh": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算",
-          "title_en": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-          "title_original": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-          "summary": "AI ad fraud detection that protects your marketing budget",
+          "id": "4b3f9e9a4c47953c72fcafc35276bc2c6b520088",
+          "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
+          "title_zh": "Kippy AI——边玩边学语言！",
+          "title_en": "Kippy AI — Learn languages while having fun!",
+          "title_original": "Kippy AI — Learn languages while having fun!",
+          "summary": "Learn languages while having fun!",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "url": "https://www.producthunt.com/products/kippy-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-19T08:11:42Z",
-          "updated_at": "2026-11-12T02:17:47Z",
+          "published_at": "2026-11-08T11:17:04Z",
+          "updated_at": "2026-11-12T05:18:10Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "8b51f3ad6700e1fb6d4b641886046596688b2106",
-          "title": "财奴青蛙人工智能 / ScroogeFrog AI",
-          "title_zh": "财奴青蛙人工智能",
-          "title_en": "ScroogeFrog AI",
-          "title_original": "ScroogeFrog AI",
+          "id": "7137532095a3029f63e5f9b2969689ff7a49efe5",
+          "title": "Kippy AI",
+          "title_zh": null,
+          "title_en": "Kippy AI",
+          "title_original": "Kippy AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "url": "https://www.producthunt.com/products/kippy-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1297,30 +1210,30 @@
       ],
       "items": [
         {
-          "id": "e775771086f3ab9f8d30408c53e49b2b05a8dd90",
-          "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-          "title_zh": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算",
-          "title_en": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-          "title_original": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-          "summary": "AI ad fraud detection that protects your marketing budget",
+          "id": "4b3f9e9a4c47953c72fcafc35276bc2c6b520088",
+          "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
+          "title_zh": "Kippy AI——边玩边学语言！",
+          "title_en": "Kippy AI — Learn languages while having fun!",
+          "title_original": "Kippy AI — Learn languages while having fun!",
+          "summary": "Learn languages while having fun!",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "url": "https://www.producthunt.com/products/kippy-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-19T08:11:42Z",
-          "updated_at": "2026-11-12T02:17:47Z",
+          "published_at": "2026-11-08T11:17:04Z",
+          "updated_at": "2026-11-12T05:18:10Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "8b51f3ad6700e1fb6d4b641886046596688b2106",
-          "title": "财奴青蛙人工智能 / ScroogeFrog AI",
-          "title_zh": "财奴青蛙人工智能",
-          "title_en": "ScroogeFrog AI",
-          "title_original": "ScroogeFrog AI",
+          "id": "7137532095a3029f63e5f9b2969689ff7a49efe5",
+          "title": "Kippy AI",
+          "title_zh": null,
+          "title_en": "Kippy AI",
+          "title_original": "Kippy AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "url": "https://www.producthunt.com/products/kippy-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1339,7 +1252,7 @@
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9998,
+        "recency": 0.9999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1347,16 +1260,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-11T14:05:23.968000Z",
-      "latest_at": "2026-11-12T02:17:47Z",
+      "latest_at": "2026-11-12T05:18:10Z",
       "primary_item": {
-        "id": "e775771086f3ab9f8d30408c53e49b2b05a8dd90",
-        "title": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算 / ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-        "title_zh": "ScroogeFrog AI — 人工智能广告欺诈检测可保护您的营销预算",
-        "title_en": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-        "title_original": "ScroogeFrog AI — AI ad fraud detection that protects your marketing budget",
-        "summary": "AI ad fraud detection that protects your marketing budget",
+        "id": "4b3f9e9a4c47953c72fcafc35276bc2c6b520088",
+        "title": "Kippy AI——边玩边学语言！ / Kippy AI — Learn languages while having fun!",
+        "title_zh": "Kippy AI——边玩边学语言！",
+        "title_en": "Kippy AI — Learn languages while having fun!",
+        "title_original": "Kippy AI — Learn languages while having fun!",
+        "summary": "Learn languages while having fun!",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+        "url": "https://www.producthunt.com/products/kippy-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1364,7 +1277,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
+      }
+    },
+    {
+      "story_id": "story_53600a540d49",
+      "title": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+      "url": "https://www.aibase.com/news/32269",
+      "primary_url": "https://www.aibase.com/news/32269",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1415075e7a723f7072eff8d129d00b8411e3379f",
+          "title": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+          "title_zh": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+          "title_en": null,
+          "title_original": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32269",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T05:18:28.291894Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1415075e7a723f7072eff8d129d00b8411e3379f",
+          "title": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+          "title_zh": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+          "title_en": null,
+          "title_original": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32269",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T05:18:28.291894Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T05:18:28.291894Z",
+      "latest_at": "2026-11-12T05:18:28.291894Z",
+      "primary_item": {
+        "id": "1415075e7a723f7072eff8d129d00b8411e3379f",
+        "title": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+        "title_zh": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+        "title_en": null,
+        "title_original": "百度推出大模型Token交易平台“词元所”，日均调用Token超7000亿",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32269",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -1515,15 +1514,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5899,
-      "importance": 0.5899,
-      "importance_score": 0.5899,
+      "score": 0.5825,
+      "importance": 0.5825,
+      "importance_score": 0.5825,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9672,
+        "recency": 0.9262,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1548,93 +1547,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
-      "story_id": "story_14b44202b9e4",
-      "title": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-      "url": "https://www.aibase.com/news/32256",
-      "primary_url": "https://www.aibase.com/news/32256",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_241864bbafb3",
+      "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
+      "url": "https://www.producthunt.com/products/mitra-5",
+      "primary_url": "https://www.producthunt.com/products/mitra-5",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "bed3b5f4cf684349c7322e3b6393b600babf644e",
-          "title": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-          "title_zh": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-          "title_en": null,
-          "title_original": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
+          "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
+          "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
+          "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
+          "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
+          "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
+          "summary": "Give your AI agents access to your personal phone line",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/mitra-5",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-10T18:52:46Z",
+          "updated_at": "2026-11-12T05:18:11Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "5930f3fad0009c1ffade979520e6c76ff4c815ba",
+          "title": "Mitra MCP",
+          "title_zh": null,
+          "title_en": "Mitra MCP",
+          "title_original": "Mitra MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32256",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "url": "https://www.producthunt.com/products/mitra-5",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T14:05:23.968000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "bed3b5f4cf684349c7322e3b6393b600babf644e",
-          "title": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-          "title_zh": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-          "title_en": null,
-          "title_original": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
+          "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
+          "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
+          "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
+          "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
+          "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
+          "summary": "Give your AI agents access to your personal phone line",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/mitra-5",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-10T18:52:46Z",
+          "updated_at": "2026-11-12T05:18:11Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "5930f3fad0009c1ffade979520e6c76ff4c815ba",
+          "title": "Mitra MCP",
+          "title_zh": null,
+          "title_en": "Mitra MCP",
+          "title_original": "Mitra MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32256",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T02:18:25.393312Z",
+          "url": "https://www.producthunt.com/products/mitra-5",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T14:05:23.968000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9999,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-12T02:18:25.393312Z",
-      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "earliest_at": "2026-11-11T14:05:23.968000Z",
+      "latest_at": "2026-11-12T05:18:11Z",
       "primary_item": {
-        "id": "bed3b5f4cf684349c7322e3b6393b600babf644e",
-        "title": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-        "title_zh": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-        "title_en": null,
-        "title_original": "字节跳动计划数周内推出新款AI助手，布局智能体赛道",
-        "summary": null,
+        "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
+        "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
+        "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
+        "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
+        "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
+        "summary": "Give your AI agents access to your personal phone line",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32256",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.producthunt.com/products/mitra-5",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -1784,15 +1815,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5656,
-      "importance": 0.5656,
-      "importance_score": 0.5656,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8321,
+        "recency": 0.7968,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1817,125 +1848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
-      }
-    },
-    {
-      "story_id": "story_241864bbafb3",
-      "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-      "url": "https://www.producthunt.com/products/mitra-5",
-      "primary_url": "https://www.producthunt.com/products/mitra-5",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
-          "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
-          "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "summary": "Give your AI agents access to your personal phone line",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-10T18:52:46Z",
-          "updated_at": "2026-11-12T02:14:44Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5930f3fad0009c1ffade979520e6c76ff4c815ba",
-          "title": "Mitra MCP",
-          "title_zh": null,
-          "title_en": "Mitra MCP",
-          "title_original": "Mitra MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T14:05:23.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
-          "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
-          "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
-          "summary": "Give your AI agents access to your personal phone line",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-10T18:52:46Z",
-          "updated_at": "2026-11-12T02:14:44Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5930f3fad0009c1ffade979520e6c76ff4c815ba",
-          "title": "Mitra MCP",
-          "title_zh": null,
-          "title_en": "Mitra MCP",
-          "title_original": "Mitra MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/mitra-5",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T14:05:23.968000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9991,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-11T14:05:23.968000Z",
-      "latest_at": "2026-11-12T02:14:44Z",
-      "primary_item": {
-        "id": "25aa3604c2395c759fd4489b66cdd6cdb1133d8e",
-        "title": "Mitra MCP — 让您的 AI 代理访问您的个人电话线 / Mitra MCP — Give your AI agents access to your personal phone line",
-        "title_zh": "Mitra MCP — 让您的 AI 代理访问您的个人电话线",
-        "title_en": "Mitra MCP — Give your AI agents access to your personal phone line",
-        "title_original": "Mitra MCP — Give your AI agents access to your personal phone line",
-        "summary": "Give your AI agents access to your personal phone line",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/mitra-5",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     },
     {
@@ -2020,15 +1933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8053,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2053,7 +1966,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T02:19:21.881814Z"
+        "scored_at": "2026-11-12T05:19:31.694346Z"
+      }
+    },
+    {
+      "story_id": "story_c3fcc69c43e8",
+      "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+      "url": "https://www.aibase.com/news/32263",
+      "primary_url": "https://www.aibase.com/news/32263",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_en": null,
+          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32263",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T02:18:25.393312Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_en": null,
+          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32263",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T02:18:25.393312Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T02:18:25.393312Z",
+      "latest_at": "2026-11-12T02:18:25.393312Z",
+      "primary_item": {
+        "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+        "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "title_en": null,
+        "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32263",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T05:19:31.694346Z"
       }
     }
   ]
