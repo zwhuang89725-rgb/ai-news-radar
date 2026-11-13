@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 02:17:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 05:18:14 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Codex CLI 0.168.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
 <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
@@ -25,8 +33,8 @@
 </item>
 <item>
 <title>Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-<link>https://openai.com/index/amplitude</link>
-<guid isPermaLink="true">https://openai.com/index/amplitude</guid>
+<link>https://openai.com/business/customer-stories/amplitude</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
@@ -72,12 +80,12 @@
 <pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型</title>
-<link>https://www.aibase.com/news/32296</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32296</guid>
+<title>Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试</title>
+<link>https://www.aibase.com/news/32297</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32297</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 02:17:28 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:18:14 +0000</pubDate>
 </item>
 <item>
 <title>Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex</title>
@@ -96,28 +104,28 @@
 <pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic推出Claude Meetings，可加入Google Meet参与会议</title>
-<link>https://www.aibase.com/news/32295</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32295</guid>
+<title>ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写</title>
+<link>https://www.aibase.com/news/32303</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32303</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 02:17:28 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:18:14 +0000</pubDate>
 </item>
 <item>
-<title>Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露</title>
-<link>https://www.aibase.com/news/32288</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32288</guid>
+<title>从超级小布到AI原生硬件，OPPO加速拓展AI终端布局</title>
+<link>https://www.aibase.com/news/32299</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32299</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 02:17:28 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:18:14 +0000</pubDate>
 </item>
 <item>
-<title>Google推出Gemini4Hydrogen，全球Search迎来最大模型升级</title>
-<link>https://www.aibase.com/news/32289</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32289</guid>
+<title>关停五年，"虾米"借 AI 还魂：阿里 30 元推出快乐虾米</title>
+<link>https://www.aibase.com/news/32305</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32305</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 02:17:28 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:18:14 +0000</pubDate>
 </item>
 <item>
 <title>Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
@@ -128,20 +136,20 @@
 <pubDate>Thu, 12 Nov 2026 18:17:29 +0000</pubDate>
 </item>
 <item>
-<title>Meta开放Muse AI电话代办功能，面向所有付费用户推出</title>
-<link>https://www.aibase.com/news/32294</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32294</guid>
+<title>微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单</title>
+<link>https://www.aibase.com/news/32306</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32306</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 02:17:28 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:18:14 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首</title>
-<link>https://www.aibase.com/news/32292</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32292</guid>
+<title>手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO</title>
+<link>https://www.aibase.com/news/32300</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32300</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 02:17:28 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:18:14 +0000</pubDate>
 </item>
 <item>
 <title>Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps</title>
@@ -149,23 +157,15 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/adobe-ai-assistant</guid>
 <description>Create and edit faster with AI across Adobe apps（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Fri, 13 Nov 2026 02:04:56 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:11:38 +0000</pubDate>
 </item>
 <item>
-<title>Samsung联合Google推出AI智能眼镜，12月10日正式开售</title>
-<link>https://www.aibase.com/news/32290</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32290</guid>
+<title>月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速</title>
+<link>https://www.aibase.com/news/32304</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32304</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 02:17:28 +0000</pubDate>
-</item>
-<item>
-<title>中国前沿AI模型中留有受出口管制的GPU的“指纹”</title>
-<link>https://unemploymentlabs.com/checkpoint-forensics</link>
-<guid isPermaLink="true">https://unemploymentlabs.com/checkpoint-forensics</guid>
-<description>unemploymentlabs.com</description>
-<category>多源热议</category>
-<pubDate>Fri, 13 Nov 2026 00:06:45 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 05:18:14 +0000</pubDate>
 </item>
 </channel>
 </rss>
