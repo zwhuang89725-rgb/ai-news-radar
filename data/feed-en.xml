@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 11:18:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 14:19:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+<description>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+</item>
 <item>
 <title>Codex CLI 0.168.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
@@ -16,12 +24,12 @@
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-<description>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B (Hugging Face Blog)</description>
+<title>Manage AI Scan for repositories using the REST API</title>
+<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
+<description>Manage AI Scan for repositories using the REST API (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
 <title>Build once, run on any agent: A practical guide to agent skills</title>
@@ -56,6 +64,14 @@
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
+<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<description>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+</item>
+<item>
 <title>Actions for ARM32 Linux &amp; Windows retirement</title>
 <link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
@@ -64,12 +80,12 @@
 <pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
 </item>
 <item>
-<title>Gondola doubles revenue as its team builds more with Codex</title>
-<link>https://openai.com/business/customer-stories/gondola</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
-<description>Gondola doubles revenue as its team builds more with Codex (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+<title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
+<link>https://www.aibase.com/news/32317</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
+<description>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
 <title>Secret scanning detects Cloudflare service tokens</title>
@@ -78,14 +94,6 @@
 <description>Secret scanning detects Cloudflare service tokens (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
-</item>
-<item>
-<title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
-<link>https://www.aibase.com/news/32317</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
-<description>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
 <title>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷</title>
@@ -144,28 +152,20 @@
 <pubDate>Fri, 13 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
+<title>Claude Meetings — Add Claude to your call and get work started as you talk</title>
+<link>https://www.producthunt.com/products/claude</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
+<description>Add Claude to your call and get work started as you talk (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 13 Nov 2026 14:18:39 +0000</pubDate>
+</item>
+<item>
 <title>ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
 <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
 <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
 <description>Chrome DevTools for coding agents (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Fri, 13 Nov 2026 11:19:04 +0000</pubDate>
-</item>
-<item>
-<title>Adobe AI Assistant — Create and edit faster with AI across Adobe apps</title>
-<link>https://www.producthunt.com/products/adobe-ai-assistant</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/adobe-ai-assistant</guid>
-<description>Create and edit faster with AI across Adobe apps (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Fri, 13 Nov 2026 10:56:31 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
-<link>https://www.aibase.com/news/32315</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
-<description>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
