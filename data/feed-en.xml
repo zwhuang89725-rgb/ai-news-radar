@@ -5,15 +5,23 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 14:19:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 17:18:29 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<description>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (Hugging Face Blog)</description>
+<title>XYBench: Helping with the problem behind the question</title>
+<link>https://huggingface.co/blog/allenai/xybench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
+<description>XYBench: Helping with the problem behind the question (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+</item>
+<item>
+<title>Introducing ChatGPT Wallet</title>
+<link>https://openai.com/index/introducing-chatgpt-wallet</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+<description>Introducing ChatGPT Wallet (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -32,20 +40,20 @@
 <pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
+<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+<description>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+</item>
+<item>
 <title>Build once, run on any agent: A practical guide to agent skills</title>
 <link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</guid>
 <description>Build once, run on any agent: A practical guide to agent skills (GitHub AI &amp; ML)</description>
 <category>Official update</category>
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
-</item>
-<item>
-<title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-<link>https://openai.com/business/customer-stories/amplitude</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
-<description>How Amplitude ships product improvements in 1–2 days with OpenAI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
@@ -64,12 +72,12 @@
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
-<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-<description>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B (Hugging Face Blog)</description>
+<title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+<link>https://openai.com/business/customer-stories/amplitude</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
+<description>How Amplitude ships product improvements in 1–2 days with OpenAI (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Actions for ARM32 Linux &amp; Windows retirement</title>
@@ -80,6 +88,14 @@
 <pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
 </item>
 <item>
+<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<description>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+</item>
+<item>
 <title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
 <link>https://www.aibase.com/news/32317</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
@@ -88,28 +104,12 @@
 <pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
-<title>Secret scanning detects Cloudflare service tokens</title>
-<link>https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</guid>
-<description>Secret scanning detects Cloudflare service tokens (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
-</item>
-<item>
 <title>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷</title>
 <link>https://www.aibase.com/news/32318</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32318</guid>
 <description>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
-<title>Public monitoring alerts now have direct links</title>
-<link>https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</guid>
-<description>Public monitoring alerts now have direct links (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜</title>
@@ -128,20 +128,20 @@
 <pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
-<title>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务</title>
-<link>https://www.aibase.com/news/32322</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32322</guid>
-<description>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
 <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
 <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</guid>
 <description>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit (TechCrunch AI)</description>
 <category>Multi-source buzz</category>
 <pubDate>Thu, 12 Nov 2026 18:17:29 +0000</pubDate>
+</item>
+<item>
+<title>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务</title>
+<link>https://www.aibase.com/news/32322</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32322</guid>
+<description>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
 <title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
@@ -157,7 +157,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
 <description>Add Claude to your call and get work started as you talk (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 13 Nov 2026 14:18:39 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 17:16:15 +0000</pubDate>
 </item>
 <item>
 <title>ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>

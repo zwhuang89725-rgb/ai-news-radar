@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-13T14:19:27.287129Z",
+  "generated_at": "2026-11-13T17:18:29.268571Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9113026e72af",
-      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "story_id": "story_65948bc08832",
+      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "primary_url": "https://huggingface.co/blog/allenai/xybench",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/allenai/xybench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z",
+          "published_at": "2026-11-13T17:02:35Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,33 +34,33 @@
       ],
       "items": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "title_zh": "XYBench：帮助解决问题背后的问题",
+          "title_en": "XYBench: Helping with the problem behind the question",
+          "title_original": "XYBench: Helping with the problem behind the question",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "url": "https://huggingface.co/blog/allenai/xybench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z",
+          "published_at": "2026-11-13T17:02:35Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9966,
+        "recency": 0.9962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,17 +69,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-13T14:05:22Z",
+      "earliest_at": "2026-11-13T17:02:35Z",
+      "latest_at": "2026-11-13T17:02:35Z",
       "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
-        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+        "title_zh": "XYBench：帮助解决问题背后的问题",
+        "title_en": "XYBench: Helping with the problem behind the question",
+        "title_original": "XYBench: Helping with the problem behind the question",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "url": "https://huggingface.co/blog/allenai/xybench",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -87,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
+      }
+    },
+    {
+      "story_id": "story_a9f8b4a664f6",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "Introducing ChatGPT Wallet",
+          "title_zh": null,
+          "title_en": "Introducing ChatGPT Wallet",
+          "title_original": "Introducing ChatGPT Wallet",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T15:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "Introducing ChatGPT Wallet",
+          "title_zh": null,
+          "title_en": "Introducing ChatGPT Wallet",
+          "title_original": "Introducing ChatGPT Wallet",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T15:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9672,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T15:00:00Z",
+      "latest_at": "2026-11-13T15:00:00Z",
+      "primary_item": {
+        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+        "title": "Introducing ChatGPT Wallet",
+        "title_zh": null,
+        "title_en": "Introducing ChatGPT Wallet",
+        "title_original": "Introducing ChatGPT Wallet",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -171,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8574,
-      "importance": 0.8574,
-      "importance_score": 0.8574,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8131,
+        "recency": 0.7788,
         "story_heat": 0.25
       },
       "category": "official",
@@ -207,7 +294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -259,15 +346,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9723,
+        "recency": 0.9313,
         "story_heat": 0.0
       },
       "category": "official",
@@ -294,7 +381,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
+      }
+    },
+    {
+      "story_id": "story_9113026e72af",
+      "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+          "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8518,
+      "importance": 0.8518,
+      "importance_score": 0.8518,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9546,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-13T14:05:22Z",
+      "primary_item": {
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_zh": "llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础",
+        "title_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "title_original": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -346,15 +520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8005,
+        "recency": 0.7667,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,94 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
-      }
-    },
-    {
-      "story_id": "story_58db6e6cc441",
-      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "primary_url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7675,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T20:00:00Z",
-      "latest_at": "2026-11-12T20:00:00Z",
-      "primary_item": {
-        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
-        "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/amplitude",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -520,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7457,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -555,7 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -607,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -642,67 +729,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
-      "story_id": "story_b9fa2a337927",
-      "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
+      "story_id": "story_58db6e6cc441",
+      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "primary_url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
-          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z",
+          "published_at": "2026-11-12T20:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
-          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+          "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z",
+          "published_at": "2026-11-12T20:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7579,
+        "ai_relevance": 0.91,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -711,25 +798,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T19:07:35Z",
-      "latest_at": "2026-11-12T19:07:35Z",
+      "earliest_at": "2026-11-12T20:00:00Z",
+      "latest_at": "2026-11-12T20:00:00Z",
       "primary_item": {
-        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-        "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
-        "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "title_zh": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+        "title_en": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-        "source": "Hugging Face Blog",
+        "url": "https://openai.com/business/customer-stories/amplitude",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -781,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7786,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -816,7 +903,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
+      }
+    },
+    {
+      "story_id": "story_b9fa2a337927",
+      "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
+          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T19:07:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
+          "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T19:07:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7259,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T19:07:35Z",
+      "latest_at": "2026-11-12T19:07:35Z",
+      "primary_item": {
+        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+        "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "title_zh": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中",
+        "title_en": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "title_original": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -868,15 +1042,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -902,94 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
-      }
-    },
-    {
-      "story_id": "story_378895404be5",
-      "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-      "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-      "primary_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d0bbcebd0d0a8a6e6663dde62d4b522b4e7af95",
-          "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-          "title_zh": "秘密扫描检测 Cloudflare 服务令牌",
-          "title_en": "Secret scanning detects Cloudflare service tokens",
-          "title_original": "Secret scanning detects Cloudflare service tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:38:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d0bbcebd0d0a8a6e6663dde62d4b522b4e7af95",
-          "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-          "title_zh": "秘密扫描检测 Cloudflare 服务令牌",
-          "title_en": "Secret scanning detects Cloudflare service tokens",
-          "title_original": "Secret scanning detects Cloudflare service tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:38:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.7103,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T14:38:25Z",
-      "latest_at": "2026-11-12T14:38:25Z",
-      "primary_item": {
-        "id": "0d0bbcebd0d0a8a6e6663dde62d4b522b4e7af95",
-        "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-        "title_zh": "秘密扫描检测 Cloudflare 服务令牌",
-        "title_en": "Secret scanning detects Cloudflare service tokens",
-        "title_original": "Secret scanning detects Cloudflare service tokens",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -1041,15 +1128,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,94 +1162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
-      }
-    },
-    {
-      "story_id": "story_e2fb48833ce4",
-      "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-      "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-      "primary_url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-          "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-          "title_zh": "公共监控警报现在有直接链接",
-          "title_en": "Public monitoring alerts now have direct links",
-          "title_original": "Public monitoring alerts now have direct links",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:37:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-          "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-          "title_zh": "公共监控警报现在有直接链接",
-          "title_en": "Public monitoring alerts now have direct links",
-          "title_original": "Public monitoring alerts now have direct links",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:37:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7102,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T14:37:38Z",
-      "latest_at": "2026-11-12T14:37:38Z",
-      "primary_item": {
-        "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-        "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-        "title_zh": "公共监控警报现在有直接链接",
-        "title_en": "Public monitoring alerts now have direct links",
-        "title_original": "Public monitoring alerts now have direct links",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -1214,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,7 +1248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -1300,15 +1300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1334,93 +1334,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
-      }
-    },
-    {
-      "story_id": "story_abb7247ae009",
-      "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-      "url": "https://www.aibase.com/news/32322",
-      "primary_url": "https://www.aibase.com/news/32322",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_en": null,
-          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_en": null,
-          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T11:18:28.082528Z",
-      "latest_at": "2026-11-13T11:18:28.082528Z",
-      "primary_item": {
-        "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-        "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "title_en": null,
-        "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32322",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -1538,15 +1452,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6397,
-      "importance": 0.6397,
-      "importance_score": 0.6397,
+      "score": 0.6341,
+      "importance": 0.6341,
+      "importance_score": 0.6341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7415,
+        "recency": 0.7102,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1571,7 +1485,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
+      }
+    },
+    {
+      "story_id": "story_abb7247ae009",
+      "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+      "url": "https://www.aibase.com/news/32322",
+      "primary_url": "https://www.aibase.com/news/32322",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_en": null,
+          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:28.082528Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "title_en": null,
+          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32322",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T11:18:28.082528Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.917,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T11:18:28.082528Z",
+      "latest_at": "2026-11-13T11:18:28.082528Z",
+      "primary_item": {
+        "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
+        "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+        "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+        "title_en": null,
+        "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32322",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -1623,21 +1623,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-13T08:18:26.622421Z",
       "latest_at": "2026-11-13T08:18:26.622421Z",
@@ -1657,7 +1656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -1681,7 +1680,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T02:24:55Z",
-          "updated_at": "2026-11-13T14:18:39Z",
+          "updated_at": "2026-11-13T17:16:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1720,7 +1719,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T02:24:55Z",
-          "updated_at": "2026-11-13T14:18:39Z",
+          "updated_at": "2026-11-13T17:16:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1742,15 +1741,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9998,
+        "recency": 0.9995,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1758,7 +1757,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-13T14:05:51.565000Z",
-      "latest_at": "2026-11-13T14:18:39Z",
+      "latest_at": "2026-11-13T17:16:15Z",
       "primary_item": {
         "id": "072fed0d14b2f3764839a0d7918f791443619e85",
         "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
@@ -1775,7 +1774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     },
     {
@@ -1860,15 +1859,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5865,
-      "importance": 0.5865,
-      "importance_score": 0.5865,
+      "score": 0.5793,
+      "importance": 0.5793,
+      "importance_score": 0.5793,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9574,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1893,7 +1892,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T14:20:25.937676Z"
+        "scored_at": "2026-11-13T17:19:27.992016Z"
       }
     }
   ]
