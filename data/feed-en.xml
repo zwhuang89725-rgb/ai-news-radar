@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 13 Nov 2026 20:18:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 23:19:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -40,6 +40,14 @@
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Upcoming deprecation of selected GitHub Copilot models in December</title>
+<link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</guid>
+<description>Upcoming deprecation of selected GitHub Copilot models in December (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 13 Nov 2026 20:40:05 +0000</pubDate>
+</item>
+<item>
 <title>XYBench: Helping with the problem behind the question</title>
 <link>https://huggingface.co/blog/allenai/xybench</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
@@ -56,28 +64,12 @@
 <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
-<title>Build once, run on any agent: A practical guide to agent skills</title>
-<link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</guid>
-<description>Build once, run on any agent: A practical guide to agent skills (GitHub AI &amp; ML)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
-</item>
-<item>
 <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
 <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
 <description>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
-</item>
-<item>
-<title>Manage AI Scan for repositories using the REST API</title>
-<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
-<description>Manage AI Scan for repositories using the REST API (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
 <title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
@@ -88,20 +80,20 @@
 <pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
+<title>Manage AI Scan for repositories using the REST API</title>
+<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
+<description>Manage AI Scan for repositories using the REST API (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
+</item>
+<item>
 <title>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷</title>
 <link>https://www.aibase.com/news/32318</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32318</guid>
 <description>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
-<title>Actions for ARM32 Linux &amp; Windows retirement</title>
-<link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
-<description>Actions for ARM32 Linux &amp; Windows retirement (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜</title>
@@ -136,12 +128,12 @@
 <pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Hydrogen — Fast agentic development for coders</title>
-<link>https://www.producthunt.com/products/gemini-6</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
-<description>Fast agentic development for coders (Product Hunt)</description>
+<title>Claude Meetings — Add Claude to your call and get work started as you talk</title>
+<link>https://www.producthunt.com/products/claude</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
+<description>Add Claude to your call and get work started as you talk (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 13 Nov 2026 20:15:38 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 23:11:37 +0000</pubDate>
 </item>
 <item>
 <title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
@@ -152,6 +144,14 @@
 <pubDate>Fri, 13 Nov 2026 08:18:26 +0000</pubDate>
 </item>
 <item>
+<title>《拒绝低劣的AI：一份宣言》</title>
+<link>https://www.slopmanifesto.com</link>
+<guid isPermaLink="true">https://www.slopmanifesto.com</guid>
+<description>《拒绝低劣的AI：一份宣言》 (www.slopmanifesto.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 13 Nov 2026 21:53:54 +0000</pubDate>
+</item>
+<item>
 <title>ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
 <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
 <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
@@ -160,12 +160,12 @@
 <pubDate>Fri, 13 Nov 2026 11:19:04 +0000</pubDate>
 </item>
 <item>
-<title>谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测</title>
-<link>https://text.npr.org/nx-s1-6029408</link>
-<guid isPermaLink="true">https://text.npr.org/nx-s1-6029408</guid>
-<description>谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测 (text.npr.org)</description>
+<title>随着其通用模型开始操控机器人，OpenAI解散了其机器人团队</title>
+<link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</link>
+<guid isPermaLink="true">https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</guid>
+<description>随着其通用模型开始操控机器人，OpenAI解散了其机器人团队 (fortune.com)</description>
 <category>Multi-source buzz</category>
-<pubDate>Fri, 13 Nov 2026 19:29:43 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 21:05:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
