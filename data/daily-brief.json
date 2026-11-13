@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:18:02.718613Z",
+  "generated_at": "2026-11-13T02:17:28.923947Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8575,
-      "importance": 0.8575,
-      "importance_score": 0.8575,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9415,
+        "recency": 0.9017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9944,
+        "recency": 0.9524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9535,
+        "recency": 0.9132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
-      }
-    },
-    {
-      "story_id": "story_b821bfa39311",
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Introducing Gemini 4 Hydrogen",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Hydrogen",
-          "title_original": "Introducing Gemini 4 Hydrogen",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9265,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T18:00:50Z",
-      "latest_at": "2026-11-12T18:00:50Z",
-      "primary_item": {
-        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-        "title": "Introducing Gemini 4 Hydrogen",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 4 Hydrogen",
-        "title_original": "Introducing Gemini 4 Hydrogen",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -400,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9263,
+        "recency": 0.8872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +348,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
+      }
+    },
+    {
+      "story_id": "story_b821bfa39311",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Hydrogen",
+          "title_original": "Introducing Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Hydrogen",
+          "title_original": "Introducing Gemini 4 Hydrogen",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T18:00:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8873,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T18:00:50Z",
+      "latest_at": "2026-11-12T18:00:50Z",
+      "primary_item": {
+        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
+        "title": "Introducing Gemini 4 Hydrogen",
+        "title_zh": null,
+        "title_en": "Introducing Gemini 4 Hydrogen",
+        "title_original": "Introducing Gemini 4 Hydrogen",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9672,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8494,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8824,
+        "recency": 0.8451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,94 +696,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
-      "story_id": "story_2550ffde8017",
-      "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "primary_url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_5aaaa632c534",
+      "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+      "url": "https://www.aibase.com/news/32296",
+      "primary_url": "https://www.aibase.com/news/32296",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-          "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_zh": "3D 生成模型权威微调指南",
-          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_en": null,
+          "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
+          "url": "https://www.aibase.com/news/32296",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-          "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_zh": "3D 生成模型权威微调指南",
-          "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-          "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+          "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+          "title_en": null,
+          "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/3d-lora-finetuning",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
+          "url": "https://www.aibase.com/news/32296",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7143,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
+      "earliest_at": "2026-11-13T02:17:28.923947Z",
+      "latest_at": "2026-11-13T02:17:28.923947Z",
       "primary_item": {
-        "id": "8be6952ca7ba73f6ba7f8a90faaea979af56f852",
-        "title": "3D 生成模型权威微调指南 / The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "title_zh": "3D 生成模型权威微调指南",
-        "title_en": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "title_original": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "id": "7c9a078b7f91b0c3173034245fea682b07a7f3fa",
+        "title": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "title_zh": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
+        "title_en": null,
+        "title_original": "Anthropic 正式推荐 Claude Opus 5.5：成为多套餐默认模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/3d-lora-finetuning",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32296",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -835,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8193,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -870,7 +869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -922,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8823,
+        "recency": 0.845,
         "story_heat": 0.0
       },
       "category": "official",
@@ -957,30 +956,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
-      "story_id": "story_1032da48e00f",
-      "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-      "url": "https://www.aibase.com/news/32283",
-      "primary_url": "https://www.aibase.com/news/32283",
+      "story_id": "story_ae0079d750ae",
+      "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+      "url": "https://www.aibase.com/news/32295",
+      "primary_url": "https://www.aibase.com/news/32295",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
-          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-          "title_zh": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
+          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "title_en": null,
-          "title_original": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32283",
+          "url": "https://www.aibase.com/news/32295",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -991,168 +990,82 @@
       ],
       "items": [
         {
-          "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
-          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-          "title_zh": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
+          "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+          "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "title_en": null,
-          "title_original": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32283",
+          "url": "https://www.aibase.com/news/32295",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-12T11:18:27.210092Z",
-      "latest_at": "2026-11-12T11:18:27.210092Z",
-      "primary_item": {
-        "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
-        "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-        "title_zh": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-        "title_en": null,
-        "title_original": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32283",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
-      }
-    },
-    {
-      "story_id": "story_8f1b2af00c00",
-      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
-          "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_original": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7143,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
+      "earliest_at": "2026-11-13T02:17:28.923947Z",
+      "latest_at": "2026-11-13T02:17:28.923947Z",
       "primary_item": {
-        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-        "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
-        "title_en": "Gilbert + Tobin rethinks the business of law with AI",
-        "title_original": "Gilbert + Tobin rethinks the business of law with AI",
+        "id": "b8aa5bfbf404ce9107cc563381dec9ff72ad38f1",
+        "title": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+        "title_zh": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
+        "title_en": null,
+        "title_original": "Anthropic推出Claude Meetings，可加入Google Meet参与会议",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32295",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
-      "story_id": "story_697645a9803b",
-      "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-      "url": "https://www.aibase.com/news/32285",
-      "primary_url": "https://www.aibase.com/news/32285",
+      "story_id": "story_a1312677fefb",
+      "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+      "url": "https://www.aibase.com/news/32288",
+      "primary_url": "https://www.aibase.com/news/32288",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-          "title_zh": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
+          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "title_en": null,
-          "title_original": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32285",
+          "url": "https://www.aibase.com/news/32288",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1163,168 +1076,82 @@
       ],
       "items": [
         {
-          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-          "title_zh": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
+          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+          "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "title_en": null,
-          "title_original": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32285",
+          "url": "https://www.aibase.com/news/32288",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-12T11:18:27.210092Z",
-      "latest_at": "2026-11-12T11:18:27.210092Z",
-      "primary_item": {
-        "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-        "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-        "title_zh": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-        "title_en": null,
-        "title_original": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32285",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
-      }
-    },
-    {
-      "story_id": "story_26772b93fcab",
-      "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "primary_url": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
-          "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-          "title_zh": "支持人工智能和儿童安全研究",
-          "title_en": "Supporting research on AI and children’s safety",
-          "title_original": "Supporting research on AI and children’s safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/children-first-declaration",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
-          "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-          "title_zh": "支持人工智能和儿童安全研究",
-          "title_en": "Supporting research on AI and children’s safety",
-          "title_original": "Supporting research on AI and children’s safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/children-first-declaration",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7143,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
+      "earliest_at": "2026-11-13T02:17:28.923947Z",
+      "latest_at": "2026-11-13T02:17:28.923947Z",
       "primary_item": {
-        "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
-        "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
-        "title_zh": "支持人工智能和儿童安全研究",
-        "title_en": "Supporting research on AI and children’s safety",
-        "title_original": "Supporting research on AI and children’s safety",
+        "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
+        "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+        "title_zh": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
+        "title_en": null,
+        "title_original": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/children-first-declaration",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32288",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
-      "story_id": "story_901aed329352",
-      "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-      "url": "https://www.aibase.com/news/32284",
-      "primary_url": "https://www.aibase.com/news/32284",
+      "story_id": "story_2b5fd228abd3",
+      "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+      "url": "https://www.aibase.com/news/32289",
+      "primary_url": "https://www.aibase.com/news/32289",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72e41b7d82537a14578e158fdf0a9f9ff301b4b0",
-          "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-          "title_zh": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
+          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "title_en": null,
-          "title_original": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32284",
+          "url": "https://www.aibase.com/news/32289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1335,50 +1162,51 @@
       ],
       "items": [
         {
-          "id": "72e41b7d82537a14578e158fdf0a9f9ff301b4b0",
-          "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-          "title_zh": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
+          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+          "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "title_en": null,
-          "title_original": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+          "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32284",
+          "url": "https://www.aibase.com/news/32289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-12T11:18:27.210092Z",
-      "latest_at": "2026-11-12T11:18:27.210092Z",
+      "earliest_at": "2026-11-13T02:17:28.923947Z",
+      "latest_at": "2026-11-13T02:17:28.923947Z",
       "primary_item": {
-        "id": "72e41b7d82537a14578e158fdf0a9f9ff301b4b0",
-        "title": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
-        "title_zh": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+        "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
+        "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
+        "title_zh": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
         "title_en": null,
-        "title_original": "微软松口允许关闭必应 AI 答案，但开门要收\"过路费\"",
+        "title_original": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32284",
+        "url": "https://www.aibase.com/news/32289",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1386,92 +1214,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
-      }
-    },
-    {
-      "story_id": "story_45439a85c1e4",
-      "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-      "url": "https://www.aibase.com/news/32286",
-      "primary_url": "https://www.aibase.com/news/32286",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "99bfb68022304e596f0f960141b718ac01c1b033",
-          "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "title_zh": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "title_en": null,
-          "title_original": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32286",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "99bfb68022304e596f0f960141b718ac01c1b033",
-          "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "title_zh": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "title_en": null,
-          "title_original": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32286",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T11:18:27.210092Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.841,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-12T11:18:27.210092Z",
-      "latest_at": "2026-11-12T11:18:27.210092Z",
-      "primary_item": {
-        "id": "99bfb68022304e596f0f960141b718ac01c1b033",
-        "title": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-        "title_zh": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-        "title_en": null,
-        "title_original": "押注头部科技巨头赚麻了：迪拜富豪透露投资 OpenAI、SpaceX 和 Anthropic 狂揽数十亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32286",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
@@ -1499,6 +1242,22 @@
           "recency_basis": null
         },
         {
+          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
+          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_zh": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗",
+          "title_en": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_original": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-12T18:17:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
           "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
           "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
           "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗",
@@ -1515,8 +1274,9 @@
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News · 24h最热",
         "TechCrunch",
         "TechCrunch AI"
       ],
@@ -1538,6 +1298,22 @@
           "recency_basis": null
         },
         {
+          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
+          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_zh": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗",
+          "title_en": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "title_original": "Hugging Face CEO vows to keep fighting for open-source AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-12T18:17:29Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
           "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
           "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
           "title_zh": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗",
@@ -1554,25 +1330,25 @@
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.647,
-      "importance": 0.647,
-      "importance_score": 0.647,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.665,
+      "importance": 0.665,
+      "importance_score": 0.665,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9211,
-        "story_heat": 0.25
+        "recency": 0.8822,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-11-12T17:36:40Z",
-      "latest_at": "2026-11-12T17:36:40Z",
+      "latest_at": "2026-11-12T18:17:29Z",
       "primary_item": {
         "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
         "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
@@ -1589,30 +1365,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
-      "story_id": "story_f4882c3c572e",
-      "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-      "url": "https://www.aibase.com/news/32273",
-      "primary_url": "https://www.aibase.com/news/32273",
+      "story_id": "story_b9d6342534d1",
+      "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+      "url": "https://www.aibase.com/news/32294",
+      "primary_url": "https://www.aibase.com/news/32294",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "79922057a2b0e741bc21f25560ca36e14d04ab95",
-          "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-          "title_zh": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
+          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "title_en": null,
-          "title_original": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32273",
+          "url": "https://www.aibase.com/news/32294",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T08:17:26.541781Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1623,50 +1399,51 @@
       ],
       "items": [
         {
-          "id": "79922057a2b0e741bc21f25560ca36e14d04ab95",
-          "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-          "title_zh": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
+          "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+          "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "title_en": null,
-          "title_original": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+          "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32273",
+          "url": "https://www.aibase.com/news/32294",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-12T08:17:26.541781Z",
+          "published_at": "2026-11-13T02:17:28.923947Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8051,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-12T08:17:26.541781Z",
-      "latest_at": "2026-11-12T08:17:26.541781Z",
+      "earliest_at": "2026-11-13T02:17:28.923947Z",
+      "latest_at": "2026-11-13T02:17:28.923947Z",
       "primary_item": {
-        "id": "79922057a2b0e741bc21f25560ca36e14d04ab95",
-        "title": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
-        "title_zh": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+        "id": "c1a8c6771ec66640b96be7a4d55af969219415cb",
+        "title": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
+        "title_zh": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
         "title_en": null,
-        "title_original": "AI办公竞争从模型能力转向成本与选择权:豆包工作开放第三方模型接入",
+        "title_original": "Meta开放Muse AI电话代办功能，面向所有付费用户推出",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32273",
+        "url": "https://www.aibase.com/news/32294",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1674,46 +1451,132 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     },
     {
-      "story_id": "story_63a3b373addd",
-      "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-      "url": "https://www.producthunt.com/products/google",
-      "primary_url": "https://www.producthunt.com/products/google",
+      "story_id": "story_e4ca2678dd0c",
+      "title": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+      "url": "https://www.aibase.com/news/32292",
+      "primary_url": "https://www.aibase.com/news/32292",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d7401e61ed2904280ea39a1fb186fc2f6f8eed2d",
+          "title": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+          "title_zh": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+          "title_en": null,
+          "title_original": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32292",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T02:17:28.923947Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d7401e61ed2904280ea39a1fb186fc2f6f8eed2d",
+          "title": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+          "title_zh": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+          "title_en": null,
+          "title_original": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32292",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T02:17:28.923947Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T02:17:28.923947Z",
+      "latest_at": "2026-11-13T02:17:28.923947Z",
+      "primary_item": {
+        "id": "d7401e61ed2904280ea39a1fb186fc2f6f8eed2d",
+        "title": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+        "title_zh": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+        "title_en": null,
+        "title_original": "MiniMax 推出开源 SOTA 生图模型 H3 Image，稳居全球开源榜首",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32292",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T02:18:26.088012Z"
+      }
+    },
+    {
+      "story_id": "story_38a54da14661",
+      "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "primary_url": "https://www.producthunt.com/products/adobe-ai-assistant",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "6452d08e87c7dbe76d4e0c1f3fe524ba308be602",
-          "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_zh": "Gemini Decisions API — 快速、经过校准的多模式决策",
-          "title_en": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "summary": "Fast, calibrated multimodal decisions",
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-11T19:44:51Z",
-          "updated_at": "2026-11-12T23:17:11Z",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-13T02:04:56Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "9dee586a35b3fae37b89147de0a8fb0e568c28f0",
-          "title": "Gemini Decisions API",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API",
-          "title_original": "Gemini Decisions API",
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T11:18:54.205000Z",
+          "published_at": "2026-11-12T14:19:03.195000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1725,66 +1588,66 @@
       ],
       "items": [
         {
-          "id": "6452d08e87c7dbe76d4e0c1f3fe524ba308be602",
-          "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_zh": "Gemini Decisions API — 快速、经过校准的多模式决策",
-          "title_en": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "title_original": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-          "summary": "Fast, calibrated multimodal decisions",
+          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+          "summary": "Create and edit faster with AI across Adobe apps",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-11T19:44:51Z",
-          "updated_at": "2026-11-12T23:17:11Z",
+          "published_at": "2026-11-10T18:55:39Z",
+          "updated_at": "2026-11-13T02:04:56Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "9dee586a35b3fae37b89147de0a8fb0e568c28f0",
-          "title": "Gemini Decisions API",
-          "title_zh": null,
-          "title_en": "Gemini Decisions API",
-          "title_original": "Gemini Decisions API",
+          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
+          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
+          "title_zh": "Adobe 人工智能助手",
+          "title_en": "Adobe AI Assistant",
+          "title_original": "Adobe AI Assistant",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/google",
+          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-12T11:18:54.205000Z",
+          "published_at": "2026-11-12T14:19:03.195000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5937,
+      "importance": 0.5937,
+      "importance_score": 0.5937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9998,
+        "recency": 0.997,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-12T11:18:54.205000Z",
-      "latest_at": "2026-11-12T23:17:11Z",
+      "earliest_at": "2026-11-12T14:19:03.195000Z",
+      "latest_at": "2026-11-13T02:04:56Z",
       "primary_item": {
-        "id": "6452d08e87c7dbe76d4e0c1f3fe524ba308be602",
-        "title": "Gemini Decisions API — 快速、经过校准的多模式决策 / Gemini Decisions API — Fast, calibrated multimodal decisions",
-        "title_zh": "Gemini Decisions API — 快速、经过校准的多模式决策",
-        "title_en": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-        "title_original": "Gemini Decisions API — Fast, calibrated multimodal decisions",
-        "summary": "Fast, calibrated multimodal decisions",
+        "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
+        "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
+        "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
+        "summary": "Create and edit faster with AI across Adobe apps",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/google",
+        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1792,7 +1655,244 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-12T23:19:05.567774Z"
+        "scored_at": "2026-11-13T02:18:26.088012Z"
+      }
+    },
+    {
+      "story_id": "story_bda3f0d027ca",
+      "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+      "url": "https://www.aibase.com/news/32290",
+      "primary_url": "https://www.aibase.com/news/32290",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
+          "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+          "title_zh": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+          "title_en": null,
+          "title_original": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32290",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T02:17:28.923947Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
+          "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+          "title_zh": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+          "title_en": null,
+          "title_original": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32290",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T02:17:28.923947Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T02:17:28.923947Z",
+      "latest_at": "2026-11-13T02:17:28.923947Z",
+      "primary_item": {
+        "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
+        "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+        "title_zh": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+        "title_en": null,
+        "title_original": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32290",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T02:18:26.088012Z"
+      }
+    },
+    {
+      "story_id": "story_c103ac5eaacd",
+      "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "primary_url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "source": "unemploymentlabs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
+          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "title_en": null,
+          "title_original": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "source": "unemploymentlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T00:06:45.255000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c312fc990ac4ab14722c951be8d91fc59de46bb",
+          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹” / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-12T21:56:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "89eb990eb3ff3e0192a1fcf799f96b1d115e5be0",
+          "title": "中国前沿人工智能模型带有出口管制GPU的指纹 / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_zh": "中国前沿人工智能模型带有出口管制GPU的指纹",
+          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50474883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T21:56:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "unemploymentlabs.com"
+      ],
+      "items": [
+        {
+          "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
+          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "title_en": null,
+          "title_original": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "source": "unemploymentlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T00:06:45.255000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6c312fc990ac4ab14722c951be8d91fc59de46bb",
+          "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹” / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-12T21:56:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "89eb990eb3ff3e0192a1fcf799f96b1d115e5be0",
+          "title": "中国前沿人工智能模型带有出口管制GPU的指纹 / Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_zh": "中国前沿人工智能模型带有出口管制GPU的指纹",
+          "title_en": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "title_original": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50474883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T21:56:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5652,
+      "importance": 0.5652,
+      "importance_score": 0.5652,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.969,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T21:56:11Z",
+      "latest_at": "2026-11-13T00:06:45.255000Z",
+      "primary_item": {
+        "id": "3cc68b936c74be55d2aa1a410005ad5136c7bb99",
+        "title": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+        "title_zh": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+        "title_en": null,
+        "title_original": "中国前沿AI模型中留有受出口管制的GPU的“指纹”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://unemploymentlabs.com/checkpoint-forensics",
+        "source": "unemploymentlabs.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-13T02:18:26.088012Z"
       }
     }
   ]
