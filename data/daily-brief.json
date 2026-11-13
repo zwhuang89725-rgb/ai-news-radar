@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:18:14.535089Z",
+  "generated_at": "2026-11-13T08:18:26.622421Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9263,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8633,
+        "recency": 0.8267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9119,
+        "recency": 0.8732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8743,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8494,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8496,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8869,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7789,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -748,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8092,
+        "recency": 0.7748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -783,30 +783,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_b8da7db34743",
-      "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-      "url": "https://www.aibase.com/news/32297",
-      "primary_url": "https://www.aibase.com/news/32297",
+      "story_id": "story_1251a421a37f",
+      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+      "url": "https://www.aibase.com/news/32309",
+      "primary_url": "https://www.aibase.com/news/32309",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32297",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -817,18 +817,18 @@
       ],
       "items": [
         {
-          "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-          "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-          "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "title_en": null,
-          "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32297",
+          "url": "https://www.aibase.com/news/32309",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -851,17 +851,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T05:18:14.535089Z",
-      "latest_at": "2026-11-13T05:18:14.535089Z",
+      "earliest_at": "2026-11-13T08:18:26.622421Z",
+      "latest_at": "2026-11-13T08:18:26.622421Z",
       "primary_item": {
-        "id": "ea2a2391a10c69279a8e1dff6e6441412d4912e6",
-        "title": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
-        "title_zh": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "title_en": null,
-        "title_original": "Claude 正式推出全新会议功能：作为可见参会者直接加入视频通话，率先面向团队版与企业版开放测试",
+        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32297",
+        "url": "https://www.aibase.com/news/32309",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -869,7 +869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -921,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7513,
+        "recency": 0.7194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -956,7 +956,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -1008,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.809,
+        "recency": 0.7747,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1043,30 +1043,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_089defa8f927",
-      "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-      "url": "https://www.aibase.com/news/32303",
-      "primary_url": "https://www.aibase.com/news/32303",
+      "story_id": "story_2a6b152b8296",
+      "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+      "url": "https://www.aibase.com/news/32315",
+      "primary_url": "https://www.aibase.com/news/32315",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "title_en": null,
-          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32303",
+          "url": "https://www.aibase.com/news/32315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1077,18 +1077,18 @@
       ],
       "items": [
         {
-          "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-          "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-          "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+          "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+          "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "title_en": null,
-          "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+          "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32303",
+          "url": "https://www.aibase.com/news/32315",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1111,17 +1111,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T05:18:14.535089Z",
-      "latest_at": "2026-11-13T05:18:14.535089Z",
+      "earliest_at": "2026-11-13T08:18:26.622421Z",
+      "latest_at": "2026-11-13T08:18:26.622421Z",
       "primary_item": {
-        "id": "567a320ba8c6188c7ab3987d8ae99b72ca14e50e",
-        "title": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
-        "title_zh": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "id": "28ac58dcfb51e401774f9f94cf786eb5aff5b08f",
+        "title": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
+        "title_zh": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
         "title_en": null,
-        "title_original": "ElevenLabs发布Scribe v3系列，支持102种语言及实时语音转写",
+        "title_original": "Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32303",
+        "url": "https://www.aibase.com/news/32315",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1129,30 +1129,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_5da9b7726c69",
-      "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-      "url": "https://www.aibase.com/news/32299",
-      "primary_url": "https://www.aibase.com/news/32299",
+      "story_id": "story_a650fbc5cf5d",
+      "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+      "url": "https://www.aibase.com/news/32307",
+      "primary_url": "https://www.aibase.com/news/32307",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "029d08dfc5bdc4f1e2c9ade6682caebbf8abfc6e",
-          "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-          "title_zh": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
+          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "title_en": null,
-          "title_original": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
+          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32299",
+          "url": "https://www.aibase.com/news/32307",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1163,18 +1163,18 @@
       ],
       "items": [
         {
-          "id": "029d08dfc5bdc4f1e2c9ade6682caebbf8abfc6e",
-          "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-          "title_zh": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
+          "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+          "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+          "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "title_en": null,
-          "title_original": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
+          "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32299",
+          "url": "https://www.aibase.com/news/32307",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1197,17 +1197,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T05:18:14.535089Z",
-      "latest_at": "2026-11-13T05:18:14.535089Z",
+      "earliest_at": "2026-11-13T08:18:26.622421Z",
+      "latest_at": "2026-11-13T08:18:26.622421Z",
       "primary_item": {
-        "id": "029d08dfc5bdc4f1e2c9ade6682caebbf8abfc6e",
-        "title": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
-        "title_zh": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
+        "id": "c1f91f4f1999e68cfcd2d2d2f840c81c8ac542e7",
+        "title": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
+        "title_zh": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
         "title_en": null,
-        "title_original": "从超级小布到AI原生硬件，OPPO加速拓展AI终端布局",
+        "title_original": "Anthropic 招股遭六倍哄抢，英伟达砸 100 亿抢座",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32299",
+        "url": "https://www.aibase.com/news/32307",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1215,30 +1215,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_3c29af12ae0f",
-      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-      "url": "https://www.aibase.com/news/32305",
-      "primary_url": "https://www.aibase.com/news/32305",
+      "story_id": "story_209b97ca8096",
+      "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+      "url": "https://www.aibase.com/news/32310",
+      "primary_url": "https://www.aibase.com/news/32310",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "title_en": null,
-          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32305",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1249,18 +1249,18 @@
       ],
       "items": [
         {
-          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-          "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "title_en": null,
-          "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32305",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1283,17 +1283,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T05:18:14.535089Z",
-      "latest_at": "2026-11-13T05:18:14.535089Z",
+      "earliest_at": "2026-11-13T08:18:26.622421Z",
+      "latest_at": "2026-11-13T08:18:26.622421Z",
       "primary_item": {
-        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-        "title_zh": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+        "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+        "title_zh": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
         "title_en": null,
-        "title_original": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "title_original": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32305",
+        "url": "https://www.aibase.com/news/32310",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1301,7 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
@@ -1419,15 +1419,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6583,
-      "importance": 0.6583,
-      "importance_score": 0.6583,
+      "score": 0.6518,
+      "importance": 0.6518,
+      "importance_score": 0.6518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8446,
+        "recency": 0.8088,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1452,30 +1452,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_086f707d30d1",
-      "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-      "url": "https://www.aibase.com/news/32306",
-      "primary_url": "https://www.aibase.com/news/32306",
+      "story_id": "story_c3e1d78a7323",
+      "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+      "url": "https://www.aibase.com/news/32311",
+      "primary_url": "https://www.aibase.com/news/32311",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "title_en": null,
-          "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32306",
+          "url": "https://www.aibase.com/news/32311",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1486,18 +1486,18 @@
       ],
       "items": [
         {
-          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "title_en": null,
-          "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32306",
+          "url": "https://www.aibase.com/news/32311",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1520,17 +1520,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T05:18:14.535089Z",
-      "latest_at": "2026-11-13T05:18:14.535089Z",
+      "earliest_at": "2026-11-13T08:18:26.622421Z",
+      "latest_at": "2026-11-13T08:18:26.622421Z",
       "primary_item": {
-        "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-        "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-        "title_zh": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+        "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+        "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+        "title_zh": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
         "title_en": null,
-        "title_original": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+        "title_original": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32306",
+        "url": "https://www.aibase.com/news/32311",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1538,30 +1538,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_257548bf4fc0",
-      "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-      "url": "https://www.aibase.com/news/32300",
-      "primary_url": "https://www.aibase.com/news/32300",
+      "story_id": "story_9a66b69f3e17",
+      "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+      "url": "https://www.aibase.com/news/32313",
+      "primary_url": "https://www.aibase.com/news/32313",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
-          "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "title_en": null,
-          "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+          "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32300",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1572,18 +1572,18 @@
       ],
       "items": [
         {
-          "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
-          "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-          "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "title_en": null,
-          "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+          "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32300",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1606,17 +1606,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T05:18:14.535089Z",
-      "latest_at": "2026-11-13T05:18:14.535089Z",
+      "earliest_at": "2026-11-13T08:18:26.622421Z",
+      "latest_at": "2026-11-13T08:18:26.622421Z",
       "primary_item": {
-        "id": "e9882ee5d032f51f36201b4919ab5b4655d443e2",
-        "title": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
-        "title_zh": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+        "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+        "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+        "title_zh": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
         "title_en": null,
-        "title_original": "手里攥着 150 亿新弹药，账上却烧出 109 亿亏损：OpenAI 备战 IPO",
+        "title_original": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32300",
+        "url": "https://www.aibase.com/news/32313",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1624,42 +1624,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_38a54da14661",
-      "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-      "url": "https://www.producthunt.com/products/adobe-ai-assistant",
-      "primary_url": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "story_id": "story_a5acb1ac992b",
+      "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+      "url": "https://www.producthunt.com/products/grok",
+      "primary_url": "https://www.producthunt.com/products/grok",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
-          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
-          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "summary": "Create and edit faster with AI across Adobe apps",
+          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+          "summary": "Bots work together alongside your team",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-10T18:55:39Z",
-          "updated_at": "2026-11-13T05:11:38Z",
+          "published_at": "2026-11-11T19:38:45Z",
+          "updated_at": "2026-11-13T07:56:29Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
-          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
-          "title_zh": "Adobe 人工智能助手",
-          "title_en": "Adobe AI Assistant",
-          "title_original": "Adobe AI Assistant",
+          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
+          "title": "Grok Bot 1.0",
+          "title_zh": null,
+          "title_en": "Grok Bot 1.0",
+          "title_original": "Grok Bot 1.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1675,30 +1675,30 @@
       ],
       "items": [
         {
-          "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
-          "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
-          "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-          "summary": "Create and edit faster with AI across Adobe apps",
+          "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+          "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+          "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+          "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+          "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+          "summary": "Bots work together alongside your team",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-10T18:55:39Z",
-          "updated_at": "2026-11-13T05:11:38Z",
+          "published_at": "2026-11-11T19:38:45Z",
+          "updated_at": "2026-11-13T07:56:29Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "8d7310673183595262d5edfa0792e43bac6a6252",
-          "title": "Adobe 人工智能助手 / Adobe AI Assistant",
-          "title_zh": "Adobe 人工智能助手",
-          "title_en": "Adobe AI Assistant",
-          "title_original": "Adobe AI Assistant",
+          "id": "f1c2d171e022ce4f0249d2474f0180476c35a4ce",
+          "title": "Grok Bot 1.0",
+          "title_zh": null,
+          "title_en": "Grok Bot 1.0",
+          "title_original": "Grok Bot 1.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "url": "https://www.producthunt.com/products/grok",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1709,15 +1709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9984,
+        "recency": 0.9947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1725,16 +1725,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-12T14:19:03.195000Z",
-      "latest_at": "2026-11-13T05:11:38Z",
+      "latest_at": "2026-11-13T07:56:29Z",
       "primary_item": {
-        "id": "be9c07e8a9d1c0271545a1ad47454eeef2dd0ce8",
-        "title": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑 / Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-        "title_zh": "Adobe AI Assistant — 通过 Adob​​e 应用程序中的 AI 更快地创建和编辑",
-        "title_en": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-        "title_original": "Adobe AI Assistant — Create and edit faster with AI across Adobe apps",
-        "summary": "Create and edit faster with AI across Adobe apps",
+        "id": "0730b9e390670e73a99de4d4f8de2fde81d3b840",
+        "title": "Grok Bot 1.0 — 机器人与您的团队一起工作 / Grok Bot 1.0 — Bots work together alongside your team",
+        "title_zh": "Grok Bot 1.0 — 机器人与您的团队一起工作",
+        "title_en": "Grok Bot 1.0 — Bots work together alongside your team",
+        "title_original": "Grok Bot 1.0 — Bots work together alongside your team",
+        "summary": "Bots work together alongside your team",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/adobe-ai-assistant",
+        "url": "https://www.producthunt.com/products/grok",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1742,30 +1742,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     },
     {
-      "story_id": "story_46f167fdbf82",
-      "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-      "url": "https://www.aibase.com/news/32304",
-      "primary_url": "https://www.aibase.com/news/32304",
+      "story_id": "story_0d99e81b3770",
+      "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+      "url": "https://www.aibase.com/news/32312",
+      "primary_url": "https://www.aibase.com/news/32312",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+          "id": "7668c85b981679c30449d9cdf4ef75d134630780",
+          "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+          "title_zh": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
           "title_en": null,
-          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+          "title_original": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32304",
+          "url": "https://www.aibase.com/news/32312",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1776,18 +1776,18 @@
       ],
       "items": [
         {
-          "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-          "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-          "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+          "id": "7668c85b981679c30449d9cdf4ef75d134630780",
+          "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+          "title_zh": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
           "title_en": null,
-          "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+          "title_original": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32304",
+          "url": "https://www.aibase.com/news/32312",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T05:18:14.535089Z",
+          "published_at": "2026-11-13T08:18:26.622421Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1810,17 +1810,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T05:18:14.535089Z",
-      "latest_at": "2026-11-13T05:18:14.535089Z",
+      "earliest_at": "2026-11-13T08:18:26.622421Z",
+      "latest_at": "2026-11-13T08:18:26.622421Z",
       "primary_item": {
-        "id": "59f63c8cdc85fde0fa3fccdeb1e3a90fa026efe2",
-        "title": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
-        "title_zh": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+        "id": "7668c85b981679c30449d9cdf4ef75d134630780",
+        "title": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
+        "title_zh": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
         "title_en": null,
-        "title_original": "月之暗面徐天天亮相财新峰会：AI 能力远未触及天花板，三维曲线正驱动智能持续加速",
+        "title_original": "徐峥刷到自己的 AI 换脸视频愣了：有的真人演员还不如它",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32304",
+        "url": "https://www.aibase.com/news/32312",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1828,7 +1828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-13T05:19:01.695376Z"
+        "scored_at": "2026-11-13T08:19:27.261866Z"
       }
     }
   ]

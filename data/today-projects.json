@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:18:55.044458Z",
+  "generated_at": "2026-11-13T08:19:16.393776Z",
   "date": "2026-11-13",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T05:18:14.535089Z"
+      "observed_at": "2026-11-13T08:18:26.622421Z"
     },
     {
-      "id": "project_5124bd5bb866",
-      "project_name": "YouArt Desktop App",
-      "url": "https://www.producthunt.com/products/youart",
-      "summary": "Codex for creative team",
+      "id": "project_851171fb72d6",
+      "project_name": "Expo Simulators",
+      "url": "https://www.producthunt.com/products/expo",
+      "summary": "Cloud simulators built for agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Codex for creative team」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Codex for creative team\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-08T02:11:55Z",
-      "updated_at": "2026-11-13T05:17:33Z",
+      "recommend_reason_zh": "体验它主打的「Cloud simulators built for agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Cloud simulators built for agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T18:34:18Z",
+      "updated_at": "2026-11-13T08:18:47Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T05:18:45.417528Z"
+      "observed_at": "2026-11-13T08:19:05.304867Z"
     },
     {
       "id": "project_5ad23f0e2e10",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-13T05:18:14.535089Z"
+      "observed_at": "2026-11-13T08:18:26.622421Z"
     },
     {
-      "id": "project_3093d0d5cd07",
-      "project_name": "Omnigraph",
-      "url": "https://www.producthunt.com/products/omnigraph",
-      "summary": "Open source graph database for your AI agents",
+      "id": "project_de28bd093fa9",
+      "project_name": "GAtrends",
+      "url": "https://www.producthunt.com/products/gatrends",
+      "summary": "Spike alerts for your keywords in Telegram, Claude, ChatGPT",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open source graph database for your AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open source graph database for your AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-30T14:36:05Z",
-      "updated_at": "2026-11-13T05:17:13Z",
+      "recommend_reason_zh": "体验它主打的「Spike alerts for your keywords in Telegram, Claude, ChatGPT」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Spike alerts for your keywords in Telegram, Claude, ChatGPT\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T18:54:12Z",
+      "updated_at": "2026-11-13T08:18:45Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-13T05:18:45.417528Z"
+      "observed_at": "2026-11-13T08:19:05.304867Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1294,
+      "duration_ms": 1457,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 123,
+      "item_count": 49,
+      "duration_ms": 134,
       "error": null
     }
   ]
