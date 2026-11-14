@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T14:19:12.325750Z",
-  "date": "2026-11-14",
+  "generated_at": "2026-11-14T17:19:05.491208Z",
+  "date": "2026-11-15",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T14:18:26.344894Z"
+      "observed_at": "2026-11-14T17:18:26.415536Z"
     },
     {
-      "id": "project_671f8789017f",
-      "project_name": "Thunder",
-      "url": "https://www.producthunt.com/products/thunder-3",
-      "summary": "A blazing-fast, persistent, key-value AI workload database",
+      "id": "project_0599215ac874",
+      "project_name": "Kokonut UI",
+      "url": "https://www.producthunt.com/products/kokonutui",
+      "summary": "Open-source UI components for your AI agent",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A blazing-fast, persistent, key-value AI workload database」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A blazing-fast, persistent, key-value AI workload database\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T21:27:29Z",
-      "updated_at": "2026-11-14T14:03:50Z",
+      "recommend_reason_zh": "体验它主打的「Open-source UI components for your AI agent」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Open-source UI components for your AI agent\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-01T10:27:54Z",
+      "updated_at": "2026-11-14T17:18:52Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T14:19:01.213522Z"
+      "observed_at": "2026-11-14T17:18:55.535774Z"
     },
     {
       "id": "project_a67bb8d2a6b4",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T14:18:26.344894Z"
+      "observed_at": "2026-11-14T17:18:26.415536Z"
     },
     {
       "id": "project_069cc36d727b",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「AI job agent that finds & apply for jobs before anyone else」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"AI job agent that finds & apply for jobs before anyone else\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-02T10:23:37Z",
-      "updated_at": "2026-11-14T14:16:00Z",
+      "updated_at": "2026-11-14T17:18:40Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T14:19:01.213522Z"
+      "observed_at": "2026-11-14T17:18:55.535774Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1404,
+      "duration_ms": 1126,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 154,
+      "duration_ms": 194,
       "error": null
     }
   ]
