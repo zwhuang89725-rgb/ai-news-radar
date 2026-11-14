@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 08:17:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 11:19:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -80,30 +80,6 @@
 <pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
-<title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
-<link>https://www.aibase.com/news/32317</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32317</guid>
-<description>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
-<title>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷</title>
-<link>https://www.aibase.com/news/32318</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32318</guid>
-<description>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜</title>
-<link>https://www.aibase.com/news/32320</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32320</guid>
-<description>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
 <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
 <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</guid>
@@ -112,36 +88,20 @@
 <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
 </item>
 <item>
-<title>英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任</title>
-<link>https://www.aibase.com/news/32321</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32321</guid>
-<description>英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
-<title>Claude Meetings — Add Claude to your call and get work started as you talk</title>
-<link>https://www.producthunt.com/products/claude</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
-<description>Add Claude to your call and get work started as you talk (Product Hunt)</description>
+<title>Templify AI — Powerful content editor for people who aren’t editors</title>
+<link>https://www.producthunt.com/products/templify</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/templify</guid>
+<description>Powerful content editor for people who aren’t editors (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 08:08:54 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 11:02:11 +0000</pubDate>
 </item>
 <item>
-<title>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务</title>
-<link>https://www.aibase.com/news/32322</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32322</guid>
-<description>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 4 Hydrogen — Fast agentic development for coders</title>
-<link>https://www.producthunt.com/products/gemini-6</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
-<description>Fast agentic development for coders (Product Hunt)</description>
+<title>Trainn MCP — Create product videos and courses from any AI chat</title>
+<link>https://www.producthunt.com/products/trainn</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/trainn</guid>
+<description>Create product videos and courses from any AI chat (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 08:09:13 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 10:49:29 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</title>
@@ -152,12 +112,20 @@
 <pubDate>Sat, 14 Nov 2026 00:28:11 +0000</pubDate>
 </item>
 <item>
-<title>ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents</title>
-<link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-<guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-<description>Chrome DevTools for coding agents (GitHub Trending)</description>
+<title>克劳德会议</title>
+<link>https://claude.com/resources/articles/claude-meetings</link>
+<guid isPermaLink="true">https://claude.com/resources/articles/claude-meetings</guid>
+<description>克劳德会议 (claude.com)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 13 Nov 2026 11:19:04 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 10:44:27 +0000</pubDate>
+</item>
+<item>
+<title>Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新</title>
+<link>https://unsloth.ai/docs/models/qwen3.8</link>
+<guid isPermaLink="true">https://unsloth.ai/docs/models/qwen3.8</guid>
+<description>Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 (unsloth.ai)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 14 Nov 2026 10:32:03 +0000</pubDate>
 </item>
 <item>
 <title>《拒绝低劣的AI：一份宣言》</title>
@@ -166,6 +134,38 @@
 <description>《拒绝低劣的AI：一份宣言》 (www.slopmanifesto.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Fri, 13 Nov 2026 21:53:54 +0000</pubDate>
+</item>
+<item>
+<title>随着其通用模型开始操控机器人，OpenAI解散了其机器人团队</title>
+<link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</link>
+<guid isPermaLink="true">https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</guid>
+<description>随着其通用模型开始操控机器人，OpenAI解散了其机器人团队 (fortune.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 13 Nov 2026 21:05:49 +0000</pubDate>
+</item>
+<item>
+<title>谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测</title>
+<link>https://text.npr.org/nx-s1-6029408</link>
+<guid isPermaLink="true">https://text.npr.org/nx-s1-6029408</guid>
+<description>谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测 (text.npr.org)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 13 Nov 2026 19:29:43 +0000</pubDate>
+</item>
+<item>
+<title>据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理</title>
+<link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
+<guid isPermaLink="true">https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</guid>
+<description>据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理 (www.theguardian.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 13 Nov 2026 18:41:46 +0000</pubDate>
+</item>
+<item>
+<title>Claude Meetings — Add Claude to your call and get work started as you talk</title>
+<link>https://www.producthunt.com/products/claude</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
+<description>Add Claude to your call and get work started as you talk (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 14 Nov 2026 10:05:23 +0000</pubDate>
 </item>
 </channel>
 </rss>

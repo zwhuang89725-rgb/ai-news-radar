@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:17:25.701648Z",
+  "generated_at": "2026-11-14T11:19:24.981385Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8137,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8182,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.779,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8024,
+        "recency": 0.768,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8455,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9571,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -573,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8189,
+        "recency": 0.7838,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -660,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7689,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -695,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -747,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7501,
+        "recency": 0.718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -782,262 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
-      }
-    },
-    {
-      "story_id": "story_0946096a5431",
-      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-      "url": "https://www.aibase.com/news/32317",
-      "primary_url": "https://www.aibase.com/news/32317",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7386,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T11:18:28.082528Z",
-      "latest_at": "2026-11-13T11:18:28.082528Z",
-      "primary_item": {
-        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "title_en": null,
-        "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32317",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
-      }
-    },
-    {
-      "story_id": "story_cf4a6103a8ec",
-      "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-      "url": "https://www.aibase.com/news/32318",
-      "primary_url": "https://www.aibase.com/news/32318",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
-          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_en": null,
-          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
-          "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "title_en": null,
-          "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32318",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7386,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T11:18:28.082528Z",
-      "latest_at": "2026-11-13T11:18:28.082528Z",
-      "primary_item": {
-        "id": "409724ecc54343400155240e8c1b7fb7022a0cc7",
-        "title": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-        "title_zh": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-        "title_en": null,
-        "title_original": "比高端型号还猛却更便宜，Google 用\"Gemini 4 Hydrogen\"上演反向内卷",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32318",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
-      }
-    },
-    {
-      "story_id": "story_e3631194f721",
-      "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-      "url": "https://www.aibase.com/news/32320",
-      "primary_url": "https://www.aibase.com/news/32320",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
-          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_en": null,
-          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32320",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
-          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "title_en": null,
-          "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32320",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7386,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T11:18:28.082528Z",
-      "latest_at": "2026-11-13T11:18:28.082528Z",
-      "primary_item": {
-        "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
-        "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-        "title_zh": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-        "title_en": null,
-        "title_original": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32320",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -1122,15 +867,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.625,
-      "importance": 0.625,
-      "importance_score": 0.625,
+      "score": 0.6186,
+      "importance": 0.6186,
+      "importance_score": 0.6186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8215,
+        "recency": 0.7863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,127 +900,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
-      "story_id": "story_bf0c061cd80d",
-      "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-      "url": "https://www.aibase.com/news/32321",
-      "primary_url": "https://www.aibase.com/news/32321",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "299acdd956cdad513ff6a759adb2eec679532916",
-          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_en": null,
-          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32321",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "299acdd956cdad513ff6a759adb2eec679532916",
-          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_en": null,
-          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32321",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7386,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T11:18:28.082528Z",
-      "latest_at": "2026-11-13T11:18:28.082528Z",
-      "primary_item": {
-        "id": "299acdd956cdad513ff6a759adb2eec679532916",
-        "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "title_en": null,
-        "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32321",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
-      }
-    },
-    {
-      "story_id": "story_3a9d31bcd45f",
-      "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-      "url": "https://www.producthunt.com/products/claude",
-      "primary_url": "https://www.producthunt.com/products/claude",
+      "story_id": "story_a94ee2c59dfc",
+      "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+      "url": "https://www.producthunt.com/products/templify",
+      "primary_url": "https://www.producthunt.com/products/templify",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
-          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
-          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "summary": "Add Claude to your call and get work started as you talk",
+          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+          "summary": "Powerful content editor for people who aren’t editors",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T02:24:55Z",
-          "updated_at": "2026-11-14T08:08:54Z",
+          "published_at": "2026-10-26T11:56:03Z",
+          "updated_at": "2026-11-14T11:02:11Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
-          "title": "Claude Meetings",
+          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
+          "title": "Templify AI",
           "title_zh": null,
-          "title_en": "Claude Meetings",
-          "title_original": "Claude Meetings",
+          "title_en": "Templify AI",
+          "title_original": "Templify AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1291,30 +951,30 @@
       ],
       "items": [
         {
-          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
-          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
-          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
-          "summary": "Add Claude to your call and get work started as you talk",
+          "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+          "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+          "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+          "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+          "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+          "summary": "Powerful content editor for people who aren’t editors",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T02:24:55Z",
-          "updated_at": "2026-11-14T08:08:54Z",
+          "published_at": "2026-10-26T11:56:03Z",
+          "updated_at": "2026-11-14T11:02:11Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
-          "title": "Claude Meetings",
+          "id": "53768632186713c8fc462e5326f1895f6f813bd8",
+          "title": "Templify AI",
           "title_zh": null,
-          "title_en": "Claude Meetings",
-          "title_original": "Claude Meetings",
+          "title_en": "Templify AI",
+          "title_original": "Templify AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude",
+          "url": "https://www.producthunt.com/products/templify",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1325,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
+      "score": 0.5935,
+      "importance": 0.5935,
+      "importance_score": 0.5935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9979,
+        "recency": 0.9959,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1341,16 +1001,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-13T14:05:51.565000Z",
-      "latest_at": "2026-11-14T08:08:54Z",
+      "latest_at": "2026-11-14T11:02:11Z",
       "primary_item": {
-        "id": "072fed0d14b2f3764839a0d7918f791443619e85",
-        "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
-        "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
-        "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
-        "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
-        "summary": "Add Claude to your call and get work started as you talk",
+        "id": "b51ecdc69e46e16cf05153d1219f36eb279e9c80",
+        "title": "Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors",
+        "title_zh": "Templify AI — 适合非编辑人员的强大内容编辑器",
+        "title_en": "Templify AI — Powerful content editor for people who aren’t editors",
+        "title_original": "Templify AI — Powerful content editor for people who aren’t editors",
+        "summary": "Powerful content editor for people who aren’t editors",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/claude",
+        "url": "https://www.producthunt.com/products/templify",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1358,127 +1018,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
-      "story_id": "story_abb7247ae009",
-      "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-      "url": "https://www.aibase.com/news/32322",
-      "primary_url": "https://www.aibase.com/news/32322",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_en": null,
-          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-          "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "title_en": null,
-          "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32322",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T11:18:28.082528Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7386,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T11:18:28.082528Z",
-      "latest_at": "2026-11-13T11:18:28.082528Z",
-      "primary_item": {
-        "id": "a402eef3d8bbb4a0cec313cce19c66e73cf2fa99",
-        "title": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "title_zh": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "title_en": null,
-        "title_original": "语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32322",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
-      }
-    },
-    {
-      "story_id": "story_3ddbb7100572",
-      "title": "Gemini 4 Hydrogen — 编码员的快速代理开发 / Gemini 4 Hydrogen — Fast agentic development for coders",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "primary_url": "https://www.producthunt.com/products/gemini-6",
+      "story_id": "story_b240a965ce55",
+      "title": "Trainn MCP — 通过任何 AI 聊天创建产品视频和课程 / Trainn MCP — Create product videos and courses from any AI chat",
+      "url": "https://www.producthunt.com/products/trainn",
+      "primary_url": "https://www.producthunt.com/products/trainn",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "b04ec8c55f9fb5870aaa4ef322724f31674dd38c",
-          "title": "Gemini 4 Hydrogen — 编码员的快速代理开发 / Gemini 4 Hydrogen — Fast agentic development for coders",
-          "title_zh": "Gemini 4 Hydrogen — 编码员的快速代理开发",
-          "title_en": "Gemini 4 Hydrogen — Fast agentic development for coders",
-          "title_original": "Gemini 4 Hydrogen — Fast agentic development for coders",
-          "summary": "Fast agentic development for coders",
+          "id": "a4cf9c66704889154ff1f61b146250d528d0384e",
+          "title": "Trainn MCP — 通过任何 AI 聊天创建产品视频和课程 / Trainn MCP — Create product videos and courses from any AI chat",
+          "title_zh": "Trainn MCP — 通过任何 AI 聊天创建产品视频和课程",
+          "title_en": "Trainn MCP — Create product videos and courses from any AI chat",
+          "title_original": "Trainn MCP — Create product videos and courses from any AI chat",
+          "summary": "Create product videos and courses from any AI chat",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
+          "url": "https://www.producthunt.com/products/trainn",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-12T18:37:12Z",
-          "updated_at": "2026-11-14T08:09:13Z",
+          "published_at": "2026-11-12T05:01:59Z",
+          "updated_at": "2026-11-14T10:49:29Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "697b557a6764f080dd2f0d9d50079a6ab4118fd3",
-          "title": "Gemini 4 Hydrogen",
+          "id": "cbb2e5d41f48992171ea7d9478198cab1b8271fc",
+          "title": "Trainn MCP",
           "title_zh": null,
-          "title_en": "Gemini 4 Hydrogen",
-          "title_original": "Gemini 4 Hydrogen",
+          "title_en": "Trainn MCP",
+          "title_original": "Trainn MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
+          "url": "https://www.producthunt.com/products/trainn",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1494,30 +1069,30 @@
       ],
       "items": [
         {
-          "id": "b04ec8c55f9fb5870aaa4ef322724f31674dd38c",
-          "title": "Gemini 4 Hydrogen — 编码员的快速代理开发 / Gemini 4 Hydrogen — Fast agentic development for coders",
-          "title_zh": "Gemini 4 Hydrogen — 编码员的快速代理开发",
-          "title_en": "Gemini 4 Hydrogen — Fast agentic development for coders",
-          "title_original": "Gemini 4 Hydrogen — Fast agentic development for coders",
-          "summary": "Fast agentic development for coders",
+          "id": "a4cf9c66704889154ff1f61b146250d528d0384e",
+          "title": "Trainn MCP — 通过任何 AI 聊天创建产品视频和课程 / Trainn MCP — Create product videos and courses from any AI chat",
+          "title_zh": "Trainn MCP — 通过任何 AI 聊天创建产品视频和课程",
+          "title_en": "Trainn MCP — Create product videos and courses from any AI chat",
+          "title_original": "Trainn MCP — Create product videos and courses from any AI chat",
+          "summary": "Create product videos and courses from any AI chat",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
+          "url": "https://www.producthunt.com/products/trainn",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-12T18:37:12Z",
-          "updated_at": "2026-11-14T08:09:13Z",
+          "published_at": "2026-11-12T05:01:59Z",
+          "updated_at": "2026-11-14T10:49:29Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "697b557a6764f080dd2f0d9d50079a6ab4118fd3",
-          "title": "Gemini 4 Hydrogen",
+          "id": "cbb2e5d41f48992171ea7d9478198cab1b8271fc",
+          "title": "Trainn MCP",
           "title_zh": null,
-          "title_en": "Gemini 4 Hydrogen",
-          "title_original": "Gemini 4 Hydrogen",
+          "title_en": "Trainn MCP",
+          "title_original": "Trainn MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
+          "url": "https://www.producthunt.com/products/trainn",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -1528,15 +1103,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
+      "score": 0.5929,
+      "importance": 0.5929,
+      "importance_score": 0.5929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.998,
+        "recency": 0.9928,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1544,16 +1119,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-13T14:05:51.565000Z",
-      "latest_at": "2026-11-14T08:09:13Z",
+      "latest_at": "2026-11-14T10:49:29Z",
       "primary_item": {
-        "id": "b04ec8c55f9fb5870aaa4ef322724f31674dd38c",
-        "title": "Gemini 4 Hydrogen — 编码员的快速代理开发 / Gemini 4 Hydrogen — Fast agentic development for coders",
-        "title_zh": "Gemini 4 Hydrogen — 编码员的快速代理开发",
-        "title_en": "Gemini 4 Hydrogen — Fast agentic development for coders",
-        "title_original": "Gemini 4 Hydrogen — Fast agentic development for coders",
-        "summary": "Fast agentic development for coders",
+        "id": "a4cf9c66704889154ff1f61b146250d528d0384e",
+        "title": "Trainn MCP — 通过任何 AI 聊天创建产品视频和课程 / Trainn MCP — Create product videos and courses from any AI chat",
+        "title_zh": "Trainn MCP — 通过任何 AI 聊天创建产品视频和课程",
+        "title_en": "Trainn MCP — Create product videos and courses from any AI chat",
+        "title_original": "Trainn MCP — Create product videos and courses from any AI chat",
+        "summary": "Create product videos and courses from any AI chat",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/gemini-6",
+        "url": "https://www.producthunt.com/products/trainn",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1561,7 +1136,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -1679,15 +1254,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5516,
-      "importance": 0.5516,
-      "importance_score": 0.5516,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.8549,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1712,125 +1287,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
-      "story_id": "story_3d96b04a0c3a",
-      "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
+      "story_id": "story_253cc06321ab",
+      "title": "克劳德会议",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "primary_url": "https://claude.com/resources/articles/claude-meetings",
+      "source": "claude.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "summary": "Chrome DevTools for coding agents",
+          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
+          "title": "克劳德会议",
+          "title_zh": "克劳德会议",
+          "title_en": null,
+          "title_original": "克劳德会议",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:44:27.205000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_zh": null,
-          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
+          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
+          "title": "Claude会议 / Claude Meetings",
+          "title_zh": "Claude会议",
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T11:19:04.143000Z",
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T22:39:15Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub Trending",
-        "github"
+        "Hacker News · 24h最热",
+        "claude.com"
       ],
       "items": [
         {
-          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "summary": "Chrome DevTools for coding agents",
+          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
+          "title": "克劳德会议",
+          "title_zh": "克劳德会议",
+          "title_en": null,
+          "title_original": "克劳德会议",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:44:27.205000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_zh": null,
-          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
+          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
+          "title": "Claude会议 / Claude Meetings",
+          "title_zh": "Claude会议",
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T11:19:04.143000Z",
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T22:39:15Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5471,
-      "importance": 0.5471,
-      "importance_score": 0.5471,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7386,
+        "recency": 0.9916,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T11:18:28.082528Z",
-      "latest_at": "2026-11-13T11:19:04.143000Z",
+      "earliest_at": "2026-11-13T22:39:15Z",
+      "latest_at": "2026-11-14T10:44:27.205000Z",
       "primary_item": {
-        "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-        "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-        "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "summary": "Chrome DevTools for coding agents",
+        "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
+        "title": "克劳德会议",
+        "title_zh": "克劳德会议",
+        "title_en": null,
+        "title_original": "克劳德会议",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
+        "url": "https://claude.com/resources/articles/claude-meetings",
+        "source": "claude.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
+      }
+    },
+    {
+      "story_id": "story_c6f5f334f60e",
+      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
+      "source": "unsloth.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "12903a53c9546f10f167828099cb78396294e480",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": null,
+          "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "unsloth.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.410000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:06:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "unsloth.ai"
+      ],
+      "items": [
+        {
+          "id": "12903a53c9546f10f167828099cb78396294e480",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": null,
+          "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "unsloth.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.410000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
+          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+          "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:06:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9887,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T00:06:04Z",
+      "latest_at": "2026-11-14T10:32:03.410000Z",
+      "primary_item": {
+        "id": "12903a53c9546f10f167828099cb78396294e480",
+        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+        "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+        "title_en": null,
+        "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://unsloth.ai/docs/models/qwen3.8",
+        "source": "unsloth.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     },
     {
@@ -1948,15 +1641,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5457,
-      "importance": 0.5457,
-      "importance_score": 0.5457,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8607,
+        "recency": 0.8238,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1981,7 +1674,578 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T08:20:03.439466Z"
+        "scored_at": "2026-11-14T11:20:13.838614Z"
+      }
+    },
+    {
+      "story_id": "story_be358815482b",
+      "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+      "primary_url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+      "source": "fortune.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d8532c07439adfff784e894f77209f5fae47fba5",
+          "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "title_zh": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "title_en": null,
+          "title_original": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T21:05:49.214000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "89bd383305c2dacf3a2b6e6d424245ff772d3e4f",
+          "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队 / OpenAI disbands its robotics team as its general models start running robots",
+          "title_zh": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "title_en": "OpenAI disbands its robotics team as its general models start running robots",
+          "title_original": "OpenAI disbands its robotics team as its general models start running robots",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T17:55:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b7c137ecbc0caec8342c50b7eef61f2f4f9518b5",
+          "title": "随着通用模型开始运行机器人，OpenAI 解散了机器人团队 / OpenAI disbands its robotics team as its general models start running robots",
+          "title_zh": "随着通用模型开始运行机器人，OpenAI 解散了机器人团队",
+          "title_en": "OpenAI disbands its robotics team as its general models start running robots",
+          "title_original": "OpenAI disbands its robotics team as its general models start running robots",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50487184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:55:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "fortune.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d8532c07439adfff784e894f77209f5fae47fba5",
+          "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "title_zh": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "title_en": null,
+          "title_original": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "source": "fortune.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T21:05:49.214000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "89bd383305c2dacf3a2b6e6d424245ff772d3e4f",
+          "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队 / OpenAI disbands its robotics team as its general models start running robots",
+          "title_zh": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+          "title_en": "OpenAI disbands its robotics team as its general models start running robots",
+          "title_original": "OpenAI disbands its robotics team as its general models start running robots",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T17:55:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b7c137ecbc0caec8342c50b7eef61f2f4f9518b5",
+          "title": "随着通用模型开始运行机器人，OpenAI 解散了机器人团队 / OpenAI disbands its robotics team as its general models start running robots",
+          "title_zh": "随着通用模型开始运行机器人，OpenAI 解散了机器人团队",
+          "title_en": "OpenAI disbands its robotics team as its general models start running robots",
+          "title_original": "OpenAI disbands its robotics team as its general models start running robots",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50487184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:55:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8143,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T17:55:23Z",
+      "latest_at": "2026-11-13T21:05:49.214000Z",
+      "primary_item": {
+        "id": "d8532c07439adfff784e894f77209f5fae47fba5",
+        "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+        "title_zh": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+        "title_en": null,
+        "title_original": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+        "source": "fortune.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T11:20:13.838614Z"
+      }
+    },
+    {
+      "story_id": "story_85f88152af4b",
+      "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "primary_url": "https://text.npr.org/nx-s1-6029408",
+      "source": "text.npr.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d19db2f8c7d9e9d04c792c80e2eaea07da207f87",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_en": null,
+          "title_original": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://text.npr.org/nx-s1-6029408",
+          "source": "text.npr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T19:29:43.175000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b3a45120dee51b8aada8f043d8dcd4515631421c",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://text.npr.org/nx-s1-6029408",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T15:29:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "dc4403049397bd84f2487e56277996a5f7d8c15c",
+          "title": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50484960",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T15:29:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "text.npr.org"
+      ],
+      "items": [
+        {
+          "id": "d19db2f8c7d9e9d04c792c80e2eaea07da207f87",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_en": null,
+          "title_original": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://text.npr.org/nx-s1-6029408",
+          "source": "text.npr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T19:29:43.175000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b3a45120dee51b8aada8f043d8dcd4515631421c",
+          "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://text.npr.org/nx-s1-6029408",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T15:29:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "dc4403049397bd84f2487e56277996a5f7d8c15c",
+          "title": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论 / Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_zh": "为什么谷歌要切断没有人工智能的学校的搜索服务？这是一些理论",
+          "title_en": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "title_original": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50484960",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T15:29:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7957,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T15:29:10Z",
+      "latest_at": "2026-11-13T19:29:43.175000Z",
+      "primary_item": {
+        "id": "d19db2f8c7d9e9d04c792c80e2eaea07da207f87",
+        "title": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+        "title_zh": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+        "title_en": null,
+        "title_original": "谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://text.npr.org/nx-s1-6029408",
+        "source": "text.npr.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T11:20:13.838614Z"
+      }
+    },
+    {
+      "story_id": "story_24a1ef59f755",
+      "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "primary_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "af47462fee284e66db42bf90310de7b0c0e09e1c",
+          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "title_zh": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "title_en": null,
+          "title_original": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T18:41:46.415000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
+          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_zh": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_original": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T17:30:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "bcc09a11f3b6411a37632ddbe03bc004aa4c03aa",
+          "title": "人工智能解锁哥德尔笔记本，据说其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_zh": "人工智能解锁哥德尔笔记本，据说其中包含数百个已证明的定理",
+          "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_original": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50486748",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:30:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "af47462fee284e66db42bf90310de7b0c0e09e1c",
+          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "title_zh": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "title_en": null,
+          "title_original": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T18:41:46.415000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
+          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_zh": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+          "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_original": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T17:30:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "bcc09a11f3b6411a37632ddbe03bc004aa4c03aa",
+          "title": "人工智能解锁哥德尔笔记本，据说其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_zh": "人工智能解锁哥德尔笔记本，据说其中包含数百个已证明的定理",
+          "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title_original": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50486748",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:30:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7865,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T17:30:10Z",
+      "latest_at": "2026-11-13T18:41:46.415000Z",
+      "primary_item": {
+        "id": "af47462fee284e66db42bf90310de7b0c0e09e1c",
+        "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+        "title_zh": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+        "title_en": null,
+        "title_original": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T11:20:13.838614Z"
+      }
+    },
+    {
+      "story_id": "story_3a9d31bcd45f",
+      "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+      "url": "https://www.producthunt.com/products/claude",
+      "primary_url": "https://www.producthunt.com/products/claude",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "summary": "Add Claude to your call and get work started as you talk",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-13T02:24:55Z",
+          "updated_at": "2026-11-14T10:05:23Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
+          "title": "Claude Meetings",
+          "title_zh": null,
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T14:05:51.565000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+          "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+          "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+          "summary": "Add Claude to your call and get work started as you talk",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-13T02:24:55Z",
+          "updated_at": "2026-11-14T10:05:23Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ac7589f692f8ff7db45bfc63491ffe72b00ef84b",
+          "title": "Claude Meetings",
+          "title_zh": null,
+          "title_en": "Claude Meetings",
+          "title_original": "Claude Meetings",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T14:05:51.565000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.591,
+      "importance": 0.591,
+      "importance_score": 0.591,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9823,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T14:05:51.565000Z",
+      "latest_at": "2026-11-14T10:05:23Z",
+      "primary_item": {
+        "id": "072fed0d14b2f3764839a0d7918f791443619e85",
+        "title": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk",
+        "title_zh": "Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作",
+        "title_en": "Claude Meetings — Add Claude to your call and get work started as you talk",
+        "title_original": "Claude Meetings — Add Claude to your call and get work started as you talk",
+        "summary": "Add Claude to your call and get work started as you talk",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/claude",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T11:20:13.838614Z"
       }
     }
   ]
