@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:18:16.844960Z",
+  "generated_at": "2026-11-14T05:19:05.928334Z",
   "date": "2026-11-14",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T02:17:28.934587Z"
+      "observed_at": "2026-11-14T05:18:23.309776Z"
     },
     {
-      "id": "project_7ae8ceaacce8",
-      "project_name": "Replicate",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "summary": "Turn Webflow/Framer app into a Claude/Codex project for free",
+      "id": "project_1759ed031fc4",
+      "project_name": "Templify AI",
+      "url": "https://www.producthunt.com/products/templify",
+      "summary": "Powerful content editor for people who aren’t editors",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn Webflow/Framer app into a Claude/Codex project for free」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn Webflow/Framer app into a Claude/Codex project for free\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-13T02:06:54Z",
-      "updated_at": "2026-11-14T01:53:28Z",
+      "recommend_reason_zh": "体验它主打的「Powerful content editor for people who aren’t editors」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Powerful content editor for people who aren’t editors\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T11:56:03Z",
+      "updated_at": "2026-11-14T05:16:29Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T02:18:04.762622Z"
+      "observed_at": "2026-11-14T05:18:54.013724Z"
     },
     {
       "id": "project_65f8a2e3eddb",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-14T02:17:28.934587Z"
+      "observed_at": "2026-11-14T05:18:23.309776Z"
     },
     {
       "id": "project_b6c09a86566b",
@@ -55,9 +55,9 @@
       "recommend_reason_zh": "体验它主打的「Claude Code, Codex & Cursor limits, paced in your menu bar」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Claude Code, Codex & Cursor limits, paced in your menu bar\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-10T09:15:58Z",
-      "updated_at": "2026-11-14T02:12:04Z",
+      "updated_at": "2026-11-14T04:07:06Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-14T02:18:04.762622Z"
+      "observed_at": "2026-11-14T05:18:54.013724Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 12,
-      "duration_ms": 447,
+      "duration_ms": 1163,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 243,
+      "duration_ms": 121,
       "error": null
     }
   ]
