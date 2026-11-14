@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 11:19:24 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 14:18:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -64,22 +64,6 @@
 <pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
-<title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<description>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
-</item>
-<item>
-<title>Manage AI Scan for repositories using the REST API</title>
-<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
-<description>Manage AI Scan for repositories using the REST API (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
-</item>
-<item>
 <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
 <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</guid>
@@ -88,20 +72,20 @@
 <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
 </item>
 <item>
-<title>Templify AI — Powerful content editor for people who aren’t editors</title>
-<link>https://www.producthunt.com/products/templify</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/templify</guid>
-<description>Powerful content editor for people who aren’t editors (Product Hunt)</description>
+<title>Businesses in ChatGPT — Help customers discover your business through ChatGPT</title>
+<link>https://www.producthunt.com/products/openai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
+<description>Help customers discover your business through ChatGPT (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 11:02:11 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 14:15:31 +0000</pubDate>
 </item>
 <item>
-<title>Trainn MCP — Create product videos and courses from any AI chat</title>
-<link>https://www.producthunt.com/products/trainn</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/trainn</guid>
-<description>Create product videos and courses from any AI chat (Product Hunt)</description>
+<title>Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model</title>
+<link>https://www.producthunt.com/products/gemini-robotics-2-5</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/gemini-robotics-2-5</guid>
+<description>Gemini Robotics 2.5: Google’s most capable robot model (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 10:49:29 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 14:04:22 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free</title>
@@ -160,12 +144,28 @@
 <pubDate>Fri, 13 Nov 2026 18:41:46 +0000</pubDate>
 </item>
 <item>
-<title>Claude Meetings — Add Claude to your call and get work started as you talk</title>
-<link>https://www.producthunt.com/products/claude</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
-<description>Add Claude to your call and get work started as you talk (Product Hunt)</description>
+<title>乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]</title>
+<link>https://www.youtube.com/watch?v=IRK8h67ol7Q</link>
+<guid isPermaLink="true">https://www.youtube.com/watch?v=IRK8h67ol7Q</guid>
+<description>乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] (www.youtube.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 13 Nov 2026 17:54:54 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs</title>
+<link>https://news.ycombinator.com/item?id=50493251</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=50493251</guid>
+<description>Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs (hackernews)</description>
 <category>Worth watching</category>
-<pubDate>Sat, 14 Nov 2026 10:05:23 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
+</item>
+<item>
+<title>Perplexity Decider v1.3：训练、评估及应用场景</title>
+<link>https://www.perplexity.ai/hub/blog/perplexity-decider</link>
+<guid isPermaLink="true">https://www.perplexity.ai/hub/blog/perplexity-decider</guid>
+<description>Perplexity Decider v1.3：训练、评估及应用场景 (www.perplexity.ai)</description>
+<category>Worth watching</category>
+<pubDate>Sat, 14 Nov 2026 02:39:53 +0000</pubDate>
 </item>
 </channel>
 </rss>
