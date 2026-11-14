@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 23:19:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 02:17:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -32,14 +32,6 @@
 <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.168.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December</title>
 <link>https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december</guid>
@@ -54,6 +46,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+</item>
+<item>
+<title>Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI</title>
+<link>https://openai.com/business/customer-stories/shield</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/shield</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app</title>
@@ -128,12 +128,12 @@
 <pubDate>Fri, 13 Nov 2026 11:18:28 +0000</pubDate>
 </item>
 <item>
-<title>Claude 会议 — 将 Claude 添加到您的通话中并在通话时开始工作 / Claude Meetings — Add Claude to your call and get work started as you talk</title>
-<link>https://www.producthunt.com/products/claude</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/claude</guid>
-<description>Add Claude to your call and get work started as you talk（Product Hunt）</description>
+<title>Templify AI — 适合非编辑人员的强大内容编辑器 / Templify AI — Powerful content editor for people who aren’t editors</title>
+<link>https://www.producthunt.com/products/templify</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/templify</guid>
+<description>Powerful content editor for people who aren’t editors（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Fri, 13 Nov 2026 23:11:37 +0000</pubDate>
+<pubDate>Sat, 14 Nov 2026 02:16:10 +0000</pubDate>
 </item>
 <item>
 <title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
@@ -142,6 +142,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 08:18:26 +0000</pubDate>
+</item>
+<item>
+<title>Trainn MCP — 通过任何 AI 聊天创建产品视频和课程 / Trainn MCP — Create product videos and courses from any AI chat</title>
+<link>https://www.producthunt.com/products/trainn</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/trainn</guid>
+<description>Create product videos and courses from any AI chat（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Sat, 14 Nov 2026 02:14:03 +0000</pubDate>
 </item>
 <item>
 <title>《拒绝低劣的AI：一份宣言》</title>
@@ -158,14 +166,6 @@
 <description>Chrome DevTools for coding agents（GitHub Trending）</description>
 <category>值得关注</category>
 <pubDate>Fri, 13 Nov 2026 11:19:04 +0000</pubDate>
-</item>
-<item>
-<title>随着其通用模型开始操控机器人，OpenAI解散了其机器人团队</title>
-<link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</link>
-<guid isPermaLink="true">https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</guid>
-<description>fortune.com</description>
-<category>多源热议</category>
-<pubDate>Fri, 13 Nov 2026 21:05:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
