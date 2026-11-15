@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-11-15T02:18:24.417706Z",
+  "generated_at": "2026-11-15T05:18:26.205216Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "items": [
+    {
+      "story_id": "story_ac1cd00bb907",
+      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9754,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T03:35:00Z",
+      "latest_at": "2026-11-15T03:35:00Z",
+      "primary_item": {
+        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T05:19:18.515157Z"
+      }
+    },
     {
       "story_id": "story_1d42fa256bab",
       "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
@@ -52,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7709,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -85,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     },
     {
@@ -169,15 +255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6008,
-      "importance": 0.6008,
-      "importance_score": 0.6008,
+      "score": 0.5944,
+      "importance": 0.5944,
+      "importance_score": 0.5944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8494,
+        "recency": 0.8133,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -202,7 +288,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     },
     {
@@ -226,7 +312,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T02:12:37Z",
+          "updated_at": "2026-11-15T05:16:04Z",
           "recency_basis": "updated_at"
         },
         {
@@ -265,7 +351,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T02:12:37Z",
+          "updated_at": "2026-11-15T05:16:04Z",
           "recency_basis": "updated_at"
         },
         {
@@ -287,15 +373,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9986,
+        "recency": 0.9994,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -303,7 +389,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-14T13:53:58.896000Z",
-      "latest_at": "2026-11-15T02:12:37Z",
+      "latest_at": "2026-11-15T05:16:04Z",
       "primary_item": {
         "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
         "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
@@ -320,7 +406,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     },
     {
@@ -344,7 +430,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T01:56:19Z",
+          "updated_at": "2026-11-15T04:49:08Z",
           "recency_basis": "updated_at"
         },
         {
@@ -383,7 +469,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T01:56:19Z",
+          "updated_at": "2026-11-15T04:49:08Z",
           "recency_basis": "updated_at"
         },
         {
@@ -405,15 +491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
+      "score": 0.5929,
+      "importance": 0.5929,
+      "importance_score": 0.5929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9947,
+        "recency": 0.993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -421,7 +507,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-14T13:53:58.896000Z",
-      "latest_at": "2026-11-15T01:56:19Z",
+      "latest_at": "2026-11-15T04:49:08Z",
       "primary_item": {
         "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
         "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
@@ -438,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     },
     {
@@ -556,15 +642,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.551,
+      "importance": 0.551,
+      "importance_score": 0.551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9294,
+        "recency": 0.8899,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -589,7 +675,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     },
     {
@@ -707,15 +793,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9083,
+        "recency": 0.8698,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -740,158 +826,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     },
     {
-      "story_id": "story_82c8d925bbcc",
-      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "www.techpowerup.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3e25872cf7b5",
+      "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": null,
-          "title_original": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50493251",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.techpowerup.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": null,
-          "title_original": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+          "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_zh": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性",
-          "title_en": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "title_original": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50493251",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z",
+          "published_at": "2026-11-15T04:09:11Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7963,
-        "story_heat": 0.5
+        "recency": 0.9835,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T02:52:59Z",
-      "latest_at": "2026-11-14T10:32:03.584000Z",
+      "earliest_at": "2026-11-15T04:09:11Z",
+      "latest_at": "2026-11-15T04:09:11Z",
       "primary_item": {
-        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "title_zh": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "title_en": null,
-        "title_original": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+        "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+        "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "title_zh": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护",
+        "title_en": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+        "title_original": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "source": "www.techpowerup.com",
-        "source_name": "Buzzing"
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     },
     {
@@ -976,15 +1029,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8388,
+        "recency": 0.8033,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1009,7 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T02:19:12.892966Z"
+        "scored_at": "2026-11-15T05:19:18.515157Z"
       }
     }
   ]

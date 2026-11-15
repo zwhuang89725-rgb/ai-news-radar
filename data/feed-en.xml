@@ -5,8 +5,16 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 15 Nov 2026 02:18:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 05:18:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗</title>
+<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</link>
+<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46</guid>
+<description>何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗 (Daily Digest)</description>
+<category>Industry news</category>
+<pubDate>Sun, 15 Nov 2026 03:35:00 +0000</pubDate>
+</item>
 <item>
 <title>运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」</title>
 <link>https://www.aibase.com/news/32323</link>
@@ -29,7 +37,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
 <description>Help customers discover your business through ChatGPT (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 15 Nov 2026 02:12:37 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 05:16:04 +0000</pubDate>
 </item>
 <item>
 <title>Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model</title>
@@ -37,7 +45,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/gemini-robotics-2-5</guid>
 <description>Gemini Robotics 2.5: Google’s most capable robot model (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Sun, 15 Nov 2026 01:56:19 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 04:49:08 +0000</pubDate>
 </item>
 <item>
 <title>Show HN: DeepSeek V3，约200行纯Jax代码</title>
@@ -56,12 +64,12 @@
 <pubDate>Sat, 14 Nov 2026 19:38:56 +0000</pubDate>
 </item>
 <item>
-<title>据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面</title>
-<link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-<guid isPermaLink="true">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</guid>
-<description>据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 (www.techpowerup.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sat, 14 Nov 2026 10:32:03 +0000</pubDate>
+<title>Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</title>
+<link>https://github.com/Tthanh2k6/turbo-browser-mcp</link>
+<guid isPermaLink="true">https://github.com/Tthanh2k6/turbo-browser-mcp</guid>
+<description>Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP</description>
+<category>Worth watching</category>
+<pubDate>Sun, 15 Nov 2026 04:09:11 +0000</pubDate>
 </item>
 <item>
 <title>Show HN: Agweb – a browser for agents that stays out of your way</title>
