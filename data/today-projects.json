@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:19:14.110193Z",
+  "generated_at": "2026-11-15T08:19:07.089574Z",
   "date": "2026-11-15",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T05:18:26.205216Z"
+      "observed_at": "2026-11-15T08:18:31.526177Z"
     },
     {
-      "id": "project_0599215ac874",
-      "project_name": "Kokonut UI",
-      "url": "https://www.producthunt.com/products/kokonutui",
-      "summary": "Open-source UI components for your AI agent",
+      "id": "project_59d02fcf4067",
+      "project_name": "Spiik",
+      "url": "https://www.producthunt.com/products/spiik",
+      "summary": "AI note taker for meetings & lectures. No bot on your calls.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Open-source UI components for your AI agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Open-source UI components for your AI agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-01T10:27:54Z",
-      "updated_at": "2026-11-15T04:52:02Z",
+      "recommend_reason_zh": "体验它主打的「AI note taker for meetings & lectures. No bot on your calls」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI note taker for meetings & lectures. No bot on your calls\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-07T11:57:13Z",
+      "updated_at": "2026-11-15T08:18:34Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T05:19:00.418670Z"
+      "observed_at": "2026-11-15T08:18:56.368796Z"
     },
     {
       "id": "project_a67bb8d2a6b4",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-15T05:18:26.205216Z"
+      "observed_at": "2026-11-15T08:18:31.526177Z"
     },
     {
-      "id": "project_069cc36d727b",
-      "project_name": "HiringNow",
-      "url": "https://www.producthunt.com/products/hiringnow",
-      "summary": "AI job agent that finds & apply for jobs before anyone else.",
+      "id": "project_f63804c89783",
+      "project_name": "Pixel Office",
+      "url": "https://www.producthunt.com/products/pixel-office-3",
+      "summary": "Run a team of AI agents from a pixel-art office",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI job agent that finds & apply for jobs before anyone else」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI job agent that finds & apply for jobs before anyone else\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-02T10:23:37Z",
-      "updated_at": "2026-11-15T05:03:36Z",
+      "recommend_reason_zh": "体验它主打的「Run a team of AI agents from a pixel-art office」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run a team of AI agents from a pixel-art office\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T16:47:12Z",
+      "updated_at": "2026-11-15T08:18:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-15T05:19:00.418670Z"
+      "observed_at": "2026-11-15T08:18:56.368796Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1191,
+      "duration_ms": 1219,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 173,
+      "item_count": 50,
+      "duration_ms": 54,
       "error": null
     }
   ]
