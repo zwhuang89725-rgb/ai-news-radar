@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T11:18:25.314682Z",
+  "generated_at": "2026-11-15T14:19:25.461049Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_ac1cd00bb907",
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8945,
+        "recency": 0.8563,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -85,46 +85,164 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
+        "scored_at": "2026-11-15T14:20:22.447833Z"
       }
     },
     {
-      "story_id": "story_4d05123f2fa0",
-      "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-      "url": "https://www.producthunt.com/products/openai",
-      "primary_url": "https://www.producthunt.com/products/openai",
+      "story_id": "story_a48b81e8f653",
+      "title": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "primary_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "9adc9a2b68b79986cf6a0d12f7bcd0d2c3e4c892",
+          "title": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "title_zh": null,
+          "title_en": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "title_original": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
+          "title": "elementalsouls /      Claude-BugHunter",
+          "title_zh": null,
+          "title_en": "elementalsouls /      Claude-BugHunter",
+          "title_original": "elementalsouls /      Claude-BugHunter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T14:01:29.654000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "9adc9a2b68b79986cf6a0d12f7bcd0d2c3e4c892",
+          "title": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "title_zh": null,
+          "title_en": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "title_original": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
+          "title": "elementalsouls /      Claude-BugHunter",
+          "title_zh": null,
+          "title_en": "elementalsouls /      Claude-BugHunter",
+          "title_original": "elementalsouls /      Claude-BugHunter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/elementalsouls/Claude-BugHunter",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T14:01:29.654000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T14:01:29.654000Z",
+      "latest_at": "2026-11-15T14:19:25.461049Z",
+      "primary_item": {
+        "id": "9adc9a2b68b79986cf6a0d12f7bcd0d2c3e4c892",
+        "title": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "title_zh": null,
+        "title_en": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "title_original": "elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T14:20:22.447833Z"
+      }
+    },
+    {
+      "story_id": "story_407fc4b6b767",
+      "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+      "primary_url": "https://www.producthunt.com/products/byteask-cloud-agents",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "summary": "Help customers discover your business through ChatGPT",
+          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "summary": "Find the fix in big codebases. Ship it from Slack.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T10:56:46Z",
+          "published_at": "2026-11-14T06:54:44Z",
+          "updated_at": "2026-11-15T14:16:48Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
-          "title": "Businesses in ChatGPT",
+          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
+          "title": "ByteAsk Cloud Agents",
           "title_zh": null,
-          "title_en": "Businesses in ChatGPT",
-          "title_original": "Businesses in ChatGPT",
+          "title_en": "ByteAsk Cloud Agents",
+          "title_original": "ByteAsk Cloud Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T13:53:58.896000Z",
+          "published_at": "2026-11-15T13:59:21.502000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -136,66 +254,66 @@
       ],
       "items": [
         {
-          "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-          "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-          "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-          "summary": "Help customers discover your business through ChatGPT",
+          "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+          "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+          "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+          "summary": "Find the fix in big codebases. Ship it from Slack.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T08:53:51Z",
-          "updated_at": "2026-11-15T10:56:46Z",
+          "published_at": "2026-11-14T06:54:44Z",
+          "updated_at": "2026-11-15T14:16:48Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "e387ac621e5743eebe352a18f4e53b8877c8aa46",
-          "title": "Businesses in ChatGPT",
+          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
+          "title": "ByteAsk Cloud Agents",
           "title_zh": null,
-          "title_en": "Businesses in ChatGPT",
-          "title_original": "Businesses in ChatGPT",
+          "title_en": "ByteAsk Cloud Agents",
+          "title_original": "ByteAsk Cloud Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/openai",
+          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T13:53:58.896000Z",
+          "published_at": "2026-11-15T13:59:21.502000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5933,
-      "importance": 0.5933,
-      "importance_score": 0.5933,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9994,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T13:53:58.896000Z",
-      "latest_at": "2026-11-15T10:56:46Z",
+      "earliest_at": "2026-11-15T13:59:21.502000Z",
+      "latest_at": "2026-11-15T14:16:48Z",
       "primary_item": {
-        "id": "505759a11a1b6c4bf28074bae783e0291d8dcb1e",
-        "title": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业 / Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "title_zh": "ChatGPT 中的企业 — 帮助客户通过 ChatGPT 发现您的企业",
-        "title_en": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "title_original": "Businesses in ChatGPT — Help customers discover your business through ChatGPT",
-        "summary": "Help customers discover your business through ChatGPT",
+        "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
+        "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "title_zh": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。",
+        "title_en": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "title_original": "ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
+        "summary": "Find the fix in big codebases. Ship it from Slack.",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/openai",
+        "url": "https://www.producthunt.com/products/byteask-cloud-agents",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -203,7 +321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
+        "scored_at": "2026-11-15T14:20:22.447833Z"
       }
     },
     {
@@ -287,15 +405,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5822,
-      "importance": 0.5822,
-      "importance_score": 0.5822,
+      "score": 0.5765,
+      "importance": 0.5765,
+      "importance_score": 0.5765,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7458,
+        "recency": 0.714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -320,125 +438,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
+        "scored_at": "2026-11-15T14:20:22.447833Z"
       }
     },
     {
-      "story_id": "story_ae54967edda4",
-      "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-      "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "primary_url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_c965105b93e9",
+      "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
-          "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
-          "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T10:17:42Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "08e87d64d5f647e65d8d8c0fb509fc64a53fea79",
-          "title": "Gemini Robotics 2.5",
-          "title_zh": null,
-          "title_en": "Gemini Robotics 2.5",
-          "title_original": "Gemini Robotics 2.5",
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-          "source": "producthunt",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T13:53:58.896000Z",
+          "published_at": "2026-11-15T12:14:06Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
-          "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
-          "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-          "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-12T20:18:13Z",
-          "updated_at": "2026-11-15T10:17:42Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "08e87d64d5f647e65d8d8c0fb509fc64a53fea79",
-          "title": "Gemini Robotics 2.5",
-          "title_zh": null,
-          "title_en": "Gemini Robotics 2.5",
-          "title_original": "Gemini Robotics 2.5",
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-          "source": "producthunt",
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T13:53:58.896000Z",
+          "published_at": "2026-11-15T12:14:06Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5916,
-      "importance": 0.5916,
-      "importance_score": 0.5916,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9855,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T13:53:58.896000Z",
-      "latest_at": "2026-11-15T10:17:42Z",
+      "earliest_at": "2026-11-15T12:14:06Z",
+      "latest_at": "2026-11-15T12:14:06Z",
       "primary_item": {
-        "id": "b32276ca2116fcf7be6059da782eb0897c2c80bb",
-        "title": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型 / Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-        "title_zh": "Gemini Robotics 2.5 — Gemini Robotics 2.5：Google 最强大的机器人模型",
-        "title_en": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-        "title_original": "Gemini Robotics 2.5 — Gemini Robotics 2.5: Google’s most capable robot model",
-        "summary": "Gemini Robotics 2.5: Google’s most capable robot model",
+        "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+        "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+        "title_zh": "了解现代LLM中的位置嵌入",
+        "title_en": "Understanding Positional Embeddings in Modern LLMs",
+        "title_original": "Understanding Positional Embeddings in Modern LLMs",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
+        "scored_at": "2026-11-15T14:20:22.447833Z"
       }
     },
     {
@@ -523,15 +641,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9621,
+        "recency": 0.9211,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -556,7 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
+        "scored_at": "2026-11-15T14:20:22.447833Z"
       }
     },
     {
@@ -674,15 +792,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8161,
+        "recency": 0.7813,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -707,158 +825,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
-      }
-    },
-    {
-      "story_id": "story_f7d3b237183e",
-      "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "source": "developer.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:09:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "developer.nvidia.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:09:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7976,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:09:25Z",
-      "latest_at": "2026-11-14T19:38:56.216000Z",
-      "primary_item": {
-        "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-        "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "title_en": null,
-        "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-        "source": "developer.nvidia.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
+        "scored_at": "2026-11-15T14:20:22.447833Z"
       }
     },
     {
@@ -943,15 +910,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9018,
+        "recency": 0.8634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -976,125 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
-      }
-    },
-    {
-      "story_id": "story_e41159d50cfe",
-      "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "primary_url": "https://github.com/paul-nameless/agweb",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "5afc09bd96b721532395b875c430d395588d155b",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5afc09bd96b721532395b875c430d395588d155b",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7366,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:08:12Z",
-      "latest_at": "2026-11-14T14:08:12Z",
-      "primary_item": {
-        "id": "5afc09bd96b721532395b875c430d395588d155b",
-        "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-        "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-        "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/paul-nameless/agweb",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T11:19:13.019745Z"
+        "scored_at": "2026-11-15T14:20:22.447833Z"
       }
     }
   ]
