@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 11:18:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 14:18:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
@@ -16,12 +16,20 @@
 <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
-<title>A step toward defining the Standard Model on a lattice</title>
-<link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-<guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
-<description>A step toward defining the Standard Model on a lattice (OpenAI News)</description>
+<title>New Ask Maps features to help with holiday travel and prep</title>
+<link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</guid>
+<description>New Ask Maps features to help with holiday travel and prep (Google AI Blog)</description>
 <category>Official update</category>
-<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The King’s Trust and OpenAI launch £1m partnership</title>
+<link>https://openai.com/index/the-kings-trust-and-openai</link>
+<guid isPermaLink="true">https://openai.com/index/the-kings-trust-and-openai</guid>
+<description>The King’s Trust and OpenAI launch £1m partnership (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>三轮真机测评，TARS战队以82.5分拿下蚂蚁灵波具身大模型挑战赛冠军</title>
@@ -32,12 +40,12 @@
 <pubDate>Mon, 16 Nov 2026 11:18:24 +0000</pubDate>
 </item>
 <item>
-<title>Our new blog for science</title>
-<link>https://openai.com/index/our-new-blog-for-science</link>
-<guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
-<description>Our new blog for science (OpenAI News)</description>
+<title>A step toward defining the Standard Model on a lattice</title>
+<link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+<guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
+<description>A step toward defining the Standard Model on a lattice (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
 </item>
 <item>
 <title>黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会</title>
@@ -46,6 +54,14 @@
 <description>黄仁勋考虑重返英伟达CEO岗位，盟友筹建“作战室”游说董事会 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 16 Nov 2026 11:18:24 +0000</pubDate>
+</item>
+<item>
+<title>Our new blog for science</title>
+<link>https://openai.com/index/our-new-blog-for-science</link>
+<guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
+<description>Our new blog for science (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整</title>
@@ -80,6 +96,14 @@
 <pubDate>Mon, 16 Nov 2026 08:24:37 +0000</pubDate>
 </item>
 <item>
+<title>ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card</title>
+<link>https://www.producthunt.com/products/chatgpt</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/chatgpt</guid>
+<description>Let ChatGPT agents buy things without seeing your card (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Mon, 16 Nov 2026 14:16:57 +0000</pubDate>
+</item>
+<item>
 <title>苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户</title>
 <link>https://www.aibase.com/news/32338</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32338</guid>
@@ -88,36 +112,12 @@
 <pubDate>Mon, 16 Nov 2026 08:24:37 +0000</pubDate>
 </item>
 <item>
-<title>ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.</title>
-<link>https://www.producthunt.com/products/byteask-cloud-agents</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/byteask-cloud-agents</guid>
-<description>Find the fix in big codebases. Ship it from Slack. (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Mon, 16 Nov 2026 04:19:17 +0000</pubDate>
-</item>
-<item>
 <title>豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景</title>
 <link>https://www.aibase.com/news/32336</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32336</guid>
 <description>豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 16 Nov 2026 08:24:37 +0000</pubDate>
-</item>
-<item>
-<title>elementalsouls/Claude-BugHunter — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</title>
-<link>https://github.com/elementalsouls/Claude-BugHunter</link>
-<guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
-<description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 15 Nov 2026 14:19:25 +0000</pubDate>
-</item>
-<item>
-<title>理解现代大型语言模型中的位置嵌入</title>
-<link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
-<guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
-<description>理解现代大型语言模型中的位置嵌入 (magazine.sebastianraschka.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Sun, 15 Nov 2026 16:51:36 +0000</pubDate>
 </item>
 <item>
 <title>所有由人工智能生成的代码都应开源</title>
@@ -152,18 +152,18 @@
 <pubDate>Mon, 16 Nov 2026 05:18:25 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</title>
-<link>https://github.com/db-branch/db-branch</link>
-<guid isPermaLink="true">https://github.com/db-branch/db-branch</guid>
-<description>Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS</description>
-<category>Worth watching</category>
-<pubDate>Sun, 15 Nov 2026 13:50:51 +0000</pubDate>
-</item>
-<item>
 <title>因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职</title>
 <link>https://www.aibase.com/news/32333</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32333</guid>
 <description>因黄仁勋突然离任 英伟达机器人学习工程师戴士钦宣布离职 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Mon, 16 Nov 2026 05:18:25 +0000</pubDate>
+</item>
+<item>
+<title>阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%</title>
+<link>https://www.aibase.com/news/32332</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32332</guid>
+<description>阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58% (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Mon, 16 Nov 2026 05:18:25 +0000</pubDate>
 </item>
