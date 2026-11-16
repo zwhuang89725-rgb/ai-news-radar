@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:19:16.770093Z",
+  "generated_at": "2026-11-16T20:19:32.839958Z",
   "date": "2026-11-17",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-16T17:18:25.792951Z"
+      "observed_at": "2026-11-16T20:18:16.192419Z"
     },
     {
       "id": "project_5f1b22720305",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "体验它主打的「Let ChatGPT agents buy things without seeing your card」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Let ChatGPT agents buy things without seeing your card\") and see whether it solves a problem you have right now.",
       "published_at": "2026-11-13T18:06:13Z",
-      "updated_at": "2026-11-16T17:13:04Z",
+      "updated_at": "2026-11-16T19:52:41Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-16T17:19:05.996349Z"
+      "observed_at": "2026-11-16T20:19:22.209841Z"
     },
     {
       "id": "project_ec453d1217c2",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-16T17:18:25.792951Z"
+      "observed_at": "2026-11-16T20:18:16.192419Z"
     },
     {
-      "id": "project_8d5955654624",
-      "project_name": "OpenBot",
-      "url": "https://www.producthunt.com/products/copilotkit",
-      "summary": "Grok Bot alternative: self-host, fully customize, any stack",
+      "id": "project_97e92c60eefc",
+      "project_name": "Boost.space AgentOS",
+      "url": "https://www.producthunt.com/products/boost-space",
+      "summary": "One operating system for all your AI agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Grok Bot alternative: self-host, fully customize, any stack」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Grok Bot alternative: self-host, fully customize, any stack\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-08-25T14:23:36Z",
-      "updated_at": "2026-11-16T17:18:35Z",
+      "recommend_reason_zh": "体验它主打的「One operating system for all your AI agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"One operating system for all your AI agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-03T08:33:13Z",
+      "updated_at": "2026-11-16T20:17:40Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-16T17:19:05.996349Z"
+      "observed_at": "2026-11-16T20:19:22.209841Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 14,
-      "duration_ms": 1808,
+      "item_count": 15,
+      "duration_ms": 1109,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 240,
+      "duration_ms": 181,
       "error": null
     }
   ]
