@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:18:16.192419Z",
+  "generated_at": "2026-11-16T23:17:32.183065Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8686,
-      "importance": 0.8686,
-      "importance_score": 0.8686,
+      "score": 0.8614,
+      "importance": 0.8614,
+      "importance_score": 0.8614,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9534,
+        "recency": 0.9131,
         "story_heat": 0.25
       },
       "category": "official",
@@ -121,30 +121,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
-      "story_id": "story_43ec7f0d19a5",
-      "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
-      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "story_id": "story_73cf2ba0785a",
+      "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
-          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-          "title_zh": "批量启动 AI 扫描代码仓库",
-          "title_en": "Bulk start AI Scan for repositories",
-          "title_original": "Bulk start AI Scan for repositories",
+          "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+          "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+          "title_zh": "GitHub Copilot 每周发布 — 11 月 9 日",
+          "title_en": "GitHub Copilot weekly releases — November 9",
+          "title_original": "GitHub Copilot weekly releases — November 9",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T15:50:22Z",
+          "published_at": "2026-11-16T21:34:53Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -155,33 +155,33 @@
       ],
       "items": [
         {
-          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
-          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-          "title_zh": "批量启动 AI 扫描代码仓库",
-          "title_en": "Bulk start AI Scan for repositories",
-          "title_original": "Bulk start AI Scan for repositories",
+          "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+          "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+          "title_zh": "GitHub Copilot 每周发布 — 11 月 9 日",
+          "title_en": "GitHub Copilot weekly releases — November 9",
+          "title_original": "GitHub Copilot weekly releases — November 9",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T15:50:22Z",
+          "published_at": "2026-11-16T21:34:53Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9376,
+        "ai_relevance": 0.91,
+        "recency": 0.9756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -190,17 +190,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T15:50:22Z",
-      "latest_at": "2026-11-16T15:50:22Z",
+      "earliest_at": "2026-11-16T21:34:53Z",
+      "latest_at": "2026-11-16T21:34:53Z",
       "primary_item": {
-        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
-        "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-        "title_zh": "批量启动 AI 扫描代码仓库",
-        "title_en": "Bulk start AI Scan for repositories",
-        "title_original": "Bulk start AI Scan for repositories",
+        "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+        "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+        "title_zh": "GitHub Copilot 每周发布 — 11 月 9 日",
+        "title_en": "GitHub Copilot weekly releases — November 9",
+        "title_original": "GitHub Copilot weekly releases — November 9",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -208,7 +208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -260,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.913,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,7 +295,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
+      }
+    },
+    {
+      "story_id": "story_41002422ce0e",
+      "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
+          "title_en": "GitHub Copilot models deprecated on November 16, 2026",
+          "title_original": "GitHub Copilot models deprecated on November 16, 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T20:25:20Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
+          "title_en": "GitHub Copilot models deprecated on November 16, 2026",
+          "title_original": "GitHub Copilot models deprecated on November 16, 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T20:25:20Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9594,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T20:25:20Z",
+      "latest_at": "2026-11-16T20:25:20Z",
+      "primary_item": {
+        "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+        "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+        "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
+        "title_en": "GitHub Copilot models deprecated on November 16, 2026",
+        "title_original": "GitHub Copilot models deprecated on November 16, 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -347,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7459,
+        "recency": 0.7144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -434,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9534,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,30 +556,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
-      "story_id": "story_97bf5a0b15de",
-      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "story_id": "story_c53b340056aa",
+      "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "primary_url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-          "title_en": "Take GitHub Mobile with you on iPhone Duo",
-          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
+          "title_en": "Budget limit increased to 40,000 budgets per account",
+          "title_original": "Budget limit increased to 40,000 budgets per account",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T14:30:07Z",
+          "published_at": "2026-11-16T21:30:49Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -503,33 +590,33 @@
       ],
       "items": [
         {
-          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-          "title_en": "Take GitHub Mobile with you on iPhone Duo",
-          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
+          "title_en": "Budget limit increased to 40,000 budgets per account",
+          "title_original": "Budget limit increased to 40,000 budgets per account",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T14:30:07Z",
+          "published_at": "2026-11-16T21:30:49Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9196,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -538,17 +625,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T14:30:07Z",
-      "latest_at": "2026-11-16T14:30:07Z",
+      "earliest_at": "2026-11-16T21:30:49Z",
+      "latest_at": "2026-11-16T21:30:49Z",
       "primary_item": {
-        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-        "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-        "title_en": "Take GitHub Mobile with you on iPhone Duo",
-        "title_original": "Take GitHub Mobile with you on iPhone Duo",
+        "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+        "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+        "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
+        "title_en": "Budget limit increased to 40,000 budgets per account",
+        "title_original": "Budget limit increased to 40,000 budgets per account",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+        "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -556,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -608,15 +695,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.887,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,7 +730,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -695,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,7 +815,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
+      }
+    },
+    {
+      "story_id": "story_43ec7f0d19a5",
+      "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+          "title_zh": "批量启动 AI 扫描代码仓库",
+          "title_en": "Bulk start AI Scan for repositories",
+          "title_original": "Bulk start AI Scan for repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+          "title_zh": "批量启动 AI 扫描代码仓库",
+          "title_en": "Bulk start AI Scan for repositories",
+          "title_original": "Bulk start AI Scan for repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.898,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T15:50:22Z",
+      "latest_at": "2026-11-16T15:50:22Z",
+      "primary_item": {
+        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+        "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+        "title_zh": "批量启动 AI 扫描代码仓库",
+        "title_en": "Bulk start AI Scan for repositories",
+        "title_original": "Bulk start AI Scan for repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -780,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8494,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -815,7 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -867,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -900,7 +1074,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
+      }
+    },
+    {
+      "story_id": "story_97bf5a0b15de",
+      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8808,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T14:30:07Z",
+      "latest_at": "2026-11-16T14:30:07Z",
+      "primary_item": {
+        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+        "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+        "title_en": "Take GitHub Mobile with you on iPhone Duo",
+        "title_original": "Take GitHub Mobile with you on iPhone Duo",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -952,15 +1213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8134,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -987,7 +1248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -1039,15 +1300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1333,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -1124,15 +1385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8134,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1159,7 +1420,158 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
+      }
+    },
+    {
+      "story_id": "story_a84ab1e7c911",
+      "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "primary_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
+          "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "title_zh": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络",
+          "title_en": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "title_original": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T17:36:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ee2fad35b3b0d963642304019e7e59678d50c623",
+          "title": "FBI 称 Artex AI 开源黑客工具可在“三小时内”破坏网络 / FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+          "title_zh": "FBI 称 Artex AI 开源黑客工具可在“三小时内”破坏网络",
+          "title_en": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+          "title_original": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T22:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "56f9704c209f8bf86ee69138ec8e70b897056599",
+          "title": "FBI 称 Artex AI 开源黑客工具用于破坏网络 / FBI says Artex AI open-source hacking tool used to breach networks",
+          "title_zh": "FBI 称 Artex AI 开源黑客工具用于破坏网络",
+          "title_en": "FBI says Artex AI open-source hacking tool used to breach networks",
+          "title_original": "FBI says Artex AI open-source hacking tool used to breach networks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-16T18:12:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Slashdot",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
+          "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "title_zh": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络",
+          "title_en": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "title_original": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-16T17:36:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ee2fad35b3b0d963642304019e7e59678d50c623",
+          "title": "FBI 称 Artex AI 开源黑客工具可在“三小时内”破坏网络 / FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+          "title_zh": "FBI 称 Artex AI 开源黑客工具可在“三小时内”破坏网络",
+          "title_en": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+          "title_original": "FBI Says Artex AI Open-Source Hacking Tool Used to Breach Networks In 'Under Three Hours'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-16T22:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "56f9704c209f8bf86ee69138ec8e70b897056599",
+          "title": "FBI 称 Artex AI 开源黑客工具用于破坏网络 / FBI says Artex AI open-source hacking tool used to breach networks",
+          "title_zh": "FBI 称 Artex AI 开源黑客工具用于破坏网络",
+          "title_en": "FBI says Artex AI open-source hacking tool used to breach networks",
+          "title_original": "FBI says Artex AI open-source hacking tool used to breach networks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-16T18:12:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6596,
+      "importance": 0.6596,
+      "importance_score": 0.6596,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9212,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-16T17:36:43Z",
+      "latest_at": "2026-11-16T22:00:00Z",
+      "primary_item": {
+        "id": "e6b87077a6d1787c1bf1bab22affd5f84b8f19de",
+        "title": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络 / FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+        "title_zh": "FBI 称 Artex AI 开源黑客工具用于在“不到三小时”内破坏网络",
+        "title_en": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+        "title_original": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -1211,15 +1623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,125 +1656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
-      }
-    },
-    {
-      "story_id": "story_43bedc29d44d",
-      "title": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络 / FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-      "primary_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "5f5eda894912d1f7a8f1945f4c6ad0641efbfef4",
-          "title": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络 / FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "title_zh": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络",
-          "title_en": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "title_original": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-16T17:36:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "56f9704c209f8bf86ee69138ec8e70b897056599",
-          "title": "FBI 称 Artex AI 开源黑客工具用于破坏网络 / FBI says Artex AI open-source hacking tool used to breach networks",
-          "title_zh": "FBI 称 Artex AI 开源黑客工具用于破坏网络",
-          "title_en": "FBI says Artex AI open-source hacking tool used to breach networks",
-          "title_original": "FBI says Artex AI open-source hacking tool used to breach networks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T18:12:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "5f5eda894912d1f7a8f1945f4c6ad0641efbfef4",
-          "title": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络 / FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "title_zh": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络",
-          "title_en": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "title_original": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-16T17:36:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "56f9704c209f8bf86ee69138ec8e70b897056599",
-          "title": "FBI 称 Artex AI 开源黑客工具用于破坏网络 / FBI says Artex AI open-source hacking tool used to breach networks",
-          "title_zh": "FBI 称 Artex AI 开源黑客工具用于破坏网络",
-          "title_en": "FBI says Artex AI open-source hacking tool used to breach networks",
-          "title_original": "FBI says Artex AI open-source hacking tool used to breach networks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T18:12:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6419,
-      "importance": 0.6419,
-      "importance_score": 0.6419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9619,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T17:36:43Z",
-      "latest_at": "2026-11-16T18:12:21Z",
-      "primary_item": {
-        "id": "5f5eda894912d1f7a8f1945f4c6ad0641efbfef4",
-        "title": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络 / FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-        "title_zh": "FBI 称 Artex AI 开源黑客工具可在“不到三小时”内攻破网络",
-        "title_en": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-        "title_original": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -1414,15 +1708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7459,
+        "recency": 0.7144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1449,7 +1743,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     },
     {
@@ -1501,15 +1795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1534,297 +1828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
-      }
-    },
-    {
-      "story_id": "story_4afe5d6d7b72",
-      "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-      "url": "https://www.producthunt.com/products/chatgpt",
-      "primary_url": "https://www.producthunt.com/products/chatgpt",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
-          "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_zh": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西",
-          "title_en": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_original": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "summary": "Let ChatGPT agents buy things without seeing your card",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T19:52:41Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5101060b6052840a1bd9348d6c1c1339f335c54b",
-          "title": "ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "ChatGPT Wallet",
-          "title_original": "ChatGPT Wallet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T13:58:18.827000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
-          "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_zh": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西",
-          "title_en": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_original": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "summary": "Let ChatGPT agents buy things without seeing your card",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T19:52:41Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5101060b6052840a1bd9348d6c1c1339f335c54b",
-          "title": "ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "ChatGPT Wallet",
-          "title_original": "ChatGPT Wallet",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T13:58:18.827000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9939,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T13:58:18.827000Z",
-      "latest_at": "2026-11-16T19:52:41Z",
-      "primary_item": {
-        "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
-        "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-        "title_zh": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西",
-        "title_en": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-        "title_original": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-        "summary": "Let ChatGPT agents buy things without seeing your card",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/chatgpt",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
-      }
-    },
-    {
-      "story_id": "story_8072575c42c3",
-      "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7246,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-15T22:00:01Z",
-      "latest_at": "2026-11-15T22:00:01Z",
-      "primary_item": {
-        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-        "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-        "title_zh": "在晶格上定义标准模型的一步",
-        "title_en": "A step toward defining the Standard Model on a lattice",
-        "title_original": "A step toward defining the Standard Model on a lattice",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
-      }
-    },
-    {
-      "story_id": "story_a31c0ac5bb28",
-      "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-      "url": "https://www.aibase.com/news/32335",
-      "primary_url": "https://www.aibase.com/news/32335",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:24:37.888327Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T08:24:37.888327Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8422,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-16T08:24:37.888327Z",
-      "latest_at": "2026-11-16T08:24:37.888327Z",
-      "primary_item": {
-        "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-        "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "title_en": null,
-        "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32335",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T20:19:40.908550Z"
+        "scored_at": "2026-11-16T23:18:31.653212Z"
       }
     }
   ]
