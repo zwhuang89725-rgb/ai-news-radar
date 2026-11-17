@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:18:24.101787Z",
+  "generated_at": "2026-11-17T11:18:38.421481Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8913,
-      "importance": 0.8913,
-      "importance_score": 0.8913,
+      "score": 0.8852,
+      "importance": 0.8852,
+      "importance_score": 0.8852,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8017,
+        "recency": 0.7677,
         "story_heat": 0.75
       },
       "category": "official",
@@ -187,7 +187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8565,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -274,7 +274,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7677,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -413,15 +413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.887,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,7 +448,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -500,15 +500,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.889,
+        "recency": 0.8512,
         "story_heat": 0.0
       },
       "category": "official",
@@ -535,30 +535,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
-      "story_id": "story_ffa281130f35",
-      "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-      "url": "https://www.aibase.com/news/32354",
-      "primary_url": "https://www.aibase.com/news/32354",
+      "story_id": "story_9e887d4acf20",
+      "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+      "url": "https://www.aibase.com/news/32360",
+      "primary_url": "https://www.aibase.com/news/32360",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "id": "13d4daa48a13284566536b998414b13b1704f558",
+          "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+          "title_zh": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
           "title_en": null,
-          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_original": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32354",
+          "url": "https://www.aibase.com/news/32360",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T08:18:24.101787Z",
+          "published_at": "2026-11-17T11:18:38.421481Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -569,18 +569,18 @@
       ],
       "items": [
         {
-          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "id": "13d4daa48a13284566536b998414b13b1704f558",
+          "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+          "title_zh": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
           "title_en": null,
-          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_original": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32354",
+          "url": "https://www.aibase.com/news/32360",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T08:18:24.101787Z",
+          "published_at": "2026-11-17T11:18:38.421481Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -603,17 +603,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T08:18:24.101787Z",
-      "latest_at": "2026-11-17T08:18:24.101787Z",
+      "earliest_at": "2026-11-17T11:18:38.421481Z",
+      "latest_at": "2026-11-17T11:18:38.421481Z",
       "primary_item": {
-        "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-        "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-        "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "id": "13d4daa48a13284566536b998414b13b1704f558",
+        "title": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
+        "title_zh": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
         "title_en": null,
-        "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_original": "李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32354",
+        "url": "https://www.aibase.com/news/32360",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -621,7 +621,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -673,15 +673,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8423,
+        "recency": 0.8065,
         "story_heat": 0.0
       },
       "category": "official",
@@ -708,7 +708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -760,15 +760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8017,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -795,26 +795,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
-      "story_id": "story_4725e2347902",
-      "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-      "url": "https://www.aibase.com/news/32357",
-      "primary_url": "https://www.aibase.com/news/32357",
+      "story_id": "story_ffa281130f35",
+      "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+      "url": "https://www.aibase.com/news/32354",
+      "primary_url": "https://www.aibase.com/news/32354",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "title_en": null,
-          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32357",
+          "url": "https://www.aibase.com/news/32354",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -829,14 +829,14 @@
       ],
       "items": [
         {
-          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "title_en": null,
-          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32357",
+          "url": "https://www.aibase.com/news/32354",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -847,15 +847,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,14 +866,14 @@
       "earliest_at": "2026-11-17T08:18:24.101787Z",
       "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-        "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-        "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+        "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+        "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
         "title_en": null,
-        "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+        "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32357",
+        "url": "https://www.aibase.com/news/32354",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -881,7 +881,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -933,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8349,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "official",
@@ -968,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -1020,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1055,26 +1055,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
-      "story_id": "story_485d7332a64c",
-      "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-      "url": "https://www.aibase.com/news/32355",
-      "primary_url": "https://www.aibase.com/news/32355",
+      "story_id": "story_4725e2347902",
+      "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+      "url": "https://www.aibase.com/news/32357",
+      "primary_url": "https://www.aibase.com/news/32357",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
-          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
+          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "title_en": null,
-          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32355",
+          "url": "https://www.aibase.com/news/32357",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1089,14 +1089,14 @@
       ],
       "items": [
         {
-          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
-          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
+          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "title_en": null,
-          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32355",
+          "url": "https://www.aibase.com/news/32357",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1107,15 +1107,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,14 +1126,14 @@
       "earliest_at": "2026-11-17T08:18:24.101787Z",
       "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "259a4016d26d9af14d2c8849095bc439edea0463",
-        "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
-        "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+        "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
+        "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+        "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
         "title_en": null,
-        "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+        "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32355",
+        "url": "https://www.aibase.com/news/32357",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1141,7 +1141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -1193,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8557,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1228,113 +1228,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
-      "story_id": "story_36b60329478e",
-      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T09:00:00Z",
-      "latest_at": "2026-11-16T09:00:00Z",
-      "primary_item": {
-        "id": "c857cb04056a67136a815d45c5da94457b53c014",
-        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
-      }
-    },
-    {
-      "story_id": "story_ca154c8f1e7b",
-      "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-      "url": "https://www.aibase.com/news/32358",
-      "primary_url": "https://www.aibase.com/news/32358",
+      "story_id": "story_485d7332a64c",
+      "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+      "url": "https://www.aibase.com/news/32355",
+      "primary_url": "https://www.aibase.com/news/32355",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f33f188727b99f12e4529a2f06047b979f217587",
-          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "title_en": null,
-          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32358",
+          "url": "https://www.aibase.com/news/32355",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1349,14 +1262,14 @@
       ],
       "items": [
         {
-          "id": "f33f188727b99f12e4529a2f06047b979f217587",
-          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "title_en": null,
-          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32358",
+          "url": "https://www.aibase.com/news/32355",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1367,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1386,14 +1299,14 @@
       "earliest_at": "2026-11-17T08:18:24.101787Z",
       "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "f33f188727b99f12e4529a2f06047b979f217587",
-        "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-        "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+        "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+        "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
         "title_en": null,
-        "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32358",
+        "url": "https://www.aibase.com/news/32355",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1401,7 +1314,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -1453,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8297,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1488,113 +1401,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
-      "story_id": "story_52922842e062",
-      "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "primary_url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-          "title_en": "How Revolut raises ambition without lowering the bar",
-          "title_original": "How Revolut raises ambition without lowering the bar",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/revolut",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-          "title_en": "How Revolut raises ambition without lowering the bar",
-          "title_original": "How Revolut raises ambition without lowering the bar",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/revolut",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7194,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T09:30:00Z",
-      "latest_at": "2026-11-16T09:30:00Z",
-      "primary_item": {
-        "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-        "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-        "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-        "title_en": "How Revolut raises ambition without lowering the bar",
-        "title_original": "How Revolut raises ambition without lowering the bar",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/revolut",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
-      }
-    },
-    {
-      "story_id": "story_8b9318b94c24",
-      "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-      "url": "https://www.aibase.com/news/32356",
-      "primary_url": "https://www.aibase.com/news/32356",
+      "story_id": "story_ca154c8f1e7b",
+      "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+      "url": "https://www.aibase.com/news/32358",
+      "primary_url": "https://www.aibase.com/news/32358",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
-          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-          "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "title_en": null,
-          "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32356",
+          "url": "https://www.aibase.com/news/32358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1609,14 +1435,14 @@
       ],
       "items": [
         {
-          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
-          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-          "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "title_en": null,
-          "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32356",
+          "url": "https://www.aibase.com/news/32358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1627,15 +1453,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1646,14 +1472,14 @@
       "earliest_at": "2026-11-17T08:18:24.101787Z",
       "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
-        "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
-        "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "id": "f33f188727b99f12e4529a2f06047b979f217587",
+        "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
         "title_en": null,
-        "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32356",
+        "url": "https://www.aibase.com/news/32358",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1661,7 +1487,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -1779,15 +1605,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6393,
-      "importance": 0.6393,
-      "importance_score": 0.6393,
+      "score": 0.6332,
+      "importance": 0.6332,
+      "importance_score": 0.6332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8088,
+        "recency": 0.7745,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1812,7 +1638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     },
     {
@@ -1864,15 +1690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7884,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1899,7 +1725,211 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T08:19:56.209697Z"
+        "scored_at": "2026-11-17T11:19:31.256982Z"
+      }
+    },
+    {
+      "story_id": "story_8b9318b94c24",
+      "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+      "url": "https://www.aibase.com/news/32356",
+      "primary_url": "https://www.aibase.com/news/32356",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
+          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_en": null,
+          "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32356",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:18:24.101787Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
+          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_en": null,
+          "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32356",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:18:24.101787Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9575,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T08:18:24.101787Z",
+      "latest_at": "2026-11-17T08:18:24.101787Z",
+      "primary_item": {
+        "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
+        "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "title_en": null,
+        "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32356",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T11:19:31.256982Z"
+      }
+    },
+    {
+      "story_id": "story_7074c8777a54",
+      "title": "Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+      "url": "https://github.com/cursor/plugins",
+      "primary_url": "https://github.com/cursor/plugins",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "b8c8a58ef2446673c58e5fd521a0a43ad2f956ff",
+          "title": "Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+          "title_zh": "Cursor/plugins — Cursor插件规范和官方插件",
+          "title_en": "cursor/plugins — Cursor plugin specification and official plugins",
+          "title_original": "cursor/plugins — Cursor plugin specification and official plugins",
+          "summary": "Cursor plugin specification and official plugins",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "be86f99c8fabe7e0c38c29066ae37b2b4b37f1d8",
+          "title": "光标/插件 / cursor /      plugins",
+          "title_zh": "光标/插件",
+          "title_en": "cursor /      plugins",
+          "title_original": "cursor /      plugins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T11:19:07.195000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "b8c8a58ef2446673c58e5fd521a0a43ad2f956ff",
+          "title": "Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+          "title_zh": "Cursor/plugins — Cursor插件规范和官方插件",
+          "title_en": "cursor/plugins — Cursor plugin specification and official plugins",
+          "title_original": "cursor/plugins — Cursor plugin specification and official plugins",
+          "summary": "Cursor plugin specification and official plugins",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "be86f99c8fabe7e0c38c29066ae37b2b4b37f1d8",
+          "title": "光标/插件 / cursor /      plugins",
+          "title_zh": "光标/插件",
+          "title_en": "cursor /      plugins",
+          "title_original": "cursor /      plugins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/cursor/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-17T11:19:07.195000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-17T11:18:38.421481Z",
+      "latest_at": "2026-11-17T11:19:07.195000Z",
+      "primary_item": {
+        "id": "b8c8a58ef2446673c58e5fd521a0a43ad2f956ff",
+        "title": "Cursor/plugins — Cursor插件规范和官方插件 / cursor/plugins — Cursor plugin specification and official plugins",
+        "title_zh": "Cursor/plugins — Cursor插件规范和官方插件",
+        "title_en": "cursor/plugins — Cursor plugin specification and official plugins",
+        "title_original": "cursor/plugins — Cursor plugin specification and official plugins",
+        "summary": "Cursor plugin specification and official plugins",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/cursor/plugins",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T11:19:31.256982Z"
       }
     }
   ]
