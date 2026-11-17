@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:18:23.274648Z",
+  "generated_at": "2026-11-17T08:18:24.101787Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -151,15 +151,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8977,
-      "importance": 0.8977,
-      "importance_score": 0.8977,
+      "score": 0.8913,
+      "importance": 0.8913,
+      "importance_score": 0.8913,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.8017,
         "story_heat": 0.75
       },
       "category": "official",
@@ -187,7 +187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8944,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "official",
@@ -274,7 +274,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8017,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +361,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
+      }
+    },
+    {
+      "story_id": "story_49384d4c148d",
+      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
+      "primary_item": {
+        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+        "title_zh": "利用人工智能加强北约和盟国的网络防御",
+        "title_en": "Strengthening NATO and allied cyber defenses with AI",
+        "title_original": "Strengthening NATO and allied cyber defenses with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -413,15 +500,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9283,
+        "recency": 0.889,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,94 +535,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
-      "story_id": "story_720d3cffff4a",
-      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ffa281130f35",
+      "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+      "url": "https://www.aibase.com/news/32354",
+      "primary_url": "https://www.aibase.com/news/32354",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_en": null,
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z",
+          "url": "https://www.aibase.com/news/32354",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
+          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_en": null,
+          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z",
+          "url": "https://www.aibase.com/news/32354",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T17:00:00Z",
-      "latest_at": "2026-11-16T17:00:00Z",
+      "earliest_at": "2026-11-17T08:18:24.101787Z",
+      "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-        "title_zh": "扩大科学家使用人工智能的机会",
-        "title_en": "Broadening access to AI for scientists",
-        "title_original": "Broadening access to AI for scientists",
+        "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
+        "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_en": null,
+        "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32354",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -587,15 +673,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8796,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -622,30 +708,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
-      "story_id": "story_7aa3486bd5ac",
-      "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-      "url": "https://www.aibase.com/news/32352",
-      "primary_url": "https://www.aibase.com/news/32352",
+      "story_id": "story_720d3cffff4a",
+      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8017,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+        "title_zh": "扩大科学家使用人工智能的机会",
+        "title_en": "Broadening access to AI for scientists",
+        "title_original": "Broadening access to AI for scientists",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T08:19:56.209697Z"
+      }
+    },
+    {
+      "story_id": "story_4725e2347902",
+      "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+      "url": "https://www.aibase.com/news/32357",
+      "primary_url": "https://www.aibase.com/news/32357",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
+          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "title_en": null,
-          "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32352",
+          "url": "https://www.aibase.com/news/32357",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -656,18 +829,18 @@
       ],
       "items": [
         {
-          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
+          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "title_en": null,
-          "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32352",
+          "url": "https://www.aibase.com/news/32357",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -690,17 +863,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T05:18:23.274648Z",
-      "latest_at": "2026-11-17T05:18:23.274648Z",
+      "earliest_at": "2026-11-17T08:18:24.101787Z",
+      "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-        "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-        "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+        "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
+        "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+        "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
         "title_en": null,
-        "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+        "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32352",
+        "url": "https://www.aibase.com/news/32357",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -708,94 +881,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
-      }
-    },
-    {
-      "story_id": "story_83c01ad63559",
-      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "primary_url": "https://openai.com/index/science-at-the-frontier",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7789,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T12:00:00Z",
-      "latest_at": "2026-11-16T12:00:00Z",
-      "primary_item": {
-        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-        "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-        "title_en": "Science at the Frontier: How scientists use ChatGPT",
-        "title_original": "Science at the Frontier: How scientists use ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/science-at-the-frontier",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -847,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8718,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "official",
@@ -882,116 +968,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
-      "story_id": "story_5b7e07ae524c",
-      "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-      "url": "https://www.aibase.com/news/32350",
-      "primary_url": "https://www.aibase.com/news/32350",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T05:18:23.274648Z",
-      "latest_at": "2026-11-17T05:18:23.274648Z",
-      "primary_item": {
-        "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-        "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "title_en": null,
-        "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32350",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
-      }
-    },
-    {
-      "story_id": "story_36b60329478e",
-      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "story_id": "story_83c01ad63559",
+      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "primary_url": "https://openai.com/index/science-at-the-frontier",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1002,32 +1002,32 @@
       ],
       "items": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
+        "ai_relevance": 0.95,
         "recency": 0.7458,
         "story_heat": 0.0
       },
@@ -1037,17 +1037,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T09:00:00Z",
-      "latest_at": "2026-11-16T09:00:00Z",
+      "earliest_at": "2026-11-16T12:00:00Z",
+      "latest_at": "2026-11-16T12:00:00Z",
       "primary_item": {
-        "id": "c857cb04056a67136a815d45c5da94457b53c014",
-        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+        "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+        "title_en": "Science at the Frontier: How scientists use ChatGPT",
+        "title_original": "Science at the Frontier: How scientists use ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
+        "url": "https://openai.com/index/science-at-the-frontier",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1055,30 +1055,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
-      "story_id": "story_c6beeb50fc2e",
-      "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-      "url": "https://www.aibase.com/news/32353",
-      "primary_url": "https://www.aibase.com/news/32353",
+      "story_id": "story_485d7332a64c",
+      "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+      "url": "https://www.aibase.com/news/32355",
+      "primary_url": "https://www.aibase.com/news/32355",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-          "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "title_en": null,
-          "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32353",
+          "url": "https://www.aibase.com/news/32355",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1089,18 +1089,18 @@
       ],
       "items": [
         {
-          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-          "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+          "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+          "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "title_en": null,
-          "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32353",
+          "url": "https://www.aibase.com/news/32355",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1123,17 +1123,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T05:18:23.274648Z",
-      "latest_at": "2026-11-17T05:18:23.274648Z",
+      "earliest_at": "2026-11-17T08:18:24.101787Z",
+      "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-        "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-        "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+        "id": "259a4016d26d9af14d2c8849095bc439edea0463",
+        "title": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
+        "title_zh": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
         "title_en": null,
-        "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+        "title_original": "李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32353",
+        "url": "https://www.aibase.com/news/32355",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1141,7 +1141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -1193,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8936,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1228,30 +1228,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
-      "story_id": "story_b43d5653bc16",
-      "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "story_id": "story_36b60329478e",
+      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
+          "published_at": "2026-11-16T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1262,32 +1262,32 @@
       ],
       "items": [
         {
-          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
+          "published_at": "2026-11-16T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
+        "ai_relevance": 0.94,
         "recency": 0.7142,
         "story_heat": 0.0
       },
@@ -1297,17 +1297,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T06:00:00Z",
-      "latest_at": "2026-11-16T06:00:00Z",
+      "earliest_at": "2026-11-16T09:00:00Z",
+      "latest_at": "2026-11-16T09:00:00Z",
       "primary_item": {
-        "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-        "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-        "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-        "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-        "title_original": "More ways to move care forward with ChatGPT for Healthcare",
+        "id": "c857cb04056a67136a815d45c5da94457b53c014",
+        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "url": "https://openai.com/index/lvmh-media-division-partnership",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1315,30 +1315,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
-      "story_id": "story_2445834e2616",
-      "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-      "url": "https://www.aibase.com/news/32351",
-      "primary_url": "https://www.aibase.com/news/32351",
+      "story_id": "story_ca154c8f1e7b",
+      "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+      "url": "https://www.aibase.com/news/32358",
+      "primary_url": "https://www.aibase.com/news/32358",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
-          "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-          "title_zh": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "title_en": null,
-          "title_original": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32351",
+          "url": "https://www.aibase.com/news/32358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1349,18 +1349,18 @@
       ],
       "items": [
         {
-          "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
-          "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-          "title_zh": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "title_en": null,
-          "title_original": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32351",
+          "url": "https://www.aibase.com/news/32358",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T05:18:23.274648Z",
+          "published_at": "2026-11-17T08:18:24.101787Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1383,17 +1383,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T05:18:23.274648Z",
-      "latest_at": "2026-11-17T05:18:23.274648Z",
+      "earliest_at": "2026-11-17T08:18:24.101787Z",
+      "latest_at": "2026-11-17T08:18:24.101787Z",
       "primary_item": {
-        "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
-        "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
-        "title_zh": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+        "id": "f33f188727b99f12e4529a2f06047b979f217587",
+        "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
         "title_en": null,
-        "title_original": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+        "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32351",
+        "url": "https://www.aibase.com/news/32358",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1401,7 +1401,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -1453,15 +1453,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8665,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1488,30 +1488,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
-      "story_id": "story_9398a1303400",
-      "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "primary_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "story_id": "story_52922842e062",
+      "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "primary_url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-          "title_zh": "为医疗团队推进计算机使用代理",
-          "title_en": "Advancing computer-use agents for healthcare teams",
-          "title_original": "Advancing computer-use agents for healthcare teams",
+          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
+          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
+          "title_en": "How Revolut raises ambition without lowering the bar",
+          "title_original": "How Revolut raises ambition without lowering the bar",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "url": "https://openai.com/business/customer-stories/revolut",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
+          "published_at": "2026-11-16T09:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1522,33 +1522,33 @@
       ],
       "items": [
         {
-          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-          "title_zh": "为医疗团队推进计算机使用代理",
-          "title_en": "Advancing computer-use agents for healthcare teams",
-          "title_original": "Advancing computer-use agents for healthcare teams",
+          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
+          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
+          "title_en": "How Revolut raises ambition without lowering the bar",
+          "title_original": "How Revolut raises ambition without lowering the bar",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "url": "https://openai.com/business/customer-stories/revolut",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
+          "published_at": "2026-11-16T09:30:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7142,
+        "recency": 0.7194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1557,17 +1557,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T06:00:00Z",
-      "latest_at": "2026-11-16T06:00:00Z",
+      "earliest_at": "2026-11-16T09:30:00Z",
+      "latest_at": "2026-11-16T09:30:00Z",
       "primary_item": {
-        "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-        "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-        "title_zh": "为医疗团队推进计算机使用代理",
-        "title_en": "Advancing computer-use agents for healthcare teams",
-        "title_original": "Advancing computer-use agents for healthcare teams",
+        "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
+        "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+        "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
+        "title_en": "How Revolut raises ambition without lowering the bar",
+        "title_original": "How Revolut raises ambition without lowering the bar",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "url": "https://openai.com/business/customer-stories/revolut",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1575,7 +1575,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
+      }
+    },
+    {
+      "story_id": "story_8b9318b94c24",
+      "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+      "url": "https://www.aibase.com/news/32356",
+      "primary_url": "https://www.aibase.com/news/32356",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
+          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_en": null,
+          "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32356",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:18:24.101787Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
+          "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "title_en": null,
+          "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32356",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:18:24.101787Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T08:18:24.101787Z",
+      "latest_at": "2026-11-17T08:18:24.101787Z",
+      "primary_item": {
+        "id": "85885fd3b8e3170ea1f3adbb2c2f0c8df3cee0d3",
+        "title": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "title_zh": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "title_en": null,
+        "title_original": "谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32356",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -1693,15 +1779,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6458,
-      "importance": 0.6458,
-      "importance_score": 0.6458,
+      "score": 0.6393,
+      "importance": 0.6393,
+      "importance_score": 0.6393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8446,
+        "recency": 0.8088,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1726,93 +1812,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
-      }
-    },
-    {
-      "story_id": "story_444c37cc32c0",
-      "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-      "url": "https://www.aibase.com/news/32345",
-      "primary_url": "https://www.aibase.com/news/32345",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
-          "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "title_zh": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "title_en": null,
-          "title_original": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T02:18:28.010470Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
-          "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "title_zh": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "title_en": null,
-          "title_original": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32345",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T02:18:28.010470Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T02:18:28.010470Z",
-      "latest_at": "2026-11-17T02:18:28.010470Z",
-      "primary_item": {
-        "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
-        "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-        "title_zh": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-        "title_en": null,
-        "title_original": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32345",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     },
     {
@@ -1864,15 +1864,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8233,
+        "recency": 0.7884,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1899,7 +1899,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T05:19:34.168756Z"
+        "scored_at": "2026-11-17T08:19:56.209697Z"
       }
     }
   ]
