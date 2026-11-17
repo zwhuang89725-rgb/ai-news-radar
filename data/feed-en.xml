@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 11:18:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 14:19:22 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
@@ -24,12 +24,28 @@
 <pubDate>Mon, 16 Nov 2026 21:34:53 +0000</pubDate>
 </item>
 <item>
-<title>New Ask Maps features to help with holiday travel and prep</title>
-<link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026</guid>
-<description>New Ask Maps features to help with holiday travel and prep (Google AI Blog)</description>
+<title>Introducing OpenAI for Chile</title>
+<link>https://openai.com/index/introducing-openai-for-chile</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
+<description>Introducing OpenAI for Chile (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot models deprecated on November 16, 2026</title>
+<link>https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</guid>
+<description>GitHub Copilot models deprecated on November 16, 2026 (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 20:25:20 +0000</pubDate>
+</item>
+<item>
+<title>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期</title>
+<link>https://www.aibase.com/news/32360</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32360</guid>
+<description>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 17 Nov 2026 11:18:38 +0000</pubDate>
 </item>
 <item>
 <title>Strengthening NATO and allied cyber defenses with AI</title>
@@ -48,30 +64,6 @@
 <pubDate>Tue, 17 Nov 2026 00:09:27 +0000</pubDate>
 </item>
 <item>
-<title>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期</title>
-<link>https://www.aibase.com/news/32360</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32360</guid>
-<description>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 17 Nov 2026 11:18:38 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot models deprecated on November 16, 2026</title>
-<link>https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</guid>
-<description>GitHub Copilot models deprecated on November 16, 2026 (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 20:25:20 +0000</pubDate>
-</item>
-<item>
-<title>Broadening access to AI for scientists</title>
-<link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-<guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
-<description>Broadening access to AI for scientists (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
 <title>AI投资回报担忧升温，英伟达市值排名跌至美国第三</title>
 <link>https://www.aibase.com/news/32354</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32354</guid>
@@ -88,12 +80,12 @@
 <pubDate>Mon, 16 Nov 2026 19:48:33 +0000</pubDate>
 </item>
 <item>
-<title>Science at the Frontier: How scientists use ChatGPT</title>
-<link>https://openai.com/index/science-at-the-frontier</link>
-<guid isPermaLink="true">https://openai.com/index/science-at-the-frontier</guid>
-<description>Science at the Frontier: How scientists use ChatGPT (OpenAI News)</description>
+<title>Broadening access to AI for scientists</title>
+<link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+<guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+<description>Broadening access to AI for scientists (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>亚马逊Audible推出AI音频发现功能与互动式“提问”工具</title>
@@ -166,6 +158,14 @@
 <description>Cursor plugin specification and official plugins (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Tue, 17 Nov 2026 11:19:07 +0000</pubDate>
+</item>
+<item>
+<title>Take GitHub Mobile with you on iPhone Duo</title>
+<link>https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</guid>
+<description>Take GitHub Mobile with you on iPhone Duo (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Mon, 16 Nov 2026 14:30:07 +0000</pubDate>
 </item>
 </channel>
 </rss>
