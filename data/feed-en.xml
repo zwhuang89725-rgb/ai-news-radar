@@ -5,8 +5,24 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 17:17:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 20:18:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Introducing GPT-6.2 Astra and Sol</title>
+<link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+<description>Introducing GPT-6.2 Astra and Sol (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
+<description>GitHub Copilot Fusion updates: more availability, benchmarks, and models (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
+</item>
 <item>
 <title>Put Gemini to work for you</title>
 <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</link>
@@ -14,6 +30,46 @@
 <description>Put Gemini to work for you (Google AI Blog)</description>
 <category>Official update</category>
 <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex (OpenAI Codex Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot Evals is now in public preview</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview</guid>
+<description>GitHub Copilot Evals is now in public preview (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot app, Microsoft Ignite releases</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</guid>
+<description>GitHub Copilot app, Microsoft Ignite releases (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
+</item>
+<item>
+<title>Astra for Law leads in legal intelligence</title>
+<link>https://openai.com/index/astra-law-6-2</link>
+<guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
+<description>Astra for Law leads in legal intelligence (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Copilot code review: Adaptive effort, secret detection, and more</title>
+<link>https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</guid>
+<description>Copilot code review: Adaptive effort, secret detection, and more (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
 </item>
 <item>
 <title>Introducing OpenAI for Chile</title>
@@ -24,12 +80,20 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot weekly releases — November 9</title>
-<link>https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9</guid>
-<description>GitHub Copilot weekly releases — November 9 (GitHub Changelog)</description>
+<title>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期</title>
+<link>https://www.aibase.com/news/32360</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32360</guid>
+<description>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Tue, 17 Nov 2026 11:18:38 +0000</pubDate>
+</item>
+<item>
+<title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
+<description>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 21:34:53 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
 <title>Strengthening NATO and allied cyber defenses with AI</title>
@@ -40,30 +104,6 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot models deprecated on November 16, 2026</title>
-<link>https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026</guid>
-<description>GitHub Copilot models deprecated on November 16, 2026 (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 20:25:20 +0000</pubDate>
-</item>
-<item>
-<title>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期</title>
-<link>https://www.aibase.com/news/32360</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32360</guid>
-<description>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 17 Nov 2026 11:18:38 +0000</pubDate>
-</item>
-<item>
-<title>Dependabot alert dismissal requests now last one year</title>
-<link>https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year</guid>
-<description>Dependabot alert dismissal requests now last one year (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 00:09:27 +0000</pubDate>
-</item>
-<item>
 <title>AI投资回报担忧升温，英伟达市值排名跌至美国第三</title>
 <link>https://www.aibase.com/news/32354</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32354</guid>
@@ -72,12 +112,12 @@
 <pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
-<title>Control where GitHub Copilot customizations come from</title>
-<link>https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from</guid>
-<description>Control where GitHub Copilot customizations come from (GitHub Changelog)</description>
+<title>GitHub Copilot CLI adds Microsoft Entra sign-in as a preview</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</guid>
+<description>GitHub Copilot CLI adds Microsoft Entra sign-in as a preview (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 19:48:33 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
 </item>
 <item>
 <title>亚马逊Audible推出AI音频发现功能与互动式“提问”工具</title>
@@ -88,12 +128,12 @@
 <pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
-<title>Budget limit increased to 40,000 budgets per account</title>
-<link>https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account</guid>
-<description>Budget limit increased to 40,000 budgets per account (GitHub Changelog)</description>
+<title>GitHub Copilot in JetBrains, Ignite releases</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</guid>
+<description>GitHub Copilot in JetBrains, Ignite releases (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 21:30:49 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
 </item>
 <item>
 <title>李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI</title>
@@ -104,12 +144,12 @@
 <pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
-<title>VS Code retires the Local harness in February 2027</title>
-<link>https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027</guid>
-<description>VS Code retires the Local harness in February 2027 (GitHub Changelog)</description>
+<title>Monitor GitHub Copilot activity through Microsoft Agent 365</title>
+<link>https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</guid>
+<description>Monitor GitHub Copilot activity through Microsoft Agent 365 (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 19:22:56 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
 </item>
 <item>
 <title>测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略</title>
@@ -120,52 +160,12 @@
 <pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
-<title>FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</title>
-<link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours</guid>
-<description>FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’ (TechCrunch AI)</description>
-<category>Multi-source buzz</category>
-<pubDate>Mon, 16 Nov 2026 22:00:00 +0000</pubDate>
-</item>
-<item>
-<title>谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划</title>
-<link>https://www.aibase.com/news/32356</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32356</guid>
-<description>谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
-</item>
-<item>
-<title>AI Visibility by TruLata — Find out if ChatGPT names your business when buyers ask</title>
-<link>https://www.producthunt.com/products/trulata</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/trulata</guid>
-<description>Find out if ChatGPT names your business when buyers ask (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 17 Nov 2026 17:18:01 +0000</pubDate>
-</item>
-<item>
-<title>cursor/plugins — Cursor plugin specification and official plugins</title>
-<link>https://github.com/cursor/plugins</link>
-<guid isPermaLink="true">https://github.com/cursor/plugins</guid>
-<description>Cursor plugin specification and official plugins (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 17 Nov 2026 11:19:07 +0000</pubDate>
-</item>
-<item>
-<title>百度、小米CEO警告称，人工智能的炒作与实际回报之间的差距正在扩大</title>
-<link>https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns</link>
-<guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns</guid>
-<description>百度、小米CEO警告称，人工智能的炒作与实际回报之间的差距正在扩大 (www.scmp.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Tue, 17 Nov 2026 15:52:43 +0000</pubDate>
-</item>
-<item>
-<title>Claude Code 团队如何看待验证工作</title>
-<link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification</link>
-<guid isPermaLink="true">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification</guid>
-<description>Claude Code 团队如何看待验证工作 (claude.dev)</description>
-<category>Multi-source buzz</category>
-<pubDate>Tue, 17 Nov 2026 15:04:48 +0000</pubDate>
+<title>Track Copilot code review outcomes in Repository insights</title>
+<link>https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</guid>
+<description>Track Copilot code review outcomes in Repository insights (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
