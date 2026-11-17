@@ -5,15 +5,23 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 17 Nov 2026 14:19:22 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 17:17:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>Strengthening the fight against online child sexual abuse with new tools and support</title>
-<link>https://openai.com/index/strengthening-online-child-safety</link>
-<guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
-<description>Strengthening the fight against online child sexual abuse with new tools and support (OpenAI News)</description>
+<title>Put Gemini to work for you</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</guid>
+<description>Put Gemini to work for you (Google AI Blog)</description>
 <category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 00:46:38 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Introducing OpenAI for Chile</title>
+<link>https://openai.com/index/introducing-openai-for-chile</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
+<description>Introducing OpenAI for Chile (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot weekly releases — November 9</title>
@@ -24,10 +32,10 @@
 <pubDate>Mon, 16 Nov 2026 21:34:53 +0000</pubDate>
 </item>
 <item>
-<title>Introducing OpenAI for Chile</title>
-<link>https://openai.com/index/introducing-openai-for-chile</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
-<description>Introducing OpenAI for Chile (OpenAI News)</description>
+<title>Strengthening NATO and allied cyber defenses with AI</title>
+<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+<description>Strengthening NATO and allied cyber defenses with AI (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
@@ -46,14 +54,6 @@
 <description>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 17 Nov 2026 11:18:38 +0000</pubDate>
-</item>
-<item>
-<title>Strengthening NATO and allied cyber defenses with AI</title>
-<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
-<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
-<description>Strengthening NATO and allied cyber defenses with AI (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Dependabot alert dismissal requests now last one year</title>
@@ -78,14 +78,6 @@
 <description>Control where GitHub Copilot customizations come from (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 16 Nov 2026 19:48:33 +0000</pubDate>
-</item>
-<item>
-<title>Broadening access to AI for scientists</title>
-<link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-<guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
-<description>Broadening access to AI for scientists (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>亚马逊Audible推出AI音频发现功能与互动式“提问”工具</title>
@@ -136,20 +128,20 @@
 <pubDate>Mon, 16 Nov 2026 22:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Bulk start AI Scan for repositories</title>
-<link>https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories</guid>
-<description>Bulk start AI Scan for repositories (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 15:50:22 +0000</pubDate>
-</item>
-<item>
 <title>谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划</title>
 <link>https://www.aibase.com/news/32356</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32356</guid>
 <description>谷歌地图Ask Maps迎重大更新:支持AI代打电话预约及智能行程规划 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
+</item>
+<item>
+<title>AI Visibility by TruLata — Find out if ChatGPT names your business when buyers ask</title>
+<link>https://www.producthunt.com/products/trulata</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/trulata</guid>
+<description>Find out if ChatGPT names your business when buyers ask (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 17 Nov 2026 17:18:01 +0000</pubDate>
 </item>
 <item>
 <title>cursor/plugins — Cursor plugin specification and official plugins</title>
@@ -160,12 +152,20 @@
 <pubDate>Tue, 17 Nov 2026 11:19:07 +0000</pubDate>
 </item>
 <item>
-<title>Take GitHub Mobile with you on iPhone Duo</title>
-<link>https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo</guid>
-<description>Take GitHub Mobile with you on iPhone Duo (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Mon, 16 Nov 2026 14:30:07 +0000</pubDate>
+<title>百度、小米CEO警告称，人工智能的炒作与实际回报之间的差距正在扩大</title>
+<link>https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns</link>
+<guid isPermaLink="true">https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns</guid>
+<description>百度、小米CEO警告称，人工智能的炒作与实际回报之间的差距正在扩大 (www.scmp.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Tue, 17 Nov 2026 15:52:43 +0000</pubDate>
+</item>
+<item>
+<title>Claude Code 团队如何看待验证工作</title>
+<link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification</link>
+<guid isPermaLink="true">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification</guid>
+<description>Claude Code 团队如何看待验证工作 (claude.dev)</description>
+<category>Multi-source buzz</category>
+<pubDate>Tue, 17 Nov 2026 15:04:48 +0000</pubDate>
 </item>
 </channel>
 </rss>
