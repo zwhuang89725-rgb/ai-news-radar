@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:18:25.980098Z",
+  "generated_at": "2026-11-17T23:18:37.917104Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.9035,
-      "importance": 0.9035,
-      "importance_score": 0.9035,
+      "score": 0.8961,
+      "importance": 0.8961,
+      "importance_score": 0.8961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9637,
+        "recency": 0.9228,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,30 +154,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
-      "story_id": "story_75a77c2dd358",
-      "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "story_id": "story_cfb0a416a80c",
+      "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "primary_url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-          "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_zh": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市",
+          "title_en": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_original": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:04:48Z",
+          "published_at": "2026-11-17T20:20:29Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -188,33 +188,33 @@
       ],
       "items": [
         {
-          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-          "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_zh": null,
-          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_zh": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市",
+          "title_en": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_original": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:04:48Z",
+          "published_at": "2026-11-17T20:20:29Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8524,
+      "importance": 0.8524,
+      "importance_score": 0.8524,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9683,
+        "ai_relevance": 0.95,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -223,17 +223,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:04:48Z",
-      "latest_at": "2026-11-17T18:04:48Z",
+      "earliest_at": "2026-11-17T20:20:29Z",
+      "latest_at": "2026-11-17T20:20:29Z",
       "primary_item": {
-        "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-        "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-        "title_zh": null,
-        "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-        "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+        "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+        "title_zh": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市",
+        "title_en": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+        "title_original": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+        "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9534,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,12 +328,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
       "story_id": "story_fe87d15342d1",
-      "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
+      "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
@@ -341,8 +341,8 @@
       "sources": [
         {
           "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-          "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "title_zh": null,
+          "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
+          "title_zh": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol",
           "title_en": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
           "title_original": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
           "summary": null,
@@ -363,8 +363,8 @@
       "items": [
         {
           "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-          "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "title_zh": null,
+          "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
+          "title_zh": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol",
           "title_en": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
           "title_original": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
           "summary": null,
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,8 +401,8 @@
       "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
         "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-        "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-        "title_zh": null,
+        "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
+        "title_zh": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol",
         "title_en": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
         "title_original": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
         "summary": null,
@@ -415,12 +415,186 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
+      }
+    },
+    {
+      "story_id": "story_75a77c2dd358",
+      "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
+          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
+          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:04:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
+          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
+          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:04:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9273,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:04:48Z",
+      "latest_at": "2026-11-17T18:04:48Z",
+      "primary_item": {
+        "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
+        "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
+        "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T23:19:29.228543Z"
+      }
+    },
+    {
+      "story_id": "story_e6d6b9315c6a",
+      "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+          "title_zh": "介绍用于销售的 ChatGPT",
+          "title_en": "Introducing ChatGPT for Sales",
+          "title_original": "Introducing ChatGPT for Sales",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+          "title_zh": "介绍用于销售的 ChatGPT",
+          "title_en": "Introducing ChatGPT for Sales",
+          "title_original": "Introducing ChatGPT for Sales",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8016,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T08:00:00Z",
+      "latest_at": "2026-11-17T08:00:00Z",
+      "primary_item": {
+        "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+        "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+        "title_zh": "介绍用于销售的 ChatGPT",
+        "title_en": "Introducing ChatGPT for Sales",
+        "title_original": "Introducing ChatGPT for Sales",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
       "story_id": "story_2c5bfba61515",
-      "title": "GitHub Copilot Evals is now in public preview",
+      "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
       "url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
       "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview",
       "source": "GitHub Changelog",
@@ -428,8 +602,8 @@
       "sources": [
         {
           "id": "9f412733ebf487a4121637d33d78eb49846db776",
-          "title": "GitHub Copilot Evals is now in public preview",
-          "title_zh": null,
+          "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
+          "title_zh": "GitHub Copilot Evals 现已推出公共预览版",
           "title_en": "GitHub Copilot Evals is now in public preview",
           "title_original": "GitHub Copilot Evals is now in public preview",
           "summary": null,
@@ -450,8 +624,8 @@
       "items": [
         {
           "id": "9f412733ebf487a4121637d33d78eb49846db776",
-          "title": "GitHub Copilot Evals is now in public preview",
-          "title_zh": null,
+          "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
+          "title_zh": "GitHub Copilot Evals 现已推出公共预览版",
           "title_en": "GitHub Copilot Evals is now in public preview",
           "title_original": "GitHub Copilot Evals is now in public preview",
           "summary": null,
@@ -467,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9674,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,8 +662,8 @@
       "latest_at": "2026-11-17T18:00:33Z",
       "primary_item": {
         "id": "9f412733ebf487a4121637d33d78eb49846db776",
-        "title": "GitHub Copilot Evals is now in public preview",
-        "title_zh": null,
+        "title": "GitHub Copilot Evals 现已推出公共预览版 / GitHub Copilot Evals is now in public preview",
+        "title_zh": "GitHub Copilot Evals 现已推出公共预览版",
         "title_en": "GitHub Copilot Evals is now in public preview",
         "title_original": "GitHub Copilot Evals is now in public preview",
         "summary": null,
@@ -502,12 +676,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
       "story_id": "story_19ad988d9abd",
-      "title": "GitHub Copilot app, Microsoft Ignite releases",
+      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
       "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
       "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
       "source": "GitHub Changelog",
@@ -515,8 +689,8 @@
       "sources": [
         {
           "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot app, Microsoft Ignite releases",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
           "title_en": "GitHub Copilot app, Microsoft Ignite releases",
           "title_original": "GitHub Copilot app, Microsoft Ignite releases",
           "summary": null,
@@ -537,8 +711,8 @@
       "items": [
         {
           "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot app, Microsoft Ignite releases",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
           "title_en": "GitHub Copilot app, Microsoft Ignite releases",
           "title_original": "GitHub Copilot app, Microsoft Ignite releases",
           "summary": null,
@@ -554,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9681,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "official",
@@ -575,8 +749,8 @@
       "latest_at": "2026-11-17T18:03:42Z",
       "primary_item": {
         "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-        "title": "GitHub Copilot app, Microsoft Ignite releases",
-        "title_zh": null,
+        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+        "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
         "title_en": "GitHub Copilot app, Microsoft Ignite releases",
         "title_original": "GitHub Copilot app, Microsoft Ignite releases",
         "summary": null,
@@ -589,12 +763,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
       "story_id": "story_8cd56831ef3a",
-      "title": "Astra for Law leads in legal intelligence",
+      "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
       "primary_url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI News",
@@ -602,8 +776,8 @@
       "sources": [
         {
           "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law leads in legal intelligence",
-          "title_zh": null,
+          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
+          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
           "title_en": "Astra for Law leads in legal intelligence",
           "title_original": "Astra for Law leads in legal intelligence",
           "summary": null,
@@ -624,8 +798,8 @@
       "items": [
         {
           "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law leads in legal intelligence",
-          "title_zh": null,
+          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
+          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
           "title_en": "Astra for Law leads in legal intelligence",
           "title_original": "Astra for Law leads in legal intelligence",
           "summary": null,
@@ -641,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,8 +836,8 @@
       "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
         "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-        "title": "Astra for Law leads in legal intelligence",
-        "title_zh": null,
+        "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
+        "title_zh": "Astra for Law 在法律情报方面处于领先地位",
         "title_en": "Astra for Law leads in legal intelligence",
         "title_original": "Astra for Law leads in legal intelligence",
         "summary": null,
@@ -676,181 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
-      }
-    },
-    {
-      "story_id": "story_308e6b02f235",
-      "title": "Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": null,
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": null,
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9677,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "Copilot code review: Adaptive effort, secret detection, and more",
-        "title_zh": null,
-        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
-      }
-    },
-    {
-      "story_id": "story_e05c122d19a4",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "Introducing OpenAI for Chile",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI for Chile",
-          "title_original": "Introducing OpenAI for Chile",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "Introducing OpenAI for Chile",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI for Chile",
-          "title_original": "Introducing OpenAI for Chile",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7458,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-        "title": "Introducing OpenAI for Chile",
-        "title_zh": null,
-        "title_en": "Introducing OpenAI for Chile",
-        "title_original": "Introducing OpenAI for Chile",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-openai-for-chile",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
@@ -902,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,30 +935,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
-      "story_id": "story_9c01c6018d4d",
-      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "story_id": "story_308e6b02f235",
+      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z",
+          "published_at": "2026-11-17T18:02:05Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -969,33 +969,33 @@
       ],
       "items": [
         {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z",
+          "published_at": "2026-11-17T18:02:05Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9676,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,17 +1004,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:01:45Z",
-      "latest_at": "2026-11-17T18:01:45Z",
+      "earliest_at": "2026-11-17T18:02:05Z",
+      "latest_at": "2026-11-17T18:02:05Z",
       "primary_item": {
-        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-        "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1022,26 +1022,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
-      "story_id": "story_49384d4c148d",
-      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "story_id": "story_e05c122d19a4",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1056,14 +1056,14 @@
       ],
       "items": [
         {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1074,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1094,14 +1094,14 @@
       "earliest_at": "2026-11-17T00:00:00Z",
       "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
-        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-        "title_zh": "利用人工智能加强北约和盟国的网络防御",
-        "title_en": "Strengthening NATO and allied cyber defenses with AI",
-        "title_original": "Strengthening NATO and allied cyber defenses with AI",
+        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+        "title": "Introducing OpenAI for Chile",
+        "title_zh": null,
+        "title_en": "Introducing OpenAI for Chile",
+        "title_original": "Introducing OpenAI for Chile",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1109,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
@@ -1161,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,30 +1194,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
-      "story_id": "story_656e809f1ddf",
-      "title": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "story_id": "story_2d4e74257161",
+      "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": null,
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
+          "published_at": "2026-11-17T18:00:59Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1228,33 +1228,33 @@
       ],
       "items": [
         {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": null,
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
+          "published_at": "2026-11-17T18:00:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9674,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1263,17 +1263,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
+      "earliest_at": "2026-11-17T18:00:59Z",
+      "latest_at": "2026-11-17T18:00:59Z",
       "primary_item": {
-        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-        "title": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_zh": null,
-        "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+        "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+        "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+        "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+        "title_original": "GitHub Copilot in JetBrains, Ignite releases",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1281,7 +1281,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
+      }
+    },
+    {
+      "story_id": "story_49384d4c148d",
+      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7142,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
+      "primary_item": {
+        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+        "title_zh": "利用人工智能加强北约和盟国的网络防御",
+        "title_en": "Strengthening NATO and allied cyber defenses with AI",
+        "title_original": "Strengthening NATO and allied cyber defenses with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
@@ -1333,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1366,30 +1453,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
-      "story_id": "story_2d4e74257161",
-      "title": "GitHub Copilot in JetBrains, Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+      "story_id": "story_9c01c6018d4d",
+      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-          "title": "GitHub Copilot in JetBrains, Ignite releases",
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
           "title_zh": null,
-          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
+          "published_at": "2026-11-17T18:01:45Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1400,33 +1487,33 @@
       ],
       "items": [
         {
-          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-          "title": "GitHub Copilot in JetBrains, Ignite releases",
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
           "title_zh": null,
-          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
+          "published_at": "2026-11-17T18:01:45Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9675,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1435,17 +1522,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:00:59Z",
-      "latest_at": "2026-11-17T18:00:59Z",
+      "earliest_at": "2026-11-17T18:01:45Z",
+      "latest_at": "2026-11-17T18:01:45Z",
       "primary_item": {
-        "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-        "title": "GitHub Copilot in JetBrains, Ignite releases",
+        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+        "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
         "title_zh": null,
-        "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-        "title_original": "GitHub Copilot in JetBrains, Ignite releases",
+        "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1453,7 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
@@ -1505,15 +1592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,12 +1625,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
       "story_id": "story_3b115a9684d2",
-      "title": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+      "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
       "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
       "primary_url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
       "source": "GitHub Changelog",
@@ -1551,8 +1638,8 @@
       "sources": [
         {
           "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": null,
+          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
           "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
           "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
           "summary": null,
@@ -1573,8 +1660,8 @@
       "items": [
         {
           "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": null,
+          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
           "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
           "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
           "summary": null,
@@ -1590,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9675,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1611,8 +1698,8 @@
       "latest_at": "2026-11-17T18:00:59Z",
       "primary_item": {
         "id": "ca54700843ef108233ec9969a0891238ab62892a",
-        "title": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "title_zh": null,
+        "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
+        "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
         "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
         "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
         "summary": null,
@@ -1625,7 +1712,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     },
     {
@@ -1677,15 +1764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1710,94 +1797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
-      }
-    },
-    {
-      "story_id": "story_238adc092859",
-      "title": "Track Copilot code review outcomes in Repository insights",
-      "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-      "primary_url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "Track Copilot code review outcomes in Repository insights",
-          "title_zh": null,
-          "title_en": "Track Copilot code review outcomes in Repository insights",
-          "title_original": "Track Copilot code review outcomes in Repository insights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "Track Copilot code review outcomes in Repository insights",
-          "title_zh": null,
-          "title_en": "Track Copilot code review outcomes in Repository insights",
-          "title_original": "Track Copilot code review outcomes in Repository insights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9674,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
-      "primary_item": {
-        "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-        "title": "Track Copilot code review outcomes in Repository insights",
-        "title_zh": null,
-        "title_en": "Track Copilot code review outcomes in Repository insights",
-        "title_original": "Track Copilot code review outcomes in Repository insights",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:36:06.511656Z"
+        "scored_at": "2026-11-17T23:19:29.228543Z"
       }
     }
   ]
