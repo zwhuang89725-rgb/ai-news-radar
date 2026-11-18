@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:18:24.258220Z",
+  "generated_at": "2026-11-18T14:18:26.896311Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8697,
-      "importance": 0.8697,
-      "importance_score": 0.8697,
+      "score": 0.8638,
+      "importance": 0.8638,
+      "importance_score": 0.8638,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7761,
+        "recency": 0.7431,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8494,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8056,
+        "recency": 0.7715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7677,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8494,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -554,15 +554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7798,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,7 +589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -641,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,7 +675,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -727,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.779,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "official",
@@ -762,7 +762,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -814,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,180 +848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
-      }
-    },
-    {
-      "story_id": "story_308e6b02f235",
-      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7793,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
-      }
-    },
-    {
-      "story_id": "story_8f2f4c1dc3f6",
-      "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-      "url": "https://www.aibase.com/news/32389",
-      "primary_url": "https://www.aibase.com/news/32389",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "242262c170b9981d4bc9e91a47ae534e4a3ea9f0",
-          "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-          "title_zh": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-          "title_en": null,
-          "title_original": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32389",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T11:18:24.258220Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "242262c170b9981d4bc9e91a47ae534e4a3ea9f0",
-          "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-          "title_zh": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-          "title_en": null,
-          "title_original": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32389",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T11:18:24.258220Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T11:18:24.258220Z",
-      "latest_at": "2026-11-18T11:18:24.258220Z",
-      "primary_item": {
-        "id": "242262c170b9981d4bc9e91a47ae534e4a3ea9f0",
-        "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-        "title_zh": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-        "title_en": null,
-        "title_original": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32389",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -1073,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7796,
+        "recency": 0.7465,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1108,7 +935,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
+      }
+    },
+    {
+      "story_id": "story_8f2f4c1dc3f6",
+      "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+      "url": "https://www.aibase.com/news/32389",
+      "primary_url": "https://www.aibase.com/news/32389",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "242262c170b9981d4bc9e91a47ae534e4a3ea9f0",
+          "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+          "title_zh": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+          "title_en": null,
+          "title_original": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T11:18:24.258220Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "242262c170b9981d4bc9e91a47ae534e4a3ea9f0",
+          "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+          "title_zh": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+          "title_en": null,
+          "title_original": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32389",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T11:18:24.258220Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T11:18:24.258220Z",
+      "latest_at": "2026-11-18T11:18:24.258220Z",
+      "primary_item": {
+        "id": "242262c170b9981d4bc9e91a47ae534e4a3ea9f0",
+        "title": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+        "title_zh": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+        "title_en": null,
+        "title_original": "日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32389",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T14:19:22.383108Z"
+      }
+    },
+    {
+      "story_id": "story_308e6b02f235",
+      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7462,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:02:05Z",
+      "latest_at": "2026-11-17T18:02:05Z",
+      "primary_item": {
+        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -1160,15 +1160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,180 +1194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
-      }
-    },
-    {
-      "story_id": "story_9c01c6018d4d",
-      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7792,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:01:45Z",
-      "latest_at": "2026-11-17T18:01:45Z",
-      "primary_item": {
-        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-        "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
-      }
-    },
-    {
-      "story_id": "story_953229cbf22b",
-      "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-      "url": "https://www.aibase.com/news/32386",
-      "primary_url": "https://www.aibase.com/news/32386",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
-          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_en": null,
-          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32386",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T11:18:24.258220Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
-          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "title_en": null,
-          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32386",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T11:18:24.258220Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T11:18:24.258220Z",
-      "latest_at": "2026-11-18T11:18:24.258220Z",
-      "primary_item": {
-        "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
-        "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-        "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-        "title_en": null,
-        "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32386",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -1419,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.779,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1454,30 +1281,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
-      "story_id": "story_c1c5a37b0566",
-      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-      "url": "https://www.aibase.com/news/32379",
-      "primary_url": "https://www.aibase.com/news/32379",
+      "story_id": "story_953229cbf22b",
+      "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+      "url": "https://www.aibase.com/news/32386",
+      "primary_url": "https://www.aibase.com/news/32386",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
-          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
+          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
           "title_en": null,
-          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32379",
+          "url": "https://www.aibase.com/news/32386",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T08:17:24.329650Z",
+          "published_at": "2026-11-18T11:18:24.258220Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1488,33 +1315,33 @@
       ],
       "items": [
         {
-          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
-          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
+          "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+          "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
           "title_en": null,
-          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32379",
+          "url": "https://www.aibase.com/news/32386",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T08:17:24.329650Z",
+          "published_at": "2026-11-18T11:18:24.258220Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1522,17 +1349,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T08:17:24.329650Z",
-      "latest_at": "2026-11-18T08:17:24.329650Z",
+      "earliest_at": "2026-11-18T11:18:24.258220Z",
+      "latest_at": "2026-11-18T11:18:24.258220Z",
       "primary_item": {
-        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
-        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
-        "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "id": "3fc005fbbd0685b4cc3120c71b24d8243cd8075e",
+        "title": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
+        "title_zh": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
         "title_en": null,
-        "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_original": "马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32379",
+        "url": "https://www.aibase.com/news/32386",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1540,7 +1367,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -1592,15 +1419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.779,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1627,7 +1454,330 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
+      }
+    },
+    {
+      "story_id": "story_e8a817d5c1da",
+      "title": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol / GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+      "url": "https://www.producthunt.com/products/openai",
+      "primary_url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "97bff26772ae4f37b544ebee5d1556e2814d5872",
+          "title": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol / GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+          "title_zh": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol",
+          "title_en": "GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+          "title_original": "GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+          "summary": "Two new OpenAI models: frontier Astra and efficient Sol",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-17T18:06:04Z",
+          "updated_at": "2026-11-18T14:18:23Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "92a2d4a9cb0b5fcbb8c219d2c407b8ba067f5092",
+          "title": "GPT-6.2 Astra",
+          "title_zh": null,
+          "title_en": "GPT-6.2 Astra",
+          "title_original": "GPT-6.2 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-18T14:18:58.611000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ac9ae093384c3c0cc7b1938df05b4ded00f7c1cb",
+          "title": "GPT-6.2 阿斯特拉和索尔 / GPT-6.2 Astra and Sol",
+          "title_zh": "GPT-6.2 阿斯特拉和索尔",
+          "title_en": "GPT-6.2 Astra and Sol",
+          "title_original": "GPT-6.2 Astra and Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-18T14:18:58.611000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "97bff26772ae4f37b544ebee5d1556e2814d5872",
+          "title": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol / GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+          "title_zh": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol",
+          "title_en": "GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+          "title_original": "GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+          "summary": "Two new OpenAI models: frontier Astra and efficient Sol",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-17T18:06:04Z",
+          "updated_at": "2026-11-18T14:18:23Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "92a2d4a9cb0b5fcbb8c219d2c407b8ba067f5092",
+          "title": "GPT-6.2 Astra",
+          "title_zh": null,
+          "title_en": "GPT-6.2 Astra",
+          "title_original": "GPT-6.2 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-18T14:18:58.611000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ac9ae093384c3c0cc7b1938df05b4ded00f7c1cb",
+          "title": "GPT-6.2 阿斯特拉和索尔 / GPT-6.2 Astra and Sol",
+          "title_zh": "GPT-6.2 阿斯特拉和索尔",
+          "title_en": "GPT-6.2 Astra and Sol",
+          "title_original": "GPT-6.2 Astra and Sol",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-18T14:18:58.611000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-18T14:18:23Z",
+      "latest_at": "2026-11-18T14:18:58.611000Z",
+      "primary_item": {
+        "id": "97bff26772ae4f37b544ebee5d1556e2814d5872",
+        "title": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol / GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+        "title_zh": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol",
+        "title_en": "GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+        "title_original": "GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
+        "summary": "Two new OpenAI models: frontier Astra and efficient Sol",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T14:19:22.383108Z"
+      }
+    },
+    {
+      "story_id": "story_c1c5a37b0566",
+      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+      "url": "https://www.aibase.com/news/32379",
+      "primary_url": "https://www.aibase.com/news/32379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_en": null,
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_en": null,
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9168,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
+      "primary_item": {
+        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_en": null,
+        "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32379",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T14:19:22.383108Z"
+      }
+    },
+    {
+      "story_id": "story_9c01c6018d4d",
+      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:01:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:01:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7461,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:01:45Z",
+      "latest_at": "2026-11-17T18:01:45Z",
+      "primary_item": {
+        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
+        "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     },
     {
@@ -1712,15 +1862,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5866,
+      "importance": 0.5866,
+      "importance_score": 0.5866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1745,93 +1895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
-      }
-    },
-    {
-      "story_id": "story_7ab530951193",
-      "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-      "url": "https://www.aibase.com/news/32378",
-      "primary_url": "https://www.aibase.com/news/32378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
-          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "title_en": null,
-          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T08:17:24.329650Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
-          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "title_en": null,
-          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T08:17:24.329650Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9574,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T08:17:24.329650Z",
-      "latest_at": "2026-11-18T08:17:24.329650Z",
-      "primary_item": {
-        "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
-        "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-        "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-        "title_en": null,
-        "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T11:19:29.932373Z"
+        "scored_at": "2026-11-18T14:19:22.383108Z"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:19:13.278512Z",
+  "generated_at": "2026-11-18T14:19:11.429335Z",
   "date": "2026-11-18",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T11:18:24.258220Z"
+      "observed_at": "2026-11-18T14:18:26.896311Z"
     },
     {
-      "id": "project_21977d13d609",
-      "project_name": "Microsoft IQ",
-      "url": "https://www.producthunt.com/products/microsoft-365",
-      "summary": "Give AI agents a shared understanding of your business",
+      "id": "project_cd812058f724",
+      "project_name": "S.Space",
+      "url": "https://www.producthunt.com/products/s-space",
+      "summary": "Your team and everyone's AI agents, in one workspace",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Give AI agents a shared understanding of your business」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Give AI agents a shared understanding of your business\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-17T19:34:13Z",
-      "updated_at": "2026-11-18T11:18:26Z",
+      "recommend_reason_zh": "体验它主打的「Your team and everyone's AI agents, in one workspace」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your team and everyone's AI agents, in one workspace\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-15T13:26:16Z",
+      "updated_at": "2026-11-18T14:18:35Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T11:18:59.927202Z"
+      "observed_at": "2026-11-18T14:19:00.580248Z"
     },
     {
       "id": "project_1fb256ce62b7",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-18T11:18:24.258220Z"
+      "observed_at": "2026-11-18T14:18:26.896311Z"
     },
     {
-      "id": "project_e4231050985e",
-      "project_name": "Bluedot Phone Calls",
-      "url": "https://www.producthunt.com/products/bluedot-2",
-      "summary": "AI note taker for phone calls",
+      "id": "project_7c889db8decf",
+      "project_name": "Pitch Avatar HR Suite",
+      "url": "https://www.producthunt.com/products/pitchavatar",
+      "summary": "Onboarding, training & comms with conversational AI avatars",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI note taker for phone calls」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI note taker for phone calls\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-14T14:21:32Z",
-      "updated_at": "2026-11-18T11:18:27Z",
+      "recommend_reason_zh": "体验它主打的「Onboarding, training & comms with conversational AI avatars」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Onboarding, training & comms with conversational AI avatars\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-22T10:27:29Z",
+      "updated_at": "2026-11-18T14:18:35Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-18T11:18:59.927202Z"
+      "observed_at": "2026-11-18T14:19:00.580248Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1998,
+      "duration_ms": 1876,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 49,
-      "duration_ms": 95,
+      "duration_ms": 77,
       "error": null
     }
   ]
