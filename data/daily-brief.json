@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:18:37.085294Z",
+  "generated_at": "2026-11-18T08:17:24.329650Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8823,
-      "importance": 0.8823,
-      "importance_score": 0.8823,
+      "score": 0.8759,
+      "importance": 0.8759,
+      "importance_score": 0.8759,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8463,
+        "recency": 0.8106,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9262,
+        "recency": 0.8872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8785,
+        "recency": 0.8415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8371,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8503,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,94 +502,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
-      "story_id": "story_e6d6b9315c6a",
-      "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c1c5a37b0566",
+      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+      "url": "https://www.aibase.com/news/32379",
+      "primary_url": "https://www.aibase.com/news/32379",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "title_zh": "介绍用于销售的 ChatGPT",
-          "title_en": "Introducing ChatGPT for Sales",
-          "title_original": "Introducing ChatGPT for Sales",
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_en": null,
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "title_zh": "介绍用于销售的 ChatGPT",
-          "title_en": "Introducing ChatGPT for Sales",
-          "title_original": "Introducing ChatGPT for Sales",
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_en": null,
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7351,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T08:00:00Z",
-      "latest_at": "2026-11-17T08:00:00Z",
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
       "primary_item": {
-        "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-        "title": "介绍用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-        "title_zh": "介绍用于销售的 ChatGPT",
-        "title_en": "Introducing ChatGPT for Sales",
-        "title_original": "Introducing ChatGPT for Sales",
+        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_en": null,
+        "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32379",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -641,15 +640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8494,
+        "recency": 0.8137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -676,30 +675,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
-      "story_id": "story_2750a132879a",
-      "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-      "url": "https://www.aibase.com/news/32372",
-      "primary_url": "https://www.aibase.com/news/32372",
+      "story_id": "story_7ab530951193",
+      "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+      "url": "https://www.aibase.com/news/32378",
+      "primary_url": "https://www.aibase.com/news/32378",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "title_en": null,
-          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32372",
+          "url": "https://www.aibase.com/news/32378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -710,18 +709,18 @@
       ],
       "items": [
         {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "title_en": null,
-          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32372",
+          "url": "https://www.aibase.com/news/32378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -744,17 +743,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T05:18:37.085294Z",
-      "latest_at": "2026-11-18T05:18:37.085294Z",
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
       "primary_item": {
-        "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-        "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-        "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+        "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+        "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
         "title_en": null,
-        "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32372",
+        "url": "https://www.aibase.com/news/32378",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -762,266 +761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
-      }
-    },
-    {
-      "story_id": "story_b82784b6441c",
-      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-      "url": "https://www.aibase.com/news/32373",
-      "primary_url": "https://www.aibase.com/news/32373",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_en": null,
-          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_en": null,
-          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T05:18:37.085294Z",
-      "latest_at": "2026-11-18T05:18:37.085294Z",
-      "primary_item": {
-        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "title_en": null,
-        "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32373",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
-      }
-    },
-    {
-      "story_id": "story_308e6b02f235",
-      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
-      }
-    },
-    {
-      "story_id": "story_7929613f9e33",
-      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-      "url": "https://www.aibase.com/news/32374",
-      "primary_url": "https://www.aibase.com/news/32374",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_en": null,
-          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32374",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_en": null,
-          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32374",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T05:18:37.085294Z",
-      "latest_at": "2026-11-18T05:18:37.085294Z",
-      "primary_item": {
-        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-        "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-        "title_en": null,
-        "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32374",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -1073,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8501,
+        "recency": 0.8143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1108,30 +848,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
-      "story_id": "story_3053d7bb272a",
-      "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-      "url": "https://www.aibase.com/news/32375",
-      "primary_url": "https://www.aibase.com/news/32375",
+      "story_id": "story_78690ba1dbc5",
+      "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+      "url": "https://www.aibase.com/news/32383",
+      "primary_url": "https://www.aibase.com/news/32383",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-          "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "id": "0006d73ca78db618a38a3b6034396ed3950195d8",
+          "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+          "title_zh": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "title_en": null,
-          "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "title_original": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32375",
+          "url": "https://www.aibase.com/news/32383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1142,18 +882,18 @@
       ],
       "items": [
         {
-          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-          "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "id": "0006d73ca78db618a38a3b6034396ed3950195d8",
+          "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+          "title_zh": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "title_en": null,
-          "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "title_original": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32375",
+          "url": "https://www.aibase.com/news/32383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1176,17 +916,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T05:18:37.085294Z",
-      "latest_at": "2026-11-18T05:18:37.085294Z",
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
       "primary_item": {
-        "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-        "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-        "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+        "id": "0006d73ca78db618a38a3b6034396ed3950195d8",
+        "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+        "title_zh": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
         "title_en": null,
-        "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+        "title_original": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32375",
+        "url": "https://www.aibase.com/news/32383",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1194,7 +934,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
+      }
+    },
+    {
+      "story_id": "story_308e6b02f235",
+      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.814,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:02:05Z",
+      "latest_at": "2026-11-17T18:02:05Z",
+      "primary_item": {
+        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T08:18:50.953469Z"
+      }
+    },
+    {
+      "story_id": "story_625fe3cea53b",
+      "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+      "url": "https://www.aibase.com/news/32381",
+      "primary_url": "https://www.aibase.com/news/32381",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "057874d8f0528760d56fd5c21330a6f62264a8bb",
+          "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_zh": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_en": null,
+          "title_original": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "057874d8f0528760d56fd5c21330a6f62264a8bb",
+          "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_zh": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_en": null,
+          "title_original": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
+      "primary_item": {
+        "id": "057874d8f0528760d56fd5c21330a6f62264a8bb",
+        "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+        "title_zh": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+        "title_en": null,
+        "title_original": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32381",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -1246,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8494,
+        "recency": 0.8137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1281,30 +1194,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
-      "story_id": "story_15ceca82eaf2",
-      "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-      "url": "https://www.aibase.com/news/32376",
-      "primary_url": "https://www.aibase.com/news/32376",
+      "story_id": "story_44f5074f9425",
+      "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+      "url": "https://www.aibase.com/news/32377",
+      "primary_url": "https://www.aibase.com/news/32377",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "id": "ee73f8b4f7d108a431347e7f1a76f51e6b79c414",
+          "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+          "title_zh": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
           "title_en": null,
-          "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "title_original": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32376",
+          "url": "https://www.aibase.com/news/32377",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1315,18 +1228,18 @@
       ],
       "items": [
         {
-          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "id": "ee73f8b4f7d108a431347e7f1a76f51e6b79c414",
+          "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+          "title_zh": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
           "title_en": null,
-          "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+          "title_original": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32376",
+          "url": "https://www.aibase.com/news/32377",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T05:18:37.085294Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1349,17 +1262,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T05:18:37.085294Z",
-      "latest_at": "2026-11-18T05:18:37.085294Z",
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
       "primary_item": {
-        "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-        "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-        "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+        "id": "ee73f8b4f7d108a431347e7f1a76f51e6b79c414",
+        "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+        "title_zh": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
         "title_en": null,
-        "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
+        "title_original": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32376",
+        "url": "https://www.aibase.com/news/32377",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1367,7 +1280,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -1419,15 +1332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8495,
+        "recency": 0.8137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1454,7 +1367,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
+      }
+    },
+    {
+      "story_id": "story_4e63f8569840",
+      "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+      "url": "https://www.aibase.com/news/32382",
+      "primary_url": "https://www.aibase.com/news/32382",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b02f4c476f315c57dcccef4a4c5731a686aea42f",
+          "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_zh": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_en": null,
+          "title_original": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b02f4c476f315c57dcccef4a4c5731a686aea42f",
+          "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_zh": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_en": null,
+          "title_original": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T08:17:24.329650Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
+      "primary_item": {
+        "id": "b02f4c476f315c57dcccef4a4c5731a686aea42f",
+        "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+        "title_zh": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+        "title_en": null,
+        "title_original": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32382",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -1506,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8497,
+        "recency": 0.8139,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1541,30 +1540,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
-      "story_id": "story_5fee3ed848e2",
-      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-      "url": "https://www.aibase.com/news/32366",
-      "primary_url": "https://www.aibase.com/news/32366",
+      "story_id": "story_7dbbfe5bf313",
+      "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+      "url": "https://www.aibase.com/news/32380",
+      "primary_url": "https://www.aibase.com/news/32380",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "title_zh": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
           "title_en": null,
-          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_original": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32366",
+          "url": "https://www.aibase.com/news/32380",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T02:19:26.904143Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1575,33 +1574,33 @@
       ],
       "items": [
         {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "title_zh": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
           "title_en": null,
-          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_original": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32366",
+          "url": "https://www.aibase.com/news/32380",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T02:19:26.904143Z",
+          "published_at": "2026-11-18T08:17:24.329650Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1609,17 +1608,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T02:19:26.904143Z",
-      "latest_at": "2026-11-18T02:19:26.904143Z",
+      "earliest_at": "2026-11-18T08:17:24.329650Z",
+      "latest_at": "2026-11-18T08:17:24.329650Z",
       "primary_item": {
-        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-        "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+        "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+        "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+        "title_zh": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
         "title_en": null,
-        "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+        "title_original": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32366",
+        "url": "https://www.aibase.com/news/32380",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1627,7 +1626,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -1711,15 +1710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5923,
-      "importance": 0.5923,
-      "importance_score": 0.5923,
+      "score": 0.5848,
+      "importance": 0.5848,
+      "importance_score": 0.5848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9894,
+        "recency": 0.9477,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1744,7 +1743,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     },
     {
@@ -1796,15 +1795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8494,
+        "recency": 0.8137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1831,7 +1830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T05:19:33.919703Z"
+        "scored_at": "2026-11-18T08:18:50.953469Z"
       }
     }
   ]
