@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 17 Nov 2026 23:18:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 02:19:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
@@ -32,14 +32,6 @@
 <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
 <link>https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models</guid>
@@ -64,6 +56,14 @@
 <pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
+<title>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击</title>
+<link>https://www.aibase.com/news/32366</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32366</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
+</item>
+<item>
 <title>GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases</title>
 <link>https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</guid>
@@ -72,20 +72,12 @@
 <pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
 </item>
 <item>
-<title>Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence</title>
-<link>https://openai.com/index/astra-law-6-2</link>
-<guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>李彦宏警告AI泡沫风险:算力投入巨大，应用落地仍不及预期</title>
-<link>https://www.aibase.com/news/32360</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32360</guid>
+<title>OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公</title>
+<link>https://www.aibase.com/news/32367</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32367</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 11:18:38 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
 </item>
 <item>
 <title>Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more</title>
@@ -96,20 +88,12 @@
 <pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
 </item>
 <item>
-<title>Introducing OpenAI for Chile</title>
-<link>https://openai.com/index/introducing-openai-for-chile</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AI投资回报担忧升温，英伟达市值排名跌至美国第三</title>
-<link>https://www.aibase.com/news/32354</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32354</guid>
+<title>代码"ANT"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元</title>
+<link>https://www.aibase.com/news/32362</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32362</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
 </item>
 <item>
 <title>JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases</title>
@@ -120,20 +104,12 @@
 <pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
 </item>
 <item>
-<title>利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI</title>
-<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
-<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>亚马逊Audible推出AI音频发现功能与互动式“提问”工具</title>
-<link>https://www.aibase.com/news/32357</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32357</guid>
+<title>微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识</title>
+<link>https://www.aibase.com/news/32368</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32368</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
 </item>
 <item>
 <title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
@@ -144,12 +120,12 @@
 <pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
 </item>
 <item>
-<title>李飞飞加入AMD!World Labs正式并入，布局3D世界模型与机器人AI</title>
-<link>https://www.aibase.com/news/32355</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32355</guid>
+<title>微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权</title>
+<link>https://www.aibase.com/news/32369</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32369</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
 </item>
 <item>
 <title>通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365</title>
@@ -160,12 +136,36 @@
 <pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
 </item>
 <item>
-<title>测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略</title>
-<link>https://www.aibase.com/news/32358</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32358</guid>
+<title>微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施</title>
+<link>https://www.aibase.com/news/32364</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32364</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 17 Nov 2026 08:18:24 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
+</item>
+<item>
+<title>Recall.ai 的代理 API — 发送您的代理参加会议 / Agents API by Recall.ai — Send your agent to meetings</title>
+<link>https://www.producthunt.com/products/recall-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/recall-ai</guid>
+<description>Send your agent to meetings（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Wed, 18 Nov 2026 01:56:31 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
+</item>
+<item>
+<title>微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代</title>
+<link>https://www.aibase.com/news/32371</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32371</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
