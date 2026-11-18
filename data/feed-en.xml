@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 02:19:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 05:18:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Introducing GPT-6.2 Astra and Sol</title>
@@ -14,6 +14,14 @@
 <description>Introducing GPT-6.2 Astra and Sol (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.170.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>Codex CLI 0.170.0 (OpenAI Codex Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available</title>
@@ -56,28 +64,20 @@
 <pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
-<title>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击</title>
-<link>https://www.aibase.com/news/32366</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32366</guid>
-<description>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击 (AIbase)</description>
+<title>宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场</title>
+<link>https://www.aibase.com/news/32372</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32372</guid>
+<description>宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 05:18:37 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot app, Microsoft Ignite releases</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</guid>
-<description>GitHub Copilot app, Microsoft Ignite releases (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公</title>
-<link>https://www.aibase.com/news/32367</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32367</guid>
-<description>OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公 (AIbase)</description>
+<title>微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半</title>
+<link>https://www.aibase.com/news/32373</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32373</guid>
+<description>微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 05:18:37 +0000</pubDate>
 </item>
 <item>
 <title>Copilot code review: Adaptive effort, secret detection, and more</title>
@@ -88,68 +88,28 @@
 <pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
 </item>
 <item>
-<title>代码"ANT"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元</title>
-<link>https://www.aibase.com/news/32362</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32362</guid>
-<description>代码"ANT"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元 (AIbase)</description>
+<title>微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一</title>
+<link>https://www.aibase.com/news/32374</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32374</guid>
+<description>微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 05:18:37 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot in JetBrains, Ignite releases</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</guid>
-<description>GitHub Copilot in JetBrains, Ignite releases (GitHub Changelog)</description>
+<title>GitHub Copilot app, Microsoft Ignite releases</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</guid>
+<description>GitHub Copilot app, Microsoft Ignite releases (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
 </item>
 <item>
-<title>微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识</title>
-<link>https://www.aibase.com/news/32368</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32368</guid>
-<description>微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识 (AIbase)</description>
+<title>语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba</title>
+<link>https://www.aibase.com/news/32375</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32375</guid>
+<description>语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
-</item>
-<item>
-<title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
-<description>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
-</item>
-<item>
-<title>微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权</title>
-<link>https://www.aibase.com/news/32369</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32369</guid>
-<description>微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
-</item>
-<item>
-<title>Monitor GitHub Copilot activity through Microsoft Agent 365</title>
-<link>https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</guid>
-<description>Monitor GitHub Copilot activity through Microsoft Agent 365 (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
-</item>
-<item>
-<title>微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施</title>
-<link>https://www.aibase.com/news/32364</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32364</guid>
-<description>微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
-</item>
-<item>
-<title>Agents API by Recall.ai — Send your agent to meetings</title>
-<link>https://www.producthunt.com/products/recall-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/recall-ai</guid>
-<description>Send your agent to meetings (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Wed, 18 Nov 2026 01:56:31 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 05:18:37 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot CLI adds Microsoft Entra sign-in as a preview</title>
@@ -160,12 +120,52 @@
 <pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
 </item>
 <item>
-<title>微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代</title>
-<link>https://www.aibase.com/news/32371</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32371</guid>
-<description>微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代 (AIbase)</description>
+<title>郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”</title>
+<link>https://www.aibase.com/news/32376</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32376</guid>
+<description>郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试” (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 18 Nov 2026 05:18:37 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot in JetBrains, Ignite releases</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</guid>
+<description>GitHub Copilot in JetBrains, Ignite releases (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
+</item>
+<item>
+<title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
+<description>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
+</item>
+<item>
+<title>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击</title>
+<link>https://www.aibase.com/news/32366</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32366</guid>
+<description>Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 18 Nov 2026 02:19:26 +0000</pubDate>
+</item>
+<item>
+<title>Link.bio — Paste your link, we build your page that your AI runs</title>
+<link>https://www.producthunt.com/products/link-bio</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/link-bio</guid>
+<description>Paste your link, we build your page that your AI runs (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 18 Nov 2026 04:34:24 +0000</pubDate>
+</item>
+<item>
+<title>Track Copilot code review outcomes in Repository insights</title>
+<link>https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights</guid>
+<description>Track Copilot code review outcomes in Repository insights (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
