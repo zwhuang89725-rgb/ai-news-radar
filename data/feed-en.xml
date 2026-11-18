@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 18 Nov 2026 14:18:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 17:18:38 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Introducing GPT-6.2 Astra and Sol</title>
@@ -16,10 +16,50 @@
 <pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
 </item>
 <item>
+<title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+<description>Time-Series Models in the Streamhouse: A New Frontier and Use Cases (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
+</item>
+<item>
+<title>The Gemini app is now available on lower-memory Android devices.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices</guid>
+<description>The Gemini app is now available on lower-memory Android devices. (Google AI Blog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Security risk assessments run automatically on GitHub Team</title>
+<link>https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team</guid>
+<description>Security risk assessments run automatically on GitHub Team (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 16:54:26 +0000</pubDate>
+</item>
+<item>
 <title>Codex CLI 0.170.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
 <description>Codex CLI 0.170.0 (OpenAI Codex Changelog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
+<link>https://huggingface.co/blog/moe-expert-streaming</link>
+<guid isPermaLink="true">https://huggingface.co/blog/moe-expert-streaming</guid>
+<description>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+<link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+<guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+<description>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
@@ -32,20 +72,28 @@
 <pubDate>Tue, 17 Nov 2026 20:20:29 +0000</pubDate>
 </item>
 <item>
-<title>Put Gemini to work for you</title>
-<link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features</guid>
-<description>Put Gemini to work for you (Google AI Blog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
-<link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
-<description>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT (OpenAI News)</description>
+<title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+<link>https://huggingface.co/blog/rumble-2-flash</link>
+<guid isPermaLink="true">https://huggingface.co/blog/rumble-2-flash</guid>
+<description>Rumble-2-Flash: an open 0.5B speech model for 40+ languages (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Advancing chip design with OpenAI models</title>
+<link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+<guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+<description>Advancing chip design with OpenAI models (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>员工疯狂烧钱买 Token，Salesforce“吃不消”了：全面推行按岗位设定 AI 使用预算</title>
+<link>https://www.aibase.com/news/32388</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32388</guid>
+<description>员工疯狂烧钱买 Token，Salesforce“吃不消”了：全面推行按岗位设定 AI 使用预算 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 18 Nov 2026 11:18:24 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot Fusion updates: more availability, benchmarks, and models</title>
@@ -56,10 +104,10 @@
 <pubDate>Tue, 17 Nov 2026 18:04:48 +0000</pubDate>
 </item>
 <item>
-<title>员工疯狂烧钱买 Token，Salesforce“吃不消”了：全面推行按岗位设定 AI 使用预算</title>
-<link>https://www.aibase.com/news/32388</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32388</guid>
-<description>员工疯狂烧钱买 Token，Salesforce“吃不消”了：全面推行按岗位设定 AI 使用预算 (AIbase)</description>
+<title>孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”</title>
+<link>https://www.aibase.com/news/32387</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32387</guid>
+<description>孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了” (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 18 Nov 2026 11:18:24 +0000</pubDate>
 </item>
@@ -72,10 +120,10 @@
 <pubDate>Tue, 17 Nov 2026 18:00:33 +0000</pubDate>
 </item>
 <item>
-<title>孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”</title>
-<link>https://www.aibase.com/news/32387</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32387</guid>
-<description>孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了” (AIbase)</description>
+<title>日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单</title>
+<link>https://www.aibase.com/news/32389</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32389</guid>
+<description>日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 18 Nov 2026 11:18:24 +0000</pubDate>
 </item>
@@ -88,10 +136,10 @@
 <pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
 </item>
 <item>
-<title>日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单</title>
-<link>https://www.aibase.com/news/32389</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32389</guid>
-<description>日活破千万、日均消耗 100 万亿 Token：腾讯 WorkBuddy 交出周年成绩单 (AIbase)</description>
+<title>腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%</title>
+<link>https://www.aibase.com/news/32385</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32385</guid>
+<description>腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35% (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 18 Nov 2026 11:18:24 +0000</pubDate>
 </item>
@@ -104,10 +152,10 @@
 <pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
 </item>
 <item>
-<title>腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%</title>
-<link>https://www.aibase.com/news/32385</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32385</guid>
-<description>腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35% (AIbase)</description>
+<title>马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力</title>
+<link>https://www.aibase.com/news/32386</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32386</guid>
+<description>马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 18 Nov 2026 11:18:24 +0000</pubDate>
 </item>
@@ -118,54 +166,6 @@
 <description>GitHub Copilot CLI adds Microsoft Entra sign-in as a preview (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
-</item>
-<item>
-<title>马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力</title>
-<link>https://www.aibase.com/news/32386</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32386</guid>
-<description>马斯克公开呛声奥尔特曼，直言 SpaceX 绝不向 OpenAI 出售算力 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 11:18:24 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot in JetBrains, Ignite releases</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases</guid>
-<description>GitHub Copilot in JetBrains, Ignite releases (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol</title>
-<link>https://www.producthunt.com/products/openai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
-<description>Two new OpenAI models: frontier Astra and efficient Sol (Product Hunt)</description>
-<category>Multi-source buzz</category>
-<pubDate>Wed, 18 Nov 2026 14:18:58 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试</title>
-<link>https://www.aibase.com/news/32379</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32379</guid>
-<description>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 18 Nov 2026 08:17:24 +0000</pubDate>
-</item>
-<item>
-<title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
-<description>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
-</item>
-<item>
-<title>punkpeye/awesome-mcp-servers — A collection of MCP servers.</title>
-<link>https://github.com/punkpeye/awesome-mcp-servers</link>
-<guid isPermaLink="true">https://github.com/punkpeye/awesome-mcp-servers</guid>
-<description>A collection of MCP servers. (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Wed, 18 Nov 2026 11:18:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
