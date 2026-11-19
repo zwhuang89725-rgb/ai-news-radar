@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 05:18:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 08:18:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Gemini 4 Neon in GitHub Copilot</title>
@@ -40,14 +40,6 @@
 <pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Inside the Codex sandbox</title>
-<link>https://openai.com/index/inside-the-codex-sandbox</link>
-<guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
-<description>Inside the Codex sandbox (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Why your fine-tuning job takes longer than the FLOPs say</title>
 <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
 <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
@@ -72,12 +64,12 @@
 <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
 </item>
 <item>
-<title>How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
-<link>https://openai.com/business/customer-stories/sumitomo-life</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/sumitomo-life</guid>
-<description>How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+<title>1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤</title>
+<link>https://www.aibase.com/news/32410</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32410</guid>
+<description>1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
 <title>Wait for pull request events with GitHub CLI</title>
@@ -88,14 +80,6 @@
 <pubDate>Thu, 19 Nov 2026 00:00:13 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic披露IPO后股权细节，亚马逊与谷歌合计持股近30%</title>
-<link>https://www.aibase.com/news/32405</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32405</guid>
-<description>Anthropic披露IPO后股权细节，亚马逊与谷歌合计持股近30% (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
-</item>
-<item>
 <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
 <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
@@ -104,20 +88,12 @@
 <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
 </item>
 <item>
-<title>Research acceleration: The jagged frontier</title>
-<link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-<guid isPermaLink="true">https://openai.com/index/research-acceleration-jagged-frontier</guid>
-<description>Research acceleration: The jagged frontier (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek调整API定价策略:服务端搜索与网页抓取正式免除单独计费</title>
-<link>https://www.aibase.com/news/32403</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32403</guid>
-<description>DeepSeek调整API定价策略:服务端搜索与网页抓取正式免除单独计费 (AIbase)</description>
+<title>OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与</title>
+<link>https://www.aibase.com/news/32408</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32408</guid>
+<description>OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
 <title>Customize GitHub Copilot for your team</title>
@@ -128,20 +104,12 @@
 <pubDate>Wed, 18 Nov 2026 16:00:13 +0000</pubDate>
 </item>
 <item>
-<title>Managing frontier AI risk: From training to deployment</title>
-<link>https://openai.com/index/managing-frontier-ai-risk</link>
-<guid isPermaLink="true">https://openai.com/index/managing-frontier-ai-risk</guid>
-<description>Managing frontier AI risk: From training to deployment (OpenAI News)</description>
-<category>Official update</category>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-</item>
-<item>
-<title>停训 11 天换来一纸安全说明：OpenAI 自曝最强模型钻漏洞上了网</title>
-<link>https://www.aibase.com/news/32404</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32404</guid>
-<description>停训 11 天换来一纸安全说明：OpenAI 自曝最强模型钻漏洞上了网 (AIbase)</description>
+<title>从快手本地生活到可灵AI，刘逍近期被曝离开快手</title>
+<link>https://www.aibase.com/news/32412</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32412</guid>
+<description>从快手本地生活到可灵AI，刘逍近期被曝离开快手 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
 <title>Security risk assessments run automatically on GitHub Team</title>
@@ -152,20 +120,52 @@
 <pubDate>Wed, 18 Nov 2026 16:54:26 +0000</pubDate>
 </item>
 <item>
-<title>月之暗面 Kimi 大佬穿女仆装亮相 2026 云桥大会，疑似扮演 DeepSeek “大肥鱼”</title>
-<link>https://www.aibase.com/news/32402</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32402</guid>
-<description>月之暗面 Kimi 大佬穿女仆装亮相 2026 云桥大会，疑似扮演 DeepSeek “大肥鱼” (AIbase)</description>
+<title>港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力</title>
+<link>https://www.aibase.com/news/32409</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32409</guid>
+<description>港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
-<title>绕过了也不算漏洞？Windows UAC 的灰色地带，谷歌研究员看不下去了</title>
-<link>https://www.aibase.com/news/32406</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32406</guid>
-<description>绕过了也不算漏洞？Windows UAC 的灰色地带，谷歌研究员看不下去了 (AIbase)</description>
+<title>火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API</title>
+<link>https://www.aibase.com/news/32411</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32411</guid>
+<description>火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
+</item>
+<item>
+<title>Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
+<link>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable</guid>
+<description>Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’ (TechCrunch AI)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 18 Nov 2026 23:45:00 +0000</pubDate>
+</item>
+<item>
+<title>熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%</title>
+<link>https://www.aibase.com/news/32413</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32413</guid>
+<description>熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166% (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
+</item>
+<item>
+<title>KaDeep AI — Agentic QA, localization &amp; accessibility: know when to ship</title>
+<link>https://www.producthunt.com/products/kadeep-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/kadeep-ai</guid>
+<description>Agentic QA, localization &amp; accessibility: know when to ship (Product Hunt)</description>
+<category>Multi-source buzz</category>
+<pubDate>Thu, 19 Nov 2026 05:10:36 +0000</pubDate>
+</item>
+<item>
+<title>More banks say customers using AI agents are on their own — even if they get hacked</title>
+<link>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked</guid>
+<description>More banks say customers using AI agents are on their own — even if they get hacked (TechCrunch AI)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 18 Nov 2026 17:32:10 +0000</pubDate>
 </item>
 </channel>
 </rss>

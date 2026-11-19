@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 19 Nov 2026 05:18:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 08:18:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Gemini 4 Neon in GitHub Copilot</title>
@@ -40,14 +40,6 @@
 <pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Inside the Codex sandbox</title>
-<link>https://openai.com/index/inside-the-codex-sandbox</link>
-<guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
 <title>为什么你的微调工作花费的时间比 FLOP 所说的要长 / Why your fine-tuning job takes longer than the FLOPs say</title>
 <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
 <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
@@ -72,12 +64,12 @@
 <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
 </item>
 <item>
-<title>住友生命的领导者如何帮助团队采用 ChatGPT Enterprise / How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
-<link>https://openai.com/business/customer-stories/sumitomo-life</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/sumitomo-life</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+<title>1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤</title>
+<link>https://www.aibase.com/news/32410</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32410</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
 <title>使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI</title>
@@ -88,14 +80,6 @@
 <pubDate>Thu, 19 Nov 2026 00:00:13 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic披露IPO后股权细节，亚马逊与谷歌合计持股近30%</title>
-<link>https://www.aibase.com/news/32405</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32405</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
-</item>
-<item>
 <title>Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
 <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
@@ -104,20 +88,12 @@
 <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
 </item>
 <item>
-<title>研究加速：锯齿状的前沿 / Research acceleration: The jagged frontier</title>
-<link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-<guid isPermaLink="true">https://openai.com/index/research-acceleration-jagged-frontier</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek调整API定价策略:服务端搜索与网页抓取正式免除单独计费</title>
-<link>https://www.aibase.com/news/32403</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32403</guid>
+<title>OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与</title>
+<link>https://www.aibase.com/news/32408</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32408</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
 <title>为您的团队定制 GitHub Copilot / Customize GitHub Copilot for your team</title>
@@ -128,20 +104,12 @@
 <pubDate>Wed, 18 Nov 2026 16:00:13 +0000</pubDate>
 </item>
 <item>
-<title>管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment</title>
-<link>https://openai.com/index/managing-frontier-ai-risk</link>
-<guid isPermaLink="true">https://openai.com/index/managing-frontier-ai-risk</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-</item>
-<item>
-<title>停训 11 天换来一纸安全说明：OpenAI 自曝最强模型钻漏洞上了网</title>
-<link>https://www.aibase.com/news/32404</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32404</guid>
+<title>从快手本地生活到可灵AI，刘逍近期被曝离开快手</title>
+<link>https://www.aibase.com/news/32412</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32412</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
 <title>安全风险评估在 GitHub Team 上自动运行 / Security risk assessments run automatically on GitHub Team</title>
@@ -152,20 +120,52 @@
 <pubDate>Wed, 18 Nov 2026 16:54:26 +0000</pubDate>
 </item>
 <item>
-<title>月之暗面 Kimi 大佬穿女仆装亮相 2026 云桥大会，疑似扮演 DeepSeek “大肥鱼”</title>
-<link>https://www.aibase.com/news/32402</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32402</guid>
+<title>港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力</title>
+<link>https://www.aibase.com/news/32409</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32409</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
 </item>
 <item>
-<title>绕过了也不算漏洞？Windows UAC 的灰色地带，谷歌研究员看不下去了</title>
-<link>https://www.aibase.com/news/32406</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32406</guid>
+<title>火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API</title>
+<link>https://www.aibase.com/news/32411</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32411</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 05:18:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
+</item>
+<item>
+<title>萨蒂亚·纳德拉 (Satya Nadella) 担心人工智能网络攻击，称许多关键基础设施“无法修补” / Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
+<link>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Wed, 18 Nov 2026 23:45:00 +0000</pubDate>
+</item>
+<item>
+<title>熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%</title>
+<link>https://www.aibase.com/news/32413</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32413</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 19 Nov 2026 08:18:24 +0000</pubDate>
+</item>
+<item>
+<title>KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货 / KaDeep AI — Agentic QA, localization &amp; accessibility: know when to ship</title>
+<link>https://www.producthunt.com/products/kadeep-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/kadeep-ai</guid>
+<description>Agentic QA, localization &amp; accessibility: know when to ship（Product Hunt）</description>
+<category>多源热议</category>
+<pubDate>Thu, 19 Nov 2026 05:10:36 +0000</pubDate>
+</item>
+<item>
+<title>越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked</title>
+<link>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Wed, 18 Nov 2026 17:32:10 +0000</pubDate>
 </item>
 </channel>
 </rss>
