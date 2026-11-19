@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-19T14:18:25.950218Z",
+  "generated_at": "2026-11-19T17:19:34.309666Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c2ba68bd6600",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_zh": null,
+          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_zh": null,
+          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9953,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T17:00:00Z",
+      "latest_at": "2026-11-19T17:00:00Z",
+      "primary_item": {
+        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
+        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "title_zh": null,
+        "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T17:41:08.137906Z"
+      }
+    },
     {
       "story_id": "story_21b9056b58b2",
       "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.919,
+        "recency": 0.8798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7668,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -226,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7856,
+        "recency": 0.7521,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
-      }
-    },
-    {
-      "story_id": "story_f81fe699314d",
-      "title": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。 / The Gemini app is now available on lower-memory Android devices.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-      "primary_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "01bbb3da677fc66ce497b2560eb90f45c6f60ffb",
-          "title": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。 / The Gemini app is now available on lower-memory Android devices.",
-          "title_zh": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。",
-          "title_en": "The Gemini app is now available on lower-memory Android devices.",
-          "title_original": "The Gemini app is now available on lower-memory Android devices.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "01bbb3da677fc66ce497b2560eb90f45c6f60ffb",
-          "title": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。 / The Gemini app is now available on lower-memory Android devices.",
-          "title_zh": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。",
-          "title_en": "The Gemini app is now available on lower-memory Android devices.",
-          "title_original": "The Gemini app is now available on lower-memory Android devices.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7351,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T17:00:00Z",
-      "latest_at": "2026-11-18T17:00:00Z",
-      "primary_item": {
-        "id": "01bbb3da677fc66ce497b2560eb90f45c6f60ffb",
-        "title": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。 / The Gemini app is now available on lower-memory Android devices.",
-        "title_zh": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。",
-        "title_en": "The Gemini app is now available on lower-memory Android devices.",
-        "title_original": "The Gemini app is now available on lower-memory Android devices.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7882,
+        "recency": 0.7545,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7555,
+        "recency": 0.7233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7483,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -747,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7911,
+        "recency": 0.7574,
         "story_heat": 0.0
       },
       "category": "official",
@@ -782,94 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
-      }
-    },
-    {
-      "story_id": "story_0f2a2904d331",
-      "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "primary_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-          "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_zh": "Streamhouse 中的时间序列模型：新领域和用例",
-          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T15:00:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-          "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_zh": "Streamhouse 中的时间序列模型：新领域和用例",
-          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T15:00:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7143,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T15:00:23Z",
-      "latest_at": "2026-11-18T15:00:23Z",
-      "primary_item": {
-        "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
-        "title": "Streamhouse 中的时间序列模型：新领域和用例 / Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "title_zh": "Streamhouse 中的时间序列模型：新领域和用例",
-        "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -921,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -1007,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8134,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1042,7 +955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -1094,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1128,94 +1041,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
-      "story_id": "story_1adbaab223fb",
-      "title": "为您的团队定制 GitHub Copilot / Customize GitHub Copilot for your team",
-      "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-      "primary_url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_d6102855438b",
+      "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+      "primary_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "184c570dd26af716f87b46640a95b28122ff6252",
-          "title": "为您的团队定制 GitHub Copilot / Customize GitHub Copilot for your team",
-          "title_zh": "为您的团队定制 GitHub Copilot",
-          "title_en": "Customize GitHub Copilot for your team",
-          "title_original": "Customize GitHub Copilot for your team",
+          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
+          "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+          "title_zh": null,
+          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T16:00:13Z",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-19T16:59:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
+          "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "title_zh": null,
+          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-19T16:59:23Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "TechCrunch",
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "184c570dd26af716f87b46640a95b28122ff6252",
-          "title": "为您的团队定制 GitHub Copilot / Customize GitHub Copilot for your team",
-          "title_zh": "为您的团队定制 GitHub Copilot",
-          "title_en": "Customize GitHub Copilot for your team",
-          "title_original": "Customize GitHub Copilot for your team",
+          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
+          "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+          "title_zh": null,
+          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T16:00:13Z",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-19T16:59:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
+          "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "title_zh": null,
+          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-19T16:59:23Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6604,
+      "importance": 0.6604,
+      "importance_score": 0.6604,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7246,
-        "story_heat": 0.0
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9952,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-18T16:00:13Z",
-      "latest_at": "2026-11-18T16:00:13Z",
+      "earliest_at": "2026-11-19T16:59:23Z",
+      "latest_at": "2026-11-19T16:59:23Z",
       "primary_item": {
-        "id": "184c570dd26af716f87b46640a95b28122ff6252",
-        "title": "为您的团队定制 GitHub Copilot / Customize GitHub Copilot for your team",
-        "title_zh": "为您的团队定制 GitHub Copilot",
-        "title_en": "Customize GitHub Copilot for your team",
-        "title_original": "Customize GitHub Copilot for your team",
+        "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
+        "title": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+        "title_zh": null,
+        "title_en": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+        "title_original": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -1267,21 +1211,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T08:18:24.451832Z",
       "latest_at": "2026-11-19T08:18:24.451832Z",
@@ -1301,94 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
-      }
-    },
-    {
-      "story_id": "story_27b5b32fbb10",
-      "title": "安全风险评估在 GitHub Team 上自动运行 / Security risk assessments run automatically on GitHub Team",
-      "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-      "primary_url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a2cff1b14e5776b835339b257a4cd6b1db01d478",
-          "title": "安全风险评估在 GitHub Team 上自动运行 / Security risk assessments run automatically on GitHub Team",
-          "title_zh": "安全风险评估在 GitHub Team 上自动运行",
-          "title_en": "Security risk assessments run automatically on GitHub Team",
-          "title_original": "Security risk assessments run automatically on GitHub Team",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T16:54:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a2cff1b14e5776b835339b257a4cd6b1db01d478",
-          "title": "安全风险评估在 GitHub Team 上自动运行 / Security risk assessments run automatically on GitHub Team",
-          "title_zh": "安全风险评估在 GitHub Team 上自动运行",
-          "title_en": "Security risk assessments run automatically on GitHub Team",
-          "title_original": "Security risk assessments run automatically on GitHub Team",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T16:54:26Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7342,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T16:54:26Z",
-      "latest_at": "2026-11-18T16:54:26Z",
-      "primary_item": {
-        "id": "a2cff1b14e5776b835339b257a4cd6b1db01d478",
-        "title": "安全风险评估在 GitHub Team 上自动运行 / Security risk assessments run automatically on GitHub Team",
-        "title_zh": "安全风险评估在 GitHub Team 上自动运行",
-        "title_en": "Security risk assessments run automatically on GitHub Team",
-        "title_original": "Security risk assessments run automatically on GitHub Team",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -1440,21 +1296,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-19T08:18:24.451832Z",
       "latest_at": "2026-11-19T08:18:24.451832Z",
@@ -1474,17 +1329,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
-      "story_id": "story_16bc1ee663f8",
-      "title": "KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货 / KaDeep AI — Agentic QA, localization & accessibility: know when to ship",
+      "story_id": "story_1e6b35a32018",
+      "title": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
       "url": "https://www.producthunt.com/products/kadeep-ai",
       "primary_url": "https://www.producthunt.com/products/kadeep-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
+        {
+          "id": "7872d2f0df8d0885b44f5a8ca7e4dc219b48fb66",
+          "title": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+          "title_zh": null,
+          "title_en": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+          "title_original": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+          "summary": "Ready to ship? One agent tests, translates and audits it",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/kadeep-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-17T08:00:01Z",
+          "updated_at": "2026-11-19T17:12:54Z",
+          "recency_basis": "updated_at"
+        },
         {
           "id": "eb62db3b9d4b076a3e00a1a106792a21f87e1fbb",
           "title": "KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货 / KaDeep AI — Agentic QA, localization & accessibility: know when to ship",
@@ -1499,22 +1370,6 @@
           "site_id": "producthunt",
           "published_at": "2026-11-17T08:00:01Z",
           "updated_at": "2026-11-19T12:31:24Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "21d523dea0b2541124ed5ebca585d3a3ac6e8a3b",
-          "title": "KaDeep AI — AI QA、本地化和可访问性以了解何时发货 / KaDeep AI — AI QA, localization and accessibility to know when to ship",
-          "title_zh": "KaDeep AI — AI QA、本地化和可访问性以了解何时发货",
-          "title_en": "KaDeep AI — AI QA, localization and accessibility to know when to ship",
-          "title_original": "KaDeep AI — AI QA, localization and accessibility to know when to ship",
-          "summary": "AI QA, localization and accessibility to know when to ship",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/kadeep-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-17T08:00:01Z",
-          "updated_at": "2026-11-18T17:18:17Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1541,6 +1396,22 @@
       ],
       "items": [
         {
+          "id": "7872d2f0df8d0885b44f5a8ca7e4dc219b48fb66",
+          "title": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+          "title_zh": null,
+          "title_en": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+          "title_original": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+          "summary": "Ready to ship? One agent tests, translates and audits it",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/kadeep-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-17T08:00:01Z",
+          "updated_at": "2026-11-19T17:12:54Z",
+          "recency_basis": "updated_at"
+        },
+        {
           "id": "eb62db3b9d4b076a3e00a1a106792a21f87e1fbb",
           "title": "KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货 / KaDeep AI — Agentic QA, localization & accessibility: know when to ship",
           "title_zh": "KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货",
@@ -1554,22 +1425,6 @@
           "site_id": "producthunt",
           "published_at": "2026-11-17T08:00:01Z",
           "updated_at": "2026-11-19T12:31:24Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "21d523dea0b2541124ed5ebca585d3a3ac6e8a3b",
-          "title": "KaDeep AI — AI QA、本地化和可访问性以了解何时发货 / KaDeep AI — AI QA, localization and accessibility to know when to ship",
-          "title_zh": "KaDeep AI — AI QA、本地化和可访问性以了解何时发货",
-          "title_en": "KaDeep AI — AI QA, localization and accessibility to know when to ship",
-          "title_original": "KaDeep AI — AI QA, localization and accessibility to know when to ship",
-          "summary": "AI QA, localization and accessibility to know when to ship",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/kadeep-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-17T08:00:01Z",
-          "updated_at": "2026-11-18T17:18:17Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1591,30 +1446,30 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6146,
-      "importance": 0.6146,
-      "importance_score": 0.6146,
+      "score": 0.6189,
+      "importance": 0.6189,
+      "importance_score": 0.6189,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9746,
+        "recency": 0.9984,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-18T17:18:17Z",
-      "latest_at": "2026-11-19T12:31:24Z",
+      "earliest_at": "2026-11-18T17:19:41.123000Z",
+      "latest_at": "2026-11-19T17:12:54Z",
       "primary_item": {
-        "id": "eb62db3b9d4b076a3e00a1a106792a21f87e1fbb",
-        "title": "KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货 / KaDeep AI — Agentic QA, localization & accessibility: know when to ship",
-        "title_zh": "KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货",
-        "title_en": "KaDeep AI — Agentic QA, localization & accessibility: know when to ship",
-        "title_original": "KaDeep AI — Agentic QA, localization & accessibility: know when to ship",
-        "summary": "Agentic QA, localization & accessibility: know when to ship",
+        "id": "7872d2f0df8d0885b44f5a8ca7e4dc219b48fb66",
+        "title": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+        "title_zh": null,
+        "title_en": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+        "title_original": "KaDeep AI — Ready to ship? One agent tests, translates and audits it",
+        "summary": "Ready to ship? One agent tests, translates and audits it",
         "recommend_reason_zh": null,
         "url": "https://www.producthunt.com/products/kadeep-ai",
         "source": "Product Hunt",
@@ -1624,7 +1479,209 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
+      }
+    },
+    {
+      "story_id": "story_2ccb223f037c",
+      "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+      "primary_url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e515e6812147526ce34913aa88af16aa313b391d",
+          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
+          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-19T13:53:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
+          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
+          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
+          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
+          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-19T13:53:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "e515e6812147526ce34913aa88af16aa313b391d",
+          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
+          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-19T13:53:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
+          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
+          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
+          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
+          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-19T13:53:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6068,
+      "importance": 0.6068,
+      "importance_score": 0.6068,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9516,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T13:53:38Z",
+      "latest_at": "2026-11-19T13:53:38Z",
+      "primary_item": {
+        "id": "e515e6812147526ce34913aa88af16aa313b391d",
+        "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+        "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
+        "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+        "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T17:41:08.137906Z"
+      }
+    },
+    {
+      "story_id": "story_02622e088b8a",
+      "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+      "url": "https://www.aibase.com/news/32412",
+      "primary_url": "https://www.aibase.com/news/32412",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
+          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_en": null,
+          "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32412",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T08:18:24.451832Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
+          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_en": null,
+          "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32412",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T08:18:24.451832Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8779,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-19T08:18:24.451832Z",
+      "latest_at": "2026-11-19T08:18:24.451832Z",
+      "primary_item": {
+        "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
+        "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+        "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+        "title_en": null,
+        "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32412",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
@@ -1709,15 +1766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6146,
-      "importance": 0.6146,
-      "importance_score": 0.6146,
+      "score": 0.6084,
+      "importance": 0.6084,
+      "importance_score": 0.6084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8104,
+        "recency": 0.7758,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1742,124 +1799,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     },
     {
-      "story_id": "story_2ccb223f037c",
-      "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "primary_url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_160373500a6b",
+      "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+      "url": "https://www.aibase.com/news/32409",
+      "primary_url": "https://www.aibase.com/news/32409",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e515e6812147526ce34913aa88af16aa313b391d",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
+          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "title_zh": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "title_en": null,
+          "title_original": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T13:53:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T13:53:38Z",
+          "url": "https://www.aibase.com/news/32409",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T08:18:24.451832Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e515e6812147526ce34913aa88af16aa313b391d",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
+          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "title_zh": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "title_en": null,
+          "title_original": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T13:53:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T13:53:38Z",
+          "url": "https://www.aibase.com/news/32409",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T08:18:24.451832Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6144,
-      "importance": 0.6144,
-      "importance_score": 0.6144,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.994,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8779,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T13:53:38Z",
-      "latest_at": "2026-11-19T13:53:38Z",
+      "earliest_at": "2026-11-19T08:18:24.451832Z",
+      "latest_at": "2026-11-19T08:18:24.451832Z",
       "primary_item": {
-        "id": "e515e6812147526ce34913aa88af16aa313b391d",
-        "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-        "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+        "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
+        "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+        "title_zh": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+        "title_en": null,
+        "title_original": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://www.aibase.com/news/32409",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T14:19:25.944262Z"
+        "scored_at": "2026-11-19T17:41:08.137906Z"
       }
     }
   ]
