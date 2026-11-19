@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:19:10.993238Z",
+  "generated_at": "2026-11-19T05:19:12.123363Z",
   "date": "2026-11-19",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-19T02:18:25.150481Z"
+      "observed_at": "2026-11-19T05:18:27.659024Z"
     },
     {
-      "id": "project_e0a2853e4189",
-      "project_name": "KaDeep AI",
-      "url": "https://www.producthunt.com/products/kadeep-ai",
-      "summary": "Agentic QA, localization & accessibility: know when to ship",
+      "id": "project_7c889db8decf",
+      "project_name": "Pitch Avatar HR Suite",
+      "url": "https://www.producthunt.com/products/pitchavatar",
+      "summary": "Onboarding, training & comms with conversational AI avatars",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Agentic QA, localization & accessibility: know when to ship」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Agentic QA, localization & accessibility: know when to ship\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-17T08:00:01Z",
-      "updated_at": "2026-11-19T02:18:36Z",
+      "recommend_reason_zh": "体验它主打的「Onboarding, training & comms with conversational AI avatars」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Onboarding, training & comms with conversational AI avatars\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-22T10:27:29Z",
+      "updated_at": "2026-11-19T04:49:26Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T02:18:59.021871Z"
+      "observed_at": "2026-11-19T05:19:03.118530Z"
     },
     {
       "id": "project_01e478ba125a",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-19T02:18:25.150481Z"
+      "observed_at": "2026-11-19T05:18:27.659024Z"
     },
     {
-      "id": "project_f6f0b21aa3e6",
-      "project_name": "GPT-6.2 Astra and Sol",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "Two new OpenAI models: frontier Astra and efficient Sol",
+      "id": "project_e0a2853e4189",
+      "project_name": "KaDeep AI",
+      "url": "https://www.producthunt.com/products/kadeep-ai",
+      "summary": "Agentic QA, localization & accessibility: know when to ship",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Two new OpenAI models: frontier Astra and efficient Sol」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Two new OpenAI models: frontier Astra and efficient Sol\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-17T18:06:04Z",
-      "updated_at": "2026-11-19T02:12:39Z",
+      "recommend_reason_zh": "体验它主打的「Agentic QA, localization & accessibility: know when to ship」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Agentic QA, localization & accessibility: know when to ship\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-17T08:00:01Z",
+      "updated_at": "2026-11-19T05:10:36Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T02:18:59.021871Z"
+      "observed_at": "2026-11-19T05:19:03.118530Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 19,
-      "duration_ms": 1963,
+      "duration_ms": 885,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 119,
+      "duration_ms": 154,
       "error": null
     }
   ]
