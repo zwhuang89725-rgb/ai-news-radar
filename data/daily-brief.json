@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-19T08:18:24.451832Z",
+  "generated_at": "2026-11-19T11:18:27.183693Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_a2f60c2240b8",
-      "title": "Gemini 4 Neon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "story_id": "story_21b9056b58b2",
+      "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
+      "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
+      "primary_url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon in GitHub Copilot",
-          "title_original": "Gemini 4 Neon in GitHub Copilot",
+          "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
+          "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
+          "title_zh": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com",
+          "title_en": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+          "title_original": "S3 audit log streaming with OpenID Connect expands to GHE.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-18T21:49:21Z",
+          "published_at": "2026-11-19T08:27:16Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,33 +34,33 @@
       ],
       "items": [
         {
-          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon in GitHub Copilot",
-          "title_original": "Gemini 4 Neon in GitHub Copilot",
+          "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
+          "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
+          "title_zh": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com",
+          "title_en": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+          "title_original": "S3 audit log streaming with OpenID Connect expands to GHE.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-18T21:49:21Z",
+          "published_at": "2026-11-19T08:27:16Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8595,
+        "ai_relevance": 0.87,
+        "recency": 0.9596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,17 +69,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T21:49:21Z",
-      "latest_at": "2026-11-18T21:49:21Z",
+      "earliest_at": "2026-11-19T08:27:16Z",
+      "latest_at": "2026-11-19T08:27:16Z",
       "primary_item": {
-        "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-        "title": "Gemini 4 Neon in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 4 Neon in GitHub Copilot",
-        "title_original": "Gemini 4 Neon in GitHub Copilot",
+        "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
+        "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
+        "title_zh": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com",
+        "title_en": "S3 audit log streaming with OpenID Connect expands to GHE.com",
+        "title_original": "S3 audit log streaming with OpenID Connect expands to GHE.com",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8362,
+        "recency": 0.8007,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8567,
+        "recency": 0.8204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8017,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
+      }
+    },
+    {
+      "story_id": "story_a2f60c2240b8",
+      "title": "Gemini 4 Neon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
+          "title": "Gemini 4 Neon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon in GitHub Copilot",
+          "title_original": "Gemini 4 Neon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T21:49:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
+          "title": "Gemini 4 Neon in GitHub Copilot",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon in GitHub Copilot",
+          "title_original": "Gemini 4 Neon in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T21:49:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8231,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T21:49:21Z",
+      "latest_at": "2026-11-18T21:49:21Z",
+      "primary_item": {
+        "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
+        "title": "Gemini 4 Neon in GitHub Copilot",
+        "title_zh": null,
+        "title_en": "Gemini 4 Neon in GitHub Copilot",
+        "title_original": "Gemini 4 Neon in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -400,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8239,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,94 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
-      }
-    },
-    {
-      "story_id": "story_f7f395a19123",
-      "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T22:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T22:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8627,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T22:04:50Z",
-      "latest_at": "2026-11-18T22:04:50Z",
-      "primary_item": {
-        "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-        "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-        "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-        "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-        "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.816,
+        "recency": 0.7814,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,30 +609,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
-      "story_id": "story_46a68d8b55a8",
-      "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-      "url": "https://www.aibase.com/news/32410",
-      "primary_url": "https://www.aibase.com/news/32410",
+      "story_id": "story_38f7fb3b7cdd",
+      "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+      "url": "https://www.aibase.com/news/32415",
+      "primary_url": "https://www.aibase.com/news/32415",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
+          "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "title_zh": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
           "title_en": null,
-          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_original": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32410",
+          "url": "https://www.aibase.com/news/32415",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
+          "published_at": "2026-11-19T11:18:27.183693Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -643,18 +643,18 @@
       ],
       "items": [
         {
-          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
+          "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+          "title_zh": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
           "title_en": null,
-          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_original": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32410",
+          "url": "https://www.aibase.com/news/32415",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
+          "published_at": "2026-11-19T11:18:27.183693Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -677,17 +677,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T08:18:24.451832Z",
-      "latest_at": "2026-11-19T08:18:24.451832Z",
+      "earliest_at": "2026-11-19T11:18:27.183693Z",
+      "latest_at": "2026-11-19T11:18:27.183693Z",
       "primary_item": {
-        "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
-        "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
-        "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+        "id": "772527528f3b08d3a348bcfe8b7a8fd832d8ded6",
+        "title": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
+        "title_zh": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
         "title_en": null,
-        "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+        "title_original": "“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32410",
+        "url": "https://www.aibase.com/news/32415",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -695,30 +695,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
-      "story_id": "story_9a9d0a568ee7",
-      "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-      "primary_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "story_id": "story_f7f395a19123",
+      "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
+      "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
-          "title_en": "Wait for pull request events with GitHub CLI",
-          "title_original": "Wait for pull request events with GitHub CLI",
+          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
+          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
+          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
+          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
+          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z",
+          "published_at": "2026-11-18T22:04:50Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,33 +729,33 @@
       ],
       "items": [
         {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
-          "title_en": "Wait for pull request events with GitHub CLI",
-          "title_original": "Wait for pull request events with GitHub CLI",
+          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
+          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
+          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
+          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
+          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z",
+          "published_at": "2026-11-18T22:04:50Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.887,
+        "ai_relevance": 0.91,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -764,17 +764,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T00:00:13Z",
-      "latest_at": "2026-11-19T00:00:13Z",
+      "earliest_at": "2026-11-18T22:04:50Z",
+      "latest_at": "2026-11-18T22:04:50Z",
       "primary_item": {
-        "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-        "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-        "title_zh": "使用 GitHub CLI 等待拉取请求事件",
-        "title_en": "Wait for pull request events with GitHub CLI",
-        "title_original": "Wait for pull request events with GitHub CLI",
+        "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
+        "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
+        "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
+        "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
+        "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+        "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -782,7 +782,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -834,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7789,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,30 +869,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
-      "story_id": "story_b0eede56ce24",
-      "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-      "url": "https://www.aibase.com/news/32408",
-      "primary_url": "https://www.aibase.com/news/32408",
+      "story_id": "story_867858c73a46",
+      "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
+      "url": "https://www.aibase.com/news/32417",
+      "primary_url": "https://www.aibase.com/news/32417",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
-          "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-          "title_zh": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
+          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
+          "title_zh": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
           "title_en": null,
-          "title_original": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+          "title_original": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32408",
+          "url": "https://www.aibase.com/news/32417",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
+          "published_at": "2026-11-19T11:18:27.183693Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -903,18 +903,18 @@
       ],
       "items": [
         {
-          "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
-          "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-          "title_zh": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
+          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
+          "title_zh": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
           "title_en": null,
-          "title_original": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+          "title_original": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32408",
+          "url": "https://www.aibase.com/news/32417",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
+          "published_at": "2026-11-19T11:18:27.183693Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -937,17 +937,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T08:18:24.451832Z",
-      "latest_at": "2026-11-19T08:18:24.451832Z",
+      "earliest_at": "2026-11-19T11:18:27.183693Z",
+      "latest_at": "2026-11-19T11:18:27.183693Z",
       "primary_item": {
-        "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
-        "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
-        "title_zh": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+        "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
+        "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
+        "title_zh": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
         "title_en": null,
-        "title_original": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+        "title_original": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32408",
+        "url": "https://www.aibase.com/news/32417",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -955,7 +955,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
+      }
+    },
+    {
+      "story_id": "story_9a9d0a568ee7",
+      "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "primary_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+          "title_en": "Wait for pull request events with GitHub CLI",
+          "title_original": "Wait for pull request events with GitHub CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+          "title_en": "Wait for pull request events with GitHub CLI",
+          "title_original": "Wait for pull request events with GitHub CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8494,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:13Z",
+      "latest_at": "2026-11-19T00:00:13Z",
+      "primary_item": {
+        "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+        "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+        "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+        "title_en": "Wait for pull request events with GitHub CLI",
+        "title_original": "Wait for pull request events with GitHub CLI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T11:19:36.390443Z"
+      }
+    },
+    {
+      "story_id": "story_1cd95fda808a",
+      "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+      "url": "https://www.aibase.com/news/32416",
+      "primary_url": "https://www.aibase.com/news/32416",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
+          "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+          "title_zh": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+          "title_en": null,
+          "title_original": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32416",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T11:18:27.183693Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
+          "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+          "title_zh": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+          "title_en": null,
+          "title_original": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32416",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T11:18:27.183693Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T11:18:27.183693Z",
+      "latest_at": "2026-11-19T11:18:27.183693Z",
+      "primary_item": {
+        "id": "a6083013fa9ac447eaccd1064be380647bbc3081",
+        "title": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+        "title_zh": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+        "title_en": null,
+        "title_original": "特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32416",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -1007,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7902,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1042,26 +1215,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
-      "story_id": "story_02622e088b8a",
-      "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-      "url": "https://www.aibase.com/news/32412",
-      "primary_url": "https://www.aibase.com/news/32412",
+      "story_id": "story_46a68d8b55a8",
+      "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+      "url": "https://www.aibase.com/news/32410",
+      "primary_url": "https://www.aibase.com/news/32410",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
-          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-          "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
+          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
           "title_en": null,
-          "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32412",
+          "url": "https://www.aibase.com/news/32410",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1076,14 +1249,14 @@
       ],
       "items": [
         {
-          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
-          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-          "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
+          "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+          "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
           "title_en": null,
-          "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32412",
+          "url": "https://www.aibase.com/news/32410",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1094,15 +1267,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,14 +1286,14 @@
       "earliest_at": "2026-11-19T08:18:24.451832Z",
       "latest_at": "2026-11-19T08:18:24.451832Z",
       "primary_item": {
-        "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
-        "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
-        "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+        "id": "8dbb2740c19be6b2272f80117222d8960436ca67",
+        "title": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
+        "title_zh": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
         "title_en": null,
-        "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+        "title_original": "1 厘米 12 格的标尺卖 3 篇论文，中南大学通报：学术不端，实锤",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32412",
+        "url": "https://www.aibase.com/news/32410",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1128,7 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -1180,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8006,
+        "recency": 0.7667,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1215,26 +1388,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
-      "story_id": "story_160373500a6b",
-      "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-      "url": "https://www.aibase.com/news/32409",
-      "primary_url": "https://www.aibase.com/news/32409",
+      "story_id": "story_b0eede56ce24",
+      "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+      "url": "https://www.aibase.com/news/32408",
+      "primary_url": "https://www.aibase.com/news/32408",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
-          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-          "title_zh": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
+          "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+          "title_zh": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
           "title_en": null,
-          "title_original": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "title_original": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32409",
+          "url": "https://www.aibase.com/news/32408",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1249,14 +1422,14 @@
       ],
       "items": [
         {
-          "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
-          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-          "title_zh": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
+          "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+          "title_zh": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
           "title_en": null,
-          "title_original": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+          "title_original": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32409",
+          "url": "https://www.aibase.com/news/32408",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1267,15 +1440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1286,14 +1459,14 @@
       "earliest_at": "2026-11-19T08:18:24.451832Z",
       "latest_at": "2026-11-19T08:18:24.451832Z",
       "primary_item": {
-        "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
-        "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-        "title_zh": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+        "id": "945c6cc6e94248ea7ab1f49c8f91c6e1515f1e06",
+        "title": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
+        "title_zh": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
         "title_en": null,
-        "title_original": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
+        "title_original": "OpenAI首款AI硬件瞄准2026年底出货，中国供应链厂商深度参与",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32409",
+        "url": "https://www.aibase.com/news/32408",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1301,93 +1474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
-      }
-    },
-    {
-      "story_id": "story_e0f67298dc7c",
-      "title": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-      "url": "https://www.aibase.com/news/32411",
-      "primary_url": "https://www.aibase.com/news/32411",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a2c558efa486206d63217ed8e28ab55370de67f9",
-          "title": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-          "title_zh": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32411",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a2c558efa486206d63217ed8e28ab55370de67f9",
-          "title": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-          "title_zh": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32411",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T08:18:24.451832Z",
-      "latest_at": "2026-11-19T08:18:24.451832Z",
-      "primary_item": {
-        "id": "a2c558efa486206d63217ed8e28ab55370de67f9",
-        "title": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-        "title_zh": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-        "title_en": null,
-        "title_original": "火山引擎上线豆包实时音视频通话模型 SeedRealtime 1.0 API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32411",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -1472,15 +1559,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6278,
-      "importance": 0.6278,
-      "importance_score": 0.6278,
+      "score": 0.6211,
+      "importance": 0.6211,
+      "importance_score": 0.6211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8838,
+        "recency": 0.8463,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1505,93 +1592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
-      }
-    },
-    {
-      "story_id": "story_f51a841b0d54",
-      "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-      "url": "https://www.aibase.com/news/32413",
-      "primary_url": "https://www.aibase.com/news/32413",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bbd68dc328db1c03c40a29cbea91f7988df92882",
-          "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "title_zh": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "title_en": null,
-          "title_original": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32413",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bbd68dc328db1c03c40a29cbea91f7988df92882",
-          "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "title_zh": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "title_en": null,
-          "title_original": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32413",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T08:18:24.451832Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T08:18:24.451832Z",
-      "latest_at": "2026-11-19T08:18:24.451832Z",
-      "primary_item": {
-        "id": "bbd68dc328db1c03c40a29cbea91f7988df92882",
-        "title": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-        "title_zh": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-        "title_en": null,
-        "title_original": "熬了十多年的算力转型，联想单季营收首破 2000 亿、净利狂飙 166%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32413",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
@@ -1615,7 +1616,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T08:00:01Z",
-          "updated_at": "2026-11-19T05:10:36Z",
+          "updated_at": "2026-11-19T10:06:09Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1670,7 +1671,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T08:00:01Z",
-          "updated_at": "2026-11-19T05:10:36Z",
+          "updated_at": "2026-11-19T10:06:09Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1708,15 +1709,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6112,
-      "importance": 0.6112,
-      "importance_score": 0.6112,
+      "score": 0.6161,
+      "importance": 0.6161,
+      "importance_score": 0.6161,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9558,
+        "recency": 0.9827,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1724,7 +1725,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-18T17:18:17Z",
-      "latest_at": "2026-11-19T05:10:36Z",
+      "latest_at": "2026-11-19T10:06:09Z",
       "primary_item": {
         "id": "eb62db3b9d4b076a3e00a1a106792a21f87e1fbb",
         "title": "KaDeep AI — 代理 QA、本地化和可访问性：知道何时发货 / KaDeep AI — Agentic QA, localization & accessibility: know when to ship",
@@ -1741,125 +1742,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     },
     {
-      "story_id": "story_c5fccb1bc663",
-      "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-      "primary_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_02622e088b8a",
+      "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+      "url": "https://www.aibase.com/news/32412",
+      "primary_url": "https://www.aibase.com/news/32412",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c5c65a30d271535aac8e665818e2cbaeba4cb456",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks say customers using AI agents are on their own — even if they get hacked",
+          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
+          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_en": null,
+          "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-18T17:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ed79926d6748fbfc4980462d30c74be480b24a3a",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-18T17:32:10Z",
+          "url": "https://www.aibase.com/news/32412",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T08:18:24.451832Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c5c65a30d271535aac8e665818e2cbaeba4cb456",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks say customers using AI agents are on their own — even if they get hacked",
+          "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
+          "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+          "title_en": null,
+          "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-18T17:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ed79926d6748fbfc4980462d30c74be480b24a3a",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-18T17:32:10Z",
+          "url": "https://www.aibase.com/news/32412",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-19T08:18:24.451832Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6142,
-      "importance": 0.6142,
-      "importance_score": 0.6142,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.8079,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-18T17:32:10Z",
-      "latest_at": "2026-11-18T17:32:10Z",
+      "earliest_at": "2026-11-19T08:18:24.451832Z",
+      "latest_at": "2026-11-19T08:18:24.451832Z",
       "primary_item": {
-        "id": "c5c65a30d271535aac8e665818e2cbaeba4cb456",
-        "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-        "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-        "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
-        "title_original": "More banks say customers using AI agents are on their own — even if they get hacked",
+        "id": "ee6c03eeb7727727d7a416b21cd970a372d965cb",
+        "title": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+        "title_zh": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
+        "title_en": null,
+        "title_original": "从快手本地生活到可灵AI，刘逍近期被曝离开快手",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "url": "https://www.aibase.com/news/32412",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T08:19:46.515303Z"
+        "scored_at": "2026-11-19T11:19:36.390443Z"
       }
     }
   ]
