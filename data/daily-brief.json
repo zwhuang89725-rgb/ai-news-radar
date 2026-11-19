@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:18:05.939107Z",
+  "generated_at": "2026-11-19T23:18:21.628484Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9673,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9792,
+        "recency": 0.9377,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8372,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9787,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9534,
+        "recency": 0.913,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,94 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
-      }
-    },
-    {
-      "story_id": "story_e0cc6809540e",
-      "title": "Introducing Gemini 4 Neon",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4dec27a174458fb924c93975be1ddec17839441f",
-          "title": "Introducing Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Neon",
-          "title_original": "Introducing Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T21:35:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "4dec27a174458fb924c93975be1ddec17839441f",
-          "title": "Introducing Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Introducing Gemini 4 Neon",
-          "title_original": "Introducing Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T21:35:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7204,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T21:35:43Z",
-      "latest_at": "2026-11-18T21:35:43Z",
-      "primary_item": {
-        "id": "4dec27a174458fb924c93975be1ddec17839441f",
-        "title": "Introducing Gemini 4 Neon",
-        "title_zh": null,
-        "title_en": "Introducing Gemini 4 Neon",
-        "title_original": "Introducing Gemini 4 Neon",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -574,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8428,
+        "recency": 0.807,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +522,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -661,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,94 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
-      }
-    },
-    {
-      "story_id": "story_a2f60c2240b8",
-      "title": "Gemini 4 Neon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon in GitHub Copilot",
-          "title_original": "Gemini 4 Neon in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T21:49:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon in GitHub Copilot",
-          "title_original": "Gemini 4 Neon in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T21:49:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7228,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T21:49:21Z",
-      "latest_at": "2026-11-18T21:49:21Z",
-      "primary_item": {
-        "id": "58abe610dbb1b89a9b80026ca696a32bb36f2caa",
-        "title": "Gemini 4 Neon in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "Gemini 4 Neon in GitHub Copilot",
-        "title_original": "Gemini 4 Neon in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -833,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +692,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
+      }
+    },
+    {
+      "story_id": "story_9a9d0a568ee7",
+      "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "primary_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+          "title_en": "Wait for pull request events with GitHub CLI",
+          "title_original": "Wait for pull request events with GitHub CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+          "title_en": "Wait for pull request events with GitHub CLI",
+          "title_original": "Wait for pull request events with GitHub CLI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7143,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:13Z",
+      "latest_at": "2026-11-19T00:00:13Z",
+      "primary_item": {
+        "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
+        "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
+        "title_zh": "使用 GitHub CLI 等待拉取请求事件",
+        "title_en": "Wait for pull request events with GitHub CLI",
+        "title_original": "Wait for pull request events with GitHub CLI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -918,15 +831,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,94 +864,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
-      }
-    },
-    {
-      "story_id": "story_f7f395a19123",
-      "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-      "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T22:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-          "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-          "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T22:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7255,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T22:04:50Z",
-      "latest_at": "2026-11-18T22:04:50Z",
-      "primary_item": {
-        "id": "61f244c74165d3b45250a78f7c3a3d23f2a91bb8",
-        "title": "将 Supabase、Box、Calendly 等连接到 Copilot / Connect Supabase, Box, Calendly, and more to Copilot",
-        "title_zh": "将 Supabase、Box、Calendly 等连接到 Copilot",
-        "title_en": "Connect Supabase, Box, Calendly, and more to Copilot",
-        "title_original": "Connect Supabase, Box, Calendly, and more to Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -1123,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6528,
-      "importance": 0.6528,
-      "importance_score": 0.6528,
+      "score": 0.6455,
+      "importance": 0.6455,
+      "importance_score": 0.6455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9533,
+        "recency": 0.9128,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1156,7 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -1208,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1241,94 +1067,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
-      }
-    },
-    {
-      "story_id": "story_9a9d0a568ee7",
-      "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-      "primary_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
-          "title_en": "Wait for pull request events with GitHub CLI",
-          "title_original": "Wait for pull request events with GitHub CLI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-          "title_zh": "使用 GitHub CLI 等待拉取请求事件",
-          "title_en": "Wait for pull request events with GitHub CLI",
-          "title_original": "Wait for pull request events with GitHub CLI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7459,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T00:00:13Z",
-      "latest_at": "2026-11-19T00:00:13Z",
-      "primary_item": {
-        "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-        "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-        "title_zh": "使用 GitHub CLI 等待拉取请求事件",
-        "title_en": "Wait for pull request events with GitHub CLI",
-        "title_original": "Wait for pull request events with GitHub CLI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -1380,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1413,7 +1152,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -1498,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.642,
-      "importance": 0.642,
-      "importance_score": 0.642,
+      "score": 0.6346,
+      "importance": 0.6346,
+      "importance_score": 0.6346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9624,
+        "recency": 0.9215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1531,7 +1270,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
+      }
+    },
+    {
+      "story_id": "story_6f40924e5fc0",
+      "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "primary_url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "summary": "Frontier reasoning with faster task completion",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-19T02:32:38Z",
+          "updated_at": "2026-11-19T23:17:32Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
+          "title": "Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon",
+          "title_original": "Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T14:19:01.037000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "summary": "Frontier reasoning with faster task completion",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-19T02:32:38Z",
+          "updated_at": "2026-11-19T23:17:32Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
+          "title": "Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon",
+          "title_original": "Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T14:19:01.037000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9998,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T14:19:01.037000Z",
+      "latest_at": "2026-11-19T23:17:32Z",
+      "primary_item": {
+        "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+        "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+        "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "summary": "Frontier reasoning with faster task completion",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/gemini-6",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -1615,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5996,
-      "importance": 0.5996,
-      "importance_score": 0.5996,
+      "score": 0.5926,
+      "importance": 0.5926,
+      "importance_score": 0.5926,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9116,
+        "recency": 0.8729,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1648,125 +1505,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
-      }
-    },
-    {
-      "story_id": "story_6f40924e5fc0",
-      "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "primary_url": "https://www.producthunt.com/products/gemini-6",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "summary": "Frontier reasoning with faster task completion",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-19T02:32:38Z",
-          "updated_at": "2026-11-19T20:17:34Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
-          "title": "Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon",
-          "title_original": "Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T14:19:01.037000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "summary": "Frontier reasoning with faster task completion",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-19T02:32:38Z",
-          "updated_at": "2026-11-19T20:17:34Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
-          "title": "Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon",
-          "title_original": "Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T14:19:01.037000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9999,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T14:19:01.037000Z",
-      "latest_at": "2026-11-19T20:17:34Z",
-      "primary_item": {
-        "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-        "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-        "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "summary": "Frontier reasoning with faster task completion",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/gemini-6",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     },
     {
@@ -1818,15 +1557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.841,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1851,7 +1590,492 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T20:19:26.784440Z"
+        "scored_at": "2026-11-19T23:20:01.047567Z"
+      }
+    },
+    {
+      "story_id": "story_5f7e4731c172",
+      "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+      "url": "https://thedataexchange.media/pete-warden-moonshine",
+      "primary_url": "https://thedataexchange.media/pete-warden-moonshine",
+      "source": "thedataexchange.media",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": null,
+          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "thedataexchange.media",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T17:31:41.233000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "180bd652bb399974fdd0a31a8b779dfddb513c17",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
+          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
+          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "thedataexchange.media"
+      ],
+      "items": [
+        {
+          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": null,
+          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "thedataexchange.media",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T17:31:41.233000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "180bd652bb399974fdd0a31a8b779dfddb513c17",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
+          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
+          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5814,
+      "importance": 0.5814,
+      "importance_score": 0.5814,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9199,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T15:38:12Z",
+      "latest_at": "2026-11-19T17:31:41.233000Z",
+      "primary_item": {
+        "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+        "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "title_en": null,
+        "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://thedataexchange.media/pete-warden-moonshine",
+        "source": "thedataexchange.media",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:20:01.047567Z"
+      }
+    },
+    {
+      "story_id": "story_f47f707fe18a",
+      "title": "Chrome 的 AI 功能消耗了大量带宽",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+      "primary_url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+      "source": "perishablepress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
+          "title": "Chrome 的 AI 功能消耗了大量带宽",
+          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
+          "title_en": null,
+          "title_original": "Chrome 的 AI 功能消耗了大量带宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+          "source": "perishablepress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T21:32:06.980000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fe3077b98a4d8f8fa48d9b6cce16ff7ef379377a",
+          "title": "Chrome 的 AI 功能消耗了大量带宽 / Chrome AI features wasting much bandwidth",
+          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
+          "title_en": "Chrome AI features wasting much bandwidth",
+          "title_original": "Chrome AI features wasting much bandwidth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T16:54:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d57781b4e162e49d70882df9c097e81838a7ce3c",
+          "title": "Chrome AI 功能浪费大量带宽 / Chrome AI features wasting much bandwidth",
+          "title_zh": "Chrome AI 功能浪费大量带宽",
+          "title_en": "Chrome AI features wasting much bandwidth",
+          "title_original": "Chrome AI features wasting much bandwidth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562636",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T16:54:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "perishablepress.com"
+      ],
+      "items": [
+        {
+          "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
+          "title": "Chrome 的 AI 功能消耗了大量带宽",
+          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
+          "title_en": null,
+          "title_original": "Chrome 的 AI 功能消耗了大量带宽",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+          "source": "perishablepress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T21:32:06.980000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fe3077b98a4d8f8fa48d9b6cce16ff7ef379377a",
+          "title": "Chrome 的 AI 功能消耗了大量带宽 / Chrome AI features wasting much bandwidth",
+          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
+          "title_en": "Chrome AI features wasting much bandwidth",
+          "title_original": "Chrome AI features wasting much bandwidth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T16:54:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d57781b4e162e49d70882df9c097e81838a7ce3c",
+          "title": "Chrome AI 功能浪费大量带宽 / Chrome AI features wasting much bandwidth",
+          "title_zh": "Chrome AI 功能浪费大量带宽",
+          "title_en": "Chrome AI features wasting much bandwidth",
+          "title_original": "Chrome AI features wasting much bandwidth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562636",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T16:54:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9748,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T16:54:25Z",
+      "latest_at": "2026-11-19T21:32:06.980000Z",
+      "primary_item": {
+        "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
+        "title": "Chrome 的 AI 功能消耗了大量带宽",
+        "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
+        "title_en": null,
+        "title_original": "Chrome 的 AI 功能消耗了大量带宽",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
+        "source": "perishablepress.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:20:01.047567Z"
+      }
+    },
+    {
+      "story_id": "story_1e51ccebf3bf",
+      "title": "关于人工智能超级智能的争论存在严重缺陷",
+      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "primary_url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "source": "spectrum.ieee.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bee9dcb77a0cd11c4a07ca76ca8575ee7b863233",
+          "title": "关于人工智能超级智能的争论存在严重缺陷",
+          "title_zh": "关于人工智能超级智能的争论存在严重缺陷",
+          "title_en": null,
+          "title_original": "关于人工智能超级智能的争论存在严重缺陷",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T20:11:47.642000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "24ea041e59649706d6b03c30e9e880620fe4407b",
+          "title": "关于人工智能超级智能的争论存在严重缺陷 / The AI Superintelligence Debate Has Serious Flaws",
+          "title_zh": "关于人工智能超级智能的争论存在严重缺陷",
+          "title_en": "The AI Superintelligence Debate Has Serious Flaws",
+          "title_original": "The AI Superintelligence Debate Has Serious Flaws",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-19T12:17:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc01eb8ef3233d7de357a83e6a4321182e60d09f",
+          "title": "人工智能超级智能的争论存在严重缺陷 / The AI Superintelligence Debate Has Serious Flaws",
+          "title_zh": "人工智能超级智能的争论存在严重缺陷",
+          "title_en": "The AI Superintelligence Debate Has Serious Flaws",
+          "title_original": "The AI Superintelligence Debate Has Serious Flaws",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50559140",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T12:17:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "bee9dcb77a0cd11c4a07ca76ca8575ee7b863233",
+          "title": "关于人工智能超级智能的争论存在严重缺陷",
+          "title_zh": "关于人工智能超级智能的争论存在严重缺陷",
+          "title_en": null,
+          "title_original": "关于人工智能超级智能的争论存在严重缺陷",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T20:11:47.642000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "24ea041e59649706d6b03c30e9e880620fe4407b",
+          "title": "关于人工智能超级智能的争论存在严重缺陷 / The AI Superintelligence Debate Has Serious Flaws",
+          "title_zh": "关于人工智能超级智能的争论存在严重缺陷",
+          "title_en": "The AI Superintelligence Debate Has Serious Flaws",
+          "title_original": "The AI Superintelligence Debate Has Serious Flaws",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-19T12:17:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc01eb8ef3233d7de357a83e6a4321182e60d09f",
+          "title": "人工智能超级智能的争论存在严重缺陷 / The AI Superintelligence Debate Has Serious Flaws",
+          "title_zh": "人工智能超级智能的争论存在严重缺陷",
+          "title_en": "The AI Superintelligence Debate Has Serious Flaws",
+          "title_original": "The AI Superintelligence Debate Has Serious Flaws",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50559140",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T12:17:10Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5629,
+      "importance": 0.5629,
+      "importance_score": 0.5629,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9561,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T12:17:10Z",
+      "latest_at": "2026-11-19T20:11:47.642000Z",
+      "primary_item": {
+        "id": "bee9dcb77a0cd11c4a07ca76ca8575ee7b863233",
+        "title": "关于人工智能超级智能的争论存在严重缺陷",
+        "title_zh": "关于人工智能超级智能的争论存在严重缺陷",
+        "title_en": null,
+        "title_original": "关于人工智能超级智能的争论存在严重缺陷",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+        "source": "spectrum.ieee.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:20:01.047567Z"
       }
     }
   ]
