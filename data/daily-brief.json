@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:18:27.607486Z",
+  "generated_at": "2026-11-20T05:18:27.614213Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8601,
-      "importance": 0.8601,
-      "importance_score": 0.8601,
+      "score": 0.8527,
+      "importance": 0.8527,
+      "importance_score": 0.8527,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9672,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
-      }
-    },
-    {
-      "story_id": "story_5c21545858a7",
-      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9678,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T00:02:21Z",
-      "latest_at": "2026-11-20T00:02:21Z",
-      "primary_item": {
-        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-        "title_zh": "公共预览版中拉取请求概述的改进",
-        "title_en": "Improvements on the pull request overview in public preview",
-        "title_original": "Improvements on the pull request overview in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -226,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8869,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +174,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
+      }
+    },
+    {
+      "story_id": "story_5c21545858a7",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9267,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
+      "primary_item": {
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "title_zh": "公共预览版中拉取请求概述的改进",
+        "title_en": "Improvements on the pull request overview in public preview",
+        "title_original": "Improvements on the pull request overview in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7677,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8979,
+        "recency": 0.8598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8742,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,30 +522,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
-      "story_id": "story_69be317b2dfa",
-      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-      "url": "https://www.aibase.com/news/32422",
-      "primary_url": "https://www.aibase.com/news/32422",
+      "story_id": "story_447b59ef446e",
+      "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+      "url": "https://www.aibase.com/news/32431",
+      "primary_url": "https://www.aibase.com/news/32431",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
+          "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "title_zh": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
           "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_original": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
+          "url": "https://www.aibase.com/news/32431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T05:18:27.614213Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -556,18 +556,18 @@
       ],
       "items": [
         {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
+          "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "title_zh": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
           "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_original": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
+          "url": "https://www.aibase.com/news/32431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T05:18:27.614213Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -590,17 +590,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T02:18:27.607486Z",
-      "latest_at": "2026-11-20T02:18:27.607486Z",
+      "earliest_at": "2026-11-20T05:18:27.614213Z",
+      "latest_at": "2026-11-20T05:18:27.614213Z",
       "primary_item": {
-        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-        "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
+        "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+        "title_zh": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
         "title_en": null,
-        "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "title_original": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32422",
+        "url": "https://www.aibase.com/news/32431",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -660,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8974,
+        "recency": 0.8594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -695,30 +695,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
-      "story_id": "story_d3ddc733fe74",
-      "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-      "url": "https://www.aibase.com/news/32420",
-      "primary_url": "https://www.aibase.com/news/32420",
+      "story_id": "story_fb13a7eb9b10",
+      "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+      "url": "https://www.aibase.com/news/32432",
+      "primary_url": "https://www.aibase.com/news/32432",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
-          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-          "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
+          "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "title_zh": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
           "title_en": null,
-          "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "title_original": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32420",
+          "url": "https://www.aibase.com/news/32432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T05:18:27.614213Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,18 +729,18 @@
       ],
       "items": [
         {
-          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
-          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-          "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
+          "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "title_zh": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
           "title_en": null,
-          "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "title_original": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32420",
+          "url": "https://www.aibase.com/news/32432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T05:18:27.614213Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -763,17 +763,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T02:18:27.607486Z",
-      "latest_at": "2026-11-20T02:18:27.607486Z",
+      "earliest_at": "2026-11-20T05:18:27.614213Z",
+      "latest_at": "2026-11-20T05:18:27.614213Z",
       "primary_item": {
-        "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
-        "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-        "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+        "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
+        "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+        "title_zh": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
         "title_en": null,
-        "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+        "title_original": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32420",
+        "url": "https://www.aibase.com/news/32432",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -781,7 +781,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
+      }
+    },
+    {
+      "story_id": "story_8ae987037860",
+      "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+      "url": "https://www.aibase.com/news/32430",
+      "primary_url": "https://www.aibase.com/news/32430",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
+          "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "title_zh": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "title_en": null,
+          "title_original": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32430",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:18:27.614213Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
+          "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "title_zh": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "title_en": null,
+          "title_original": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32430",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T05:18:27.614213Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T05:18:27.614213Z",
+      "latest_at": "2026-11-20T05:18:27.614213Z",
+      "primary_item": {
+        "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
+        "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+        "title_zh": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+        "title_en": null,
+        "title_original": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32430",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -833,15 +919,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7727,
+        "recency": 0.74,
         "story_heat": 0.0
       },
       "category": "official",
@@ -868,26 +954,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
-      "story_id": "story_f13ec81052b6",
-      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-      "url": "https://www.aibase.com/news/32418",
-      "primary_url": "https://www.aibase.com/news/32418",
+      "story_id": "story_69be317b2dfa",
+      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+      "url": "https://www.aibase.com/news/32422",
+      "primary_url": "https://www.aibase.com/news/32422",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "title_en": null,
-          "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32418",
+          "url": "https://www.aibase.com/news/32422",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -902,14 +988,14 @@
       ],
       "items": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "title_en": null,
-          "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32418",
+          "url": "https://www.aibase.com/news/32422",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -920,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,14 +1025,14 @@
       "earliest_at": "2026-11-20T02:18:27.607486Z",
       "latest_at": "2026-11-20T02:18:27.607486Z",
       "primary_item": {
-        "id": "7fbbb666388b426158218884787113a14cc30303",
-        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-        "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
         "title_en": null,
-        "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32418",
+        "url": "https://www.aibase.com/news/32422",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -954,26 +1040,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
-      "story_id": "story_e2679b6acf1c",
-      "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-      "url": "https://www.aibase.com/news/32428",
-      "primary_url": "https://www.aibase.com/news/32428",
+      "story_id": "story_d3ddc733fe74",
+      "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+      "url": "https://www.aibase.com/news/32420",
+      "primary_url": "https://www.aibase.com/news/32420",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
-          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
+          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
           "title_en": null,
-          "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32428",
+          "url": "https://www.aibase.com/news/32420",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -988,14 +1074,14 @@
       ],
       "items": [
         {
-          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
-          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
+          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
           "title_en": null,
-          "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32428",
+          "url": "https://www.aibase.com/news/32420",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1006,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,14 +1111,14 @@
       "earliest_at": "2026-11-20T02:18:27.607486Z",
       "latest_at": "2026-11-20T02:18:27.607486Z",
       "primary_item": {
-        "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
-        "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-        "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+        "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
+        "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+        "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
         "title_en": null,
-        "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+        "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32428",
+        "url": "https://www.aibase.com/news/32420",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1040,93 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
-      }
-    },
-    {
-      "story_id": "story_f7383235a92f",
-      "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-      "url": "https://www.aibase.com/news/32424",
-      "primary_url": "https://www.aibase.com/news/32424",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "title_zh": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "title_en": null,
-          "title_original": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32424",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "title_zh": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "title_en": null,
-          "title_original": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32424",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T02:18:27.607486Z",
-      "latest_at": "2026-11-20T02:18:27.607486Z",
-      "primary_item": {
-        "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
-        "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-        "title_zh": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-        "title_en": null,
-        "title_original": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32424",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -1211,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6386,
-      "importance": 0.6386,
-      "importance_score": 0.6386,
+      "score": 0.6319,
+      "importance": 0.6319,
+      "importance_score": 0.6319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8741,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,26 +1244,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
-      "story_id": "story_2ce2047a6781",
-      "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
-      "url": "https://www.aibase.com/news/32425",
-      "primary_url": "https://www.aibase.com/news/32425",
+      "story_id": "story_f13ec81052b6",
+      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+      "url": "https://www.aibase.com/news/32418",
+      "primary_url": "https://www.aibase.com/news/32418",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dad8eb53af6e6a162422c62eae88ffc68443379e",
-          "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
-          "title_zh": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
           "title_en": null,
-          "title_original": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+          "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32425",
+          "url": "https://www.aibase.com/news/32418",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1278,14 +1278,14 @@
       ],
       "items": [
         {
-          "id": "dad8eb53af6e6a162422c62eae88ffc68443379e",
-          "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
-          "title_zh": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
           "title_en": null,
-          "title_original": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+          "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32425",
+          "url": "https://www.aibase.com/news/32418",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1296,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,14 +1315,14 @@
       "earliest_at": "2026-11-20T02:18:27.607486Z",
       "latest_at": "2026-11-20T02:18:27.607486Z",
       "primary_item": {
-        "id": "dad8eb53af6e6a162422c62eae88ffc68443379e",
-        "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
-        "title_zh": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+        "id": "7fbbb666388b426158218884787113a14cc30303",
+        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
         "title_en": null,
-        "title_original": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+        "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32425",
+        "url": "https://www.aibase.com/news/32418",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1330,7 +1330,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
+      }
+    },
+    {
+      "story_id": "story_6f40924e5fc0",
+      "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "primary_url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "summary": "Frontier reasoning with faster task completion",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-19T02:32:38Z",
+          "updated_at": "2026-11-20T05:09:49Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
+          "title": "Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon",
+          "title_original": "Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T14:19:01.037000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "summary": "Frontier reasoning with faster task completion",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-19T02:32:38Z",
+          "updated_at": "2026-11-20T05:09:49Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
+          "title": "Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon",
+          "title_original": "Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T14:19:01.037000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9979,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T14:19:01.037000Z",
+      "latest_at": "2026-11-20T05:09:49Z",
+      "primary_item": {
+        "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+        "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+        "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "summary": "Frontier reasoning with faster task completion",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/gemini-6",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -1415,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6276,
-      "importance": 0.6276,
-      "importance_score": 0.6276,
+      "score": 0.6209,
+      "importance": 0.6209,
+      "importance_score": 0.6209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8824,
+        "recency": 0.845,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,144 +1566,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
-      "story_id": "story_6f40924e5fc0",
-      "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "primary_url": "https://www.producthunt.com/products/gemini-6",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "summary": "Frontier reasoning with faster task completion",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-19T02:32:38Z",
-          "updated_at": "2026-11-20T00:36:43Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
-          "title": "Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon",
-          "title_original": "Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T14:19:01.037000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "summary": "Frontier reasoning with faster task completion",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-19T02:32:38Z",
-          "updated_at": "2026-11-20T00:36:43Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
-          "title": "Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon",
-          "title_original": "Gemini 4 Neon",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T14:19:01.037000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5898,
-      "importance": 0.5898,
-      "importance_score": 0.5898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9758,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T14:19:01.037000Z",
-      "latest_at": "2026-11-20T00:36:43Z",
-      "primary_item": {
-        "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-        "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-        "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "summary": "Frontier reasoning with faster task completion",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/gemini-6",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
-      }
-    },
-    {
-      "story_id": "story_900ee3550528",
-      "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-      "url": "https://www.aibase.com/news/32423",
-      "primary_url": "https://www.aibase.com/news/32423",
+      "story_id": "story_e2679b6acf1c",
+      "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+      "url": "https://www.aibase.com/news/32428",
+      "primary_url": "https://www.aibase.com/news/32428",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
-          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-          "title_zh": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
+          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
           "title_en": null,
-          "title_original": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32423",
+          "url": "https://www.aibase.com/news/32428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1600,14 +1600,14 @@
       ],
       "items": [
         {
-          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
-          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-          "title_zh": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
+          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
           "title_en": null,
-          "title_original": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32423",
+          "url": "https://www.aibase.com/news/32428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1618,15 +1618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1637,14 +1637,14 @@
       "earliest_at": "2026-11-20T02:18:27.607486Z",
       "latest_at": "2026-11-20T02:18:27.607486Z",
       "primary_item": {
-        "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
-        "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
-        "title_zh": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+        "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
+        "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+        "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
         "title_en": null,
-        "title_original": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+        "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32423",
+        "url": "https://www.aibase.com/news/32428",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1652,7 +1652,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -1736,15 +1736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5859,
-      "importance": 0.5859,
-      "importance_score": 0.5859,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8359,
+        "recency": 0.8004,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1769,7 +1769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     },
     {
@@ -1919,15 +1919,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5762,
-      "importance": 0.5762,
-      "importance_score": 0.5762,
+      "score": 0.5694,
+      "importance": 0.5694,
+      "importance_score": 0.5694,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8912,
+        "recency": 0.8534,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1952,7 +1952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T02:19:29.352939Z"
+        "scored_at": "2026-11-20T05:19:21.672164Z"
       }
     }
   ]

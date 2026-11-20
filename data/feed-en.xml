@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 02:18:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 05:18:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Codex CLI 0.171.0</title>
@@ -16,20 +16,20 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Improvements on the pull request overview in public preview</title>
-<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
-<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
-</item>
-<item>
 <title>Introducing Tool Retrieval in the Gemini API</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</guid>
 <description>Introducing Tool Retrieval in the Gemini API (Google AI Blog)</description>
 <category>Official update</category>
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Improvements on the pull request overview in public preview</title>
+<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
+<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 <item>
 <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -56,12 +56,12 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张</title>
-<link>https://www.aibase.com/news/32422</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32422</guid>
-<description>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张 (AIbase)</description>
+<title>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单</title>
+<link>https://www.aibase.com/news/32431</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32431</guid>
+<description>亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 02:18:27 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 05:18:27 +0000</pubDate>
 </item>
 <item>
 <title>Red Hat Enterprise Linux runner images now generally available</title>
@@ -72,12 +72,20 @@
 <pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元</title>
-<link>https://www.aibase.com/news/32420</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32420</guid>
-<description>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元 (AIbase)</description>
+<title>半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役</title>
+<link>https://www.aibase.com/news/32432</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32432</guid>
+<description>半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 02:18:27 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 05:18:27 +0000</pubDate>
+</item>
+<item>
+<title>给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框</title>
+<link>https://www.aibase.com/news/32430</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32430</guid>
+<description>给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 20 Nov 2026 05:18:27 +0000</pubDate>
 </item>
 <item>
 <title>S3 audit log streaming with OpenID Connect expands to GHE.com</title>
@@ -88,26 +96,18 @@
 <pubDate>Thu, 19 Nov 2026 08:27:16 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送</title>
-<link>https://www.aibase.com/news/32418</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32418</guid>
-<description>ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送 (AIbase)</description>
+<title>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张</title>
+<link>https://www.aibase.com/news/32422</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32422</guid>
+<description>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 02:18:27 +0000</pubDate>
 </item>
 <item>
-<title>Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒</title>
-<link>https://www.aibase.com/news/32428</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32428</guid>
-<description>Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 02:18:27 +0000</pubDate>
-</item>
-<item>
-<title>Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成</title>
-<link>https://www.aibase.com/news/32424</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32424</guid>
-<description>Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成 (AIbase)</description>
+<title>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元</title>
+<link>https://www.aibase.com/news/32420</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32420</guid>
+<description>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 02:18:27 +0000</pubDate>
 </item>
@@ -120,12 +120,20 @@
 <pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
 </item>
 <item>
-<title>Meta AI 可穿戴设备 Muse Charm 据悉定价300美元</title>
-<link>https://www.aibase.com/news/32425</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32425</guid>
-<description>Meta AI 可穿戴设备 Muse Charm 据悉定价300美元 (AIbase)</description>
+<title>ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送</title>
+<link>https://www.aibase.com/news/32418</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32418</guid>
+<description>ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 02:18:27 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Neon — Frontier reasoning with faster task completion</title>
+<link>https://www.producthunt.com/products/gemini-6</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
+<description>Frontier reasoning with faster task completion (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 20 Nov 2026 05:09:49 +0000</pubDate>
 </item>
 <item>
 <title>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
@@ -136,18 +144,10 @@
 <pubDate>Thu, 19 Nov 2026 17:38:40 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Neon — Frontier reasoning with faster task completion</title>
-<link>https://www.producthunt.com/products/gemini-6</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
-<description>Frontier reasoning with faster task completion (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Fri, 20 Nov 2026 00:36:43 +0000</pubDate>
-</item>
-<item>
-<title>微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台</title>
-<link>https://www.aibase.com/news/32423</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32423</guid>
-<description>微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台 (AIbase)</description>
+<title>Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒</title>
+<link>https://www.aibase.com/news/32428</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32428</guid>
+<description>Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 02:18:27 +0000</pubDate>
 </item>
