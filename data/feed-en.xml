@@ -5,15 +5,15 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 20:18:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 23:18:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
-<title>Pin your favorite repositories to your dashboard</title>
-<link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
-<description>Pin your favorite repositories to your dashboard (GitHub Changelog)</description>
+<title>Security advisory permissions are now generally available</title>
+<link>https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available</guid>
+<description>Security advisory permissions are now generally available (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 21:49:29 +0000</pubDate>
 </item>
 <item>
 <title>Combatting adversarial distillation</title>
@@ -40,12 +40,36 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Enterprise Server 3.23 release candidate</title>
+<link>https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate</guid>
+<description>GitHub Enterprise Server 3.23 release candidate (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 20:41:26 +0000</pubDate>
+</item>
+<item>
+<title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+<link>https://openai.com/business/customer-stories/hebbia</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/hebbia</guid>
+<description>Hebbia sees improvements in financial research with GPT-6 Astra (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
 <link>https://huggingface.co/blog/inkling2mini</link>
 <guid isPermaLink="true">https://huggingface.co/blog/inkling2mini</guid>
 <description>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Pin your favorite repositories to your dashboard</title>
+<link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
+<description>Pin your favorite repositories to your dashboard (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
 </item>
 <item>
 <title>Can AI help scientists identify promising drug candidates?</title>
@@ -56,28 +80,12 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Desktop now supports multiple accounts per host</title>
-<link>https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</guid>
-<description>GitHub Desktop now supports multiple accounts per host (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
-</item>
-<item>
 <title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
 <link>https://www.aibase.com/news/32448</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32448</guid>
 <description>两个月新增 133 款备案，1245 款生成式 AI 服务在册 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
-</item>
-<item>
-<title>Improvements on the pull request overview in public preview</title>
-<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
-<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 <item>
 <title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
@@ -88,12 +96,28 @@
 <pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Desktop now supports multiple accounts per host</title>
+<link>https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</guid>
+<description>GitHub Desktop now supports multiple accounts per host (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
+</item>
+<item>
 <title>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力</title>
 <link>https://www.aibase.com/news/32449</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32449</guid>
 <description>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
+</item>
+<item>
+<title>Improvements on the pull request overview in public preview</title>
+<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
+<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 <item>
 <title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
@@ -112,6 +136,14 @@
 <pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains</title>
+<link>https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains</link>
+<guid isPermaLink="true">https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains</guid>
+<description>Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains (Slashdot)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
+</item>
+<item>
 <title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
 <link>https://www.aibase.com/news/32443</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
@@ -128,44 +160,12 @@
 <pubDate>Fri, 20 Nov 2026 16:34:23 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅</title>
-<link>https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</link>
-<guid isPermaLink="true">https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</guid>
-<description>Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 (www.nbcnews.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 20 Nov 2026 19:36:57 +0000</pubDate>
-</item>
-<item>
 <title>谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校</title>
 <link>https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition</link>
 <guid isPermaLink="true">https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition</guid>
 <description>谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 (www.motherjones.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Fri, 20 Nov 2026 19:36:57 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌</title>
-<link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
-<guid isPermaLink="true">https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</guid>
-<description>Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 (www.theguardian.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 20 Nov 2026 16:08:55 +0000</pubDate>
-</item>
-<item>
-<title>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地</title>
-<link>https://www.aibase.com/news/32436</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32436</guid>
-<description>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]</title>
-<link>https://alpo.ge/remark.pdf</link>
-<guid isPermaLink="true">https://alpo.ge/remark.pdf</guid>
-<description>Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf] (alpo.ge)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 20 Nov 2026 15:04:43 +0000</pubDate>
 </item>
 </channel>
 </rss>

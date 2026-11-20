@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-20T20:18:23.765991Z",
+  "generated_at": "2026-11-20T23:18:27.421838Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7c2ff4173eed",
-      "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "story_id": "story_fec01ad474e9",
+      "title": "Security advisory permissions are now generally available",
+      "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-          "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-          "title_zh": "将您最喜欢的代码仓库固定到仪表板",
-          "title_en": "Pin your favorite repositories to your dashboard",
-          "title_original": "Pin your favorite repositories to your dashboard",
+          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+          "title": "Security advisory permissions are now generally available",
+          "title_zh": null,
+          "title_en": "Security advisory permissions are now generally available",
+          "title_original": "Security advisory permissions are now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-20T14:12:05Z",
+          "published_at": "2026-11-20T21:49:29Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,33 +34,33 @@
       ],
       "items": [
         {
-          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-          "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-          "title_zh": "将您最喜欢的代码仓库固定到仪表板",
-          "title_en": "Pin your favorite repositories to your dashboard",
-          "title_original": "Pin your favorite repositories to your dashboard",
+          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+          "title": "Security advisory permissions are now generally available",
+          "title_zh": null,
+          "title_en": "Security advisory permissions are now generally available",
+          "title_original": "Security advisory permissions are now generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-20T14:12:05Z",
+          "published_at": "2026-11-20T21:49:29Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9156,
+        "recency": 0.9788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,17 +69,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T14:12:05Z",
-      "latest_at": "2026-11-20T14:12:05Z",
+      "earliest_at": "2026-11-20T21:49:29Z",
+      "latest_at": "2026-11-20T21:49:29Z",
       "primary_item": {
-        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-        "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
-        "title_zh": "将您最喜欢的代码仓库固定到仪表板",
-        "title_en": "Pin your favorite repositories to your dashboard",
-        "title_original": "Pin your favorite repositories to your dashboard",
+        "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
+        "title": "Security advisory permissions are now generally available",
+        "title_zh": null,
+        "title_en": "Security advisory permissions are now generally available",
+        "title_original": "Security advisory permissions are now generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+        "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8617,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
+      }
+    },
+    {
+      "story_id": "story_7ae3ed731fb7",
+      "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+          "title_en": "GitHub Enterprise Server 3.23 release candidate",
+          "title_original": "GitHub Enterprise Server 3.23 release candidate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T20:41:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+          "title_en": "GitHub Enterprise Server 3.23 release candidate",
+          "title_original": "GitHub Enterprise Server 3.23 release candidate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T20:41:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9629,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T20:41:26Z",
+      "latest_at": "2026-11-20T20:41:26Z",
+      "primary_item": {
+        "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
+        "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
+        "title_zh": "GitHub Enterprise Server 3.23 候选版本",
+        "title_en": "GitHub Enterprise Server 3.23 release candidate",
+        "title_original": "GitHub Enterprise Server 3.23 release candidate",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T23:20:47.141167Z"
+      }
+    },
+    {
+      "story_id": "story_cf02b813d300",
+      "title": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步 / Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "primary_url": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+          "title": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步 / Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_zh": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步",
+          "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+          "title": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步 / Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_zh": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步",
+          "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7142,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "d8b5c1321aebfdcc617a5f81c78222112ec1122b",
+        "title": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步 / Hebbia sees improvements in financial research with GPT-6 Astra",
+        "title_zh": "Hebbia 通过 GPT-6 Astra 看到了金融研究的进步",
+        "title_en": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/hebbia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -400,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +609,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
+      }
+    },
+    {
+      "story_id": "story_7c2ff4173eed",
+      "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
+      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
+          "title_zh": "将您最喜欢的代码仓库固定到仪表板",
+          "title_en": "Pin your favorite repositories to your dashboard",
+          "title_original": "Pin your favorite repositories to your dashboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
+          "title_zh": "将您最喜欢的代码仓库固定到仪表板",
+          "title_en": "Pin your favorite repositories to your dashboard",
+          "title_original": "Pin your favorite repositories to your dashboard",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8768,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:12:05Z",
+      "latest_at": "2026-11-20T14:12:05Z",
+      "primary_item": {
+        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+        "title": "将您最喜欢的代码仓库固定到仪表板 / Pin your favorite repositories to your dashboard",
+        "title_zh": "将您最喜欢的代码仓库固定到仪表板",
+        "title_en": "Pin your favorite repositories to your dashboard",
+        "title_original": "Pin your favorite repositories to your dashboard",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -487,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7458,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,94 +783,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
-      }
-    },
-    {
-      "story_id": "story_8bfa75615929",
-      "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T02:06:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4153f14f8744315b507c166df3e939c015d28122",
-          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
-          "title_en": "GitHub Desktop now supports multiple accounts per host",
-          "title_original": "GitHub Desktop now supports multiple accounts per host",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T02:06:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7688,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T02:06:01Z",
-      "latest_at": "2026-11-20T02:06:01Z",
-      "primary_item": {
-        "id": "4153f14f8744315b507c166df3e939c015d28122",
-        "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
-        "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
-        "title_en": "GitHub Desktop now supports multiple accounts per host",
-        "title_original": "GitHub Desktop now supports multiple accounts per host",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -661,15 +835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,94 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
-      }
-    },
-    {
-      "story_id": "story_5c21545858a7",
-      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "title_zh": "公共预览版中拉取请求概述的改进",
-          "title_en": "Improvements on the pull request overview in public preview",
-          "title_original": "Improvements on the pull request overview in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7463,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T00:02:21Z",
-      "latest_at": "2026-11-20T00:02:21Z",
-      "primary_item": {
-        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-        "title_zh": "公共预览版中拉取请求概述的改进",
-        "title_en": "Improvements on the pull request overview in public preview",
-        "title_original": "Improvements on the pull request overview in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -833,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +953,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
+      }
+    },
+    {
+      "story_id": "story_8bfa75615929",
+      "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T02:06:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T02:06:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7362,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T02:06:01Z",
+      "latest_at": "2026-11-20T02:06:01Z",
+      "primary_item": {
+        "id": "4153f14f8744315b507c166df3e939c015d28122",
+        "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+        "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+        "title_en": "GitHub Desktop now supports multiple accounts per host",
+        "title_original": "GitHub Desktop now supports multiple accounts per host",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -918,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,7 +1125,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
+      }
+    },
+    {
+      "story_id": "story_5c21545858a7",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "title_zh": "公共预览版中拉取请求概述的改进",
+          "title_en": "Improvements on the pull request overview in public preview",
+          "title_original": "Improvements on the pull request overview in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7146,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
+      "primary_item": {
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "title_zh": "公共预览版中拉取请求概述的改进",
+        "title_en": "Improvements on the pull request overview in public preview",
+        "title_original": "Improvements on the pull request overview in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -1003,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1036,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -1088,15 +1349,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,7 +1382,191 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
+      }
+    },
+    {
+      "story_id": "story_c0f18f4c2f9b",
+      "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+      "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "primary_url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_zh": null,
+          "title_en": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_original": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": null,
+          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:44:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50578794",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T17:44:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Slashdot",
+        "hackernews",
+        "www.nbcnews.com"
+      ],
+      "items": [
+        {
+          "id": "d881189130388ecfd4e493aba95707c738c642c1",
+          "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_zh": null,
+          "title_en": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "title_original": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": null,
+          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "www.nbcnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T19:36:57.777000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
+          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:44:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
+          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50578794",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T17:44:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5899,
+      "importance": 0.5899,
+      "importance_score": 0.5899,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9672,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T17:44:01Z",
+      "latest_at": "2026-11-20T21:00:00Z",
+      "primary_item": {
+        "id": "d881189130388ecfd4e493aba95707c738c642c1",
+        "title": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+        "title_zh": null,
+        "title_en": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+        "title_original": "Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -1173,15 +1618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1206,7 +1651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -1291,15 +1736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5848,
-      "importance": 0.5848,
-      "importance_score": 0.5848,
+      "score": 0.5775,
+      "importance": 0.5775,
+      "importance_score": 0.5775,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9475,
+        "recency": 0.9073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1324,158 +1769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
-      }
-    },
-    {
-      "story_id": "story_c0f18f4c2f9b",
-      "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-      "primary_url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-      "source": "www.nbcnews.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "title_en": null,
-          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "www.nbcnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.777000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:44:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50578794",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T17:44:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.nbcnews.com"
-      ],
-      "items": [
-        {
-          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "title_en": null,
-          "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "www.nbcnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.777000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:44:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_zh": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌",
-          "title_en": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "title_original": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50578794",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T17:44:01Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.569,
-      "importance": 0.569,
-      "importance_score": 0.569,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9901,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T17:44:01Z",
-      "latest_at": "2026-11-20T19:36:57.777000Z",
-      "primary_item": {
-        "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
-        "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-        "title_zh": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-        "title_en": null,
-        "title_original": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-        "source": "www.nbcnews.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     },
     {
@@ -1593,15 +1887,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.569,
-      "importance": 0.569,
-      "importance_score": 0.569,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9901,
+        "recency": 0.9481,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1626,394 +1920,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
-      }
-    },
-    {
-      "story_id": "story_f4a132de0520",
-      "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "primary_url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
-          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "title_en": null,
-          "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T16:08:55.353000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
-          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T13:29:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c9aaef019cbf5017f215180e4bb1e48ba48ba0e3",
-          "title": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_zh": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌",
-          "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50574383",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T13:29:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
-          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "title_en": null,
-          "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T16:08:55.353000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
-          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-          "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T13:29:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c9aaef019cbf5017f215180e4bb1e48ba48ba0e3",
-          "title": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_zh": "Anthropic 创纪录的 IPO 未能阻止人工智能抛售，全球股市暴跌",
-          "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50574383",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T13:29:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9417,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T13:29:59Z",
-      "latest_at": "2026-11-20T16:08:55.353000Z",
-      "primary_item": {
-        "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
-        "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-        "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-        "title_en": null,
-        "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
-      }
-    },
-    {
-      "story_id": "story_7586f7d8647c",
-      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-      "url": "https://www.aibase.com/news/32436",
-      "primary_url": "https://www.aibase.com/news/32436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T08:18:36.257533Z",
-      "latest_at": "2026-11-20T08:18:36.257533Z",
-      "primary_item": {
-        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_en": null,
-        "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
-      }
-    },
-    {
-      "story_id": "story_ffa13270a961",
-      "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "primary_url": "https://alpo.ge/remark.pdf",
-      "source": "alpo.ge",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4433c1f9b08e65624f12de0f6779e08cad354d92",
-          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "title_en": null,
-          "title_original": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alpo.ge/remark.pdf",
-          "source": "alpo.ge",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T15:04:43.729000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ad4add3c37c1a80e53b81d55a7cfb4f2c2ab05c3",
-          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alpo.ge/remark.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T14:16:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "30c5f515a52b87ed70fb6dbf54e8059b02505df0",
-          "title": "人类雇员声称黎曼猜想的一般证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_zh": "人类雇员声称黎曼猜想的一般证明 [pdf]",
-          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50574968",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T14:16:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "alpo.ge",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4433c1f9b08e65624f12de0f6779e08cad354d92",
-          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "title_en": null,
-          "title_original": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alpo.ge/remark.pdf",
-          "source": "alpo.ge",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T15:04:43.729000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ad4add3c37c1a80e53b81d55a7cfb4f2c2ab05c3",
-          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alpo.ge/remark.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T14:16:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "30c5f515a52b87ed70fb6dbf54e8059b02505df0",
-          "title": "人类雇员声称黎曼猜想的一般证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_zh": "人类雇员声称黎曼猜想的一般证明 [pdf]",
-          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50574968",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T14:16:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5577,
-      "importance": 0.5577,
-      "importance_score": 0.5577,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9273,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T14:16:21Z",
-      "latest_at": "2026-11-20T15:04:43.729000Z",
-      "primary_item": {
-        "id": "4433c1f9b08e65624f12de0f6779e08cad354d92",
-        "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-        "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-        "title_en": null,
-        "title_original": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://alpo.ge/remark.pdf",
-        "source": "alpo.ge",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T20:19:33.570689Z"
+        "scored_at": "2026-11-20T23:20:47.141167Z"
       }
     }
   ]
