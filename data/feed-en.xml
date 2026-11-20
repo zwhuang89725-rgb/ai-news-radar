@@ -5,8 +5,24 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 17:18:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:18:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
+<item>
+<title>Pin your favorite repositories to your dashboard</title>
+<link>https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard</guid>
+<description>Pin your favorite repositories to your dashboard (GitHub Changelog)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 14:12:05 +0000</pubDate>
+</item>
+<item>
+<title>Combatting adversarial distillation</title>
+<link>https://openai.com/index/combatting-adversarial-distillation</link>
+<guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
+<description>Combatting adversarial distillation (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Codex CLI 0.171.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
@@ -24,28 +40,28 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+<link>https://huggingface.co/blog/inkling2mini</link>
+<guid isPermaLink="true">https://huggingface.co/blog/inkling2mini</guid>
+<description>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup (Hugging Face Blog)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Can AI help scientists identify promising drug candidates?</title>
+<link>https://openai.com/index/introducing-medchembench</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
+<description>Can AI help scientists identify promising drug candidates? (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>GitHub Desktop now supports multiple accounts per host</title>
 <link>https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host</guid>
 <description>GitHub Desktop now supports multiple accounts per host (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Fri, 20 Nov 2026 02:06:01 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Tool Retrieval in the Gemini API</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval</guid>
-<description>Introducing Tool Retrieval in the Gemini API (Google AI Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Improvements on the pull request overview in public preview</title>
-<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
-<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 <item>
 <title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
@@ -56,12 +72,12 @@
 <pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
 </item>
 <item>
-<title>Enterprise Live Migrations from Azure DevOps generally available</title>
-<link>https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available</guid>
-<description>Enterprise Live Migrations from Azure DevOps generally available (GitHub Changelog)</description>
+<title>Improvements on the pull request overview in public preview</title>
+<link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</guid>
+<description>Improvements on the pull request overview in public preview (GitHub Changelog)</description>
 <category>Official update</category>
-<pubDate>Thu, 19 Nov 2026 18:50:57 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 00:02:21 +0000</pubDate>
 </item>
 <item>
 <title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
@@ -70,14 +86,6 @@
 <description>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
-</item>
-<item>
-<title>Red Hat Enterprise Linux runner images now generally available</title>
-<link>https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</guid>
-<description>Red Hat Enterprise Linux runner images now generally available (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
 </item>
 <item>
 <title>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力</title>
@@ -104,14 +112,6 @@
 <pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
 </item>
 <item>
-<title>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
-<link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says</guid>
-<description>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says (TechCrunch AI)</description>
-<category>Worth watching</category>
-<pubDate>Thu, 19 Nov 2026 17:38:40 +0000</pubDate>
-</item>
-<item>
 <title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
 <link>https://www.aibase.com/news/32443</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
@@ -126,6 +126,22 @@
 <description>Manage your company's AI from one place (Product Hunt)</description>
 <category>Worth watching</category>
 <pubDate>Fri, 20 Nov 2026 16:34:23 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅</title>
+<link>https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</link>
+<guid isPermaLink="true">https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</guid>
+<description>Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 (www.nbcnews.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 20 Nov 2026 19:36:57 +0000</pubDate>
+</item>
+<item>
+<title>谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校</title>
+<link>https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition</link>
+<guid isPermaLink="true">https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition</guid>
+<description>谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 (www.motherjones.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 20 Nov 2026 19:36:57 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌</title>
@@ -150,22 +166,6 @@
 <description>Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf] (alpo.ge)</description>
 <category>Multi-source buzz</category>
 <pubDate>Fri, 20 Nov 2026 15:04:43 +0000</pubDate>
-</item>
-<item>
-<title>Frostbite：一种由人工智能发现、设计并验证的新型CPU架构</title>
-<link>https://architectlabs.com/blog/frostbite</link>
-<guid isPermaLink="true">https://architectlabs.com/blog/frostbite</guid>
-<description>Frostbite：一种由人工智能发现、设计并验证的新型CPU架构 (architectlabs.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 20 Nov 2026 11:36:41 +0000</pubDate>
-</item>
-<item>
-<title>政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]</title>
-<link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
-<guid isPermaLink="true">https://www.youtube.com/watch?v=lwfewYL7X0o</guid>
-<description>政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] (www.youtube.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Fri, 20 Nov 2026 07:21:53 +0000</pubDate>
 </item>
 </channel>
 </rss>

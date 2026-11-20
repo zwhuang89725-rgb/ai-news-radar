@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:19:04.684834Z",
+  "generated_at": "2026-11-20T20:19:24.531704Z",
   "date": "2026-11-21",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T17:18:22.679692Z"
+      "observed_at": "2026-11-20T20:18:23.765991Z"
     },
     {
-      "id": "project_99eef0ca3de1",
-      "project_name": "Mailpipe",
-      "url": "https://www.producthunt.com/products/mailpipe-2",
-      "summary": "Draft Apple Mail replies with your local AI agent CLI",
+      "id": "project_1922730bb216",
+      "project_name": "Badya",
+      "url": "https://www.producthunt.com/products/badya-ai-language-immersion",
+      "summary": "Learn languages from real content with an agentic AI tutor",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Draft Apple Mail replies with your local AI agent CLI」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Draft Apple Mail replies with your local AI agent CLI\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-20T04:13:55Z",
-      "updated_at": "2026-11-20T17:02:00Z",
+      "recommend_reason_zh": "体验它主打的「Learn languages from real content with an agentic AI tutor」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Learn languages from real content with an agentic AI tutor\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-12T08:29:05Z",
+      "updated_at": "2026-11-20T19:09:46Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T17:18:55.526681Z"
+      "observed_at": "2026-11-20T20:19:14.986522Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T17:18:22.679692Z"
+      "observed_at": "2026-11-20T20:18:23.765991Z"
     },
     {
-      "id": "project_5d0c8eabf934",
-      "project_name": "greatai Review",
-      "url": "https://www.producthunt.com/products/greatai-review",
-      "summary": "Free AI + human code review for open source & nonprofits",
+      "id": "project_8929bb3701e9",
+      "project_name": "Zethos",
+      "url": "https://www.producthunt.com/products/zethos",
+      "summary": "The ledger you and your AI work from",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "拿一段自己的代码试试它的 AI 审查，看看能否发现遗漏的问题。",
-      "recommend_reason_en": "Run its AI review on a piece of your own code and see whether it catches anything you missed.",
-      "published_at": "2026-11-20T04:56:45Z",
-      "updated_at": "2026-11-20T16:58:03Z",
+      "recommend_reason_zh": "体验它主打的「The ledger you and your AI work from」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The ledger you and your AI work from\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-19T00:53:37Z",
+      "updated_at": "2026-11-20T20:16:58Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T17:18:55.526681Z"
+      "observed_at": "2026-11-20T20:19:14.986522Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1745,
+      "duration_ms": 1675,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 114,
+      "duration_ms": 131,
       "error": null
     }
   ]
