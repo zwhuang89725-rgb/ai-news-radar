@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T14:20:19.386796Z",
-  "date": "2026-11-20",
+  "generated_at": "2026-11-20T17:19:04.684834Z",
+  "date": "2026-11-21",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T14:19:32.849121Z"
+      "observed_at": "2026-11-20T17:18:22.679692Z"
     },
     {
-      "id": "project_e746ddd18eba",
-      "project_name": "aiteam.space",
-      "url": "https://www.producthunt.com/products/aiteam-space",
-      "summary": "An AI team where every agent has its own computer",
+      "id": "project_99eef0ca3de1",
+      "project_name": "Mailpipe",
+      "url": "https://www.producthunt.com/products/mailpipe-2",
+      "summary": "Draft Apple Mail replies with your local AI agent CLI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「An AI team where every agent has its own computer」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"An AI team where every agent has its own computer\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-10T22:14:37Z",
-      "updated_at": "2026-11-20T14:19:14Z",
+      "recommend_reason_zh": "体验它主打的「Draft Apple Mail replies with your local AI agent CLI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Draft Apple Mail replies with your local AI agent CLI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-20T04:13:55Z",
+      "updated_at": "2026-11-20T17:02:00Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T14:20:08.303474Z"
+      "observed_at": "2026-11-20T17:18:55.526681Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-20T14:19:32.849121Z"
+      "observed_at": "2026-11-20T17:18:22.679692Z"
     },
     {
-      "id": "project_7ebd74de1f66",
-      "project_name": "Volcano",
-      "url": "https://www.producthunt.com/products/volcano-3",
-      "summary": "The self-healing agent cloud by Kong",
+      "id": "project_5d0c8eabf934",
+      "project_name": "greatai Review",
+      "url": "https://www.producthunt.com/products/greatai-review",
+      "summary": "Free AI + human code review for open source & nonprofits",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「The self-healing agent cloud by Kong」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"The self-healing agent cloud by Kong\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-19T06:11:24Z",
-      "updated_at": "2026-11-20T14:18:10Z",
+      "recommend_reason_zh": "拿一段自己的代码试试它的 AI 审查，看看能否发现遗漏的问题。",
+      "recommend_reason_en": "Run its AI review on a piece of your own code and see whether it catches anything you missed.",
+      "published_at": "2026-11-20T04:56:45Z",
+      "updated_at": "2026-11-20T16:58:03Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-20T14:20:08.303474Z"
+      "observed_at": "2026-11-20T17:18:55.526681Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1854,
+      "duration_ms": 1745,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 96,
+      "duration_ms": 114,
       "error": null
     }
   ]
