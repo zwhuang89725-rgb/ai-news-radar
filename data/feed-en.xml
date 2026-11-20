@@ -5,7 +5,7 @@
 <link>https://zwhuang89725-rgb.github.io/ai-news-radar/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 08:18:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 11:19:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://zwhuang89725-rgb.github.io/ai-news-radar/data/feed-en.xml"/>
 <item>
 <title>Codex CLI 0.171.0</title>
@@ -48,12 +48,12 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
-<link>https://www.aibase.com/news/32446</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32446</guid>
-<description>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检” (AIbase)</description>
+<title>两个月新增 133 款备案，1245 款生成式 AI 服务在册</title>
+<link>https://www.aibase.com/news/32448</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32448</guid>
+<description>两个月新增 133 款备案，1245 款生成式 AI 服务在册 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
 </item>
 <item>
 <title>Red Hat Enterprise Linux runner images now generally available</title>
@@ -64,42 +64,34 @@
 <pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
 </item>
 <item>
+<title>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏</title>
+<link>https://www.aibase.com/news/32447</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32447</guid>
+<description>从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
+</item>
+<item>
+<title>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力</title>
+<link>https://www.aibase.com/news/32449</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32449</guid>
+<description>蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 20 Nov 2026 11:19:25 +0000</pubDate>
+</item>
+<item>
+<title>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”</title>
+<link>https://www.aibase.com/news/32446</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32446</guid>
+<description>70B 权重开放前，腾讯先给 Hy4 做了次“安全体检” (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
+</item>
+<item>
 <title>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频</title>
 <link>https://www.aibase.com/news/32437</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32437</guid>
 <description>AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
-<link>https://www.aibase.com/news/32443</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
-<description>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
-</item>
-<item>
-<title>S3 audit log streaming with OpenID Connect expands to GHE.com</title>
-<link>https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com</guid>
-<description>S3 audit log streaming with OpenID Connect expands to GHE.com (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Thu, 19 Nov 2026 08:27:16 +0000</pubDate>
-</item>
-<item>
-<title>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地</title>
-<link>https://www.aibase.com/news/32436</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32436</guid>
-<description>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
-</item>
-<item>
-<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
-<link>https://www.aibase.com/news/32441</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32441</guid>
-<description>先办学后造车的李书福：AI 时代将诞生一批新型大学 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
 </item>
@@ -112,18 +104,26 @@
 <pubDate>Thu, 19 Nov 2026 16:59:23 +0000</pubDate>
 </item>
 <item>
-<title>先办学后造车的李书福：AI 时代将诞生一批新型大学</title>
-<link>https://www.aibase.com/news/32439</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32439</guid>
-<description>先办学后造车的李书福：AI 时代将诞生一批新型大学 (AIbase)</description>
+<title>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据</title>
+<link>https://www.aibase.com/news/32443</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32443</guid>
+<description>ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
 </item>
 <item>
-<title>天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前</title>
-<link>https://www.aibase.com/news/32442</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32442</guid>
-<description>天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前 (AIbase)</description>
+<title>为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话</title>
+<link>https://thedataexchange.media/pete-warden-moonshine</link>
+<guid isPermaLink="true">https://thedataexchange.media/pete-warden-moonshine</guid>
+<description>为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 (thedataexchange.media)</description>
+<category>Multi-source buzz</category>
+<pubDate>Thu, 19 Nov 2026 17:31:41 +0000</pubDate>
+</item>
+<item>
+<title>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地</title>
+<link>https://www.aibase.com/news/32436</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32436</guid>
+<description>从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Fri, 20 Nov 2026 08:18:36 +0000</pubDate>
 </item>
@@ -134,14 +134,6 @@
 <description>Frontier reasoning with faster task completion (Product Hunt)</description>
 <category>Worth watching</category>
 <pubDate>Fri, 20 Nov 2026 05:09:49 +0000</pubDate>
-</item>
-<item>
-<title>为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话</title>
-<link>https://thedataexchange.media/pete-warden-moonshine</link>
-<guid isPermaLink="true">https://thedataexchange.media/pete-warden-moonshine</guid>
-<description>为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 (thedataexchange.media)</description>
-<category>Multi-source buzz</category>
-<pubDate>Thu, 19 Nov 2026 17:31:41 +0000</pubDate>
 </item>
 <item>
 <title>Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says</title>
@@ -166,6 +158,14 @@
 <description>政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] (www.youtube.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Fri, 20 Nov 2026 07:21:53 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic在纳斯达克上市首日市值突破2万亿美元</title>
+<link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19</link>
+<guid isPermaLink="true">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19</guid>
+<description>Anthropic在纳斯达克上市首日市值突破2万亿美元 (www.reuters.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Thu, 19 Nov 2026 18:19:45 +0000</pubDate>
 </item>
 </channel>
 </rss>

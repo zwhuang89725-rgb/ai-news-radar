@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:18:36.257533Z",
+  "generated_at": "2026-11-20T11:19:25.785328Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8869,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8133,
+        "recency": 0.7787,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8874,
+        "recency": 0.8496,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8233,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8016,
+        "recency": 0.7675,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,30 +435,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
-      "story_id": "story_15c006960724",
-      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-      "url": "https://www.aibase.com/news/32446",
-      "primary_url": "https://www.aibase.com/news/32446",
+      "story_id": "story_c8d48880c933",
+      "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+      "url": "https://www.aibase.com/news/32448",
+      "primary_url": "https://www.aibase.com/news/32448",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
           "title_en": null,
-          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32446",
+          "url": "https://www.aibase.com/news/32448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
+          "published_at": "2026-11-20T11:19:25.785328Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -469,18 +469,18 @@
       ],
       "items": [
         {
-          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
           "title_en": null,
-          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32446",
+          "url": "https://www.aibase.com/news/32448",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
+          "published_at": "2026-11-20T11:19:25.785328Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -503,17 +503,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T08:18:36.257533Z",
-      "latest_at": "2026-11-20T08:18:36.257533Z",
+      "earliest_at": "2026-11-20T11:19:25.785328Z",
+      "latest_at": "2026-11-20T11:19:25.785328Z",
       "primary_item": {
-        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-        "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+        "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+        "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
         "title_en": null,
-        "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32446",
+        "url": "https://www.aibase.com/news/32448",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -521,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -573,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8229,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,7 +608,265 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
+      }
+    },
+    {
+      "story_id": "story_914e6d61b5be",
+      "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+      "url": "https://www.aibase.com/news/32447",
+      "primary_url": "https://www.aibase.com/news/32447",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_zh": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_en": null,
+          "title_original": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32447",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T11:19:25.785328Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_zh": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_en": null,
+          "title_original": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32447",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T11:19:25.785328Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T11:19:25.785328Z",
+      "latest_at": "2026-11-20T11:19:25.785328Z",
+      "primary_item": {
+        "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+        "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "title_zh": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "title_en": null,
+        "title_original": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32447",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T11:20:21.851692Z"
+      }
+    },
+    {
+      "story_id": "story_43f4ba3b5ec2",
+      "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+      "url": "https://www.aibase.com/news/32449",
+      "primary_url": "https://www.aibase.com/news/32449",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_en": null,
+          "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T11:19:25.785328Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_en": null,
+          "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T11:19:25.785328Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T11:19:25.785328Z",
+      "latest_at": "2026-11-20T11:19:25.785328Z",
+      "primary_item": {
+        "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+        "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "title_en": null,
+        "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32449",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T11:20:21.851692Z"
+      }
+    },
+    {
+      "story_id": "story_15c006960724",
+      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+      "url": "https://www.aibase.com/news/32446",
+      "primary_url": "https://www.aibase.com/news/32446",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_en": null,
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T08:18:36.257533Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_en": null,
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T08:18:36.257533Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9574,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
+      "primary_item": {
+        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "title_en": null,
+        "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32446",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -660,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,352 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
-      }
-    },
-    {
-      "story_id": "story_39707a7d5378",
-      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-      "url": "https://www.aibase.com/news/32443",
-      "primary_url": "https://www.aibase.com/news/32443",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:18:36.257533Z",
-      "latest_at": "2026-11-20T08:18:36.257533Z",
-      "primary_item": {
-        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-        "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-        "title_en": null,
-        "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32443",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
-      }
-    },
-    {
-      "story_id": "story_21b9056b58b2",
-      "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
-      "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-      "primary_url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
-          "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "title_zh": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com",
-          "title_en": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "title_original": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T08:27:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
-          "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "title_zh": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com",
-          "title_en": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "title_original": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T08:27:16Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7086,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T08:27:16Z",
-      "latest_at": "2026-11-19T08:27:16Z",
-      "primary_item": {
-        "id": "41fe626639a69bc6613d7cf9f588458d952973d3",
-        "title": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com",
-        "title_zh": "使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com",
-        "title_en": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-        "title_original": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
-      }
-    },
-    {
-      "story_id": "story_7586f7d8647c",
-      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-      "url": "https://www.aibase.com/news/32436",
-      "primary_url": "https://www.aibase.com/news/32436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:18:36.257533Z",
-      "latest_at": "2026-11-20T08:18:36.257533Z",
-      "primary_item": {
-        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_en": null,
-        "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
-      }
-    },
-    {
-      "story_id": "story_272cbf5ded50",
-      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-      "url": "https://www.aibase.com/news/32441",
-      "primary_url": "https://www.aibase.com/news/32441",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:18:36.257533Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:18:36.257533Z",
-      "latest_at": "2026-11-20T08:18:36.257533Z",
-      "primary_item": {
-        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_en": null,
-        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32441",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -1124,15 +1037,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6255,
-      "importance": 0.6255,
-      "importance_score": 0.6255,
+      "score": 0.6194,
+      "importance": 0.6194,
+      "importance_score": 0.6194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8015,
+        "recency": 0.7674,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1157,26 +1070,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
-      "story_id": "story_e2bfaeadfca9",
-      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-      "url": "https://www.aibase.com/news/32439",
-      "primary_url": "https://www.aibase.com/news/32439",
+      "story_id": "story_39707a7d5378",
+      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+      "url": "https://www.aibase.com/news/32443",
+      "primary_url": "https://www.aibase.com/news/32443",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32439",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1191,14 +1104,14 @@
       ],
       "items": [
         {
-          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32439",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1209,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1228,14 +1141,14 @@
       "earliest_at": "2026-11-20T08:18:36.257533Z",
       "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+        "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
         "title_en": null,
-        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32439",
+        "url": "https://www.aibase.com/news/32443",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1243,26 +1156,242 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
-      "story_id": "story_60886c657e2f",
-      "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-      "url": "https://www.aibase.com/news/32442",
-      "primary_url": "https://www.aibase.com/news/32442",
+      "story_id": "story_5f7e4731c172",
+      "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+      "url": "https://thedataexchange.media/pete-warden-moonshine",
+      "primary_url": "https://thedataexchange.media/pete-warden-moonshine",
+      "source": "thedataexchange.media",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": null,
+          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "thedataexchange.media",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T17:31:41.233000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9f27927c465999d1c7197c8354c16655835194d3",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
+          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
+          "title_en": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "782815cb04f3eb6724cfe05143105cc7c8c1de9d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
+          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "thedataexchange.media"
+      ],
+      "items": [
+        {
+          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": null,
+          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "thedataexchange.media",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T17:31:41.233000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9f27927c465999d1c7197c8354c16655835194d3",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
+          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
+          "title_en": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "782815cb04f3eb6724cfe05143105cc7c8c1de9d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
+          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.58,
+      "importance": 0.58,
+      "importance_score": 0.58,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7734,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T15:38:12Z",
+      "latest_at": "2026-11-19T17:31:41.233000Z",
+      "primary_item": {
+        "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+        "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "title_en": null,
+        "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://thedataexchange.media/pete-warden-moonshine",
+        "source": "thedataexchange.media",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T11:20:21.851692Z"
+      }
+    },
+    {
+      "story_id": "story_7586f7d8647c",
+      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+      "url": "https://www.aibase.com/news/32436",
+      "primary_url": "https://www.aibase.com/news/32436",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-          "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "title_en": null,
-          "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32442",
+          "url": "https://www.aibase.com/news/32436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1277,14 +1406,14 @@
       ],
       "items": [
         {
-          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-          "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "title_en": null,
-          "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32442",
+          "url": "https://www.aibase.com/news/32436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1295,15 +1424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1314,14 +1443,14 @@
       "earliest_at": "2026-11-20T08:18:36.257533Z",
       "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-        "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-        "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+        "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
         "title_en": null,
-        "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32442",
+        "url": "https://www.aibase.com/news/32436",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1329,7 +1458,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -1414,15 +1543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5862,
-      "importance": 0.5862,
-      "importance_score": 0.5862,
+      "score": 0.5789,
+      "importance": 0.5789,
+      "importance_score": 0.5789,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9556,
+        "recency": 0.9149,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,223 +1576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
-      }
-    },
-    {
-      "story_id": "story_5f7e4731c172",
-      "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-      "url": "https://thedataexchange.media/pete-warden-moonshine",
-      "primary_url": "https://thedataexchange.media/pete-warden-moonshine",
-      "source": "thedataexchange.media",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_en": null,
-          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "thedataexchange.media",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T17:31:41.233000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9f27927c465999d1c7197c8354c16655835194d3",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
-          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
-          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50561508",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "782815cb04f3eb6724cfe05143105cc7c8c1de9d",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
-          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
-          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50561508",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "thedataexchange.media"
-      ],
-      "items": [
-        {
-          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_en": null,
-          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "thedataexchange.media",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T17:31:41.233000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "9f27927c465999d1c7197c8354c16655835194d3",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
-          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
-          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50561508",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "782815cb04f3eb6724cfe05143105cc7c8c1de9d",
-          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thedataexchange.media/pete-warden-moonshine",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
-          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
-          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50561508",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T15:38:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5862,
-      "importance": 0.5862,
-      "importance_score": 0.5862,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8078,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T15:38:12Z",
-      "latest_at": "2026-11-19T17:31:41.233000Z",
-      "primary_item": {
-        "id": "2261205b13ae55ea27e465842591d1b5924d427d",
-        "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-        "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-        "title_en": null,
-        "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://thedataexchange.media/pete-warden-moonshine",
-        "source": "thedataexchange.media",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -1748,15 +1661,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6144,
-      "importance": 0.6144,
-      "importance_score": 0.6144,
+      "score": 0.6082,
+      "importance": 0.6082,
+      "importance_score": 0.6082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8091,
+        "recency": 0.7747,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1781,7 +1694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -1865,15 +1778,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5734,
-      "importance": 0.5734,
-      "importance_score": 0.5734,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7665,
+        "recency": 0.7338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1898,7 +1811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     },
     {
@@ -2016,15 +1929,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9864,
+        "recency": 0.9444,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2049,7 +1962,190 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:19:43.530274Z"
+        "scored_at": "2026-11-20T11:20:21.851692Z"
+      }
+    },
+    {
+      "story_id": "story_322a7b397bda",
+      "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "primary_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T18:19:45.063000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
+          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": "Anthropic’s Nasdaq debut",
+          "title_original": "Anthropic’s Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T18:19:45.063000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
+          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": "Anthropic’s Nasdaq debut",
+          "title_original": "Anthropic’s Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5566,
+      "importance": 0.5566,
+      "importance_score": 0.5566,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7824,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T17:02:40Z",
+      "latest_at": "2026-11-19T18:19:45.063000Z",
+      "primary_item": {
+        "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+        "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "title_en": null,
+        "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T11:20:21.851692Z"
       }
     }
   ]
