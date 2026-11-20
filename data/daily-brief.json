@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:18:27.614213Z",
+  "generated_at": "2026-11-20T08:18:36.257533Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9262,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8493,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9267,
+        "recency": 0.8874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
-      }
-    },
-    {
-      "story_id": "story_282ab6eeb971",
-      "title": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速 / How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "primary_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6af9f99343cdb30f635a0133c2025809f18b7020",
-          "title": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速 / How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "title_zh": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速",
-          "title_en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "title_original": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6af9f99343cdb30f635a0133c2025809f18b7020",
-          "title": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速 / How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "title_zh": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速",
-          "title_en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "title_original": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7351,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T08:00:00Z",
-      "latest_at": "2026-11-19T08:00:00Z",
-      "primary_item": {
-        "id": "6af9f99343cdb30f635a0133c2025809f18b7020",
-        "title": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速 / How OpenAI’s Performance Factory keeps ChatGPT fast",
-        "title_zh": "OpenAI 的 Performance Factory 如何保持 ChatGPT 快速",
-        "title_en": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-        "title_original": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -400,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8598,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -487,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8372,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,30 +435,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
-      "story_id": "story_447b59ef446e",
-      "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
-      "url": "https://www.aibase.com/news/32431",
-      "primary_url": "https://www.aibase.com/news/32431",
+      "story_id": "story_15c006960724",
+      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+      "url": "https://www.aibase.com/news/32446",
+      "primary_url": "https://www.aibase.com/news/32446",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
-          "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
-          "title_zh": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "title_en": null,
-          "title_original": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32431",
+          "url": "https://www.aibase.com/news/32446",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:18:27.614213Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -556,18 +469,18 @@
       ],
       "items": [
         {
-          "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
-          "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
-          "title_zh": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "title_en": null,
-          "title_original": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32431",
+          "url": "https://www.aibase.com/news/32446",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:18:27.614213Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -590,17 +503,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:18:27.614213Z",
-      "latest_at": "2026-11-20T05:18:27.614213Z",
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
-        "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
-        "title_zh": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
         "title_en": null,
-        "title_original": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+        "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32431",
+        "url": "https://www.aibase.com/news/32446",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -608,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -660,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8594,
+        "recency": 0.8229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -695,30 +608,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
-      "story_id": "story_fb13a7eb9b10",
-      "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
-      "url": "https://www.aibase.com/news/32432",
-      "primary_url": "https://www.aibase.com/news/32432",
+      "story_id": "story_2f4eefc86a00",
+      "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+      "url": "https://www.aibase.com/news/32437",
+      "primary_url": "https://www.aibase.com/news/32437",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
-          "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
-          "title_zh": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+          "title_zh": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
           "title_en": null,
-          "title_original": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "title_original": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32432",
+          "url": "https://www.aibase.com/news/32437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:18:27.614213Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -729,18 +642,18 @@
       ],
       "items": [
         {
-          "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
-          "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
-          "title_zh": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+          "title_zh": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
           "title_en": null,
-          "title_original": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "title_original": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32432",
+          "url": "https://www.aibase.com/news/32437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:18:27.614213Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -763,17 +676,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:18:27.614213Z",
-      "latest_at": "2026-11-20T05:18:27.614213Z",
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
-        "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
-        "title_zh": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+        "id": "661597afe549d2646ca98e70987d163eb6e66d52",
+        "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
+        "title_zh": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
         "title_en": null,
-        "title_original": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+        "title_original": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32432",
+        "url": "https://www.aibase.com/news/32437",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -781,30 +694,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
-      "story_id": "story_8ae987037860",
-      "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
-      "url": "https://www.aibase.com/news/32430",
-      "primary_url": "https://www.aibase.com/news/32430",
+      "story_id": "story_39707a7d5378",
+      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+      "url": "https://www.aibase.com/news/32443",
+      "primary_url": "https://www.aibase.com/news/32443",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
-          "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
-          "title_zh": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "title_en": null,
-          "title_original": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32430",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:18:27.614213Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -815,18 +728,18 @@
       ],
       "items": [
         {
-          "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
-          "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
-          "title_zh": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "title_en": null,
-          "title_original": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32430",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T05:18:27.614213Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -849,17 +762,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T05:18:27.614213Z",
-      "latest_at": "2026-11-20T05:18:27.614213Z",
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
-        "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
-        "title_zh": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+        "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
         "title_en": null,
-        "title_original": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+        "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32430",
+        "url": "https://www.aibase.com/news/32443",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -867,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -919,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.74,
+        "recency": 0.7086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -954,30 +867,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
-      "story_id": "story_69be317b2dfa",
-      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-      "url": "https://www.aibase.com/news/32422",
-      "primary_url": "https://www.aibase.com/news/32422",
+      "story_id": "story_7586f7d8647c",
+      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+      "url": "https://www.aibase.com/news/32436",
+      "primary_url": "https://www.aibase.com/news/32436",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
+          "url": "https://www.aibase.com/news/32436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -988,33 +901,33 @@
       ],
       "items": [
         {
-          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-          "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "title_en": null,
-          "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32422",
+          "url": "https://www.aibase.com/news/32436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1022,17 +935,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T02:18:27.607486Z",
-      "latest_at": "2026-11-20T02:18:27.607486Z",
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
-        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
-        "title_zh": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+        "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
         "title_en": null,
-        "title_original": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32422",
+        "url": "https://www.aibase.com/news/32436",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1040,30 +953,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
-      "story_id": "story_d3ddc733fe74",
-      "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-      "url": "https://www.aibase.com/news/32420",
-      "primary_url": "https://www.aibase.com/news/32420",
+      "story_id": "story_272cbf5ded50",
+      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+      "url": "https://www.aibase.com/news/32441",
+      "primary_url": "https://www.aibase.com/news/32441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
-          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-          "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "title_en": null,
-          "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32420",
+          "url": "https://www.aibase.com/news/32441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1074,33 +987,33 @@
       ],
       "items": [
         {
-          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
-          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-          "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "title_en": null,
-          "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32420",
+          "url": "https://www.aibase.com/news/32441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,17 +1021,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T02:18:27.607486Z",
-      "latest_at": "2026-11-20T02:18:27.607486Z",
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
-        "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
-        "title_zh": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
         "title_en": null,
-        "title_original": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32420",
+        "url": "https://www.aibase.com/news/32441",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1126,7 +1039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -1211,15 +1124,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6319,
-      "importance": 0.6319,
-      "importance_score": 0.6319,
+      "score": 0.6255,
+      "importance": 0.6255,
+      "importance_score": 0.6255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.837,
+        "recency": 0.8015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,30 +1157,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
-      "story_id": "story_f13ec81052b6",
-      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-      "url": "https://www.aibase.com/news/32418",
-      "primary_url": "https://www.aibase.com/news/32418",
+      "story_id": "story_e2bfaeadfca9",
+      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+      "url": "https://www.aibase.com/news/32439",
+      "primary_url": "https://www.aibase.com/news/32439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "title_en": null,
-          "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32418",
+          "url": "https://www.aibase.com/news/32439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1278,33 +1191,33 @@
       ],
       "items": [
         {
-          "id": "7fbbb666388b426158218884787113a14cc30303",
-          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-          "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "title_en": null,
-          "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32418",
+          "url": "https://www.aibase.com/news/32439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
+          "published_at": "2026-11-20T08:18:36.257533Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1312,17 +1225,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T02:18:27.607486Z",
-      "latest_at": "2026-11-20T02:18:27.607486Z",
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
       "primary_item": {
-        "id": "7fbbb666388b426158218884787113a14cc30303",
-        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
-        "title_zh": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
+        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
         "title_en": null,
-        "title_original": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32418",
+        "url": "https://www.aibase.com/news/32439",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1330,7 +1243,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
+      }
+    },
+    {
+      "story_id": "story_60886c657e2f",
+      "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+      "url": "https://www.aibase.com/news/32442",
+      "primary_url": "https://www.aibase.com/news/32442",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
+          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_en": null,
+          "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T08:18:36.257533Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
+          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_en": null,
+          "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32442",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T08:18:36.257533Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T08:18:36.257533Z",
+      "latest_at": "2026-11-20T08:18:36.257533Z",
+      "primary_item": {
+        "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
+        "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "title_en": null,
+        "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32442",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -1415,15 +1414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
+      "score": 0.5862,
+      "importance": 0.5862,
+      "importance_score": 0.5862,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9979,
+        "recency": 0.9556,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,7 +1447,223 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
+      }
+    },
+    {
+      "story_id": "story_5f7e4731c172",
+      "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+      "url": "https://thedataexchange.media/pete-warden-moonshine",
+      "primary_url": "https://thedataexchange.media/pete-warden-moonshine",
+      "source": "thedataexchange.media",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": null,
+          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "thedataexchange.media",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T17:31:41.233000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9f27927c465999d1c7197c8354c16655835194d3",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
+          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "782815cb04f3eb6724cfe05143105cc7c8c1de9d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
+          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "thedataexchange.media"
+      ],
+      "items": [
+        {
+          "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": null,
+          "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "thedataexchange.media",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T17:31:41.233000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "9f27927c465999d1c7197c8354c16655835194d3",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "459b225ac13ef896ed4f18007bdb83cd1850b739",
+          "title": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来 / Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_zh": "Pete Warden 谈本地人工智能、开放模型、语音接口、硬件的未来",
+          "title_en": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "title_original": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "782815cb04f3eb6724cfe05143105cc7c8c1de9d",
+          "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thedataexchange.media/pete-warden-moonshine",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "69b19133e66f2189ef2a8c5a6dd06a825a667e2f",
+          "title": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起 / Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_zh": "为什么人工智能想要本地化——与 Pete Warden（Moonshine Voice 的创造者）一起",
+          "title_en": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "title_original": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50561508",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T15:38:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5862,
+      "importance": 0.5862,
+      "importance_score": 0.5862,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8078,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T15:38:12Z",
+      "latest_at": "2026-11-19T17:31:41.233000Z",
+      "primary_item": {
+        "id": "2261205b13ae55ea27e465842591d1b5924d427d",
+        "title": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "title_zh": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "title_en": null,
+        "title_original": "为什么人工智能要“本土化”——与皮特·沃登（Moonshine Voice 创始人）的对话",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://thedataexchange.media/pete-warden-moonshine",
+        "source": "thedataexchange.media",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -1533,15 +1748,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6209,
-      "importance": 0.6209,
-      "importance_score": 0.6209,
+      "score": 0.6144,
+      "importance": 0.6144,
+      "importance_score": 0.6144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.845,
+        "recency": 0.8091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1566,93 +1781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
-      }
-    },
-    {
-      "story_id": "story_e2679b6acf1c",
-      "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-      "url": "https://www.aibase.com/news/32428",
-      "primary_url": "https://www.aibase.com/news/32428",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
-          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "title_en": null,
-          "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32428",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
-          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "title_en": null,
-          "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32428",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T02:18:27.607486Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T02:18:27.607486Z",
-      "latest_at": "2026-11-20T02:18:27.607486Z",
-      "primary_item": {
-        "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
-        "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-        "title_zh": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-        "title_en": null,
-        "title_original": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32428",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
@@ -1736,15 +1865,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5796,
-      "importance": 0.5796,
-      "importance_score": 0.5796,
+      "score": 0.5734,
+      "importance": 0.5734,
+      "importance_score": 0.5734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8004,
+        "recency": 0.7665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1769,190 +1898,158 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     },
     {
-      "story_id": "story_322a7b397bda",
-      "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "primary_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "source": "www.reuters.com",
+      "story_id": "story_e5626b95e689",
+      "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "primary_url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "source": "www.youtube.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "id": "3ae54a98758aa5325c04d68f5aed3f9bd3982e59",
+          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
+          "title_zh": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
           "title_en": null,
-          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_original": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
+          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z",
+          "published_at": "2026-11-20T07:21:53.831000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "id": "3a4742158c98f7da6829387156044fd158c09436",
+          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_zh": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
+          "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_original": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
+          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T18:47:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6666c8187392a6864615b07f4a34a1fab1ab651a",
+          "title": "政府应该放慢人工智能前沿发展吗？雅各布·考克森和罗宾·汉森辩论[视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_zh": "政府应该放慢人工智能前沿发展吗？雅各布·考克森和罗宾·汉森辩论[视频]",
+          "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_original": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50564366",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic’s Nasdaq debut",
-          "title_original": "Anthropic’s Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z",
+          "published_at": "2026-11-19T18:47:16Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.reuters.com"
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "id": "3ae54a98758aa5325c04d68f5aed3f9bd3982e59",
+          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
+          "title_zh": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
           "title_en": null,
-          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_original": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
+          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z",
+          "published_at": "2026-11-20T07:21:53.831000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "id": "3a4742158c98f7da6829387156044fd158c09436",
+          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_zh": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
+          "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_original": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
+          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T18:47:16Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6666c8187392a6864615b07f4a34a1fab1ab651a",
+          "title": "政府应该放慢人工智能前沿发展吗？雅各布·考克森和罗宾·汉森辩论[视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_zh": "政府应该放慢人工智能前沿发展吗？雅各布·考克森和罗宾·汉森辩论[视频]",
+          "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "title_original": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50564366",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic’s Nasdaq debut",
-          "title_original": "Anthropic’s Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z",
+          "published_at": "2026-11-19T18:47:16Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8534,
-        "story_heat": 0.75
+        "recency": 0.9864,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T17:02:40Z",
-      "latest_at": "2026-11-19T18:19:45.063000Z",
+      "earliest_at": "2026-11-19T18:47:16Z",
+      "latest_at": "2026-11-20T07:21:53.831000Z",
       "primary_item": {
-        "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-        "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-        "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "id": "3ae54a98758aa5325c04d68f5aed3f9bd3982e59",
+        "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
+        "title_zh": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
         "title_en": null,
-        "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "title_original": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-        "source": "www.reuters.com",
+        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+        "source": "www.youtube.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T05:19:21.672164Z"
+        "scored_at": "2026-11-20T08:19:43.530274Z"
       }
     }
   ]
